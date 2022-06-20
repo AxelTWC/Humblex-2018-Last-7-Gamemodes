@@ -1,0 +1,31 @@
+timestamps:
+  lastteleport: 1501108474582
+  login: 1501108103906
+  logout: 1501108607471
+lastlocation:
+  world: LionHUB
+  x: 93.1053509193167
+  y: 47.0
+  z: -48.03439644854966
+  yaw: -0.21350098
+  pitch: 33.662163
+lastAccountName: Dojo215
+ipAddress: 173.18.166.232
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 1.0
+  y: 60.0
+  z: 0.0
+  yaw: -87.70008
+  pitch: 39.300007
+nickname: §4Dojo
+homes:
+  secret:
+    world: MainLobby
+    x: -370.5596549988441
+    y: 4.0
+    z: 418.16036968564066
+    yaw: -317.80014
+    pitch: 10.499945
+afk: false

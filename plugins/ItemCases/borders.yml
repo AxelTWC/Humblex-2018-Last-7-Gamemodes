@@ -1,0 +1,15 @@
+Values:
+- ' RRRGRRR '
+- '         '
+- ' RRRGRRR '
+Items:
+  G: '160:5:&a&lYou''ll Get:'
+  R: '160:14:&c&lYou''ll Lose:'
+RainbowMode: false
+RainbowDatas:
+- 9
+- 4
+- 3
+- 5
+- 6
+- 1

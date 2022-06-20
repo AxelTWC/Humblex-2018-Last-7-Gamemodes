@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: ByOpa
+timestamps:
+  login: 1502545428714
+  lastteleport: 1502547542620
+  logout: 1502548348343
+ipAddress: 79.210.161.167
+lastlocation:
+  world: LionHUB
+  x: 93.66047425447026
+  y: 47.0
+  z: -48.04406361075542
+  yaw: 0.6148987
+  pitch: -9.243321
+logoutlocation:
+  world: lobby_practice
+  x: -52.49439104793678
+  y: 62.0
+  z: -6521.508515961295
+  yaw: 128.34131
+  pitch: 13.04372

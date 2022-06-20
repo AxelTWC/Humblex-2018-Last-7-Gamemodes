@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1499896106792
+  login: 1499895865035
+  logout: 1499896104790
+lastlocation:
+  world: MainLobby
+  x: 1.161270689239003
+  y: 60.0
+  z: 0.48334393060172987
+  yaw: 330.368
+  pitch: -0.6144
+lastAccountName: SuchSpeedX
+ipAddress: 186.179.186.75
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

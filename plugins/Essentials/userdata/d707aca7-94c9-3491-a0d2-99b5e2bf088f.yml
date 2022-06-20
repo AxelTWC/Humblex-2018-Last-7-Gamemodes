@@ -1,0 +1,22 @@
+lastAccountName: CODsmash
+timestamps:
+  login: 1517089805574
+  lastteleport: 1517089979917
+  logout: 1517091604783
+ipAddress: 143.159.215.105
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 0.37644119694580214
+  y: 60.0
+  z: 2.6339897153483607
+  yaw: 256.34192
+  pitch: 13.000767

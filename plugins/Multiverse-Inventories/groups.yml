@@ -1,0 +1,32 @@
+# Multiverse-Inventories Groups
+
+# To ADD, DELETE, and EDIT groups use the command /mvinv group.
+# No support will be given for those who manually edit these groups.
+groups:
+  Skyblock:
+    worlds:
+    - ASkyBlock
+    - SkyBlock
+    - ASkyBlock_nether
+    shares:
+    - inventory_contents
+    - armor_contents
+    - ender_chest
+    - hit_points
+    - remaining_air
+    - maximum_air
+    - fall_distance
+    - fire_ticks
+  Factions:
+    worlds:
+    - Factions
+    - Factions_Nether
+    shares:
+    - inventory_contents
+    - armor_contents
+    - ender_chest
+    - hit_points
+    - remaining_air
+    - maximum_air
+    - fall_distance
+    - fire_ticks

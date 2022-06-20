@@ -1,0 +1,66 @@
+Waiting-For-Players-Message: "Waiting for players... We need at least \xa7b%MINPLAYERS%\xa7\
+  7 players to start."
+Enough-Players-To-Start: We now have enough players. The game is starting soon!
+The-Game-Has-Started: The game has started! Start building guys!!
+Scoreboard-Header: "\xa76BuildBattle"
+Scoreboard-Players: "\xa77Players "
+Scoreboard-Min-Players-Message: "\xa77Min Players "
+Scoreboard-Starting-In: "\xa77Starting in "
+SCOREBOARD-Time-Left: "\xa7c\xa7lTime Left: "
+SCOREBOARD-Theme: "\xa7aTheme"
+Time-Left-To-Build: "\xa76%FORMATTEDTIME% \xa77time left to build!"
+Cant-Fly-Out-Of-Plot: "\xa7cU can't fly so far out!"
+Voted: "\xa7aVoted succesfully!"
+Voting-For-Player-Plot: "\xa77Voting for \xa7b%PLAYER%\xa77's plot!"
+Winner-Announcement-Footer-Line: "\xa7a=============================="
+Waiting-For-Players-Bar-Message: "\xa76BuildBattle made by \xa7bTomTheDeveloper"
+Starting-Bar-Message: "\xa76BuildBattle made by \xa7bTomTheDeveloper"
+Time-Left-Bar-Message: "\xa76Time left :\xa7b %FORMATTEDTIME%"
+Vote-Time-Left-Bar-Message: "\xa76Vote Time left :\xa7b %FORMATTEDTIME%"
+Floor-Option-Name: "\xa7aFloor Material"
+Floor-Changed: "\xa7aFloor changed!"
+Ingame-Menu-Name: Options Menu
+Options-Menu-Item: "\xa7aOptions"
+Options-Lore: "\xa77Right click to open"
+Drag-And-Drop-Item-Here: Drag and drop an item here
+To-Change-Floor: to change the floor
+Join: "\xa7b%PLAYER%\xa77 joined the game (%PLAYERSIZE%/%MAXPLAYERS%)!"
+Leave: "\xa7b%PLAYER% \xa77left the game (%PLAYERSIZE%/%MAXPLAYERS%)!"
+Death: "\xa7b%PLAYER% \xa77died!"
+Seconds-Left-Until-Game-Starts: "The game starts in \xa7b%TIME%\xa77 seconds!"
+Waiting-For-Players: "Waiting for players... We need at least \xa7b%MINPLAYERS%\xa7\
+  7 players to start."
+Teleport-To-EndLocation-In-X-Seconds: "You will be teleported to the lobby in \xa7\
+  b%TIME%\xa77 seconds"
+Cant-Vote-On-Own-Plot: "\xa7cU can't vote on your own plot!!"
+You-Became-xth: "\xa7aYou became \xa72%NUMBER%\xa7ath"
+Kicked-Game-Already-Started: "\xa7bKicked! Game has already started!"
+Particle-Option-Name: "\xa7aParticles"
+Coming-Soon: "\xa7cComing Soon"
+Heads-Option-Name: "\xa7aHeads"
+Only-Command-Ingame-Is-Leave: "\xa7cYou have to leave the game first to perform commands.\
+  \ The only command that works is /leave!"
+Particle-Menu-Name: Particle Menu
+No-Permission-For-This-Particle: "\xa7c No permission for this particle!"
+Reached-Max-Amount-Of-Particles: "\xa7cReached max amount of particles!"
+Particle-Succesfully-Added: "\xa7aParticle succesfully added!"
+Particle-Remove-Menu-Name: Remove Particles
+Location: 'Location: '
+Particle-Removed: "\xa7aParticle Removed!"
+Remove-Particle-Item-Lore: Right click to open menu!
+Particle-Option-Lore: "\xa77Click to open menu"
+Player-Head-Main-Inventory-Name: Player Head Menu
+Starting-In-Title-Screen: "\xa7aStarting in \xa7c%NUMBER"
+STATS-AboveLine: "\xa7l-----YOUR STATS----- "
+STATS-Wins: "\xa7aWins: \xa7e"
+STATS-Loses: "\xa7aLoses: \xa7e"
+STATS-Games-Played: "\xa7aGames played: \xa7e"
+STATS-Highest-Win: "\xa7aHighest win: \xa7e"
+STATS-Blocks-Placed: "\xa7aBlocks Placed: \xa7e"
+STATS-Blocks-Broken: "\xa7aBlocks Broken: \xa7e"
+STATS-Particles-Placed: "\xa7aParticles Placed: \xa7e"
+STATS-UnderLinen: "\xa7l--------------------"
+Heads-Option-Lore: "\xa77Open for heads menu!"
+Kit-Menu: Kit-Menu
+KitUnlockedLoreInKitMenu: "\xa7aUNLOCKED!"
+KitLockedLoreInKitMenu: "\xa7cLOCKED!"

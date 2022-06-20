@@ -1,0 +1,29 @@
+Mystery-Vaults:
+  mainhub:
+    BlockFace: NORTH
+    Location:
+      world: LionHUB
+      x: 951.0
+      y: 38.0
+      z: -408.0
+  hub:
+    BlockFace: EAST
+    Location:
+      world: LionHUB
+      x: 742.0
+      y: 10.0
+      z: 3612.0
+  hub1:
+    BlockFace: EAST
+    Location:
+      world: LionHUB
+      x: 743.0
+      y: 10.0
+      z: 3614.0
+  hub2:
+    BlockFace: EAST
+    Location:
+      world: LionHUB
+      x: 740.0
+      y: 10.0
+      z: 3611.0

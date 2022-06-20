@@ -1,0 +1,23 @@
+lastAccountName: TuxenRaider
+timestamps:
+  login: 1501751694474
+  lastteleport: 1501751707161
+  mute: 0
+  logout: 1501751925949
+ipAddress: 218.252.94.7
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 95.74410393095488
+  y: 47.0
+  z: -60.61919931176175
+  yaw: -69.34405
+  pitch: 11.012454
+muted: false
+logoutlocation:
+  world: MainLobby
+  x: 35.69999998807907
+  y: 57.0
+  z: 6.017802313120834
+  yaw: -120.58978
+  pitch: 44.63582

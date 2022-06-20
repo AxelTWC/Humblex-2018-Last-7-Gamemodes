@@ -1,0 +1,21 @@
+lastAccountName: VYEnemy
+timestamps:
+  login: 1502253198819
+  lastteleport: 1502253227089
+  logout: 1502253250015
+socialspy: false
+ipAddress: 182.239.131.242
+lastlocation:
+  world: LionHUB
+  x: 93.49215783826035
+  y: 45.0
+  z: -63.10603083097699
+  yaw: -178.78181
+  pitch: 0.24529554
+logoutlocation:
+  world: MainLobby
+  x: 3.9703831731205925
+  y: 60.0
+  z: 0.9477416869152895
+  yaw: -87.1924
+  pitch: 11.09973

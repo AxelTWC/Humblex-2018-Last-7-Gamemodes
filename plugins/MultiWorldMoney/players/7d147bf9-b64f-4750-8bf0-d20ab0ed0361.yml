@@ -1,0 +1,7 @@
+name: AgentDrache007
+uuid: 7d147bf9-b64f-4750-8bf0-d20ab0ed0361
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

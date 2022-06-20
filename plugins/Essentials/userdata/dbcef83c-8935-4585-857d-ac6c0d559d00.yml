@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: LTJ360
+timestamps:
+  login: 1503051142725
+  lastteleport: 1503050307956
+  logout: 1503051146726
+ipAddress: 109.145.188.79
+lastlocation:
+  world: LionHUB
+  x: 93.42945328266164
+  y: 45.0
+  z: -61.30000001192093
+  yaw: -0.74856734
+  pitch: -1.9931294
+logoutlocation:
+  world: LionHUB
+  x: 93.54389416736376
+  y: 46.0
+  z: -60.856279847011855
+  yaw: -1.3602237
+  pitch: 11.762165

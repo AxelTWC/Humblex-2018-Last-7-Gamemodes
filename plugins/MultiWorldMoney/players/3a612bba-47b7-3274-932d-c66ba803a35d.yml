@@ -1,0 +1,12 @@
+name: ItsScarks
+uuid: 3a612bba-47b7-3274-932d-c66ba803a35d
+logoffworld: Factions
+balances:
+  MainLobby: 0.0
+  FFA: 0.0
+  Sg: 0.0
+  Factions: 0.0
+  lobby_practice: 0.0
+  FFACombo: 0.0
+  parkour: 0.0
+  LionHUB: 500.0

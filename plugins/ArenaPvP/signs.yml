@@ -1,0 +1,155 @@
+topelo:
+  BuildUHC:
+    '1':
+      world: MainLobby
+      x: 23.0
+      y: 59.0
+      z: -3.0
+    '2':
+      world: MainLobby
+      x: 23.0
+      y: 58.0
+      z: -3.0
+  Soup:
+    '1':
+      world: MainLobby
+      x: 25.0
+      y: 59.0
+      z: -3.0
+    '2':
+      world: MainLobby
+      x: 25.0
+      y: 58.0
+      z: -3.0
+  Vanilla:
+    '1':
+      world: MainLobby
+      x: 25.0
+      y: 59.0
+      z: 2.0
+    '2':
+      world: MainLobby
+      x: 25.0
+      y: 58.0
+      z: 2.0
+  ComboFly:
+    '1':
+      world: MainLobby
+      x: 23.0
+      y: 59.0
+      z: 1.0
+    '2':
+      world: MainLobby
+      x: 23.0
+      y: 58.0
+      z: 1.0
+  ComboBuild:
+    '2':
+      world: MainLobby
+      x: 23.0
+      y: 58.0
+      z: 2.0
+    '1':
+      world: MainLobby
+      x: 23.0
+      y: 59.0
+      z: 2.0
+  FinalUHC:
+    '2':
+      world: MainLobby
+      x: 23.0
+      y: 58.0
+      z: -2.0
+    '1':
+      world: MainLobby
+      x: 23.0
+      y: 59.0
+      z: -2.0
+  Pots:
+    '1':
+      world: MainLobby
+      x: 23.0
+      y: 59.0
+      z: -1.0
+    '2':
+      world: MainLobby
+      x: 23.0
+      y: 58.0
+      z: -1.0
+  PotsDebuff:
+    '1':
+      world: MainLobby
+      x: 23.0
+      y: 59.0
+      z: 0.0
+    '2':
+      world: MainLobby
+      x: 23.0
+      y: 58.0
+      z: 0.0
+  IronBuild:
+    '2':
+      world: MainLobby
+      x: 25.0
+      y: 58.0
+      z: 3.0
+    '1':
+      world: MainLobby
+      x: 25.0
+      y: 59.0
+      z: 3.0
+  McSg:
+    '1':
+      world: MainLobby
+      x: 25.0
+      y: 59.0
+      z: 1.0
+    '2':
+      world: MainLobby
+      x: 25.0
+      y: 58.0
+      z: 1.0
+  Iron:
+    '1':
+      world: MainLobby
+      x: 25.0
+      y: 59.0
+      z: 0.0
+    '2':
+      world: MainLobby
+      x: 25.0
+      y: 58.0
+      z: 0.0
+  Diamond:
+    '2':
+      world: MainLobby
+      x: 25.0
+      y: 58.0
+      z: -1.0
+    '1':
+      world: MainLobby
+      x: 25.0
+      y: 59.0
+      z: -1.0
+  GApple:
+    '1':
+      world: MainLobby
+      x: 23.0
+      y: 59.0
+      z: 3.0
+    '2':
+      world: MainLobby
+      x: 23.0
+      y: 58.0
+      z: 3.0
+  UHC:
+    '1':
+      world: MainLobby
+      x: 25.0
+      y: 59.0
+      z: -2.0
+    '2':
+      world: MainLobby
+      x: 25.0
+      y: 58.0
+      z: -2.0

@@ -1,0 +1,21 @@
+lastAccountName: Sniff_My_Llama
+timestamps:
+  login: 1503700445518
+  lastteleport: 1503700460365
+  logout: 1503700950769
+ipAddress: 174.218.15.56
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 171.08679
+  pitch: 8.312164
+logoutlocation:
+  world: MainLobby
+  x: 19.784195277634385
+  y: 58.0
+  z: 0.7870036965116132
+  yaw: 129.08649
+  pitch: 19.32636

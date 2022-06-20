@@ -1,0 +1,6 @@
+name: zinomacs
+uuid: 95d72f1a-8239-3177-82ed-73aa79e513b5
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

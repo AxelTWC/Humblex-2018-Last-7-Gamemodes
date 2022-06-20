@@ -1,0 +1,11 @@
+name: PigRank
+uuid: a9dee794-f72b-4dc0-b7b6-17994e3cc884
+logoffworld: Factions
+balances:
+  MainLobby: 0.0
+  world: 0.0
+  Factions: 0.0
+  SkywarsTeamMap3: 0.0
+  lobby_practice: 0.0
+  SkywarsMap2: 0.0
+  LionHUB: 500.0

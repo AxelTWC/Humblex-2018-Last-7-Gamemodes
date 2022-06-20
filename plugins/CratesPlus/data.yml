@@ -1,0 +1,16 @@
+Data Version: 2
+Crate Locations:
+  bronze:
+  - Factions|111|69|-285
+  silver:
+  - Factions|111|69|-287
+  saphire:
+  - Factions|111|69|-289
+  emerald:
+  - Factions|111|69|-291
+  god:
+  - Factions|111|69|-293
+Claims:
+  28c22520-3ea6-4280-9f35-f8467e5a57fd: []
+  ac4b6597-061d-46cf-a851-79f1f1717f6f:
+  - god|64

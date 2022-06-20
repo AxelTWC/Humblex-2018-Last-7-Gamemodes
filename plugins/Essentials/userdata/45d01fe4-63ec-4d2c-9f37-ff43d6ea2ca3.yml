@@ -1,0 +1,21 @@
+lastAccountName: Hecto360
+timestamps:
+  login: 1503547888491
+  logout: 1503547963039
+  lastteleport: 1503398899785
+ipAddress: 101.181.102.76
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.71802222602291
+  y: 47.0
+  z: -47.9346641056027
+  yaw: 350.95667
+  pitch: 24.689379
+lastlocation:
+  world: LionHUB
+  x: 91.77471704767422
+  y: 46.0
+  z: -58.38260697044335
+  yaw: -203.12419
+  pitch: 90.0

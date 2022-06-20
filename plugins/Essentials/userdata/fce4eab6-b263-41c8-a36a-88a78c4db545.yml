@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+money: '0.0'
+lastAccountName: Squishy_Muffinz
+timestamps:
+  login: 1521234799120
+  logout: 1521234842543
+  lastteleport: 1520543584748
+ipAddress: 74.90.114.74
+logoutlocation:
+  world: LionHUB
+  x: 726.9944090296325
+  y: 5.0
+  z: 3595.4372990877837
+  yaw: 88.3116
+  pitch: 24.9553
+godmode: false
+afk: false

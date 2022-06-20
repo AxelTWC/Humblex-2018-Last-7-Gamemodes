@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Matchups
+timestamps:
+  login: 1503702562022
+  lastteleport: 1503702572954
+  logout: 1503703485907
+ipAddress: 173.35.32.81
+lastlocation:
+  world: LionHUB
+  x: 93.56690639069723
+  y: 47.0
+  z: -48.00015561757271
+  yaw: -2.1774814
+  pitch: -5.5606585
+logoutlocation:
+  world: MainLobby
+  x: 22.65759774704249
+  y: 58.0
+  z: -0.11382158692385205
+  yaw: -86.63378
+  pitch: 17.498838

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: JaimeLhiver
+timestamps:
+  login: 1502879650339
+  logout: 1502880921345
+  lastteleport: 1502879664476
+ipAddress: 211.27.53.21
+logoutlocation:
+  world: FFA
+  x: 1.0
+  y: 13.0
+  z: 0.0
+  yaw: 250.4098
+  pitch: 28.000355
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 3.5688996
+  pitch: 15.566163

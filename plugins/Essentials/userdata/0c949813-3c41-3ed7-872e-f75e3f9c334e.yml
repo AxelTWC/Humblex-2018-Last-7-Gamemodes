@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Jeck2300
+timestamps:
+  login: 1501190311225
+  logout: 1501190390969
+  lastteleport: 1501190347123
+ipAddress: 62.201.226.20
+logoutlocation:
+  world: MainLobby
+  x: 19.47891121304998
+  y: 57.0
+  z: -3.0389121581365703
+  yaw: -208.40002
+  pitch: -13.699995
+lastlocation:
+  world: LionHUB
+  x: 93.86089530259405
+  y: 46.0
+  z: -56.068513910465896
+  yaw: 149.50963
+  pitch: 16.38058

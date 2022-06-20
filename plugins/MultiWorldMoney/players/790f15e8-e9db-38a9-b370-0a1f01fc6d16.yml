@@ -1,0 +1,6 @@
+name: Croder
+uuid: 790f15e8-e9db-38a9-b370-0a1f01fc6d16
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

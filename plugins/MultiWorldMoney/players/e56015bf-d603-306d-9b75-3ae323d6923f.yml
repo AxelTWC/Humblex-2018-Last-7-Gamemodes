@@ -1,0 +1,6 @@
+name: TSEPANVERSION2
+uuid: e56015bf-d603-306d-9b75-3ae323d6923f
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

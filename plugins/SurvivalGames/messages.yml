@@ -1,0 +1,123 @@
+# Messages supports color codes!
+
+prefix: '&3[&6HumblexSG&3]&6 '
+scoreboard-prefix: '&6&lHumblex SG'
+scoreboard-stats: '&6Stats'
+scoreboard-kills: '&fKills: &a%kills%'
+scoreboard-coins: '&fCoins: &a%coins%'
+scoreboard-wins: '&fWins: &a%wins%'
+scoreboard-arena: '&eArena'
+scoreboard-players: '&fPlayers: &a%players%'
+scoreboard-viewers: '&fViewers: &a%viewers%'
+Messages:
+  No-Permission: You dont have permission to do this!
+  No-Console: Only players may use this command!
+  UnKnown-Command: Could not find such a command! use /sg for a list of commands!
+  Already-In-Game: You are already in a game!
+  No-Arena-Found-With-That-Name: Could not find an arena with that name!
+  Arena-Has-Less-Than-2-Minimum-Players: The arena has less than 2 minimum players!
+  Game-Already-Started: That arena has already started!
+  Arena-Is-Disabled: This arena is disabled!
+  No-Spawn-Points: Could not find any spawnpoints!
+  No-DeathMatch-Location: There is no deathmatch spawn location for this arena!
+  Not-Enough-Spawnpoints: The arena is unplayable because it does not have enough spawnpoints! (must be equal to max players)
+  Arena-Rollbacking: The arena is currently rollbacking! you cant join yet
+  Arena-Full: That arena is full!
+  Player-Join: '&b%player% &6has joined the game! (&b%arenasize%&6/&b%arenamax%&6)!'
+  Players-Till-Start: '&b%arenasize% &6Players left till the game begins!'
+  Broadcast-Start: The arena &b%arena% &6is about to start in &b%seconds% &6seconds!
+  Game-Starting: Game is starting in &b%seconds% &6Seconds!
+  Not-In-Arena: You are not in any arena to do this!
+  Player-Leave-In-Lobby: '&b%player% &6has left the game! (&b%arenasize%&6/&b%arenamax%&6)!'
+  Player-Leave-In-Game: '&b%player% &6has been eliminated!'
+  Players-Remain: '&b%arenasize% &ePLAYERS REMAIN'
+  Game-Cancelled-Not-Enough-Players: Game has been cancelled because it does not have enough players!
+  Player-Leave-Self-Message: You have left the game!
+  Kits-Disabled: Kits are disabled!
+  Cant-Buy-Or-SelectKit: You must be in an arena that hasnt started yet!
+  No-Available-Kits: Could not find any available kits!
+  Shop-Disabled: Shop is disabled!
+  Couldnt-Find-Player-Data: Could not find player data in the files!
+  Game-Start: Game has started!
+  Recivied-Kit-Items: You have recivied the kit &b%kit% &6items!
+  Game-Ending: Game ending in &b%minutes% &6minutes!
+  Chest-Refill-Warn: 'Chests will be refilled after: &b%seconds% &6seconds!'
+  Chest-Refill: All chests have been refilled!
+  Grace-Ending: 'Grace ending in: &b%seconds% &6seconds!'
+  Grace-End: Grace period has ended!
+  Game-Cancelled: Game has been cancelled!
+  DeathMatch-Starting: 'Deathmatch starting in: &b%seconds% &6seconds!'
+  Game-Ending-In-DeathMatch: Game ending in &b%seconds% &6seconds!
+  Winner-Grats: Congratulation, You have won!
+  Normal-Player-Win-Earn-Tokens: You have earned &b%coins% &6Coins For winning!
+  Player-Win-Arena-Broadcast: The winner of the arena &b%arena% &6is &b%player%
+  Couldnt-Find-Nearby-Player-In-Radius: Could not find any nearby players in a radius of &b%radius%&6!
+  Item-Disabled: This item has been disabled!
+  Kit-Selected: You will get your kit items when the game begins!
+  Couldnt-Find-Kit: Could not find that kit!
+  Spectator-Teleport: You have been teleported to &b%player%
+  Spectator-Teleport-Deny: Could not find that player in your arena
+  Not-Enough-Coins: Not enough coins!
+  Purchase-Item: You have purchased a(n) &b%item% &6x&b%amount% &6for &b%price% &6Coins!
+  Blocked-Command: You cant use non SurvivalGames commands In-Game!
+  Normal-Kill-Player-Self-Message: You have killed &b%target% &6and earned &b%coins% &6Coins!
+  Player-Suicide: You have killed your self!
+  Player-Spectate: You are now spectating the match!
+  Carepackage-Dropping: Carepackage coming in &b%seconds% &6seconds!
+  Carepackage-Drop: Carepackage has been dropped!
+  Carepackage-Cancel: Carepackage has been cancelled due to a new event!
+  Carepackage-Denied: There must be &b%height% &6free blocks above the location!
+  Carepackage-Denied-2: The carepackage can not be placed on a half block!
+  Sponsor-Self-Message: You sponsored the player &b%player% &6with &b%item% &6x&b%amount% &6that costed &b%cost% &6coins!
+  Sponsor-Target-Message: You are being sponsored by &b%player% &6with a(n) &b%item% &6x&b%amount%&6!
+  Sponsor-Full-Inventory: The player %player% has a full inventory!
+  Sponsor-Target-Full-Inventory: Someone tried to sponsor you but you have a full inventory!
+  Coins-Restore: Your spent coins has been restored! (&b%coins%&6)!
+  No-Available-Arenas: Could not find any available arenas!
+  Global-Lobby-Cant-Teleport-While-In-Game: You cant do that while in a game!
+  Global-Lobby-Not-Set: Global lobby hasnt been set yet!
+  Global-Lobby-Teleport: You have been teleported to the global lobby!
+  Arena-Won-The-Vote: The map &b%arena% &6has won the voting! with &b%votes% &6votes.
+  Vote-Locked: Voting has been locked!;
+  Player-Vote: You have voted for the map &b%map%
+  Time-Skip: Time was skipped to &b%seconds%&6 Seconds!
+  Server-Restart: Server you were on is restarting now!
+  Not-A-Tier-2-Chest: Could not find this tier 2 chest!
+  Kit-Already-Unlocked: You already have this kit unlocked
+  Kit-Purchase: You have purchased the kit &b%kitname% &6and lost &b%cost% &6coins! &aCongrats for your new kit
+  Join-Deny: You must have nothing in hand to use the join signs!
+  Match-Reset-Kick-Message: You have been kicked due to a match reset
+  Cant-Vote-Any-More: You have reached your voting power limit!
+  Bounty-Set: '&b%player% &6has set a &cbounty &6of &a&n&l%cost% &6on the player &3%target%&6,
+    &e%target% &6now has a kill worth of &a%bounty%'
+  Bounty-Get: '&a&l&n%killer% &6has gotten the bounty set on &c%player% &6with a value
+    of &e%bounty%'
+  Bounty-Win: '&b%player% &6got the bounty that was set on him with a value of &a%bounty%'
+  Bounty-Fail: The player u have set a bounty on left or was not killed by someone, due to that your money has been restored! &e(&6+&a%bounty%&e)
+  Spectator-Bounty_Sponsor-Deny: You cant do this right now!
+  Player-Modifier-Change: Your modifier has been changed!
+  Stats-Reset: '&cYour stats have been reset!'
+  Cooldown: You cant use this yet! &e(&b%seconds%&e)
+  Warning-Receive: You have received a warning! &b(&c%warnings%&6/&c%maxwarnings%&b)
+  Warning-Kick: You have been kicked out of the game for exceeding the warnings limit!
+  Cant-Vote: You cant vote right now
+Waiting-State: '&aWAITING'
+Starting-State: '&6STARTING'
+INGAME-State: '&cINGAME'
+Deathmatch-State: '&cDEATH-MATCH'
+Disabled-State: '&4DISABLED'
+Rollbacking-State: '&cROLLBACKING'
+Starting-Deathmatch-State: '&cINGAME'
+Finishing-State: '&cFINISHING'
+NotJoinable-State: '&cNot-Joinable'
+Player-Death-By-Player:
+- '&c%player% &ehas been killed by &a%killer%&e!'
+- '&c%player% &ewas brutally murdered by &a%killer%&e!'
+- '&c%player% &eweapon could not stand against &a%killer%&e!'
+- '&a%killer% &egave a helping hand in &c%player% &edeath!'
+- '&a%killer% &ecould not resist killing &c%player%&e!'
+Player-Death-By-Falldamage: '&c%player% &efell to his death!'
+Player-Death-By-Lava: '&c%player% &ethought he can swim in lava!'
+Player-Death-By-Fire: '&c%player% &eburned to death!'
+Player-Death-By-Explosion: '&c%player% &ewas exploded into million pieces!'
+Player-Death-By-Unknown: '&c%player% &ehas been killed by &bUnknown Object!'

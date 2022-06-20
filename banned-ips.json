@@ -1,0 +1,23 @@
+[
+  {
+    "ip": "Teaofdoom-s",
+    "created": "2017-08-26 21:46:56 -0400",
+    "source": "§5§lMod §e§6§l§oIPandz§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "ip": "ban",
+    "created": "2016-09-14 01:43:40 -0400",
+    "source": "Skript ban effect",
+    "expires": "forever",
+    "reason": "§cVoce foi Banido deste Servidor \n§eBanido Por: §fFilipeNock \n§eMotivo: §fKillAura/Fly \n§eTempo de Banimento: §fPermanente \n§eData e Hora: §f14/09/16 02:43"
+  },
+  {
+    "ip": "TheStarGuardian-s",
+    "created": "2017-08-26 21:48:51 -0400",
+    "source": "§a§lHelper §eDuckerson§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

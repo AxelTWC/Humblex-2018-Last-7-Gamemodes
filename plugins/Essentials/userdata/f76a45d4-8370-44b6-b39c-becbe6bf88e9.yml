@@ -1,0 +1,25 @@
+lastAccountName: IDarkIV
+timestamps:
+  login: 1517593785188
+  logout: 1517595525124
+  lastteleport: 1507265322528
+socialspy: false
+ipAddress: 5.36.114.72
+logoutlocation:
+  world: MainLobby
+  x: 9.477015180812485
+  y: 57.5
+  z: 4.390403913684133
+  yaw: -83.99768
+  pitch: 11.742421
+lastlocation:
+  world: lobby_practice
+  x: 545.8579409896714
+  y: 4.0
+  z: -3332.2407142533148
+  yaw: -114.45514
+  pitch: -3.3438478
+afk: false
+nickname: IDarkIV
+godmode: false
+money: '500.0'

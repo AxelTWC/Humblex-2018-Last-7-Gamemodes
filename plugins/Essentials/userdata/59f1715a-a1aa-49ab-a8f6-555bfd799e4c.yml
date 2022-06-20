@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: MrWombat2
+timestamps:
+  login: 1502880479523
+  lastteleport: 1502880492044
+  logout: 1502880783735
+ipAddress: 180.242.66.157
+lastlocation:
+  world: LionHUB
+  x: 92.79483338417545
+  y: 48.166109260938214
+  z: -48.158340084930785
+  yaw: -16.18914
+  pitch: 10.994781
+logoutlocation:
+  world: MainLobby
+  x: 4.2256872768202225
+  y: 58.0
+  z: -9.943376241812722
+  yaw: -108.94545
+  pitch: 36.64729

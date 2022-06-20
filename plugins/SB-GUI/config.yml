@@ -1,0 +1,1416 @@
+# SB-GUI coded by yPedx -- Version 6.1.4
+Settings:
+  Advanced-Stats: true
+Configurations:
+  Stats-Item: SIGN
+  Next-Page-Item: BOOK
+  Options-Item: NETHER_STAR
+GUIs:
+  page1:
+    Slot19:
+      hide-attributes: true
+      name: '&2PVP Hacks / Related'
+      commands:
+      - 'ba tempban #target lightning 30d &6[#punisher] - &6PVP HACKS'
+      item: DIAMOND_SWORD
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6Killaura&2/&6ForceField'
+      - '&6Auto Soup&2/&6Regen'
+      - '&6AntiKnockBack'
+      - '&6TriggerBot&2/&6Auto Clicker&2/&6Auto Crit'
+      - '&4Illegal PVP Modifications'
+      - '&43rd Ban 30d'
+    Slot10:
+      hide-attributes: true
+      name: '&2PVP Hacks / Related'
+      commands:
+      - 'ba tempban #target lightning 15d &2By &6#punisher &2| Reason: &6PVP HACKS'
+      item: GOLD_SWORD
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6Killaura&2/&6ForceField'
+      - '&6Auto Soup&2/&6Regen'
+      - '&6AntiKnockBack'
+      - '&6TriggerBot&2/&6Auto Clicker&2/&6Auto Crit'
+      - '&4Illegal PVP Modifications'
+      - '&62nd Ban 15d'
+    Slot1:
+      hide-attributes: true
+      name: '&2PVP Hacks / Related'
+      commands:
+      - 'ba tempban #target lightning 7d &2By &6#punisher &2| Reason: &6PVP HACKS'
+      item: IRON_SWORD
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6Killaura&2/&6ForceField'
+      - '&6Auto Soup&2/&6Regen'
+      - '&6AntiKnockBack'
+      - '&6TriggerBot&2/&6Auto Clicker&2/&6Auto Crit'
+      - '&4Illegal PVP Modifications'
+      - '&21st ban 7d'
+    Slot3:
+      hide-attributes: true
+      name: '&2Movement Hacks / Related'
+      commands:
+      - 'ba tempban #target lightning 7d &2By &6#punisher &2| Reason: &6MOVEMENT HACKS'
+      item: FEATHER
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6Speed'
+      - '&6Flight&2/&6NoClip'
+      - '&6Step&2/&6Spider'
+      - '&4Illegal Movement Modifications'
+      - '&21st ban 7d'
+    Slot12:
+      hide-attributes: true
+      name: '&2Movement Hacks / Related'
+      commands:
+      - 'ba tempban #target lightning 14d &2By &6#punisher &2| Reason: &6MOVEMENT
+        HACKS'
+      item: FEATHER
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6Speed'
+      - '&6Flight&2/&6NoClip'
+      - '&6Step&2/&6Spider'
+      - '&4Illegal Movement Modifications'
+      - '&62nd ban 14d'
+    Slot21:
+      hide-attributes: true
+      name: '&2Movement Hacks / Related'
+      commands:
+      - 'ba tempban #target lightning 28d &2By &6#punisher &2| Reason: &6MOVEMENT
+        HACKS'
+      item: FEATHER
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6Speed'
+      - '&6Flight&2/&6NoClip'
+      - '&6Step&2/&6Spider'
+      - '&4Illegal Movement Modifications'
+      - '&43rd ban 28d'
+    Slot5:
+      hide-attributes: true
+      name: '&2packets / Related / other'
+      commands:
+      - 'ba tempban #target lightning 8d Banned By: #punisher Reason: #reason'
+      item: BEDROCK
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6regen'
+      - '&6chest steal'
+      - '&6Derp&2/&6Headless&2/&6'
+      - '&6jesus&2/&6auto(Anything)'
+      - '&4Illegal client Modifications'
+      - '&21st TempBan 8Days'
+    Slot14:
+      hide-attributes: true
+      name: '&2packets / Related / other'
+      commands:
+      - 'ba tempban #target lightning 16d Banned By: #punisher Reason: #reason'
+      item: BEDROCK
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6regen'
+      - '&6chest steal'
+      - '&6Derp&2/&6Headless&2/&6'
+      - '&6jesus&2/&6auto(Anything)'
+      - '&4Illegal client Modifications'
+      - '&62nd Ban 16d'
+    Slot23:
+      hide-attributes: true
+      name: '&2packets / Related / other'
+      commands:
+      - 'tempban #target 32d Banned By: #punisher Reason: #reason'
+      item: BEDROCK
+      permission: sb.use.ban
+      lore:
+      - '&2Offences:'
+      - '&6regen'
+      - '&6chest steal'
+      - '&6Derp&2/&6Headless&2/&6'
+      - '&6jesus&2/&6auto(Anything)'
+      - '&4Illegal client Modifications'
+      - '&43rd ban 32d'
+    Slot7:
+      hide-attributes: true
+      name: '&2Chat Ban'
+      commands:
+      - 'ba tempban #target lightning 1d #punisher Reason: Chat Ban 1 Days'
+      item: PAPER
+      permission: sb.use.ban
+      lore:
+      - '&2Offenses:'
+      - '&6Abuse Towards Staff'
+      - '&6Abuse Towards Players'
+      - '&6Spam'
+      - '&6Bad Manners'
+      - '&6Generald Bad Attitude(Bad Sports Man Ship)'
+      - '&21st Ban 1d'
+    Slot16:
+      hide-attributes: true
+      name: '&2Chat Ban'
+      commands:
+      - 'ba tempban #target lightning 2d Banned By: #punisher Reason: Manual Ban 2
+        Days'
+      item: PAPER
+      permission: sb.use.ban
+      lore:
+      - '&2Offenses:'
+      - '&6Abuse Towards Staff'
+      - '&6Abuse Towards Players'
+      - '&6Spam'
+      - '&6Bad Manners'
+      - '&6Generald Bad Attitude(Bad Sports Man Ship)'
+      - '&62nd Ban 2d'
+    Slot25:
+      hide-attributes: true
+      name: '&2Chat Ban'
+      commands:
+      - 'ba tempban #target lightning 4d Banned By: #punisher Reason: Manual Ban 4
+        Days'
+      item: PAPER
+      permission: sb.use.ban
+      lore:
+      - '&2Offenses:'
+      - '&6Abuse Towards Staff'
+      - '&6Abuse Towards Players'
+      - '&6Spam'
+      - '&6Bad Manners'
+      - '&6Generald Bad Attitude(Bad Sports Man Ship)'
+      - '&43rd Ban 4d'
+    Slot9:
+      hide-attributes: true
+      name: '&2Render Hacks'
+      commands:
+      - 'ba tempban #target lightning 3d [#punisher] - Render Hacks'
+      item: DIAMOND_ORE
+      permission: sb.use.ban
+      lore:
+      - '&2Offenses:'
+      - '&6Xray'
+      - '&6ESP'
+      - '&6Tracers'
+      - '&6Full Bright'
+      - '&21st Ban 3d'
+    Slot18:
+      hide-attributes: true
+      name: '&2Render Hacks'
+      commands:
+      - 'ba tempban #target lightning 6d [#punisher] - Render Hacks'
+      item: DIAMOND_ORE
+      permission: sb.use.ban
+      lore:
+      - '&2Offenses:'
+      - '&6Xray'
+      - '&6ESP'
+      - '&6Tracers'
+      - '&6Full Bright'
+      - '&62nd Ban 6d'
+    Slot27:
+      hide-attributes: true
+      name: '&2Render Hacks'
+      commands:
+      - 'ba tempban #target lightning 12d [#punisher] - Render Hacks'
+      item: DIAMOND_ORE
+      permission: sb.use.ban
+      lore:
+      - '&2Offenses:'
+      - '&6Xray'
+      - '&6ESP'
+      - '&6Tracers'
+      - '&6Full Bright'
+      - '&43rd Ban 12d'
+    Slot37:
+      hide-attributes: true
+      name: '&2Manual Ban'
+      commands:
+      - 'ba tempban #target lightning 10d Banned By: #punisher Reason: Manual Ban
+        10Days'
+      item: BARRIER
+      permission: sb.use.ban
+      lore:
+      - '&2Manual Ban Of:'
+      - '&610Days'
+    Slot38:
+      hide-attributes: true
+      name: '&2Manual Ban'
+      commands:
+      - 'ba tempban #target lightning 20d Banned By: #punisher Reason: Manual Ban
+        20Days'
+      item: BARRIER
+      permission: sb.use.ban
+      lore:
+      - '&2Manual Ban Of:'
+      - '&620Days'
+    Slot39:
+      hide-attributes: true
+      name: '&2Manual Ban'
+      commands:
+      - 'ba tempban #target lightning 40d Banned By: #punisher Reason: Manual Ban
+        40Days'
+      item: BARRIER
+      permission: sb.use.ban
+      lore:
+      - '&2Manual Ban Of:'
+      - '&640Days'
+    Slot45:
+      hide-attributes: true
+      name: '&6Perm Ban'
+      commands:
+      - 'ba ban #target lightning [#punisher] - To Many Temp Bans'
+      item: BARRIER
+      permission: sb.use.permban
+      lore:
+      - '&4Admin Only'
+      - '&2Offense:'
+      - '&6Too Many Temp Bans'
+    Slot44:
+      hide-attributes: true
+      name: '&6Perm Ban'
+      commands:
+      - 'ba ban #target lightning [#punisher] - Your Not Welcome Here(No Reason Given)'
+      item: BARRIER
+      permission: sb.use.permban
+      lore:
+      - '&4Admin Only'
+      - '&2Offense:'
+      - '&6Other'
+  page2:
+    Slot1:
+      hide-attributes: true
+      name: '&2Kick'
+      commands:
+      - 'kick #target Kicked By: #punisher Reason: #reason'
+      item: IRON_BOOTS
+      permission: sb.use.staff
+      lore:
+      - '&2Offense:'
+      - '&6Kick The Player.'
+    Slot9:
+      hide-attributes: true
+      name: '&2Warn'
+      commands:
+      - 'warn #target Warned By: #punisher Reason: #reason'
+      item: DIAMOND_SWORD
+      permission: sb.use.staff
+      lore:
+      - '&2Offense:'
+      - '&6Warn The Player.'
+  optionspage:
+    Slot11:
+      hide-attributes: true#punisher
+      name: '&2Teleport'
+      commands:
+      - 'tp #target'
+      item: ENDER_PEARL
+      permission: sb.use.staff
+      lore:
+      - '&2Action:'
+      - '&6Teleport To The Player.'
+    Slot29:
+      hide-attributes: true
+      name: '&2freeze'
+      commands:
+      - 'freeze #target'
+      item: ICE
+      permission: sb.use.staff
+      lore:
+      - '&2Action:'
+      - '&6Freeze The Player.'
+    Slot17:
+      hide-attributes: true
+      name: '&2ncp Inspect'
+      commands:
+      - 'ncp inspect #target'
+      item: IRON_CHESTPLATE
+      permission: sb.use.staff
+      lore:
+      - '&2Action:'
+      - '&6inspect The Player.'
+    Slot35:
+      hide-attributes: true
+      name: '&2MCMMO Inspect'
+      commands:
+      - 'inspect #target'
+      item: GOLD_CHESTPLATE
+      permission: sb.use.staff
+      lore:
+      - '&2Action:'
+      - '&6inspect The Player.'
+    Slot33:
+      hide-attributes: true
+      name: '&2CPS'
+      commands:
+      - 'cps #target'
+      item: WATCH
+      permission: sb.use.staff
+      lore:
+      - '&2Action:'
+      - '&6Run A Click Per Second Test On Them'
+    Slot13:
+      hide-attributes: true
+      name: '&2Check'
+      commands:
+      - 'check #target'
+      item: BOOK
+      permission: sb.use.staff
+      lore:
+      - '&2Action:'
+      - '&6Run A Check on them'
+    Slot31:
+      hide-attributes: true
+      name: '&2History'
+      commands:
+      - 'history #target'
+      item: BOOK
+      permission: sb.use.staff
+      lore:
+      - '&2Action:'
+      - '&6Run A Check on them'
+    Slot15:
+      hide-attributes: true
+      name: '&2Call Them Out In A Broadcast'
+      commands:
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      - 'Broadcast &6Nice Hacks #target'
+      item: ENCHANTED_BOOK
+      permission: sb.use.staff
+      lore:
+      - '&2Action:'
+      - '&6Make It Offical'
+Lore-Lists: {}
+Command-Lists: {}
+Punishment-Log:
+- ============== [2017/Aug/09 23:53:54] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/09 23:53:54] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/09 23:53:54] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/09 23:53:54] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/10 17:19:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/11 09:36:28] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/14 22:51:45] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> CODsmash
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/14 22:51:45] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> CODsmash
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/14 22:51:45] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> CODsmash
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/14 22:51:45] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> CODsmash
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/14 22:51:45] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> CODsmash
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/26 20:58:40] ==============
+- Punisher >> Evenity
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/26 20:58:40] ==============
+- Punisher >> Evenity
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/26 20:58:40] ==============
+- Punisher >> Evenity
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/26 20:58:40] ==============
+- Punisher >> Evenity
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/26 20:58:40] ==============
+- Punisher >> Evenity
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 09:14:54] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 09:14:54] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:21:25] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:21:25] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:21:25] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:21:25] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:21:25] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:21:25] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:40:10] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:45:33] ==============
+- Punisher >> Astrofish7
+- Target   >> ZombieInASuit
+- 'Reason >> ka '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:45:33] ==============
+- Punisher >> Astrofish7
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:45:33] ==============
+- Punisher >> Astrofish7
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/27 10:45:33] ==============
+- Punisher >> Astrofish7
+- Target   >> ZombieInASuit
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 11:42:23] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 11:42:23] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 11:42:23] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 12:28:36] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 15:45:52] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:08:41] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:08:41] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:08:41] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:08:41] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:08:41] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:08:41] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:08:41] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:08:41] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:13:51] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 16:13:51] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:09:26] ==============
+- Punisher >> AxelTWC
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 17:58:33] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:00:58] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:01:32] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:07:32] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:18:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:18:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:18:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:18:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:52:02] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:52:02] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 20:58:42] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 21:00:16] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 21:00:16] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 21:03:19] ==============
+- Punisher >> Zerifhh
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 21:03:19] ==============
+- Punisher >> Zerifhh
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 21:03:19] ==============
+- Punisher >> Zerifhh
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 21:03:19] ==============
+- Punisher >> Zerifhh
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/28 21:03:19] ==============
+- Punisher >> Zerifhh
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 11:19:14] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 11:19:14] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 12:05:11] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 12:05:11] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> duncogaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 18:46:26] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 18:46:26] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 19:59:37] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 19:59:37] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 19:59:37] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> for being a dick '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 22:44:09] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> for being a dick '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 22:44:45] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> for being a dick '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 22:49:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> for being a dick '
+- ====================================================
+- '------'
+- ============== [2017/Aug/31 22:49:43] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> for being a dick '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> Armoured_Leaf
+- Target   >> Armoured_Leaf
+- 'Reason >> Kill Aura - [Head snapping towards entities + other players] [Duels] '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> Armoured_Leaf
+- Target   >> Armoured_Leaf
+- 'Reason >> Hacks '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> Armoured_Leaf
+- Target   >> Armoured_Leaf
+- 'Reason >> Hacks '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> Armoured_Leaf
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> HAcks '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> AFKCameraGamerz
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 06:57:12] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/06 15:24:21] ==============
+- Punisher >> neilnourigat
+- Target   >> MTNLSS
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/08 17:53:19] ==============
+- Punisher >> neilnourigat
+- Target   >> DuBeatz
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/08 17:53:19] ==============
+- Punisher >> neilnourigat
+- Target   >> DuBeatz
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/08 17:53:19] ==============
+- Punisher >> neilnourigat
+- Target   >> DuBeatz
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/08 17:53:19] ==============
+- Punisher >> neilnourigat
+- Target   >> DuBeatz
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/08 17:53:19] ==============
+- Punisher >> neilnourigat
+- Target   >> DuBeatz
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/09 17:41:58] ==============
+- Punisher >> IPandz
+- Target   >> IPandz
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/09 17:41:58] ==============
+- Punisher >> AxelTWC
+- Target   >> xxjojo_dragonxx
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/12 16:29:46] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> Vince__Games
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/13 11:16:06] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> XxMr1234GamerzxX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/13 11:16:06] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> X_S_t_o_o_t_S_X
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/13 22:36:47] ==============
+- Punisher >> NBHedonist
+- Target   >> NBHedonist
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/15 19:26:58] ==============
+- Punisher >> NBHedonist
+- Target   >> NBHedonist
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/15 19:26:58] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> Chan_GodSlayer_X
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/16 20:13:12] ==============
+- Punisher >> AxelTWC
+- Target   >> xpawesome100
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/16 20:13:12] ==============
+- Punisher >> AxelTWC
+- Target   >> xpawesome100
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/18 17:21:02] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> Imsh3lderPro
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/19 21:23:46] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> Chan_GodSlayer_X
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/19 21:23:46] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> Aqska
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/19 21:23:46] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> Aqska
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/19 21:23:46] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> Aqska
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/20 14:42:29] ==============
+- Punisher >> neilnourigat
+- Target   >> KryptialGaming
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/21 21:40:55] ==============
+- Punisher >> NBHedonist
+- Target   >> verbrxnt
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/23 12:26:25] ==============
+- Punisher >> XxGreenSlimexX58
+- Target   >> aq
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/26 19:37:17] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> lesserspark
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/26 19:37:17] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> lesserspark
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/26 19:37:17] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> lesserspark
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/26 19:37:17] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> lesserspark
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/26 19:37:17] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> lesserspark
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/26 19:37:17] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> lesserspark
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Sep/27 12:32:10] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> Fac4Day_NL
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Oct/01 05:03:36] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> CODsmash
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Oct/01 05:03:36] ==============
+- Punisher >> XxMr1234GamerzxX
+- Target   >> CODsmash
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Oct/20 23:55:22] ==============
+- Punisher >> XxGreenSlimexX58
+- Target   >> CustomBluee
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Dec/03 15:04:29] ==============
+- Punisher >> PartyIsHell
+- Target   >> FunkyFrogYT
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Dec/22 13:36:08] ==============
+- Punisher >> St00tSDaPVPnoob_
+- Target   >> aedsaf
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Dec/22 13:36:08] ==============
+- Punisher >> St00tSDaPVPnoob_
+- Target   >> TSEPANOSKYLO
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Dec/22 13:36:08] ==============
+- Punisher >> PartyIsHell
+- Target   >> aebsaf
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2017/Dec/22 13:36:08] ==============
+- Punisher >> St00tSDaPVPnoob_
+- Target   >> R3ktmateX
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Jan/15 17:46:07] ==============
+- Punisher >> Sto0tS
+- Target   >> TSEPAN
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/01 22:08:32] ==============
+- Punisher >> 4Realm
+- Target   >> mr_spud_nugget
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/03 01:17:23] ==============
+- Punisher >> 4Realm
+- Target   >> q3J
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/04 18:13:06] ==============
+- Punisher >> AxelTWC
+- Target   >> RP921
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> TheGoodAdmin
+- 'Reason >> Aim/Killaura '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> TheGoodAdmin
+- 'Reason >> Aim/Killaura '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> PurplePvpYT
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> PurplePvpYT
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> PurplePvpYT
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> PurplePvpYT
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> PurplePvpYT
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> PurplePvpYT
+- 'Reason >> '
+- ====================================================
+- '------'
+- ============== [2018/Feb/15 12:51:04] ==============
+- Punisher >> TheGoodAdmin
+- Target   >> PurplePvpYT
+- 'Reason >> '
+- ====================================================
+- '------'

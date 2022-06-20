@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1500052820397
+  login: 1500052783199
+  logout: 1500052819791
+lastlocation:
+  world: LionHUB
+  x: 94.76490756498946
+  y: 45.5
+  z: -62.5074258779171
+  yaw: -86.748634
+  pitch: 2.735708
+lastAccountName: CptSpecticles
+ipAddress: 81.213.178.52
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 92.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

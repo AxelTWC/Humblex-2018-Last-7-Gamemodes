@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1499001531573
+  login: 1499001512021
+  logout: 1499001529388
+lastlocation:
+  world: MainLobby
+  x: 32.11433132431864
+  y: 57.0
+  z: 10.656724030333189
+  yaw: -24.73085
+  pitch: 21.504345
+lastAccountName: Lightnik
+socialspy: false
+ipAddress: 217.249.71.238
+logoutlocation:
+  world: MainLobby
+  x: 32.11433132431864
+  y: 57.0
+  z: 10.656724030333189
+  yaw: -24.73085
+  pitch: 21.504345

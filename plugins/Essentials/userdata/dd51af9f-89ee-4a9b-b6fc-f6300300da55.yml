@@ -1,0 +1,21 @@
+lastAccountName: rtorrent
+timestamps:
+  login: 1508377128377
+  lastteleport: 1504141282345
+  logout: 1504141409001
+ipAddress: 174.218.129.43
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 942.9847941585354
+  y: 38.0
+  z: -414.80756805231493
+  yaw: -359.53693
+  pitch: 4.701889
+logoutlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: -90.06354
+  pitch: 4.1763544

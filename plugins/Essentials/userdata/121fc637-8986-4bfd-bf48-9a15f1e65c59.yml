@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: hjalte22
+timestamps:
+  login: 1505578517423
+  lastteleport: 1505578379439
+  logout: 1505578733869
+ipAddress: 5.103.106.14
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: -1.6379844
+  pitch: 11.887089
+logoutlocation:
+  world: FFA
+  x: 13.0
+  y: 11.0
+  z: -149.0
+  yaw: 116.93143
+  pitch: 4.5674047

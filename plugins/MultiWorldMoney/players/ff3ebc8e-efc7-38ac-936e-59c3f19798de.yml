@@ -1,0 +1,6 @@
+name: FlamerDetector9
+uuid: ff3ebc8e-efc7-38ac-936e-59c3f19798de
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

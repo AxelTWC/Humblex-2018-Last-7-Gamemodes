@@ -1,0 +1,22 @@
+lastAccountName: proteev
+timestamps:
+  login: 1506261518973
+  lastteleport: 1506168722970
+  logout: 1506261585966
+ipAddress: 103.77.101.163
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 92.78630943081767
+  y: 47.0
+  z: -49.80130893198692
+  yaw: 8.937691
+  pitch: 20.568872
+logoutlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: -1.2632126
+  pitch: 11.762165
+money: '223'

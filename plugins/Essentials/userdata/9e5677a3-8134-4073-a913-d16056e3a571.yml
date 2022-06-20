@@ -1,0 +1,47 @@
+lastAccountName: Dojo215
+timestamps:
+  login: 1513919727674
+  logout: 1513921102411
+  lastteleport: 1513920101024
+ipAddress: 50.109.101.10
+socialspy: false
+lastlocation:
+  world: parkour
+  x: 1.1772288370156037
+  y: 20.0
+  z: 1.8031752990062775
+  yaw: 155.69377
+  pitch: 31.38443
+logoutlocation:
+  world: LionHUB
+  x: 949.502088735314
+  y: 37.0
+  z: -412.9970920923364
+  yaw: -6.9250793
+  pitch: 15.8044815
+nickname: §4Dojo
+homes:
+  wtf_:
+    world: UhcMeetup
+    x: 131.40785604501235
+    y: 74.0
+    z: 105.85210683205194
+    yaw: -178.59972
+    pitch: 21.699944
+  citadelmap:
+    world: LionHUB
+    x: 916.6999999880791
+    y: 51.0
+    z: 171.46426645055374
+    yaw: 88.35858
+    pitch: 4.785288
+  island:
+    world: ASkyBlock
+    x: 152.30000001192093
+    y: 230.0
+    z: -352.30000001192093
+    yaw: -135.49927
+    pitch: 3.805735
+godmode: false
+money: '100000.0'
+afk: false

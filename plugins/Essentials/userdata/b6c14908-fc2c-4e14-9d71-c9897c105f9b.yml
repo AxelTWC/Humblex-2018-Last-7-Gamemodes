@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: MomentousMaster
+timestamps:
+  login: 1504096448865
+  lastteleport: 1504096594533
+  logout: 1504096774914
+ipAddress: 109.236.45.38
+lastlocation:
+  world: ASkyBlock
+  x: 278.7188164129845
+  y: 123.0
+  z: 31.550184390616202
+  yaw: -268.40378
+  pitch: 31.730324
+logoutlocation:
+  world: ASkyBlock
+  x: 399.69999998807907
+  y: 113.7932517683373
+  z: -200.91369168223503
+  yaw: 279.00507
+  pitch: 41.86646

@@ -1,0 +1,21 @@
+lastAccountName: PastelProxy
+timestamps:
+  login: 1506316735063
+  lastteleport: 1506316753287
+  logout: 1506316876835
+ipAddress: 114.77.99.214
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: 0.31456095
+  pitch: 13.541445
+logoutlocation:
+  world: LionHUB
+  x: 93.51415035653918
+  y: 46.0
+  z: -56.74458382153899
+  yaw: 2.2436218
+  pitch: 12.346626

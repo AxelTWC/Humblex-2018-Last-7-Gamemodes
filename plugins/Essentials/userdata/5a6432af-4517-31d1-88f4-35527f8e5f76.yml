@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1500968676717
+  login: 1500968610633
+  logout: 1500968674412
+lastlocation:
+  world: LionHUB
+  x: 91.64710444500076
+  y: 46.0
+  z: -60.641394607626054
+  yaw: -43.98378
+  pitch: -24.982832
+socialspy: false
+lastAccountName: JJCDev
+ipAddress: 119.247.11.209
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845
+godmode: false

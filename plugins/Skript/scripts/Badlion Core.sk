@@ -1,0 +1,145 @@
+script options:
+	$ use permissions
+	
+Options:
+ 
+ launch height: 0.4
+ launch speed: 0.5
+ sound: random.bow
+ lang: en_US
+ pitch: 1
+ volume: 0.5
+on join:
+	loop all players:
+		reveal loop-player to player
+	set slot 2 of player to light green dye named "&5&lPlayer Visibility - &aON"
+	
+on rightclick with light green dye:
+	cancel event
+	loop all players:
+		hide loop-player to player
+	wait 0.5 ticks
+	set tool of player to gray dye named "&5&lPlayer Visibility - &cOFF"
+	
+on rightclick with gray dye:
+	cancel event
+	loop all players:
+		reveal loop-player to player
+	wait 0.5 ticks
+	set tool of player to light green dye named "&5&lPlayer Visibility - &aON"
+								
+on join:
+	set slot 2 of player to light green dye named "&5&lPlayer Visibility - &aON"
+
+on left click with a clock:
+	if name of player's tool is "&2&lNavigation":
+		cancel event
+		make player execute command "/navigation"
+		
+on right click with clock:
+	if name of player's tool is "&2&lNavigation":
+		cancel event
+		make player execute command "/psm"
+		
+command /no:
+	trigger:
+		send "&cThis is currently being worked on!"
+		
+command /navigation:
+	trigger:
+		wait 1 tick
+		open chest with 6 rows named "&6&lChoose a game" to player
+		format slot 12 of player with water bucket named "&6&lArena PvP" with lore "&7Competitive arena based fighting||&7with ranked/unranked matches including||&71v1,2v2, & 3v3,party ffa's,||&7party duels, red rovers and more!|| ||&e %{players.practice}% players online|| ||&aClick to connect to lobby" to close then run [make player execute command "/warp arenapvp"]
+		format slot 14 of player with fishing rod named "&9&lSG" with lore "&724 players but only 1 survivor.||&7Collect items, fight others||&7and be the last person/team alive.|| ||&cOnline|| ||&aClick to select server" to close then run [make player execute command "/warp survivalgames"]
+		format slot 21 of player with golden apple named "&a&lUHC Meetup" with lore "&7Quick UHC meetup using BuildUHC||&7kits and use your skills to be||&7the last one standing.|| ||&e%{players.uhcmeetup}% players online|| ||&aClick to select server" to close then run [make player execute command "/warp uhcmeetup"]
+		format slot 22 of player with chest named "&6Skyblock" with lore "&7Survival in||&7an island full of fun.|| ||&e%{players.skyblock}% players online|| ||&aClick to select server" to close then run [make player execute command "/warp skyblock"]
+		format slot 23 of player with golden axe named "&6&lFree For All (FFA)" with lore "&7Free-For-All with different||&7kits to train your PvP skills.|| ||&e%{players.ffa}% players online|| ||&aClick to select server" to close then run [make player execute command "/ffa join"]
+		format slot 30 of player with blue wool named "&6&lFactions" with lore "&7Best Survival Gamemode||&7Competitive clans fighting|| ||&&cOFFLINE|| ||&aClick to select server" to close then run [make player execute command "/no"]
+		format slot 32 of player with potion of:8193 named "&6&lSkywars" with lore "&7Be the last one standing||&7In the skylands|| ||&&aOnline|| ||&aClick to connect to server" to close then run [make player execute command "/sw join"]
+		format slot 53 of player with red wool named "&aClose" to close  
+		
+command /clearchat:
+	description: &fClears the chat
+	usage: /clearchat
+	permission: rank.mod
+	permission message: &fYou do not have permission to use this command.	
+	trigger:
+		loop 200 times:
+			broadcast " "
+	
+on join:
+	if player has permission "rank.donator":
+		set {rank.%player%} to "&9Owner"
+	else:
+		set {rank.%player%} to "&fNone"
+	
+			
+command /pluginhider:
+	trigger:
+		if player has permission "no.plugins":
+			message "&0[&6Humblex&0] &fUnknown command. Type /help for help."
+		else:
+			stop
+
+command /pl:
+	trigger:
+		message "&0[&6Humblex&0] &6Plugins (2): &aKNIGHT&f, &aHumblexGames"
+
+command /plugins:
+	trigger:
+		message "&0[&6Humblex&0] &6Plugins (2): &aKNIGHT&f, &aHumblexGames"
+
+command /bukkit:plugins:
+	trigger:
+		message "&0[&6Humblex&0] &6Plugins (2): &aKNIGHT&f, &aHumblexGames"
+
+command /?:
+	aliases: help
+	trigger:
+		message "&0[&6Humblex&0] &6Plugins (2): &aKNIGHT&f, &aHumblexGames"
+
+command /bukkit:?:
+	trigger:
+		message "&0[&6Humblex&0] &6Plugins (2): &aKNIGHT&f, &aHumblexGames"
+
+command /bukkit:about:
+	trigger:
+		message "&0[&6Humblex&0] &6Plugins (2): &aKNIGHT&f, &aHumblexGames"
+
+command /about:
+	trigger:
+		message "&0[&6Humblex&0] &6Plugins (2): &aKNIGHTf&, &aHumblexGames"
+		
+command /version:
+	trigger:
+		message "&0[&6Humblex&0] &eServer is in 1.8-1.12."
+command /skript:
+	trigger:
+		if player has permission "no.plugins":
+			message "&0[&6Humblex&0] &fUnknown command. Type /help for help."
+		else:	
+			stop
+		
+command /skr:
+	trigger:
+		if player has permission "no.plugins":
+			message "&0[&6Humblex&0] &fUnknown command. Type /help for help."
+		else:	
+			stop
+on explode:
+	cancel event
+
+on damage:
+	if damage cause is fall:
+		if {launched.%victim%} is true:
+			set {launched.%victim%} to false
+			cancel event
+
+every 1 tick:
+	set {players.lobby} to number of players in world "LionHUB"
+	set {players.uhcmeetup} to number of players in world "MainLobby"
+	set {players.practice} to number of players in world "MainLobby"
+	set {players.ffa} to number of players in world "FFA"
+
+
+		

@@ -1,0 +1,6 @@
+name: Rempay
+uuid: a17ace16-3918-3e45-a66b-6d2a345257e2
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

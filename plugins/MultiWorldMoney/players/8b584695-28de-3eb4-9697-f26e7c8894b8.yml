@@ -1,0 +1,8 @@
+name: zQuinz_
+uuid: 8b584695-28de-3eb4-9697-f26e7c8894b8
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0
+  skywars: 0.0

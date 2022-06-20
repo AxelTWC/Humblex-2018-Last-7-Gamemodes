@@ -1,0 +1,28 @@
+20/03/2018 16:21:17 [INFO] Loading messages ...
+20/03/2018 16:21:17 [INFO] Loading language file: lang_en
+20/03/2018 16:21:17 [INFO] Initializing monitors ...
+20/03/2018 16:21:17 [INFO] Adding command 'top'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'reset'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'plugin'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'changelog'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'reload'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'uploadlog'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'uploadconfig'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'permissions'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'about'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'resetconfig'
+20/03/2018 16:21:17 [DEBUG] 	Adding sub command 'help'
+20/03/2018 19:18:35 [INFO] Loading messages ...
+20/03/2018 19:18:35 [INFO] Loading language file: lang_en
+20/03/2018 19:18:35 [INFO] Initializing monitors ...
+20/03/2018 19:18:36 [INFO] Adding command 'top'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'reset'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'plugin'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'reload'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'uploadconfig'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'about'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'resetconfig'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'uploadlog'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'permissions'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'changelog'
+20/03/2018 19:18:36 [DEBUG] 	Adding sub command 'help'

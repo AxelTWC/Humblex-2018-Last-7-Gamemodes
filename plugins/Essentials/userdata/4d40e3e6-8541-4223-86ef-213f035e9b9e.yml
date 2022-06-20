@@ -1,0 +1,21 @@
+lastAccountName: xAlexandros21
+timestamps:
+  login: 1506278191420
+  logout: 1506279150804
+  lastteleport: 1506279121962
+ipAddress: 188.4.52.244
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: -89.913536
+  pitch: 2.2263546
+lastlocation:
+  world: LionHUB
+  x: 93.65031695266066
+  y: 47.0
+  z: -47.525762444012535
+  yaw: 4.776093
+  pitch: -27.376392

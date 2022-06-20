@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: DerpBrothers
+timestamps:
+  login: 1504513637408
+  lastteleport: 1504513667770
+  logout: 1504513710681
+ipAddress: 78.1.168.160
+lastlocation:
+  world: LionHUB
+  x: 92.9998904020081
+  y: 46.5
+  z: -52.80000001192093
+  yaw: -4.111336
+  pitch: 18.08894
+logoutlocation:
+  world: Sg
+  x: -96.07134810544235
+  y: 3.0
+  z: 65.5796314162072
+  yaw: -0.183382
+  pitch: -18.08427

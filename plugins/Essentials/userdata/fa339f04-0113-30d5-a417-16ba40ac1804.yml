@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: popgamere
+timestamps:
+  login: 1513458472445
+  lastteleport: 1513458550467
+  logout: 1513458598205
+ipAddress: 31.18.250.147
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 33.454741271419316
+  y: 57.0
+  z: -5.01194767578275
+  yaw: -237.4508
+  pitch: 14.159317

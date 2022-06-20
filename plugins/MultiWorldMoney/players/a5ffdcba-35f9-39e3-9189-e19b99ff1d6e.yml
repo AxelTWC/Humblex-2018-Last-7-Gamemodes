@@ -1,0 +1,6 @@
+name: maicomyt
+uuid: a5ffdcba-35f9-39e3-9189-e19b99ff1d6e
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

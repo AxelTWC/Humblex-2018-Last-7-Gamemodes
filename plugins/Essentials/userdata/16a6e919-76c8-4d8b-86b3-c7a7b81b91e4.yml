@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: BluEBoYMeSTeR
+timestamps:
+  login: 1502466053291
+  lastteleport: 1502466067196
+  logout: 1502466135697
+ipAddress: 176.63.27.125
+lastlocation:
+  world: LionHUB
+  x: 93.42324730368273
+  y: 47.0
+  z: -52.45393630851457
+  yaw: -72.321686
+  pitch: 9.030125
+logoutlocation:
+  world: MainLobby
+  x: 18.10368514724348
+  y: 57.0
+  z: -2.0715455653123653
+  yaw: -293.5165
+  pitch: 0.9211951

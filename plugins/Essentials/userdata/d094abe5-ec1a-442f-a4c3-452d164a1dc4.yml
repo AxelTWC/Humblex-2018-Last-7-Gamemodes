@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: AapjeMakeCombo
+timestamps:
+  login: 1506437439244
+  lastteleport: 1506276197674
+  logout: 1506276294260
+ipAddress: 86.93.55.148
+lastlocation:
+  world: LionHUB
+  x: 94.08173487483326
+  y: 47.0
+  z: -47.927368214465965
+  yaw: -350.16348
+  pitch: -21.087845
+logoutlocation:
+  world: MainLobby
+  x: 22.3030326553162
+  y: 59.0
+  z: -3.107541594490191
+  yaw: 82.586395
+  pitch: 22.026329

@@ -1,0 +1,52 @@
+socialspy: false
+lastAccountName: KryptialGaming
+timestamps:
+  login: 1519606912967
+  logout: 1519607578191
+  lastteleport: 1519607094935
+  kits:
+    keys: 1511751472068
+    rouge: 1517769991446
+    god: 1512516034745
+    miner: 1512516353022
+    bard: 1511752622346
+ipAddress: 71.10.71.74
+logoutlocation:
+  world: LionHUB
+  x: 744.6085254939485
+  y: 10.0
+  z: 3607.4725829791932
+  yaw: -268.29858
+  pitch: 2.1451511
+lastlocation:
+  world: LionHUB
+  x: 742.365767214039
+  y: 2.0
+  z: 3923.030854524962
+  yaw: -159.98975
+  pitch: 46.218494
+nickname: §cKryp
+godmode: false
+money: '0.0'
+teleportenabled: true
+afk: false
+homes:
+  pikkaart:
+    world: LionHUB
+    x: 743.6042978735875
+    y: 22.84162447246967
+    z: -300.49669584404967
+    yaw: 100.74609
+    pitch: -4.0496054
+  home:
+    world: ASkyBlock
+    x: 406.50343848578945
+    y: 114.0
+    z: -18.250601306581377
+    yaw: -328.15045
+    pitch: 63.38649
+powertools:
+  '383':
+  - kill Maechunbu
+  '351':
+  - tp fluffy_chicken73

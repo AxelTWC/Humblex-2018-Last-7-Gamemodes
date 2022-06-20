@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1500891894650
+  login: 1500891822700
+  logout: 1500891893696
+lastlocation:
+  world: MainLobby
+  x: 16.33355488070053
+  y: 57.0
+  z: -12.582214936495493
+  yaw: -290.60678
+  pitch: 14.548913
+lastAccountName: DeanBeans
+ipAddress: 183.98.38.225
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

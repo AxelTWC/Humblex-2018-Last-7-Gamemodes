@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Divermax
+timestamps:
+  login: 1520717902131
+  lastteleport: 1520717914952
+  logout: 1520718657418
+ipAddress: 174.218.148.63
+lastlocation:
+  world: MainLobby
+  x: 29.91013783210077
+  y: 57.0
+  z: -7.991745296529416
+  yaw: -13.993578
+  pitch: 2.3240414
+logoutlocation:
+  world: MainLobby
+  x: 26.924792758011908
+  y: 57.0
+  z: -20.799978916693977
+  yaw: -301.30917
+  pitch: 35.929752
+money: '0.0'

@@ -1,0 +1,7 @@
+name: timcrafter2031
+uuid: 1bfe33af-ca5e-4c07-a594-1326e55c5380
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

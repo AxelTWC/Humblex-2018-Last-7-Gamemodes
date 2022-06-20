@@ -1,0 +1,53 @@
+options:
+	Worlds: "MainLobby" or "LionHUB" or "CubeCore" or "LobbyBuildBattle"
+	
+	Message-Enabled: true
+	Message: &aPENDEJO!! TEN CUIDADO LA PROXIMA VEZ ESTUPIDO!
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+on damage:
+	if damage cause is void:
+		if victim is in world {@Worlds}:
+			cancel event
+			teleport victim to world's spawn
+			if {@Message-Enabled} is true:
+				send "{@Message}" to victim

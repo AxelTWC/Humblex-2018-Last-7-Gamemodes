@@ -1,0 +1,6 @@
+name: Processers
+uuid: 98fe729a-e4f5-4fbe-a314-c773333276f4
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

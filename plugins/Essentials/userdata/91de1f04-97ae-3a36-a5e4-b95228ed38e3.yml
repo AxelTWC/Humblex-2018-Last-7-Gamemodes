@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: otaku00
+timestamps:
+  login: 1503586238528
+  lastteleport: 1503586316321
+  logout: 1503586345840
+ipAddress: 105.101.189.117
+lastlocation:
+  world: LionHUB
+  x: 94.04867235266306
+  y: 46.0
+  z: -57.19469532167177
+  yaw: -269.98834
+  pitch: 9.0115185
+logoutlocation:
+  world: MainLobby
+  x: 29.30000001192093
+  y: 57.0
+  z: 0.5792955353446956
+  yaw: 91.034164
+  pitch: 7.437639

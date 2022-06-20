@@ -1,0 +1,7 @@
+name: NeatherGasp
+uuid: d48a45d8-3f39-3cc2-a541-fb9cb37ebeaf
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  Factions: 0.0
+  LionHUB: 500.0

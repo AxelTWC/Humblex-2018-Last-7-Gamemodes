@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: stevemartin
+timestamps:
+  login: 1518119165739
+  lastteleport: 1518119189160
+  logout: 1518119283079
+ipAddress: 85.166.27.231
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 2.4984616996016205
+  y: 60.0
+  z: 0.6553503548672481
+  yaw: 88.404976
+  pitch: 18.434444

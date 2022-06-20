@@ -1,0 +1,20 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: Croder
+timestamps:
+  login: 1512351513968
+  logout: 1512352177875
+ipAddress: 14.164.121.229
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 6.751471266761989
+  y: 59.0
+  z: -0.03665848721360235
+  yaw: -102.35006
+  pitch: 23.949987

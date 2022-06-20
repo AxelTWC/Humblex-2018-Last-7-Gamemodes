@@ -1,0 +1,196 @@
+# Config - Plugin made by Wazup92!
+# If Rollback is set to false, players wont be able to break/place blocks, and carepackages will stay on the map
+# If Set-Heads-Above-Top-Signs is set to true it might increase the lag when updating top signs!
+# There is one variable for Winner-Executed-Commands, %player%
+# There is one variable for Arena-Start-Executed-Commands, %world%
+# There are three variables for Player-Kill-Player-Executed-Commands, %player%, %killer%, %world%
+# There are two variables for Death-Match-Execute-Commands, %arena%, %world%
+
+Win-Coins: 20
+Kill-Coins: 5
+Broadcast-Winner: true
+Broadcast-Arena-Starting: true
+Advanced-Rollback: true
+Allow-Arena-Modifications:
+  enabled: false
+  settings:
+    explosions-damage-blocks: true
+Winning-Fireworks-Time: 15
+Delay-In-Between-Fireworks: 2
+Load-Top-Leaders-Minutes: 30
+Give-Compass-At-Start: true
+Warnings-Kick-After: 5
+Main-World: world
+Saving-Task:
+  Enabled: true
+  Save-Every-Minutes: 15
+Check-For-Updates: true
+Give-Winner-Map: true
+Display-Image-On-Winner-Map: true
+Image-URL: https://imgur.com/a/xvmFa
+Display-Arena-State-On-Block: true
+Can-Players-Join-As-A-Spectator: true
+Spectators-Separate-Chat: false
+Compass-Max-Radius: 200
+Strike-Lightning-On-Death: true
+Shop-Inventory-Size: 36
+Starting-Coins: 100
+Tier-2-ID: 130
+Clear-Entities-On-Game-End: false
+Scoreboard-Enabled: true
+Teleport-To-Global-Lobby-On-Leave: false
+Carepackage-Content: 1
+Carepackage-Drops-In-Seconds: 10
+Carepackage-Needed-Height: 20
+Display-Coins-In-Chat: false
+Give-Book: true
+Explosions-Unbreakable-Blocks:
+- 20
+Can-Spectators-Open-Players-Inventories: true
+Spectator-Leave-Item: true
+Lobby-Leave-Item: true
+Shop-Enabled: true
+Kits-Enabled: true
+Bounty-Enabled: true
+Sponsor-Enabled: true
+Load-Arenas-Delay-OnEnable: 10
+Load-Global-Lobby-Delay: 9
+Load-Global-Deathmatch-Delay: 9
+Kits-Inventory-Name: '&cKit Menu'
+Shop-Inventory-Name: '&3SurvivalGames &e- &6Items Shop'
+Vote-Inventory-Name: '&4Vote for an arena!'
+Player-Selector-Inventory-Name: '&4&nSelect a player'
+Shop-Item-Stack: 388
+Shop-Item-Stack-Name: '&aShop'
+Kits-Item-Stack: 54
+Kits-Item-Stack-Name: '&bKits'
+Bounty-Item-Stack: 381
+Bounty-Item-Stack-Name: '&cBounty'
+Leave-Item-Stack: 378
+Leave-Item-Stack-Name: '&cLeave!'
+Voting-Item-Stack: 339
+Voting-Item-Stack-Name: '&aVote!'
+Back-Item-Stack: 341
+Back-Item-Stack-Name: '&aBack'
+Sponsor-Item-Stack: 264
+Sponsor-Item-Stack-Name: '&bSponsor!'
+Kit-Menu-OwnedKits-Item: 397
+Kit-Menu-OwnedKits-Name: '&aMy kits'
+Kit-Menu-PurchaseableKits-Item: 264
+Kit-Menu-PurchaseableKits-Name: '&cPurchase more kits!'
+Kit-Menu-VipKits-Item: 388
+Kit-Menu-VipKits-Name: '&9Vip kits!'
+Allowed-Commands:
+- sg
+- survivalgames
+- tell
+- msg
+- help
+- helpop
+Disabled-Items:
+- 325
+- 326
+- 327
+breakAbleBlocks:
+- 18
+placeAbleBlocks:
+- 51
+use-Vault: false
+use-UUID: false
+use-mysql: false
+table-prefix: sg_
+mysql-host: localhost
+mysql-port: 3306
+mysql-database: database
+mysql-username: root
+mysql-password: root
+Bungee-Mode: false
+Bungee-Mode-MinPlayers: 3
+Bungee-Mode-MaxPlayers: 24
+Bungee-Mode-Voting: true
+Bungee-Mode-Default-Wait-Time: 180
+Bungee-Mode-LockVotesAt: 10
+Bungee-Mode-Time-Skipped-To: 30
+Bungee-Mode-Skip-When-Players-Reached: 5
+Bungee-Mode-Amount-Of-Randomised-Maps: 3
+Bungee-Mode-Main-Server: lobby
+Bungee-Mode-Unload-Unused-Arenas-Worlds: true
+Bungee-Mode-Games-Till-End: 1
+Bungee-Mode-Server-Display-Name: SG-1
+Bungee-Mode-Delay-Till-Server-Close: 5
+Bungee-Mode-Commands-Executed-At-The-End:
+- restart
+Winner-Executed-Commands: []
+Arena-Start-Executed-Commands:
+- time set 1000 %world%
+Death-Match-Execute-Commands: []
+Player-Kill-Player-Executed-Commands: []
+Cooldowns:
+  Carepackage: 5
+  Bounty: 10
+  Signs: 3
+  Commands: 4
+Titles:
+  load-delay: 10
+  fadeIn: 10
+  stayTime: 40
+  fadeOut: 10
+  join:
+    enabled: true
+    text: '&6You have joined the game!'
+  leave:
+    enabled: true
+    text: '&6You have left the game!'
+  starting:
+    enabled: true
+    text: '&6Game starting in &b%time% &6Seconds!'
+  start:
+    enabled: true
+    text: '&6Game has begun!'
+  death:
+    enabled: true
+    text: '&6You have been killed by &c%killer%'
+  win:
+    enabled: true
+    text: '&aCongratulations! You have won the game!'
+  achievement:
+    enabled: true
+    text: '&aAchievement unlocked!'
+Bounty:
+- 20
+- 30
+- 40
+- 50
+- 100
+- 200
+Achievements:
+  enabled: true
+  kill:
+  - '1:10'
+  - 10:100
+  - 25:200
+  - 50:500
+  - 100:1000
+  - 200:2000
+  - 500:6000
+  win:
+  - 1:100
+  - 10:500
+  - 50:1000
+  - 100:3000
+  - 200:5000
+  games-played:
+  - '1:10'
+  - '5:30'
+  - 20:100
+  - 50:300
+  - 100:1000
+  - 200:3000
+  - 500:7000
+Global-Lobby:
+  world: Sg
+  x: -100
+  y: 5
+  z: 51
+  yaw: -179.31958
+  pitch: 5.5263634

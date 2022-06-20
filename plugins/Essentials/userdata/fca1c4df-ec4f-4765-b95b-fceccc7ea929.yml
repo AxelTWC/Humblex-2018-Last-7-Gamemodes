@@ -1,0 +1,24 @@
+lastAccountName: JacksonSkittles
+socialspy: false
+timestamps:
+  login: 1514038889606
+  lastteleport: 1514039219501
+  logout: 1514039363350
+  kits:
+    starter: 1514039232322
+ipAddress: 197.2.30.177
+lastlocation:
+  world: LionHUB
+  x: 941.6023181509217
+  y: 38.0
+  z: -466.64939510581405
+  yaw: 79.92212
+  pitch: 39.81632
+logoutlocation:
+  world: Factions
+  x: 122.0
+  y: 71.0
+  z: -312.0
+  yaw: 0.0
+  pitch: 0.0
+money: '0.0'

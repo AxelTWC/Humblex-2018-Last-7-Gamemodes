@@ -1,0 +1,24 @@
+# If you need more informations visite the Spigot plugin page!
+# Link: https://www.spigotmc.org/resources/knockbackfixer.6388/
+# Support: https://twitter.com/EdoDev2__
+# Remember that default minecraft hit delay is 20.
+KnockBack:
+  NormalVelocity: 0.4
+  NormalHeight: 0.19
+  NormalDelay: 10
+  EnableNormalDelay: false
+  StableKnockback: false
+  DebugMode: false
+  PvE: true
+ComboMode:
+  ComboVelocity: 10
+  ComboHeight: 0.1
+  ComboDelay: 4
+  ComboRegionName: combo
+  ComboModeOnGapple: true
+  EnableComboMode: true
+ComboRegion:
+  SoundToPlay: LEVEL_UP
+  SoundsEnable: false
+  NoNeedToEatApple: '&eHey <player>, you don''t need to eat golden apple while you
+    are in combo region! You always have combo mode enabled in combo region!'

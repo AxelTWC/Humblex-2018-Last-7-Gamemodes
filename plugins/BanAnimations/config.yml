@@ -1,0 +1,37 @@
+# BanAnimations Configuration
+#  Created by Phantom_
+#  
+# Valid animations: CAGE, CARFALL, EXPLODE, FREEZE, GWEN, LIGHTNING, METEOR, PIG, SNAPTRAP, SPIT, SWORDFALL, YINYANG
+play_animation_on:
+  BAN:
+    enabled: true
+    animation: LIGHTNING
+  IP_BAN:
+    enabled: true
+    animation: LIGHTNING
+  TEMP_BAN:
+    enabled: true
+    animation: LIGHTNING
+  KICK:
+    enabled: true
+    animation: LIGHTNING
+  MUTE:
+    enabled: false
+    animation: RANDOM
+  TEMP_MUTE:
+    enabled: false
+    animation: METEOR
+Messages:
+  animation_start: '&cPlaying animation {0} on {1}!'
+  no_permission: '&cYou do not have permission to use this command!'
+  no_permission_ban: '&cYou do not have permission to use this command!'
+  no_permission_ipban: '&cYou do not have permission to ip-ban users'
+  no_permission_tempban: '&cYou do not have permission to temp-ban users!'
+  no_permission_kick: '&cYou do not have permission to kick users!'
+  no_permission_mute: '&cYou do not have permission to mute users!'
+  no_permission_tempmute: '&cYou do not have permission to temp-mute users!'
+  no_permission_test: '&You do not have permission to test animations!'
+  player_not_online: '&c&l{0} &cis not online!'
+  player_animation_bypass_enabled: '&cYou can not play an animation on {0}!'
+  player_already_in_animation: '&c&l{0} is already in an animation!'
+  invalid_animation_name: '&cThere is no animation called &c&l{0}&c!'

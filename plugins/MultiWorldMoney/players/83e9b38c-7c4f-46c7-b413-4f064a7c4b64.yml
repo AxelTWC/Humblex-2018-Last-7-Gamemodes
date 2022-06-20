@@ -1,0 +1,10 @@
+name: bbehThunderz
+uuid: 83e9b38c-7c4f-46c7-b413-4f064a7c4b64
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  Factions: 0.0
+  lobby_practice: 0.0
+  parkour: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,204 @@
+# Language: English
+# Status: COMPLETE
+# Contributor(s): Shortninja
+
+# Leave ANY of these messages blank to disable them!
+# Placeholders are only available on messages that have them by default.
+
+############################################################
+# +------------------------------------------------------+ #
+# |                      Prefixes                        | #
+# +------------------------------------------------------+ #
+############################################################
+
+# The prefix for all messages that are not related to any specific module.
+general-prefix: "&0[&6Humblex&0]"
+
+# The prefix for all messages related to reports.
+reports-prefix: "&0[&6Humblex Reports&0] "
+
+# The prefix for all messages related to warnings.
+warnings-prefix: "&0[&6Humblex Warnings&0] "
+
+# The prefix for all messages in staff chat.
+staff-chat-prefix: "&0[&2HumblexStaffChat&0]&f"
+
+# The prefix for all ticket messages
+tickets-prefix: "&0[&6HumblexTickets&0] "
+
+############################################################
+# +------------------------------------------------------+ #
+# |                       General                        | #
+# +------------------------------------------------------+ #
+############################################################
+
+# This is the color that will be used for things like commas in message lists.
+separator-color: "&6"
+
+# Lines are separated by commas
+staff-list-start: "&6%longline%"
+staff-list-member: "&2%player% &%statuscolor%•"
+# Lines are separated by commas
+staff-list-end: "&6%longline%"
+
+lockdown: "&bThe server is currently locked for security purposes. Updates @ &7shortninja.net&b!"
+
+revived-staff: "&6You have reset &2%target%'s &binventory to its previous state!"
+revived-user: "&6Your inventory has been set to its previous state!"
+
+command-blocked: "&gThat command is blocked for staff!"
+mode-command-blocked: "&gThat command is blocked in staff mode!"
+on-cooldown: "&6You cannot use that for &7%seconds% &bseconds."
+
+note-added: "&6Note added for &2%target%&b."
+note-cleared: "&6Notes cleared for &2%target%&b."
+note-list-start: "&6%longline%"
+note-list-entry: "&6%count% &7%note%"
+# Lines are separated by commas
+note-list-end: "&6%longline%"
+
+login-register: "&6Since you are staff, you must register a password to protect your account from being hijacked. Use &2/register &6to register."
+login-registered: "&6Password accepted! You will be asked to use this password each time you login."
+login-waiting: "&6You have been frozen! Please enter your staff password to continue."
+login-accepted: "&6Logged in."
+
+no-permission: "&6You do not have permission to use that!"
+bypassed: "&6That player bypassed that command!"
+player-offline: "&6That player is offline!"
+unknown-command: "&6Unknown command."
+invalid-arguments: "&6Invalid arguments! (%usage%)"
+only-players: "&6Only players are allowed to execute that command!"
+no-found: "&6NO FOUND!"
+type-input: "&6Enter your input in chat!"
+input-accepted: "&6Input accepted and submitted."
+
+############################################################
+# +------------------------------------------------------+ #
+# |                      Infractions                     | #
+# +------------------------------------------------------+ #
+############################################################
+
+reported: "&6Reported &2%target% &6for &2%reason%&b."
+reported-staff: "&2%player% &6has been reported by &2%target% &6for &2%reason%&6."
+reports-cleared: "&6Reports cleared for &2%target%&b!"
+# Lines are separated by commas.
+reports-list-start: "&6%longline%, &2%target% &6has &2%reports% &6reports."
+reports-list-entry: "&2%count%: &6%reason% &2(%reporter%)"
+# Lines are separated by commas.
+reports-list-end: "&6%longline%"
+
+warned: "&6Warned &2%target% &6for &2%reason%&b."
+warn: "&6You have been warned for &2%reason%&b."
+warnings-cleared: "&6Warnings cleared for &2%target%&b!"
+# Lines are separated by commas.
+warnings-list-start: "&6%longline%, &2%target% &6has &2%warnings% &6warnings."
+warnings-list-entry: "&2%count%: &6%reason% &6(%issuer%)"
+# Lines are separated by commas.
+warnings-list-end: "&6%longline%"
+
+# Lines are separated by commas.
+infraction-item: "&6Warnings: &2%warnings%, &6Reports: &2%reports%, &6Report reason: &2%reason%"
+
+############################################################
+# +------------------------------------------------------+ #
+# |                        Chat                          | #
+# +------------------------------------------------------+ #
+############################################################
+
+staff-chat: "&2%player% &8» &6%message%"
+staff-chat-status: "&6Staff chat &2%status%&b."
+
+chat-clear-line: ""
+chat-cleared: "&6Chat has been cleared by &2%player%&6."
+chat-toggled: "&6Chat has been &2%status% &6by &2%player%&b."
+chat-prevented: "&6You are not allowed to chat right now!"
+chat-slowed: "&6Chat has been slowed for &2%seconds% seconds &6by &2%player%&b."
+chatting-fast: "&6You are chatting too fast!"
+
+blacklist-hover: "&6This message has been censored for &2%censoredlist%&6."
+blacklist-censor-color: ""
+blacklist-chat-format: "&2%player% &8» &6%message%"
+
+############################################################
+# +------------------------------------------------------+ #
+# |                        Vanish                        | #
+# +------------------------------------------------------+ #
+############################################################
+
+total-vanish: "&6Your total vanish has been &2%status%&b!"
+list-vanish: "&6Your list vanish has been &2%status%&b!"
+
+############################################################
+# +------------------------------------------------------+ #
+# |                       Tickets                        | #
+# +------------------------------------------------------+ #
+############################################################
+
+ticket-submitted: "&6Your ticket has been submitted! &2(#%ticket%)"
+ticket-opened: "&6Ticket &2#%ticket% &6has been marked as open by you!"
+ticket-removed: "&6Ticket &2#%ticket% &6has been marked as resolved! (%reason%)"
+ticket-response-staff: "&2#%ticket% - &6Staff: &2%player% &8» &6%message%"
+ticket-response-user: "&2#%ticket% - User: &6%player% &8» &6%message%"
+ticket: "&2#%ticket%: &6%player% &8» &6%message%"
+ticket-not-found: "&6That ticket does not exist or is closed!"
+# Lines are separated by commas.
+ticket-list-start: "&6%longline%, &2%tickets% &6open tickets"
+ticket-list-entry: "&2#%ticket% &6- &2%target%: &6%message%"
+# Lines are separated by commas.
+ticket-list-end: "&6%longline%"
+
+############################################################
+# +------------------------------------------------------+ #
+# |                       Alerts                         | #
+# +------------------------------------------------------+ #
+############################################################
+
+alert-changed: "&2%alerttype% &6alerts &2%status%&6."
+alerts-name: "&2%old% &6has changed their name to &2%new%&b!"
+alerts-mention: "&2%target% &6has mentioned your name in chat!"
+alerts-xray: "&2%target% &6has mined &2%count% %itemtype%&6! &6(&2%lightlevel%&6)"
+
+############################################################
+# +------------------------------------------------------+ #
+# |                     Staff Mode                       | #
+# +------------------------------------------------------+ #
+############################################################
+
+mode-status: "&6Staff mode has been &2%status%&b."
+mode-original-location: "&6You have been teleported back to your original location!"
+mode-random-teleport: "&6You have been randomly teleported!"
+mode-not-enough-players: "&6Not enough players are online to random teleport!"
+
+gui-reports: "&6Reports"
+gui-mine: "&6Miners"
+gui-miner: "&6%player% @ &7%locationy%"
+gui-counted: "&6%player%"
+
+# Lines are separated by commas.
+freeze: "&4&lYou have been frozen by staff Do NOT log out!, &4&lPlease Join our discord &6https://discord.gg/F2T6W8p "
+# Lines are separated by commas.
+unfrozen: "&6You have been unfrozen."
+staff-froze: "&6You froze &2%target%&6."
+staff-unfroze: "&6You unfroze &2%target%&6."
+freeze-logout: "&2%player% &6logged out while frozen!"
+
+cps-start: "&6Running CPS test on &2%target% &6for &2%seconds% &6seconds..."
+cps-finish-normal: "&2%player% &6has about &2%cps% &6CPS. &2(probably not dangerous)"
+cps-finish-max: "&4%player% &6has about &4%cps% &6CPS. &4(potentially autoclicking)"
+
+# Lines are separated by commas
+examine-food: "&6Health: &2%health%, &6Hunger: &2%hunger%"
+examine-ip: "&6IP address: &2%ipaddress%"
+examine-gamemode: "&6Gamemode: &2%gamemode%"
+examine-location: "&6Location: &2%location%"
+examine-warn: "6bWarn this user"
+examine-freeze: "&6Freeze this user"
+examine-notes: "&6Player notes:"
+# All notes are separated on new lines.
+examine-notes-note: "&6%player%: &7%note%"
+
+follow: "&6You are now &2%status% %target%&6."
+strip: "&2%player%'s &6armor has been removed!"
+
+# DO NOT CHANGE THIS UNLESS YOU KNOW WHAT YOU'RE DOING!
+lang-version: 6194

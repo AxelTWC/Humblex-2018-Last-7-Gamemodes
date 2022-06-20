@@ -1,0 +1,21 @@
+lastAccountName: shadowzfire
+timestamps:
+  login: 1503332471470
+  lastteleport: 1503332491694
+  logout: 1503332566855
+ipAddress: 109.129.198.80
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.53511330387846
+  y: 46.0
+  z: -59.40537399550336
+  yaw: -43.563213
+  pitch: 18.062162
+logoutlocation:
+  world: MainLobby
+  x: 41.951175829597254
+  y: 61.0
+  z: 3.3508531087913913
+  yaw: -9.050222
+  pitch: -18.149967

@@ -1,0 +1,7 @@
+name: JoSE_BARETTE
+uuid: 375aa3e1-c5cb-3e35-bdf2-182e3d6107b2
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

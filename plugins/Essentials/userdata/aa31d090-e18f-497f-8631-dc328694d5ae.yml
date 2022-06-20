@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Atuck123
+timestamps:
+  login: 1503803550907
+  lastteleport: 1503803553394
+  logout: 1503803808831
+ipAddress: 37.24.150.10
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 85.73657
+  pitch: 35.31216
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

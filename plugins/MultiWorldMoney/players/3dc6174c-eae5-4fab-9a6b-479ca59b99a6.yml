@@ -1,0 +1,15 @@
+name: MentalEm
+uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+logoffworld: MainLobby
+balances:
+  FFA: 0.0
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  Factions: 426167.0
+  Factions_Nether: 0.0
+  ASkyBlock: 0.0
+  lobby_practice: 500.0
+  SkyBlock: 0.0
+  LionHUB: 0.0
+  FFAnormal: 0.0
+  KitPvP: 0.0

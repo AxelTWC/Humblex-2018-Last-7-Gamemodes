@@ -1,0 +1,19 @@
+prefix: '&7[&6DeathBan&7]'
+death-broadcast: true
+deathban-broadcast: '&a%player% &ewas banned for &e(&4Deathban&e)'
+configreload: '&aConfig successfully reloaded!'
+nopermission: '&cYou don''t have permission to use this command'
+targetnull: '&cPlease specify a player'
+targetnotfound: '&cPlayer not online'
+reset-message: '&2%player%&a''s deathcount is now set to &20&a!'
+lightningondeath: true
+dropitemsondeath: false
+hcf-mode: true
+banonreset: 6
+classic-deathban-command: tempban %player% 30m &6Deathban
+hcf-deathban-command1: tempban %player% 30m &6Deathban
+hcf-deathban-command2: tempban %player% 1h &6Deathban
+hcf-deathban-command3: tempban %player% 1h 30m &6Deathban
+hcf-deathban-command4: tempban %player% 2h &6Deathban
+hcf-deathban-command5: tempban %player% 2h 30m &6Deathban
+hcf-deathban-command6: tempban %player% 3d &6Last Deathban

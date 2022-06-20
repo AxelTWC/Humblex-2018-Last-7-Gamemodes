@@ -1,0 +1,7 @@
+name: ballinlikecurry
+uuid: 146056bb-d226-3734-a92d-84fdd9f1698a
+logoffworld: MainLobby
+balances:
+  MainLobby: 500.0
+  UhcMeetup: 0.0
+  LionHUB: 0.0

@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1499592602106
+  login: 1499592408664
+  logout: 1499592600351
+lastlocation:
+  world: MainLobby
+  x: -111.22221781941582
+  y: 4.0
+  z: 2.476431080752019
+  yaw: 265.15942
+  pitch: 3.600015
+lastAccountName: OvenBakedBlacks
+ipAddress: 32.208.127.200
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 44.0
+  z: -62.5
+  yaw: -179.4159
+  pitch: 90.0

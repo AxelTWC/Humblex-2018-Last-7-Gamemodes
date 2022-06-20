@@ -1,0 +1,31 @@
+lastlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: 3.6817904
+  pitch: 7.018321
+lastAccountName: bc_assassin
+timestamps:
+  login: 1521419992349
+  logout: 1521420105210
+  lastteleport: 1521420011741
+  kits:
+    starter: 1521420077211
+ipAddress: 174.218.6.35
+logoutlocation:
+  world: HCF
+  x: 0.5962093412011392
+  y: 69.0
+  z: 0.9348325441221711
+  yaw: -0.08090066
+  pitch: 2.5897145
+money: '0.0'
+homes:
+  home:
+    world: HCF
+    x: -21.690212278754938
+    y: 67.0
+    z: 233.69044129638357
+    yaw: -178.94278
+    pitch: 73.47376

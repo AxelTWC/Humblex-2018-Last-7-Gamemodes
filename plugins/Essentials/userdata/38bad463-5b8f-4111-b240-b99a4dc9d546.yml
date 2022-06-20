@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: TryHh
+timestamps:
+  login: 1504216263645
+  lastteleport: 1504200814007
+  logout: 1504216270034
+ipAddress: 80.131.212.110
+lastlocation:
+  world: LionHUB
+  x: 92.72159946692211
+  y: 47.0
+  z: -49.60718987685285
+  yaw: 0.5386637
+  pitch: 11.488936
+logoutlocation:
+  world: LionHUB
+  x: 93.03211167960491
+  y: 46.0
+  z: -66.24661735327511
+  yaw: 12.236807
+  pitch: 28.112162

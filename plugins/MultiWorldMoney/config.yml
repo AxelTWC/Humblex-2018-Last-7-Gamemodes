@@ -1,0 +1,7 @@
+# Config file
+
+# Message shown when changing worlds. Color codes using & work. [balance] will be
+# replaced with a formatted amount, e.g., $50.00 or 50 coins.
+# If shownewworldmessage is false, the message will not show
+shownewworldmessage: true
+newworldmessage: "Your balance in this world is [balance]."

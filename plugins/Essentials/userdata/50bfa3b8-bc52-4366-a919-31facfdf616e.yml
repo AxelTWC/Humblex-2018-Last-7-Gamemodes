@@ -1,0 +1,24 @@
+lastAccountName: LayteO_O
+timestamps:
+  login: 1503863004921
+  lastteleport: 1503863425392
+  logout: 1503863541604
+  mute: 0
+ipAddress: 173.25.37.14
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: 31.33616768179347
+  y: 66.4907837214619
+  z: -0.2988862062840584
+  yaw: -273.11224
+  pitch: 12.409234
+logoutlocation:
+  world: MainLobby
+  x: 22.098839606649285
+  y: 104.82131472158574
+  z: -1.566011272916319
+  yaw: 345.22256
+  pitch: 86.47361
+nickname: LayteO_O
+muted: false

@@ -1,0 +1,22 @@
+# DiscardByDropping V1.0 For Minecraft 1.8 By Rascal_Two, TheRealRascalTwo@Gmail.com
+#
+# Description:
+# Makes Any Item Listed Disappear On Drop
+# 
+# Commands:
+# /discardbydropping					-		Give Description Of The Plugin And List Disappearing Items.
+# 
+# Permissions:
+# discardbydropping.BypassDiscard		-		Players With This Permission Can Drop Bowls Even If BowlsDisapearOnDrop Is Set To True.
+# discardbydropping.SeeList		-		Players With This Permission Can Drop Bowls Even If BowlsDisapearOnDrop Is Set To True.
+#
+# Configuration
+# DiscardedItems						-		List Of Items To Disappear when Dropped.
+# AntiDropperDispensor					-		Prevents Dropppers & Dispensors From Dropping Listed Items Also.
+#
+# Here Is A Website With The List Of Acceptable Items Names
+# https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+#
+DiscardedItems:
+- BOWL
+AntiDropperDispensor: true

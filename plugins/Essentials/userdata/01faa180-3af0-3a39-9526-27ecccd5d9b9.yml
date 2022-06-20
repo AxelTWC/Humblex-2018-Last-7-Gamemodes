@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 24.28410025425552
+  y: 58.0
+  z: -4.1724507961590875
+  yaw: 311.5001
+  pitch: 6.3500147
+lastAccountName: Mmicky
+timestamps:
+  login: 1513438745884
+  logout: 1513438950448
+  lastteleport: 1513438803707
+ipAddress: 109.245.175.7
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+money: '0.0'

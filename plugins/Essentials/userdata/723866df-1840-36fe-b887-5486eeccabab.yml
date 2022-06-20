@@ -1,0 +1,21 @@
+lastAccountName: ColeHDS
+timestamps:
+  login: 1502357644966
+  lastteleport: 1502357122032
+  logout: 1502358693547
+ipAddress: 78.97.32.72
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: 30.99161550239637
+  y: 57.0
+  z: 17.474759312862762
+  yaw: -240.98807
+  pitch: 2.2532694
+logoutlocation:
+  world: MainLobby
+  x: 26.443951439458804
+  y: 58.0
+  z: 1.3479141552695595
+  yaw: 24.646118
+  pitch: 32.550034

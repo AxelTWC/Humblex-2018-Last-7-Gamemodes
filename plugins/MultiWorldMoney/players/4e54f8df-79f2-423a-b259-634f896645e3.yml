@@ -1,0 +1,6 @@
+name: HazeMP
+uuid: 4e54f8df-79f2-423a-b259-634f896645e3
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,21 @@
+lastAccountName: 0tiskat
+timestamps:
+  login: 1506720940000
+  logout: 1506721122267
+  lastteleport: 1506720947400
+ipAddress: 24.178.44.84
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 29.385638355006243
+  y: 57.0
+  z: -15.357211715888186
+  yaw: 234.68166
+  pitch: 16.360817
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

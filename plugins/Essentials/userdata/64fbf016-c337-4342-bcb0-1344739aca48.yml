@@ -1,0 +1,23 @@
+lastlocation:
+  world: lobby_practice
+  x: -21.03066819365728
+  y: 57.0
+  z: -5225.931155405599
+  yaw: 358.0
+  pitch: 0.0
+lastAccountName: KevinNeverDies
+timestamps:
+  login: 1512267700614
+  lastteleport: 1512267707921
+  kits:
+    starter: 1512264390793
+  logout: 1512267797392
+ipAddress: 24.47.158.251
+money: '0.0'
+logoutlocation:
+  world: lobby_practice
+  x: -27.787798727734035
+  y: 57.0
+  z: -5153.466658818794
+  yaw: 195.47067
+  pitch: 12.809475

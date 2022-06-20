@@ -1,0 +1,23 @@
+lastlocation:
+  world: Factions
+  x: 356.16943210025136
+  y: 72.0
+  z: -230.26769458768035
+  yaw: 50.741364
+  pitch: 20.107626
+lastAccountName: Jandorr
+timestamps:
+  login: 1517539440820
+  lastteleport: 1517539747184
+  kits:
+    starter: 1517539551262
+  logout: 1517539822616
+ipAddress: 190.30.141.32
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 122.482793792707
+  y: 70.0625
+  z: -311.1072150400128
+  yaw: 179.03818
+  pitch: 1.6181028

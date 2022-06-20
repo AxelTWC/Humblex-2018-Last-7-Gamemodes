@@ -1,0 +1,10 @@
+name: CODsmash
+uuid: d707aca7-94c9-3491-a0d2-99b5e2bf088f
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  FFA: 0.0
+  lobby_practice: 0.0
+  FFACombo: 0.0
+  LionHUB: 1166.0
+  FFASG: 0.0

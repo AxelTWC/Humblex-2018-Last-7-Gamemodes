@@ -1,0 +1,27 @@
+###########################
+#   TeleportBowReloaded	  #
+#      by Barak3ttt       #
+#     (He likes taco)     #
+###########################
+
+
+Give_TeleportBow_on_join: true
+#You are able to choose if you want to give to everyone a TeleportBow on join
+
+TeleportBow_Name: "&6&lTeleport Bow"
+#You simply choose the Teleport Bow's name... Nothing more I can say
+
+TeleportArrow_Name: "&6&lMagic Arrow"
+#Same as above, but this time you choose arrow's name instead of bows!
+
+TeleportBow_Slot: 1
+#You can set the Teleport Bow's slot (I made it so it starts from 1-9, Usually it starts from 0-8)
+
+TeleportArrow_Slot: 9
+#Again... same as above, you just set the arrow's slot!
+
+TeleportBow_Permission: "null"
+#You can set a permission for the usage + on join bow and arrow (if it's set to true) of the Teleport Bow
+
+TeleportBow_Sound_Effect: true
+#You are able to choose if you want to play sound of "Meow" on teleport

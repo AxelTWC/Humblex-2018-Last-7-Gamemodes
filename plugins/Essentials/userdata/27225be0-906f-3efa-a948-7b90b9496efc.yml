@@ -1,0 +1,22 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: 232.58966
+  pitch: 6.2880783
+lastAccountName: axftg
+timestamps:
+  login: 1514406213316
+  lastteleport: 1512746514394
+  logout: 1512747129641
+ipAddress: 176.45.254.123
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -0.47781372
+  pitch: -3.5336792
+money: '500.0'

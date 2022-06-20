@@ -1,0 +1,31 @@
+lastlocation:
+  world: LionHUB
+  x: 942.7096201061898
+  y: 38.0
+  z: -466.878394341837
+  yaw: 171.87236
+  pitch: 59.699986
+lastAccountName: TeenTitansGoe
+timestamps:
+  login: 1512773045708
+  lastteleport: 1512773067005
+  kits:
+    starter: 1512770157741
+  logout: 1512773215954
+ipAddress: 107.205.175.248
+money: '13070.0'
+logoutlocation:
+  world: Factions
+  x: 122.0
+  y: 71.0
+  z: -312.0
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: Factions
+    x: 27.396704157863965
+    y: 71.0
+    z: -544.0269498190396
+    yaw: 51.423836
+    pitch: -8.24999

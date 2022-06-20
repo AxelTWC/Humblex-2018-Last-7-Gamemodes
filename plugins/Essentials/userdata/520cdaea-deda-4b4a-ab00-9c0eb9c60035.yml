@@ -1,0 +1,21 @@
+lastAccountName: Iquit
+timestamps:
+  login: 1506112142897
+  lastteleport: 1506112207748
+  logout: 1506112462974
+ipAddress: 184.60.118.42
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.05561790543203
+  y: 46.0
+  z: -66.09932358287696
+  yaw: 313.29614
+  pitch: 9.678997
+logoutlocation:
+  world: MainLobby
+  x: -1.0
+  y: 60.0
+  z: 0.0
+  yaw: 256.89117
+  pitch: 33.664307

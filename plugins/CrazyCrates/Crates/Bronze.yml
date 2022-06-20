@@ -1,0 +1,41 @@
+Crate:
+  CrateType: QuickCrate
+  CrateName: '&8Bronze Crate'
+  StartingKeys: 0
+  InGUI: false
+  Slot: 14
+  OpeningBroadCast: true
+  BroadCast: '%Prefix%&6&l%Player% &7is opening a &e&lBronze Crate&7.'
+  Item: '54'
+  Glowing: false
+  Name: '&e&lBroze Crate'
+  Lore:
+    - '&7This crate contains bronze items for hcf.'
+    - '&7You have &6%Keys% keys &7to open this crate with.'
+    - '&7&l(&e&l!&7&l) Right click to view rewards.'
+  PhysicalKey:
+    Name: '&e&lBronze Crate &c&lKey'
+    Lore:
+      - '&7A special Key'
+      - '&7For a bronze Crate.'
+    Item: '131'
+    Glowing: True
+  Prizes:
+    1:
+      DisplayName: '&9&lBronze Helmet'
+      DisplayItem: '310'
+      DisplayAmount: 1
+      Lore:
+        - '&7Bronze Helmet.'
+        - '&6&lChance: &c&l35%'
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:1'
+        - 'DURABILITY:1"
+      MaxRange: 100
+      Chance: 35
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:304, Amount:1, Name:&aFancy Pants, PROTECTION_ENVIRONMENTAL:2, DURABILITY:1'
+      Messages:
+        - '&7You just won a &9&lBronze Helmet&7.'

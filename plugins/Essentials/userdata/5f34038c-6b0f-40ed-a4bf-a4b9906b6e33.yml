@@ -1,0 +1,21 @@
+lastAccountName: SnurdleTaps
+timestamps:
+  login: 1505083700301
+  lastteleport: 1505083731394
+  logout: 1505083909776
+ipAddress: 98.165.226.4
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.57145413034259
+  y: 46.0
+  z: -58.714683960156975
+  yaw: 0.71649116
+  pitch: 6.4255724
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

@@ -1,0 +1,38 @@
+lastlocation:
+  world: ASkyBlock
+  x: 0.0
+  y: 118.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+lastAccountName: MoneyKiller234
+timestamps:
+  login: 1513430242908
+  logout: 1513431551494
+  lastteleport: 1513430518755
+ipAddress: 85.232.218.85
+logoutlocation:
+  world: ASkyBlock
+  x: 278.7188164129845
+  y: 123.0
+  z: 31.550184390616202
+  yaw: -270.19342
+  pitch: 20.803722
+money: '0.0'
+afk: false
+nickname: §4§lMinionGamer§4
+homes:
+  home:
+    world: Factions
+    x: -211.59113759220637
+    y: 19.0
+    z: 231.6465542847944
+    yaw: -267.53586
+    pitch: 0.2125448
+  island:
+    world: ASkyBlock
+    x: -801.5
+    y: 120.0
+    z: -399.5
+    yaw: -90.57004
+    pitch: 1.7020727

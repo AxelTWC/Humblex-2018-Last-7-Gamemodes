@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Sammybammy26
+timestamps:
+  login: 1501583308602
+  logout: 1501583511690
+  lastteleport: 1501583334202
+ipAddress: 218.252.94.7
+logoutlocation:
+  world: MainLobby
+  x: 11.086149281239221
+  y: 57.0
+  z: -6.977291695117375
+  yaw: 235.11243
+  pitch: 5.490897
+lastlocation:
+  world: LionHUB
+  x: 93.56573759917228
+  y: 46.0
+  z: -56.029102695802884
+  yaw: -1.2632126
+  pitch: 11.762165

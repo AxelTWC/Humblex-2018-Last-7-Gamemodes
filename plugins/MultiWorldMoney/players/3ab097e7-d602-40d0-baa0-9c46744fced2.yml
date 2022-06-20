@@ -1,0 +1,9 @@
+name: iShadowStrqfes
+uuid: 3ab097e7-d602-40d0-baa0-9c46744fced2
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  Factions: 0.0
+  lobby_practice: 0.0
+  parkour: 0.0
+  LionHUB: 500.0

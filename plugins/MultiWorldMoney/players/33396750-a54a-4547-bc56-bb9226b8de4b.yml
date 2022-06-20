@@ -1,0 +1,8 @@
+name: RealSlax
+uuid: 33396750-a54a-4547-bc56-bb9226b8de4b
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  lobby_practice: 0.0
+  LionHUB: 0.0

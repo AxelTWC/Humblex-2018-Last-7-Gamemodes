@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: YMWong
+timestamps:
+  login: 1504107716704
+  lastteleport: 1504107768140
+  logout: 1504107898786
+ipAddress: 175.139.114.240
+lastlocation:
+  world: LionHUB
+  x: 93.45383869997022
+  y: 46.0
+  z: -94.54301024153264
+  yaw: -180.06119
+  pitch: 9.23894
+logoutlocation:
+  world: LionHUB
+  x: 93.56402586634795
+  y: 45.0
+  z: -61.30000001192093
+  yaw: 357.6868
+  pitch: 11.162167

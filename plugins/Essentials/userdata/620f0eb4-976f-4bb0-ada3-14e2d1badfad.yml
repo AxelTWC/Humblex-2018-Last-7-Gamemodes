@@ -1,0 +1,41 @@
+lastAccountName: Evenity
+timestamps:
+  login: 1518321042418
+  lastteleport: 1518322008125
+  logout: 1518322722955
+  kits:
+    diamond: 1517712289178
+    starter: 1518290357677
+    keys: 1511987550945
+    archer: 1517855090485
+    rouge: 1512345032715
+    god: 1512345045565
+    miner: 1517854805041
+    bard: 1512345038014
+ipAddress: 173.19.132.183
+socialspy: false
+lastlocation:
+  world: HCF
+  x: 1138.0
+  y: 66.0
+  z: 1129.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: HCF
+  x: 1180.8524622145776
+  y: 68.0
+  z: 1128.1751259860202
+  yaw: 293.57584
+  pitch: 19.667444
+money: '0.0'
+godmode: false
+afk: false
+homes:
+  home:
+    world: HCF
+    x: -472.292135166075
+    y: 67.0
+    z: 150.49132130867665
+    yaw: -334.91525
+    pitch: -3.414901

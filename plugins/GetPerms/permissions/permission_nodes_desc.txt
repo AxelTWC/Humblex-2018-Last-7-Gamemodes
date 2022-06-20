@@ -1,0 +1,1463 @@
+----MotdManager----
+motdmanager.add - Allow use add command
+motdmanager.remove - Allow use remove command
+motdmanager.list - Allow use list command
+motdmanager.maxplayer - Allow use maxplayer command
+motdmanager.reload - Allow use reload command
+
+----NamePlates----
+nameplates.version - Display NamePlates version and information
+nameplates.refresh - Refresh players, colours and player list
+nameplates.reload - Reload NamePlates
+nameplates.help - List of plugin commands and usage
+
+----PlugMan----
+plugman.admin - Allows use of all PlugMan commands.
+plugman.update - Allows the player to see the update alerts.
+plugman.help - Allows use of the help command.
+plugman.list - Allows use of the list command.
+plugman.dump - Allows use of the dump command.
+plugman.info - Allows use of the info command.
+plugman.usage - Allows use of the usage command.
+plugman.lookup - Allows use of the lookup command.
+plugman.enable - Allows use of the enable command.
+plugman.enable.all - Allows use of the enable all command.
+plugman.disable - Allows use of the disable command.
+plugman.disable.all - Allows use of the disable all command.
+plugman.restart - Allows use of the restart command.
+plugman.restart.all - Allows use of the restart all command.
+plugman.load - Allows use of the load command.
+plugman.reload - Allows use of the reload command.
+plugman.unload - Allows use of the unload command.
+plugman.check - Allows use of the check command.
+plugman.check.all - Allows use of the check all command.
+
+----MineStats----
+minestats.admin - Permission to access /minestats
+
+----AntiFire----
+antifire.* - Gives access to ALL antifire features
+antifire.burnentity - allows setting fire to any entity
+antifire.startfire - Allows user to start a fire. Can be overridden by fireproof blocklist
+antifire.logview - Allows user to view fire start log in game.
+antifire.teleport - Allows user to teleport to fire start locations
+antifire.fireman - Allows user to use 'extinguish' command on all worlds
+antifire.admin - Allows user to query & set configs & flush logs
+antifire.burnmob - No description given
+antifire.burnplayer - Allows user to set fire to players with fire aspect weapons. Overrides noburnplayerby.player.
+antifire.placelava - Allows user to place lava. Lava fires can be nerfed elsewhere
+
+----GetPerms----
+getperms.* - Allows player access to all GetPerms commands.
+getperms.reload - Allows player to reload the GetPerms config file.
+getperms.regen - Allows player to regenerate permission list files.
+getperms.update - Allows player to run the update task.
+
+----Skript----
+skript.* - No description given
+skript.effectcommands - Allows to use effects as commands, e.g. '!set health to 10'
+skript.admin - Allows to use administrative commands and to recieve notifications of new versions.
+
+----PerWorldChatPlus----
+pwcp.bypass - Allows a player to chat globally.
+pwcp.spy - Allows players to see chats from all worlds.
+pwcp.notify.update - Notifies the player of an update for PerWorldChatPlus.
+pwcp.alert - Allows players to set alert words and see messages with them in it.
+pwcp.global - Allows use of the gc or GlobalChat command.
+pwcp.timedglobal - Allows turning on and off Timed Global Chat.
+pwcp.mute - Allows use of muting your own chat as to reduce spam (also useful for recording videos).
+pwcp.chat.color - Allows use of changing your own default ChatColor.
+pwcp.chat.color.other - Allows use of changing another player's default ChatColor.
+
+----LaggRemover----
+lr.help - Gives access to the help command.
+lr.master - Gives access to the master listing of all performance data from the server.
+lr.lagg - Gives access to view the Ticks Per a Second(TPS) of the server.
+lr.world - View data about a certain world.
+lr.clear - Allows you to clear all items on the ground or entities in a world.
+lr.unload - Allows players to unload all chunks in a world.
+lr.gc - Allows players to run LaggRemovers garbage collector to free RAM.
+lr.update - Allows LaggRemover to notify a player when an update is downloaded.
+lr.nochatdelay - Makes a player imune to the chat delay.
+lr.modules - Allows you to list loaded modules.
+lr.ram - Allows players to list the ram avaliable on the server.
+lr.protocol - Allows players to view/manipulate protocols.
+
+----ProtocolLib----
+protocol.* - Gives access to everything.
+protocol.admin - Able to initiate the update process, and can configure debug mode.
+protocol.info - Can read update notifications and error reports.
+
+----AdvancedPortals----
+advancedportals.* - Gives access to all commands
+advancedportals.createportal - Allows you to create portals
+advancedportals.createportal.commandlevel.* - Gives access to all level raisers
+advancedportals.createportal.commandlevel.op - Allows you to increase the users level temporaily to op
+advancedportals.createportal.commandlevel.perms - Allows you to increase the users level temporaily to have all perms
+advancedportals.createportal.commandlevel.console - Executes command in the console
+advancedportals.portal - Allows use of portal commands
+advancedportals.build - Allows you to build in the portal regions
+advancedportals.desti - Gives access to all desti commands
+advancedportals.warp.* - Access to all warps (not really used tbh)
+
+----VotingPlugin----
+VotingPlugin.Player - Allows basic access player commands
+VotingPlugin.Mod - Allows mod access player commands
+VotingPlugin.Admin - Allows admin access player commands
+VotingPlugin.Login.RemindVotes - Allows players to get remined on login if they can vote
+VotingPlugin.Admin.Debug - Permission to view debug info ingame
+VotingPlugin.Signs.Create - Allows access to create signs
+VotingPlugin.TopVoter.Ignore - Allows you to be exempt from top voter
+
+----FastAsyncWorldEdit----
+fawe.bypass - No description given
+fawe.admin - No description given
+fawe.stream - No description given
+fawe.fixlighting - No description given
+fawe.reload - No description given
+
+----TreeAssist----
+treeassist.destroy.* - allows to use tree-assist for all trees
+treeassist.destroy.birch - allows to use tree-assist for birch trees
+treeassist.destroy.jungle - allows to use tree-assist for jungle trees
+treeassist.destroy.oak - allows to use tree-assist for oak trees
+treeassist.destroy.spruce - allows to use tree-assist for spruce trees
+treeassist.destroy.acacia - allows to use tree-assist for acacia trees
+treeassist.destroy.darkoak - allows to use tree-assist for dark oak trees
+treeassist.destroy.brownshroom - allows to use tree-assist for brown shrooms
+treeassist.destroy.redshroom - allows to use tree-assist for red shrooms
+treeassist.addtool - No description given
+treeassist.purge - No description given
+treeassist.reload - No description given
+treeassist.removetool - No description given
+treeassist.replant - No description given
+treeassist.toggle - No description given
+treeassist.toggle.global - No description given
+treeassist.toggle.other - No description given
+treeassist.tool - No description given
+
+----Tab----
+tab.use - Allow command access
+
+----FastLogin----
+fastlogin.bukkit.command.premium - Label themselves as premium
+fastlogin.bukkit.command.premium.other - Label others as premium
+fastlogin.bukkit.command.cracked - Label themselves as cracked
+fastlogin.bukkit.command.cracked.other - Label others as cracked
+
+----PlayerSettings----
+settings.* - All PlayerSettings permissions
+settings.toggles - All PlayerSettings toggles
+settings.reload - Reloads plugin configuration
+settings.speed - Permission for toggling Speed
+settings.jump - Permission for toggling Jump
+settings.fly - Permission for toggling Fly
+settings.vanish - Permission for toggling Vanish
+settings.radio - Permission for toggling Radio
+settings.doublejump - Permission for toggling DoubleJump
+settings.stacker - Permission for toggling Stacker
+settings.visibility - Permission for toggling Visibility
+settings.chat - Permission for toggling Chat
+
+----EmeraldLauncher2----
+launcher.launch - Can they be launched
+
+----GWEN----
+AAC.* - Gives access to all AAC permissions.
+AAC.version - Display version information
+AAC.unban - Unban a player
+AAC.kick - Kill and kick a player
+AAC.ban - Ban a player
+AAC.bypass - Be exempt from AAC hacking checks
+AAC.admin - Open a GUI to manage AAC
+AAC.debug - Save a file with detailed information on a player
+AAC.verbose - View AAC's debug messages.
+AAC.message - Send a message to players from AAC
+AAC.notify - Send and recieve messages to all staff
+AAC.crash - Crash a player
+
+----SparklingTools----
+tools.upgrade - Gives access to add enchantments to emerald tools
+tools.repair - Gives access to repair emerald tools
+
+----RealPing----
+realping.ping - States your ping to the server
+realping.ping.others - States another players ping to the server
+
+----Essentials----
+essentials.* - Give players with op everything by default
+
+----VeinMiner----
+veinminer.reload - Allow the use of the /veinminer reload sub-command
+veinminer.toggle - Allow the use of the /veinminer toggle sub-command
+veinminer.veinmine.* - Allow the usage of the VeinMiner utility
+veinminer.veinmine.pickaxe - Allow the usage of the VeinMiner utility under the "Pickaxe" category
+veinminer.veinmine.axe - Allow the usage of the VeinMiner utility under the "Axe" category
+veinminer.veinmine.shovel - Allow the usage of the VeinMiner utility under the "Shovel" category
+veinminer.veinmine.hoe - Allow the usage of the VeinMiner utility under the "Hoe" category
+veinminer.veinmine.shears - Allow the usage of the VeinMiner utility under the "Shears" category
+veinminer.veinmine.all - Allow the usage of the VeinMiner utility under the "All" category
+veinminer.blocklist.* - Allow the use of the /veinminer blocklist command
+veinminer.blocklist.add - Allow the use of the /veinminer blocklist add <id> command
+veinminer.blocklist.remove - Allow the use of the /veinminer blocklist remove <id> command
+veinminer.blocklist.list.* - Allow the use of the /veinminer blocklist list command
+veinminer.blocklist.list.pickaxe - Allow the use of the "/veinminer blocklist list pickaxe" subcommand
+veinminer.blocklist.list.axe - Allow the use of the "/veinminer blocklist list axe" subcommand
+veinminer.blocklist.list.shovel - Allow the use of the "/veinminer blocklist list shovel" subcommand
+veinminer.blocklist.list.hoe - Allow the use of the "/veinminer blocklist list hoe" subcommand
+veinminer.blocklist.list.shears - Allow the use of the "/veinminer blocklist list shears" subcommand
+veinminer.blocklist.list.all - Allow the use of the "/veinminer blocklist list all" subcommand
+
+----ClearLag----
+lagg.clear - Permission to clear lag
+lagg.reload - Permission to reload config from disk
+lagg.check - Permission to check
+lagg.killmobs - Permission to kill mobs
+lagg.unloadchunks - Permission to unload chunks
+lagg.help - Permission to see commands
+lagg.gc - Permission gc
+lagg.tps - Permission to see tps
+
+----ArenaPvP----
+arenapvp.party.* - Gives access to all party commands
+arenapvp.party.duel.* - Gives access to all duel party kits
+arenapvp.admin.* - Gives access to all admin commands
+arenapvp.setinv.* - Gives access to all setinv kits
+arenapvp.ranked.* - Gives access to all ranked kits
+arenapvp.unranked.* - Gives access to all unranked kits
+arenapvp.duel.* - Gives access to all duel kits
+arenapvp.* - Gives access to all commands
+arenapvp.rankeds - Ilimited rankeds.
+arenapvp.unrankeds - Ilimited unrankeds
+arenapvp.toggleduels - Toggle duel request.
+arenapvp.blockbreakbypass - Block break when the player not are playing
+arenapvp.blockbuildbypass - Block place when the player not are playing
+arenapvp.bypasscommands - Use commands in game
+arenapvp.itemoptions - Give the custom item
+arenapvp.setinv - Set hotbar
+arenapvp.elo - See elo
+arenapvp.elo.others - Se elo of others players
+arenapvp.viewrankeds - View rankeds and unrankeds left
+arenapvp.stats - View stats
+arenapvp.stats.others - View stats of others players
+arenapvp.spec - Spec a player
+arenapvp.seeinventory - See las inventory of the rival.
+arenapvp.duelaccept - Duel accept
+arenapvp.duelgui - Duel open gui (kit)
+arenapvp.meetup.join - Meetup join
+arenapvp.meetup.spec - Meetup auto spec
+arenapvp.party.create - Party create
+arenapvp.party.accept - Party accept
+arenapvp.party.promote - Party promote
+arenapvp.party.invite - Party invite a player
+arenapvp.party.kick - Party kick
+arenapvp.party.actions.ffa - Party, actions ffa
+arenapvp.party.partychat - Use party chat
+arenapvp.party.duel.builduhc - Use kit
+arenapvp.party.duel.pots - Use kit
+arenapvp.party.duel.mcsg - Use kit
+arenapvp.party.duel.ironbuild - Use kit
+arenapvp.party.duel.potsdebuff - Use kit
+arenapvp.party.duel.iron - Use kit
+arenapvp.party.duel.diamond - Use kit
+arenapvp.party.duel.gapple - Use kit
+arenapvp.party.duel.vanilla - Use kit
+arenapvp.party.duel.uhc - Use kit
+arenapvp.party.duel.soup - Use kit
+arenapvp.party.duel.finaluhc - Use kit
+arenapvp.party.duel.combobuild - Use kit
+arenapvp.party.duel.combofly - Use kit
+arenapvp.admin.arenalist - See arenalist
+arenapvp.admin.seeavailables - Se availables arenas
+arenapvp.admin.dueldisable - Disable duels
+arenapvp.admin.duelenable - Enable duels
+arenapvp.admin.setelo - Set elo
+arenapvp.admin.setrankeds - Set all rankeds
+arenapvp.admin.setunrankeds - Set all unrankeds
+arenapvp.admin.bmap - Configure a map
+arenapvp.admin.setlobby - Set lobby
+arenapvp.admin.setlobbyhotbar - Set lobby hotbar
+arenapvp.admin.setflatmysql - Set lobby hotbar
+arenapvp.admin.reload - Reload
+arenapvp.admin.seepartychat - Reload
+arenapvp.admin.editkits - Edit the kits
+arenapvp.setinv.builduhc - Set hotbar
+arenapvp.setinv.pots - Set hotbar
+arenapvp.setinv.mcsg - Set hotbar
+arenapvp.setinv.ironbuild - Set hotbar
+arenapvp.setinv.potsdebuff - Set hotbar
+arenapvp.setinv.iron - Set hotbar
+arenapvp.setinv.diamond - Set hotbar
+arenapvp.setinv.gapple - Set hotbar
+arenapvp.setinv.vanilla - Set hotbar
+arenapvp.setinv.uhc - Set hotbar
+arenapvp.setinv.soup - Set hotbar
+arenapvp.setinv.finaluhc - Set hotbar
+arenapvp.setinv.combobuild - Set hotbar
+arenapvp.setinv.combofly - Set hotbar
+arenapvp.ranked.builduhc - Ranked matches
+arenapvp.ranked.pots - Ranked matches
+arenapvp.ranked.mcsg - Ranked matches
+arenapvp.ranked.ironbuild - Ranked matches
+arenapvp.ranked.potsdebuff - Ranked matches
+arenapvp.ranked.iron - Ranked matches
+arenapvp.ranked.diamond - Ranked matches
+arenapvp.ranked.gapple - Ranked matches
+arenapvp.ranked.vanilla - Ranked matches
+arenapvp.ranked.uhc - Ranked matches
+arenapvp.ranked.soup - Ranked matches
+arenapvp.ranked.finaluhc - Ranked matches
+arenapvp.ranked.combobuild - Ranked matches
+arenapvp.ranked.combofly - Ranked matches
+arenapvp.unranked.builduhc - Unranked matches
+arenapvp.unranked.pots - Unranked matches
+arenapvp.unranked.mcsg - Unranked matches
+arenapvp.unranked.ironbuild - Unranked matches
+arenapvp.unranked.potsdebuff - Unranked matches
+arenapvp.unranked.iron - Unranked matches
+arenapvp.unranked.diamond - Unranked matches
+arenapvp.unranked.gapple - Unranked matches
+arenapvp.unranked.vanilla - Unranked matches
+arenapvp.unranked.uhc - Unranked matches
+arenapvp.unranked.soup - Unranked matches
+arenapvp.unranked.finaluhc - Unranked matches
+arenapvp.unranked.combobuild - Unranked matches
+arenapvp.unranked.combofly - Unranked matches
+arenapvp.duel.builduhc - Duel choose kit
+arenapvp.duel.pots - Duel choose kit
+arenapvp.duel.mcsg - Duel choose kit
+arenapvp.duel.ironbuild - Duel choose kit
+arenapvp.duel.potsdebuff - Duel choose kit
+arenapvp.duel.iron - Duel choose kit
+arenapvp.duel.diamond - Duel choose kit
+arenapvp.duel.gapple - Duel choose kit
+arenapvp.duel.vanilla - Duel choose kit
+arenapvp.duel.uhc - Duel choose kit
+arenapvp.duel.soup - Duel choose kit
+arenapvp.duel.finaluhc - Duel choose kit
+arenapvp.duel.combobuild - Duel choose kit
+arenapvp.duel.combofly - Duel choose kit
+
+----Vault----
+vault.admin - Notifies the player when vault is in need of an update.
+
+----LWC----
+lwc.* - Full administrative access to LWC
+lwc.protect - Gives the ability to basic LWC usage (almost everything except LWC admin.)
+lwc.admin - Gives you absolutely power over LWC. As an LWC admin, you have no restrictions.
+lwc.allcommands - Gives you access to every LWC command. Without lwc.admin or lwc.mod, you cannot open protections you do not own.
+lwc.shownotices - Shows LWC notices
+lwc.mod - Allows you to open anyone's protection but not remove them
+lwc.deny - Denys you access to any block LWC can protect. For example, with this permission set, you cannot open even unprotected chests (if protectable.)
+lwc.create.* - Allows you to create every basic protection (public, private, password.)
+lwc.create.public - Allows you to create a public protection.
+lwc.create.password - Allows you to create a password protection.
+lwc.create.private - Allows you to create a private protection.
+lwc.modify - Allows you to modify protections you own.
+lwc.unlock - Allows you to unlock password-protected protections.
+lwc.info - Allows you to view the owner and other misc data on a protection.
+lwc.remove - Allows you to remove protections you own.
+lwc.flag.* - Gives you access to every usable flag.
+lwc.allflags - Gives you access to every usable flag.
+lwc.flag.redstone - Allows you to use the redstone flag, which enables or disables the use of redstone on a protection depending on plugin settings.
+lwc.flag.magnet - Allows you to use the magnet flag, which makes a protection such as a chest suck up dropped items in a specific radius around it.
+lwc.flag.autoclose - Allows a door to automatically close itself after 3 seconds (configurable.)
+lwc.mode.* - Gives you access to every usable mode, provided they are already disabled.
+lwc.allmodes - Gives you access to every mode, provided they are already disabled.
+lwc.mode.persist - Allows you to use the persist flag, which allows you to use commands repeatably.
+lwc.mode.droptransfer - Allows you to use the drop transfer flag, which allows you to "drop" items into your chest from far away.
+lwc.autoprotect - Allows you to auto protect LWC protections regardless of how LWC is configured
+
+----ChestCommands----
+chestcommands.economy.bypass - Bypass command costs.
+
+----MineplexAntiCheat----
+nocheatplus.checks.blockbreak.break.liquid - Allow players to break liquid.
+nocheatplus.checks.blockbreak.break - Allow the player to break special blocks.
+nocheatplus.checks.blockbreak.direction - Allow the player to bypass to Direction check.
+nocheatplus.checks.blockbreak.fastbreak - Allow the player to bypass the FastBreak check.
+nocheatplus.checks.blockbreak.frequency - Allow the player to bypass the Frequency check.
+nocheatplus.checks.blockbreak.noswing - Allow the player to bypass the NoSwing check.
+nocheatplus.checks.blockbreak.reach - Allow the player to bypass the Reach check.
+nocheatplus.checks.blockbreak.wrongblock - Allow the player to bypass the WorngBlock check.
+nocheatplus.checks.blockbreak - Allow the player to bypass all BlockBreak checks.
+nocheatplus.checks.blockinteract.direction - Allow the player to bypass to Direction check.
+nocheatplus.checks.blockinteract.reach - Allow the player to bypass the Reach check.
+nocheatplus.checks.blockinteract.speed - Allow the player to bypass the Speed check.
+nocheatplus.checks.blockinteract.visible - Allow the player to bypass the Visible check.
+nocheatplus.checks.blockinteract - Allow the player to bypass all BlockInteract checks.
+nocheatplus.checks.blockplace.against.liquids - Allow the player to place blocks against liquids.
+nocheatplus.checks.blockplace.against.air - Allow the player to place blocks against air.
+nocheatplus.checks.blockplace.against - Allow the player to place blocks against other blocks.
+nocheatplus.checks.blockplace.autosign - Allow bypassing the autosign check.
+nocheatplus.checks.blockplace.boatsanywhere - Allow the player to place boats on the ground.
+nocheatplus.checks.blockplace.direction - Allow the player to bypass to Direction check.
+nocheatplus.checks.blockplace.fastplace - Allow the player to bypass the FastPlace check.
+nocheatplus.checks.blockplace.noswing - Allow the player to bypass the NoSwing check.
+nocheatplus.checks.blockplace.reach - Allow the player to bypass the Reach check.
+nocheatplus.checks.blockplace.speed - Allow the player to bypass the Speed check.
+nocheatplus.checks.blockplace - Allow the player to bypass all BlockPlace checks.
+nocheatplus.checks.chat.captcha - Allow the player to bypass the captcha check (currently the text/commands violation handling would replace it!).
+nocheatplus.checks.chat.color - Allow the player to bypass the Color check.
+nocheatplus.checks.chat.commands - Allow the player to bypass the commands check.
+nocheatplus.checks.chat.logins - Allow the player to bypass the logins check.
+nocheatplus.checks.chat.relog - Allow the player to bypass the relog check.
+nocheatplus.checks.chat.text - Allow the player to bypass the text check.
+nocheatplus.checks.chat - Allow the player to bypass all Chat checks.
+nocheatplus.checks.combined.bedleave - Allow to bypass the bedleave check (fly, god).
+nocheatplus.checks.combined.improbable - Allow the player to bypass the Improbable check.
+nocheatplus.checks.combined.munchhausen - Allow flying with fishing rods! The check is deactivated by default, though.
+nocheatplus.checks.combined - Allow the player to bypass all combined checks.
+nocheatplus.checks.fight.angle - Allow the player to bypass the Angle check.
+nocheatplus.checks.fight.critical - Allow the player to bypass the Critical check.
+nocheatplus.checks.fight.direction - Allow the player to bypass the Direction check.
+nocheatplus.checks.fight.fastheal - Allow the player to bypass the FastHeal check.
+nocheatplus.checks.fight.godmode - Allow the player to bypass the GodMode check.
+nocheatplus.checks.fight.noswing - Allow the player to bypass the NoSwing check.
+nocheatplus.checks.fight.reach - Allow the player to bypass the Reach check.
+nocheatplus.checks.fight.selfhit - Allow the player to bypass the SelfHit check.
+nocheatplus.checks.fight.speed - Allow the player to bypass the Speed check.
+nocheatplus.checks.fight - Allow the player to bypass all Fight checks.
+nocheatplus.checks.inventory.drop - Allow the player to bypass the Drop check.
+nocheatplus.checks.inventory.fastclick - Allow the player to bypass the FastClick check.
+nocheatplus.checks.inventory.fastconsume - Allow to bypass the FastConsume check.
+nocheatplus.checks.inventory.gutenberg - Allow to bypass the Gutenberg check.
+nocheatplus.checks.inventory.instantbow - Allow the player to bypass the InstantBow check.
+nocheatplus.checks.inventory.instanteat - Allow the player to bypass the InstantEat check.
+nocheatplus.checks.inventory.items - Allow the player to bypass the items check (illegal enchantments/dupes).
+nocheatplus.checks.inventory - Allow the player to bypass all Inventory checks.
+nocheatplus.checks.moving.creativefly - Allow the player to bypass the CreativeFly check.
+nocheatplus.checks.moving.morepackets - Allow the player to bypass the MorePackets check.
+nocheatplus.checks.moving.morepacketsvehicle - Legacy permission! Use instead: nocheatplus.checks.moving.vehicle.morepackets
+nocheatplus.checks.moving.nofall - Allow the player to bypass the NoFall check.
+nocheatplus.checks.moving.passable - Allow bypassing the Passable check.
+nocheatplus.checks.moving.survivalfly.blocking - Allow the player to move without speed limits and to attack entities while blocking.
+nocheatplus.checks.moving.survivalfly.sneaking - Allow the player to move without speed limits while sneaking.
+nocheatplus.checks.moving.survivalfly.speeding - Allow the player to move at higher speeds.
+nocheatplus.checks.moving.survivalfly.sprinting - Allow the player to sprint backwards.
+nocheatplus.checks.moving.survivalfly.step - Allow the player to use the 'step' functionality of his client.
+nocheatplus.checks.moving.survivalfly - Allow the player to bypass the SurvivalFly check.
+nocheatplus.checks.moving.vehicle.morepackets - Allow bypassing the morepackets check for vehicles.
+nocheatplus.checks.moving.vehicle.envelope - Allow bypassing the moving envelope check for vehicles.
+nocheatplus.checks.moving.vehicle - Allow bypassing all checks for players moving as passengers of vehicles/other.
+nocheatplus.checks.moving - Allow the player to bypass all Moving checks.
+nocheatplus.checks.net.attackfrequency - Bypass the AttackFrequency check (attack speed).
+nocheatplus.checks.net.flyingfrequency - Bypass the FlyingFrequency check (flying packet spam).
+nocheatplus.checks.net.keepalivefrequency - Bypass the KeepAliveFrequency check (keep alive packet spam).
+nocheatplus.checks.net.packetfrequency - Bypass the PacketFrequency check (overall packet spam).
+nocheatplus.checks.net - Allow a player to bypass the net (packet) checks.
+nocheatplus.checks - Allow the player to bypass all checks.
+nocheatplus.mods.cjb.fly - Allow the player to use CJB's fly mod.
+nocheatplus.mods.cjb.radar - Allow the player to use CJB's radar.
+nocheatplus.mods.cjb.xray - Allow the player to use CJB's xray.
+nocheatplus.mods.cjb - Allow the player to use the CJB mod.
+nocheatplus.mods.journey.radar - Radar features (JourneyMap, VoxelMap).
+nocheatplus.mods.journey.cavemap - Cave map features (JourneyMap, VoxelMap).
+nocheatplus.mods.journey - Allow players too use mapping features of the JourneyMap mod (Same codes as VoxelMap).
+nocheatplus.mods.minecraftautomap.cave - Allow the player to use Minecraft AutoMap's cave mode.
+nocheatplus.mods.minecraftautomap.ores - Allow the player to use Minecraft AutoMap's ores detector.
+nocheatplus.mods.minecraftautomap.radar - Allow the player to use Minecraft AutoMap's radar.
+nocheatplus.mods.minecraftautomap - Allow the player to use the Minecraft AutoMap mod.
+nocheatplus.mods.rei.cave - Allow the player to use Rei's Minimap cave mode.
+nocheatplus.mods.rei.radar.player - Allow the player to use Rei's Minimap player radar
+nocheatplus.mods.rei.radar.animal - Allow the player to use Rei's Minimap animal radar
+nocheatplus.mods.rei.radar.mob - Allow the player to use Rei's Minimap mob radar
+nocheatplus.mods.rei.radar.slime - Allow the player to use Rei's Minimap slime radar
+nocheatplus.mods.rei.radar.squid - Allow the player to use Rei's Minimap squid radar
+nocheatplus.mods.rei.radar.other - Allow the player to use Rei's Minimap other radar
+nocheatplus.mods.rei.radar - Allow the player to use Rei's Minimap radar.
+nocheatplus.mods.rei - Allow the player to use the Rei's Minimap mod.
+nocheatplus.mods.smartmoving.climbing - Allow the player to use Smart Moving's climbing movement.
+nocheatplus.mods.smartmoving.crawling - Allow the player to use Smart Moving's crawling movement.
+nocheatplus.mods.smartmoving.flying - Allow the player to use Smart Moving's flying movement.
+nocheatplus.mods.smartmoving.jumping - Allow the player to use Smart Moving's jumping movement.
+nocheatplus.mods.smartmoving.sliding - Allow the player to use Smart Moving's sliding movement.
+nocheatplus.mods.smartmoving.swimming - Allow the player to use Smart Moving's swimming movement.
+nocheatplus.mods.smartmoving - Allow the player to use the Smart Moving mod.
+nocheatplus.mods.zombe.cheat - Allow the player to use Zombe's cheat.
+nocheatplus.mods.zombe.fly - Allow the player to use Zombe's fly mod.
+nocheatplus.mods.zombe.noclip - Allow the player to use Zombe's noclip.
+nocheatplus.mods.zombe - Allow the player to use the Zombe mod.
+nocheatplus.mods - Allow the player to use all the client mods.
+nocheatplus.notify - Receive notifications about violations in-game.
+nocheatplus.filter.command.nocheatplus - Filter permission to allow using sub commands of the /nocheatplus command. This permission should not be necessary to ever be given to any player unless the permission plugin is incompatible with certain aspects of super-perms.
+nocheatplus.filter.command - Allows use of all commands protected by the command protection, like the ncp root command. Does not give functionality but allow seeing usage and tab-completion of the command. In future there can be many children not listed in this config.
+nocheatplus.command.notify - Allow toggling notifications.
+nocheatplus.command.reload - Allow the player to reload NoCheatPlus configuration.
+nocheatplus.command.top - Allow to search violation history for top violations.
+nocheatplus.command.info - Allow to see violation info about a player.
+nocheatplus.command.inspect - Allow to see detailed information about online players.
+nocheatplus.command.exemptions - Allow to see exemptions for a player.
+nocheatplus.command.exempt - Allow to add exemptions for a player.
+nocheatplus.command.unexempt - Allow to remove exemptions from  a player.
+nocheatplus.command.ban - Allow use of the ncp ban command.
+nocheatplus.command.kick - Allow use of the ncp kick command.
+nocheatplus.command.denylist - Allow use of the ncp denylist command (view players who are denied to login right now).
+nocheatplus.command.lag - Allow use of the ncp lag command.
+nocheatplus.command.tell - Allow use of the ncp tell command.
+nocheatplus.command.delay - Allow use of the ncp delay command.
+nocheatplus.command.denylogin - Allow use of the ncp denylogin command.
+nocheatplus.command.allowlogin - Allow use of the ncp allowlogin command.
+nocheatplus.command.version - Allow use of the ncp version command.
+nocheatplus.command.removeplayer - Allow use of the ncp removeplayer command.
+nocheatplus.command.commands - Allow use of the ncp commands command.
+nocheatplus.command.log - Show various stats/debugging information. [Incomplete, experimental.]
+nocheatplus.command.reset - Reset statistics or debugging counters.
+nocheatplus.command.debug - Start logging debug information for a player (lots of output, log file).
+nocheatplus.command.stopwatch - Stop watch functionality. See tab-completion and feedback.
+nocheatplus.command.tempkick - Obsolete, use nocheatplus.command.denylogin instead.
+nocheatplus.command.unkick - Obsolete, use nocheatplus.command.allowlogin instead.
+nocheatplus.command - All command permissions, do not give lightly - if in doubt use shortcut permissions for moderators (nocheatplus.shortcut.monitor|safeadmin ...).
+nocheatplus.bypass.denylogin - Bypass the login denial, such as exists with the ncp denylogin command.
+nocheatplus.bypass - Bypass other features than checks.
+nocheatplus.shortcut.info - Info commands about players.
+nocheatplus.shortcut.monitor - All monitoring commands such as player and system info (including plugins).
+nocheatplus.shortcut.safeadmin - Permissions for "safe" administration, excluding rather critical operations like reload and action commands like ban/delay (arbitrary console commands!). Fit for "heavy" mods, include temp-kicking and exemptions, does bypass login-denial.
+nocheatplus.shortcut.cheater - Allow use of all cheating, excludes bypassing temp-kick and command protection and similar.
+nocheatplus.shortcut.bypass - Bypass everything that can be bypassed.
+nocheatplus.shortcut - Shortcut permissions designed to be somewhat "safe" to give (see children permissions).
+nocheatplus.tester - Monitoring and debugging permissions, including removing data and exemption handling for oneself.
+nocheatplus.admin.debug - Receive debugging information (or cause console logs on other occasions).
+nocheatplus.admin.notify - Obsolete, use nocheatplus.command.notify and/or nocheatplus.notify instead.
+nocheatplus.admin.reload - Obsolete, use nocheatplus.command.reload instead.
+nocheatplus.admin.info - Obsolete, use nocheatplus.command.info instead.
+nocheatplus.admin.exemptions - Obsolete, use nocheatplus.command.exemptions instead.
+nocheatplus.admin.exempt - Obsolete, use nocheatplus.command.exempt instead.
+nocheatplus.admin.unexempt - Obsolete, use nocheatplus.command.unexempt instead.
+nocheatplus.admin.ban - Obsolete, use nocheatplus.command.ban instead.
+nocheatplus.admin.kick - Obsolete, use nocheatplus.command.kick instead.
+nocheatplus.admin.kicklist - Obsolete, use nocheatplus.command.denylist instead.
+nocheatplus.admin.lag - Obsolete, use nocheatplus.command.lag instead.
+nocheatplus.admin.tell - Obsolete, use nocheatplus.command.tell instead.
+nocheatplus.admin.delay - Obsolete, use nocheatplus.command.delay instead.
+nocheatplus.admin.tempkick - Obsolete, use nocheatplus.command.denylogin instead.
+nocheatplus.admin.unkick - Obsolete, use nocheatplus.command.allowlogin instead.
+nocheatplus.admin.version - Obsolete, use nocheatplus.command.version instead.
+nocheatplus.admin.removeplayer - Obsolete, use nocheatplus.command.removeplayer instead.
+nocheatplus.admin.commands - Obsolete, use nocheatplus.command.commands instead.
+nocheatplus.admin - Give the player all administration rights (does not exclude from checks), do not give lightly - if in doubt use shortcut permissions for moderators (nocheatplus.shortcut.monitor|safeadmin ...).
+nocheatplus - Allow the player to bypass all checks and give him all administration permissions.
+
+----Citizens----
+citizens.admin - No description given
+citizens.admin.avoid-limits - No description given
+citizens.admin.remove.all - No description given
+citizens.citizens.help - No description given
+citizens.help - No description given
+citizens.npc.age - No description given
+citizens.npc.anchor - No description given
+citizens.npc.behaviour - No description given
+citizens.npc.controllable - No description given
+citizens.npc.controllable.arrow - No description given
+citizens.npc.controllable.bat - No description given
+citizens.npc.controllable.blaze - No description given
+citizens.npc.controllable.boat - No description given
+citizens.npc.controllable.cavespider - No description given
+citizens.npc.controllable.chicken - No description given
+citizens.npc.controllable.complexpart - No description given
+citizens.npc.controllable.cow - No description given
+citizens.npc.controllable.creeper - No description given
+citizens.npc.controllable.droppeditem - No description given
+citizens.npc.controllable.egg - No description given
+citizens.npc.controllable.endercrystal - No description given
+citizens.npc.controllable.enderdragon - No description given
+citizens.npc.controllable.enderman - No description given
+citizens.npc.controllable.enderpearl - No description given
+citizens.npc.controllable.endersignal - No description given
+citizens.npc.controllable.experienceorb - No description given
+citizens.npc.controllable.fallingblock - No description given
+citizens.npc.controllable.fireball - No description given
+citizens.npc.controllable.firework - No description given
+citizens.npc.controllable.fishinghook - No description given
+citizens.npc.controllable.ghast - No description given
+citizens.npc.controllable.giant - No description given
+citizens.npc.controllable.horse - No description given
+citizens.npc.controllable.irongolem - No description given
+citizens.npc.controllable.itemframe - No description given
+citizens.npc.controllable.leashhitch - No description given
+citizens.npc.controllable.lightning - No description given
+citizens.npc.controllable.magmacube - No description given
+citizens.npc.controllable.minecart - No description given
+citizens.npc.controllable.minecartchest - No description given
+citizens.npc.controllable.minecartfurnace - No description given
+citizens.npc.controllable.minecarthopper - No description given
+citizens.npc.controllable.minecartmobspawner - No description given
+citizens.npc.controllable.minecarttnt - No description given
+citizens.npc.controllable.mushroomcow - No description given
+citizens.npc.controllable.ocelot - No description given
+citizens.npc.controllable.painting - No description given
+citizens.npc.controllable.pig - No description given
+citizens.npc.controllable.pigzombie - No description given
+citizens.npc.controllable.player - No description given
+citizens.npc.controllable.primedtnt - No description given
+citizens.npc.controllable.sheep - No description given
+citizens.npc.controllable.silverfish - No description given
+citizens.npc.controllable.skeleton - No description given
+citizens.npc.controllable.slime - No description given
+citizens.npc.controllable.smallfireball - No description given
+citizens.npc.controllable.snowball - No description given
+citizens.npc.controllable.snowman - No description given
+citizens.npc.controllable.spider - No description given
+citizens.npc.controllable.splashpotion - No description given
+citizens.npc.controllable.squid - No description given
+citizens.npc.controllable.thrownexpbottle - No description given
+citizens.npc.controllable.villager - No description given
+citizens.npc.controllable.weather - No description given
+citizens.npc.controllable.witch - No description given
+citizens.npc.controllable.wither - No description given
+citizens.npc.controllable.witherskull - No description given
+citizens.npc.controllable.wolf - No description given
+citizens.npc.controllable.zombie - No description given
+citizens.npc.copy - No description given
+citizens.npc.create - No description given
+citizens.npc.create.arrow - No description given
+citizens.npc.create.bat - No description given
+citizens.npc.create.blaze - No description given
+citizens.npc.create.boat - No description given
+citizens.npc.create.cavespider - No description given
+citizens.npc.create.chicken - No description given
+citizens.npc.create.complexpart - No description given
+citizens.npc.create.cow - No description given
+citizens.npc.create.creeper - No description given
+citizens.npc.create.droppeditem - No description given
+citizens.npc.create.egg - No description given
+citizens.npc.create.endercrystal - No description given
+citizens.npc.create.enderdragon - No description given
+citizens.npc.create.enderman - No description given
+citizens.npc.create.enderpearl - No description given
+citizens.npc.create.endersignal - No description given
+citizens.npc.create.experienceorb - No description given
+citizens.npc.create.fallingblock - No description given
+citizens.npc.create.fireball - No description given
+citizens.npc.create.firework - No description given
+citizens.npc.create.fishinghook - No description given
+citizens.npc.create.ghast - No description given
+citizens.npc.create.giant - No description given
+citizens.npc.create.horse - No description given
+citizens.npc.create.irongolem - No description given
+citizens.npc.create.itemframe - No description given
+citizens.npc.create.leashhitch - No description given
+citizens.npc.create.lightning - No description given
+citizens.npc.create.magmacube - No description given
+citizens.npc.create.minecart - No description given
+citizens.npc.create.minecartchest - No description given
+citizens.npc.create.minecartfurnace - No description given
+citizens.npc.create.minecarthopper - No description given
+citizens.npc.create.minecartmobspawner - No description given
+citizens.npc.create.minecarttnt - No description given
+citizens.npc.create.mushroomcow - No description given
+citizens.npc.create.ocelot - No description given
+citizens.npc.create.painting - No description given
+citizens.npc.create.pig - No description given
+citizens.npc.create.pigzombie - No description given
+citizens.npc.create.player - No description given
+citizens.npc.create.primedtnt - No description given
+citizens.npc.create.sheep - No description given
+citizens.npc.create.silverfish - No description given
+citizens.npc.create.skeleton - No description given
+citizens.npc.create.slime - No description given
+citizens.npc.create.smallfireball - No description given
+citizens.npc.create.snowball - No description given
+citizens.npc.create.snowman - No description given
+citizens.npc.create.spider - No description given
+citizens.npc.create.splashpotion - No description given
+citizens.npc.create.squid - No description given
+citizens.npc.create.thrownexpbottle - No description given
+citizens.npc.create.villager - No description given
+citizens.npc.create.weather - No description given
+citizens.npc.create.witch - No description given
+citizens.npc.create.wither - No description given
+citizens.npc.create.witherskull - No description given
+citizens.npc.create.wolf - No description given
+citizens.npc.create.zombie - No description given
+citizens.npc.despawn - No description given
+citizens.npc.edit.copier - No description given
+citizens.npc.edit.equip - No description given
+citizens.npc.edit.path - No description given
+citizens.npc.edit.text - No description given
+citizens.npc.gravity - No description given
+citizens.npc.help - No description given
+citizens.npc.horse - No description given
+citizens.npc.ignore-cost - No description given
+citizens.npc.info - No description given
+citizens.npc.leashable - No description given
+citizens.npc.limit.1 - No description given
+citizens.npc.limit.2 - No description given
+citizens.npc.limit.3 - No description given
+citizens.npc.limit.4 - No description given
+citizens.npc.limit.5 - No description given
+citizens.npc.limit.6 - No description given
+citizens.npc.limit.7 - No description given
+citizens.npc.limit.8 - No description given
+citizens.npc.limit.9 - No description given
+citizens.npc.limit.10 - No description given
+citizens.npc.limit.11 - No description given
+citizens.npc.limit.12 - No description given
+citizens.npc.limit.13 - No description given
+citizens.npc.limit.14 - No description given
+citizens.npc.limit.15 - No description given
+citizens.npc.limit.16 - No description given
+citizens.npc.limit.17 - No description given
+citizens.npc.limit.18 - No description given
+citizens.npc.limit.19 - No description given
+citizens.npc.limit.20 - No description given
+citizens.npc.limit.21 - No description given
+citizens.npc.limit.22 - No description given
+citizens.npc.limit.23 - No description given
+citizens.npc.limit.24 - No description given
+citizens.npc.limit.25 - No description given
+citizens.npc.limit.26 - No description given
+citizens.npc.limit.27 - No description given
+citizens.npc.limit.28 - No description given
+citizens.npc.limit.29 - No description given
+citizens.npc.limit.30 - No description given
+citizens.npc.limit.31 - No description given
+citizens.npc.limit.32 - No description given
+citizens.npc.limit.33 - No description given
+citizens.npc.limit.34 - No description given
+citizens.npc.limit.35 - No description given
+citizens.npc.limit.36 - No description given
+citizens.npc.limit.37 - No description given
+citizens.npc.limit.38 - No description given
+citizens.npc.limit.39 - No description given
+citizens.npc.limit.40 - No description given
+citizens.npc.limit.41 - No description given
+citizens.npc.limit.42 - No description given
+citizens.npc.limit.43 - No description given
+citizens.npc.limit.44 - No description given
+citizens.npc.limit.45 - No description given
+citizens.npc.limit.46 - No description given
+citizens.npc.limit.47 - No description given
+citizens.npc.limit.48 - No description given
+citizens.npc.limit.49 - No description given
+citizens.npc.limit.50 - No description given
+citizens.npc.limit.51 - No description given
+citizens.npc.limit.52 - No description given
+citizens.npc.limit.53 - No description given
+citizens.npc.limit.54 - No description given
+citizens.npc.limit.55 - No description given
+citizens.npc.limit.56 - No description given
+citizens.npc.limit.57 - No description given
+citizens.npc.limit.58 - No description given
+citizens.npc.limit.59 - No description given
+citizens.npc.limit.60 - No description given
+citizens.npc.limit.61 - No description given
+citizens.npc.limit.62 - No description given
+citizens.npc.limit.63 - No description given
+citizens.npc.limit.64 - No description given
+citizens.npc.limit.65 - No description given
+citizens.npc.limit.66 - No description given
+citizens.npc.limit.67 - No description given
+citizens.npc.limit.68 - No description given
+citizens.npc.limit.69 - No description given
+citizens.npc.limit.70 - No description given
+citizens.npc.limit.71 - No description given
+citizens.npc.limit.72 - No description given
+citizens.npc.limit.73 - No description given
+citizens.npc.limit.74 - No description given
+citizens.npc.limit.75 - No description given
+citizens.npc.limit.76 - No description given
+citizens.npc.limit.77 - No description given
+citizens.npc.limit.78 - No description given
+citizens.npc.limit.79 - No description given
+citizens.npc.limit.80 - No description given
+citizens.npc.limit.81 - No description given
+citizens.npc.limit.82 - No description given
+citizens.npc.limit.83 - No description given
+citizens.npc.limit.84 - No description given
+citizens.npc.limit.85 - No description given
+citizens.npc.limit.86 - No description given
+citizens.npc.limit.87 - No description given
+citizens.npc.limit.88 - No description given
+citizens.npc.limit.89 - No description given
+citizens.npc.limit.90 - No description given
+citizens.npc.limit.91 - No description given
+citizens.npc.limit.92 - No description given
+citizens.npc.limit.93 - No description given
+citizens.npc.limit.94 - No description given
+citizens.npc.limit.95 - No description given
+citizens.npc.limit.96 - No description given
+citizens.npc.limit.97 - No description given
+citizens.npc.limit.98 - No description given
+citizens.npc.limit.99 - No description given
+citizens.npc.limit.100 - No description given
+citizens.npc.list - No description given
+citizens.npc.lookclose - No description given
+citizens.npc.moveto - No description given
+citizens.npc.name - No description given
+citizens.npc.ocelot - No description given
+citizens.npc.owner - No description given
+citizens.npc.path - No description given
+citizens.npc.pathfindingrange - No description given
+citizens.npc.pathfindingoptions - No description given
+citizens.npc.playerlist - No description given
+citizens.npc.pose - No description given
+citizens.npc.power - No description given
+citizens.npc.profession - No description given
+citizens.npc.remove - No description given
+citizens.npc.rename - No description given
+citizens.npc.respawn - No description given
+citizens.npc.select - No description given
+citizens.npc.size - No description given
+citizens.npc.skeletontype - No description given
+citizens.npc.sound - No description given
+citizens.npc.spawn - No description given
+citizens.npc.speak - No description given
+citizens.npc.speed - No description given
+citizens.npc.swim - No description given
+citizens.npc.talk - No description given
+citizens.npc.targetable - No description given
+citizens.npc.tp - No description given
+citizens.npc.tphere - No description given
+citizens.npc.tphere.multiworld - No description given
+citizens.npc.tpto - No description given
+citizens.npc.trait-configure - No description given
+citizens.npc.trait-configure.age - No description given
+citizens.npc.trait-configure.anchors - No description given
+citizens.npc.trait-configure.controllable - No description given
+citizens.npc.trait-configure.equipment - No description given
+citizens.npc.trait-configure.gravity - No description given
+citizens.npc.trait-configure.horsemodifiers - No description given
+citizens.npc.trait-configure.inventory - No description given
+citizens.npc.trait-configure.location - No description given
+citizens.npc.trait-configure.lookclose - No description given
+citizens.npc.trait-configure.ocelotmodifiers - No description given
+citizens.npc.trait-configure.owner - No description given
+citizens.npc.trait-configure.poses - No description given
+citizens.npc.trait-configure.powered - No description given
+citizens.npc.trait-configure.profession - No description given
+citizens.npc.trait-configure.saddle - No description given
+citizens.npc.trait-configure.sheared - No description given
+citizens.npc.trait-configure.skeletontype - No description given
+citizens.npc.trait-configure.slimesize - No description given
+citizens.npc.trait-configure.spawned - No description given
+citizens.npc.trait-configure.speech - No description given
+citizens.npc.trait-configure.text - No description given
+citizens.npc.trait-configure.type - No description given
+citizens.npc.trait-configure.waypoints - No description given
+citizens.npc.trait-configure.wolfmodifiers - No description given
+citizens.npc.trait-configure.woolcolor - No description given
+citizens.npc.trait-configure.zombiemodifier - No description given
+citizens.npc.trait - No description given
+citizens.npc.trait.age - No description given
+citizens.npc.trait.anchors - No description given
+citizens.npc.trait.controllable - No description given
+citizens.npc.trait.equipment - No description given
+citizens.npc.trait.gravity - No description given
+citizens.npc.trait.horsemodifiers - No description given
+citizens.npc.trait.inventory - No description given
+citizens.npc.trait.location - No description given
+citizens.npc.trait.lookclose - No description given
+citizens.npc.trait.ocelotmodifiers - No description given
+citizens.npc.trait.owner - No description given
+citizens.npc.trait.poses - No description given
+citizens.npc.trait.powered - No description given
+citizens.npc.trait.profession - No description given
+citizens.npc.trait.saddle - No description given
+citizens.npc.trait.sheared - No description given
+citizens.npc.trait.skeletontype - No description given
+citizens.npc.trait.slimesize - No description given
+citizens.npc.trait.spawned - No description given
+citizens.npc.trait.speech - No description given
+citizens.npc.trait.text - No description given
+citizens.npc.trait.type - No description given
+citizens.npc.trait.waypoints - No description given
+citizens.npc.trait.wolfmodifiers - No description given
+citizens.npc.trait.woolcolor - No description given
+citizens.npc.trait.zombiemodifier - No description given
+citizens.npc.type - No description given
+citizens.npc.vulnerable - No description given
+citizens.npc.wolf - No description given
+citizens.npc.zombiemodifier - No description given
+citizens.script.compile - No description given
+citizens.script.help - No description given
+citizens.templates.apply - No description given
+citizens.templates.create - No description given
+citizens.templates.help - No description given
+citizens.trait.help - No description given
+citizens.waypoints.disableteleport - No description given
+citizens.waypoints.help - No description given
+citizens.waypoints.provider - No description given
+citizens.npc.text - No description given
+citizens.* - No description given
+citizens.admin.* - No description given
+citizens.citizens.* - No description given
+citizens.npc.* - No description given
+citizens.npc.controllable.* - No description given
+citizens.npc.create.* - No description given
+citizens.npc.edit.* - No description given
+citizens.npc.limit.* - No description given
+citizens.npc.tphere.* - No description given
+citizens.npc.trait-configure.* - No description given
+citizens.npc.trait.* - No description given
+citizens.script.* - No description given
+citizens.templates.* - No description given
+citizens.waypoints.* - No description given
+citizens.kit.op - No description given
+
+----WorldEditSelectionVisualizer----
+wesv.* - No description given
+wesv.use - Allows the visualizer to be used.
+wesv.toggle - Allows the visualizer to be toggled.
+wesv.reloadconfig - Allows the configuration of this plugin to be reloaded from the config.yml file.
+
+----TrailGUI----
+trailgui.inventory.angryvillager - Allows the player to select the angryvillager trail in the GUI.
+trailgui.inventory.cloud - Allows the player to select the cloud trail in the GUI.
+trailgui.inventory.criticals - Allows the player to select the criticals trail in the GUI.
+trailgui.inventory.driplava - Allows the player to select the driplava trail in the GUI.
+trailgui.inventory.dripwater - Allows the player to select the dripwater trail in the GUI.
+trailgui.inventory.enchantment - Allows the player to select the enchantment trail in the GUI.
+trailgui.inventory.spark - Allows the player to select the spark trail in the GUI.
+trailgui.inventory.flame - Allows the player to select the flame trail in the GUI.
+trailgui.inventory.happyvillager - Allows the player to select the happyvillager trail in the GUI.
+trailgui.inventory.instantspell - Allows the player to select the instantspell trail in the GUI.
+trailgui.inventory.largesmoke - Allows the player to select the largesmoke trail in the GUI.
+trailgui.inventory.lava - Allows the player to select the lava trail in the GUI.
+trailgui.inventory.magiccrit - Allows the player to select the magiccrit trail in the GUI.
+trailgui.inventory.mobspell - Allows the player to select the mobspell trail in the GUI.
+trailgui.inventory.mobspellambient - Allows the player to select the mobspellambient trail in the GUI.
+trailgui.inventory.note - Allows the player to select the note trail in the GUI.
+trailgui.inventory.portal - Allows the player to select the portal trail in the GUI.
+trailgui.inventory.reddust - Allows the player to select the reddust trail in the GUI.
+trailgui.inventory.coloredreddust - Allows the player to select the coloredreddust trail in the GUI.
+trailgui.inventory.slime - Allows the player to select the slime trail in the GUI.
+trailgui.inventory.snowshovel - Allows the player to select the snowshovel trail in the GUI.
+trailgui.inventory.snowballpoof - Allows the player to select the snowballpoof trail in the GUI.
+trailgui.inventory.spell - Allows the player to select the spell trail in the GUI.
+trailgui.inventory.splash - Allows the player to select the splash trail in the GUI.
+trailgui.inventory.townaura - Allows the player to select the townaura trail in the GUI.
+trailgui.inventory.wake - Allows the player to select the wake trail in the GUI.
+trailgui.inventory.witchmagic - Allows the player to select the witchmagic trail in the GUI.
+trailgui.inventory.hearts - Allows the player to select the hearts trail in the GUI.
+trailgui.inventory.endersignal - Allows the player to select the endersignal trail in the GUI.
+trailgui.inventory.iconcrack - Allows the player to select the iconcrack trail in the GUI.
+trailgui.inventory.blockbreak - Allows the player to select the blockbreak trail in the GUI.
+trailgui.inventory.blackdust - Allows the player to select the blackdust trail in the GUI.
+trailgui.inventory.footstep - Allows the player to select the footstep trail in the GUI.
+trailgui.inventory.blackpotion - Allows the player to select the blackpotion trail in the GUI.
+trailgui.inventory.clearall - Allows the player to clear all their current trails when selecting the item in the GUI.
+trailgui.inventory.nextpage - Allows the player to select the nextpage item in the GUI.
+trailgui.inventory.previouspage - Allows the player to select the previouspage item in the GUI.
+trailgui.trails.angryvillager - Allows the player to select the specified trail.
+trailgui.trails.cloud - Allows the player to select the specified trail.
+trailgui.trails.criticals - Allows the player to select the specified trail.
+trailgui.trails.driplava - Allows the player to select the specified trail.
+trailgui.trails.dripwater - Allows the player to select the specified trail.
+trailgui.trails.enchantment - Allows the player to select the specified trail.
+trailgui.trails.spark - Allows the player to select the specified trail.
+trailgui.trails.flame - Allows the player to select the specified trail.
+trailgui.trails.happyvillager - Allows the player to select the specified trail.
+trailgui.trails.instantspell - Allows the player to select the specified trail.
+trailgui.trails.largesmoke - Allows the player to select the specified trail.
+trailgui.trails.lava - Allows the player to select the specified trail.
+trailgui.trails.magiccrit - Allows the player to select the specified trail.
+trailgui.trails.mobspell - Allows the player to select the specified trail.
+trailgui.trails.mobspellambient - Allows the player to select the specified trail.
+trailgui.trails.note - Allows the player to select the specified trail.
+trailgui.trails.portal - Allows the player to select the specified trail.
+trailgui.trails.reddust - Allows the player to select the specified trail.
+trailgui.trails.coloredreddust - Allows the player to select the specified trail.
+trailgui.trails.slime - Allows the player to select the specified trail.
+trailgui.trails.snowshovel - Allows the player to select the specified trail.
+trailgui.trails.snowballpoof - Allows the player to select the specified trail.
+trailgui.trails.spell - Allows the player to select the specified trail.
+trailgui.trails.splash - Allows the player to select the specified trail.
+trailgui.trails.townaura - Allows the player to select the specified trail.
+trailgui.trails.wake - Allows the player to select the specified trail.
+trailgui.trails.witchmagic - Allows the player to select the specified trail.
+trailgui.trails.hearts - Allows the player to select the specified trail.
+trailgui.trails.endersignal - Allows the player to select the specified trail.
+trailgui.trails.blockbreak - Allows the player to select the specified trail.
+trailgui.trails.blackdust - Allows the player to select the specified trail.
+trailgui.trails.footstep - Allows the player to select the specified trail.
+trailgui.trails.blackpotion - Allows the player to select the specified trail.
+trailgui.trails.iconcrack - Allows the player to select the specified trail.
+trailgui.trails.bubbles - Allows the player to select the specified trail.
+trailgui.commands.clearall - Allows the player to use the clearall trails command.
+trailgui.commands.trails - Allows the player to use the trails command.
+trailgui.commands.inventory - Allows the player to use the trails command.
+trailgui.commands.version - Allows the player to view the plugins version.
+trailgui.commands.reloadconfigs - Allows the player to reload all configuration files.
+trailgui.trails.angryvillager.other - Allows the player to give another player the specified trail.
+trailgui.trails.cloud.other - Allows the player to give another player the specified trail.
+trailgui.trails.criticals.other - Allows the player to give another player the specified trail.
+trailgui.trails.driplava.other - Allows the player to give another player the specified trail.
+trailgui.trails.dripwater.other - Allows the player to give another player the specified trail.
+trailgui.trails.enchantment.other - Allows the player to give another player the specified trail.
+trailgui.trails.spark.other - Allows the player to give another player the specified trail.
+trailgui.trails.flame.other - Allows the player to give another player the specified trail.
+trailgui.trails.happyvillager.other - Allows the player to give another player the specified trail.
+trailgui.trails.instantspell.other - Allows the player to give another player the specified trail.
+trailgui.trails.largesmoke.other - Allows the player to give another player the specified trail.
+trailgui.trails.lava.other - Allows the player to give another player the specified trail.
+trailgui.trails.magiccrit.other - Allows the player to give another player the specified trail.
+trailgui.trails.mobspell.other - Allows the player to give another player the specified trail.
+trailgui.trails.mobspellambient.other - Allows the player to give another player the specified trail.
+trailgui.trails.note.other - Allows the player to give another player the specified trail.
+trailgui.trails.portal.other - Allows the player to give another player the specified trail.
+trailgui.trails.reddust.other - Allows the player to give another player the specified trail.
+trailgui.trails.coloredreddust.other - Allows the player to give another player the specified trail.
+trailgui.trails.slime.other - Allows the player to give another player the specified trail.
+trailgui.trails.snowshovel.other - Allows the player to give another player the specified trail.
+trailgui.trails.snowballpoof.other - Allows the player to give another player the specified trail.
+trailgui.trails.spell.other - Allows the player to give another player the specified trail.
+trailgui.trails.splash.other - Allows the player to give another player the specified trail.
+trailgui.trails.townaura.other - Allows the player to give another player the specified trail.
+trailgui.trails.wake.other - Allows the player to give another player the specified trail.
+trailgui.trails.witchmagic.other - Allows the player to give another player the specified trail.
+trailgui.trails.hearts.other - Allows the player to give another player the specified trail.
+trailgui.trails.iconcrack.other - Allows the player to give another player the specified trail.
+trailgui.trails.endersignal.other - Allows the player to give another player the specified trail.
+trailgui.trails.blockbreak.other - Allows the player to select the specified trail.
+trailgui.trails.blackdust.other - Allows the player to select the specified trail.
+trailgui.trails.footstep.other - Allows the player to select the specified trail.
+trailgui.trails.blackpotion.other - Allows the player to select the specified trail.
+trailgui.trails.bubbles.other - Allows the player to select the specified trail.
+trailgui.commands.clearall.other - Allows the player to clear all of the specified players trails.
+trailgui.commands.* - Allows the player to use all commands
+trailgui.trails.* - Allows the player to use all the trails.
+trailgui.inventory.* - Allows the player to select all the trails in the GUI.
+
+----ASkyBlock----
+askyblock.island.go - Allow teleporting to player island
+askyblock.island.create - Let the player use the /island command
+askyblock.island.info - Let the player check their island level
+askyblock.island.topten - Let the player see the top ten list
+askyblock.island.sethome - Let the player set their island teleport point
+askyblock.island.challenges - Let the player use the /challenges command
+askyblock.island.warp - Let the player use /island warp to warp to a players island
+askyblock.island.addwarp - Let the player place a Welcome warp sign
+askyblock.island.minishop - Allows usage of the minishop
+askyblock.island.controlpanel - Allows usage of the island GUI
+askyblock.island.biomes - Allows biome changing
+askyblock.island.lock - Allows island locking
+askyblock.island.expel - Allows expelling of visitors
+askyblock.island.ban - Allows banning of visitors
+askyblock.island.settings - Player can see server settings
+askyblock.island.lang - Player can select a language
+askyblock.island.name - Player can set the name of their island
+askyblock.island.value - Player can see the value of a block
+askyblock.island.spawn - Player can use the island spawn command if spawn exists
+askyblock.island.reset - Player can use the island reset or restart command
+askyblock.island.* - No description given
+askyblock.team.create - Let a player invite other players to join a team
+askyblock.team.kick - Let a player kick other players
+askyblock.team.makeleader - Let a player make another player leader of the team
+askyblock.team.join - Let a player join another player's team
+askyblock.team.chat - Allow player to use team chat
+askyblock.team.* - No description given
+askyblock.command.resetexempt - Player is exempt from commands run when island resets
+askyblock.command.leaveexempt - Player is exempt from commands run when they leave or are kicked. Note will not help if player is offline.
+askyblock.command.newexempt - Player is exempt from commands run when starting an island
+askyblock.command.challengeexempt - Player is exempt from commands run when a challenge is completed
+askyblock.command.newteamexempt - Player is exempt from commands run when accepting a team invite
+askyblock.command.* - Event commands will not be run for players with this perm
+askyblock.coop - Allows player to use the coop command
+askyblock.craft.enderchest - Allow crafting and use of enderchests in askyblock
+askyblock.craft.dirt - Allows tilling of coarse dirt into dirt
+askyblock.craft.* - No description given
+askyblock.intopten - Includes player in top ten
+askyblock.nohunger - Excludes player from hunger if on island
+askyblock.islandfly - Allow player to fly inside his island boundaries
+askyblock.settings.ACID_DAMAGE - Can configure the Acid Damage setting
+askyblock.settings.ANVIL - Can configure the Anvil setting
+askyblock.settings.ARMOR_STAND - Can configure the Armor Stand setting
+askyblock.settings.BEACON - Can configure the Beacon setting
+askyblock.settings.BED - Can configure the Bed setting
+askyblock.settings.BREAK_BLOCKS - Can configure the Break Blocks setting
+askyblock.settings.BREEDING - Can configure the Breeding setting
+askyblock.settings.BREWING - Can configure the Brewing setting
+askyblock.settings.BUCKET - Can configure the Bucket setting
+askyblock.settings.COLLECT_LAVA - Can configure the Collect Lava setting
+askyblock.settings.COLLECT_WATER - Can configure the Collect Water setting
+askyblock.settings.CHEST - Can configure the Chest setting
+askyblock.settings.CHORUS_FRUIT - Can configure the Chorus Fruit setting
+askyblock.settings.CRAFTING - Can configure the Crafting setting
+askyblock.settings.CREEPER_PAIN - Can configure the Creeper Pain setting
+askyblock.settings.CROP_TRAMPLE - Can configure the Crop Trample setting
+askyblock.settings.DOOR - Can configure the Door setting
+askyblock.settings.EGGS - Can configure the Eggs setting
+askyblock.settings.ENCHANTING - Can configure the Enchanting setting
+askyblock.settings.ENDER_PEARL - Can configure the Ender Pearl setting
+askyblock.settings.ENTER_EXIT_MESSAGES - Can configure the Enter Exit Messages setting
+askyblock.settings.FIRE - Can configure the Fire setting
+askyblock.settings.FIRE_EXTINGUISH - Can configure the Fire Extinguish setting
+askyblock.settings.FIRE_SPREAD - Can configure the Fire Spread setting
+askyblock.settings.FURNACE - Can configure the Furnace setting
+askyblock.settings.GATE - Can configure the Gate setting
+askyblock.settings.HORSE_INVENTORY - Can configure the Horse Inventory setting
+askyblock.settings.HORSE_RIDING - Can configure the Horse Riding setting
+askyblock.settings.HURT_MOBS - Can configure the Hurt Mobs setting
+askyblock.settings.HURT_MONSTERS - Can configure the Hurt Monsters setting
+askyblock.settings.LEASH - Can configure the Leash setting
+askyblock.settings.LEVER_BUTTON - Can configure the Lever Button setting
+askyblock.settings.MILKING - Can configure the Milking setting
+askyblock.settings.MOB_SPAWN - Can configure the Mob Spawn setting
+askyblock.settings.MONSTER_SPAWN - Can configure the Monster Spawn setting
+askyblock.settings.MUSIC - Can configure the Music setting
+askyblock.settings.NETHER_PVP - Can configure the Nether Pvp setting
+askyblock.settings.PLACE_BLOCKS - Can configure the Place Blocks setting
+askyblock.settings.PORTAL - Can configure the Portal setting
+askyblock.settings.PRESSURE_PLATE - Can configure the Pressure Plate setting
+askyblock.settings.PVP - Can configure the Pvp setting
+askyblock.settings.REDSTONE - Can configure the Redstone setting
+askyblock.settings.SPAWN_EGGS - Can configure the Spawn Eggs setting
+askyblock.settings.SHEARING - Can configure the Shearing setting
+askyblock.settings.VILLAGER_TRADING - Can configure the Villager Trading setting
+askyblock.settings.VISITOR_ITEM_DROP - Can configure the Visitor Item Drop setting
+askyblock.settings.VISITOR_ITEM_PICKUP - Can configure the Visitor Item Pickup setting
+askyblock.settings.* - Ability to change settings in GUI
+askyblock.mod.topten - Let a moderator update the top ten list
+askyblock.mod.info - Let a moderator see info on a player
+askyblock.mod.challenges - Let a moderator access challenge commands
+askyblock.mod.noburn - Gives mod immunity to acid
+askyblock.mod.resethome - Allows setting or reseting of a player's home position
+askyblock.mod.clearreset - Allow clearing of island reset limit
+askyblock.mod.tp - Allows teleport to an island
+askyblock.mod.tpnether - Allows teleport to a nether island
+askyblock.mod.bypassprotect - Allow moderator to bypass island protection
+askyblock.mod.bypassexpel - Allow moderator to bypass island expulsion
+askyblock.mod.setbiome - Allows setting player island biomes
+askyblock.mod.topbreeders - Lists most populated islands current loaded
+askyblock.mod.lock - Locks or unlocks an island
+askyblock.mod.bypasslock - Bypasses an island lock
+askyblock.mod.signadmin - Enables warp sign admin commands
+askyblock.mod.spy - Spy on team chats
+askyblock.mod.removesign - Gives ability to remove warp signs
+askyblock.mod.team - Enables modification of teams via kick and add commands
+askyblock.mod.name - Enables naming of player's islands
+askyblock.mod.resetname - Enables reset of player's island names
+askyblock.mod.setdeaths - Sets how many deaths the player has
+askyblock.mod.* - No description given
+askyblock.admin.clearresetall - Allow clearing of island reset limit of all players
+askyblock.admin.reload - Reload the config.yml
+askyblock.admin.delete - Let a player completely remove a player (including island)
+askyblock.admin.deleteisland - Let a player completely remove the island the player is on
+askyblock.admin.register - Let a player register the nearest island to another player.
+askyblock.admin.unregister - Removes a player from an island without deleting the island blocks.
+askyblock.admin.purge - Let a player purge old islands.
+askyblock.admin.noburn - Gives admin immunity to acid
+askyblock.admin.setspawn - Allows use of spawn tools
+askyblock.admin.setrange - Allows setting of island protection range
+askyblock.admin.topbreeders - Lists most populated islands current loaded
+askyblock.admin.reserve - Reserves an empty spot for a player's next island
+askyblock.admin.settingsreset - Resets all the islands to default protection settings
+askyblock.admin.noban - Player cannot be banned from an island
+askyblock.admin.cobblestats - Displays magic cobble gen stats
+askyblock.admin.setlanguage - Resets all player languages and sets the default language
+askyblock.admin.* - No description given
+askyblock.* - No description given
+
+----GameBox----
+gamebox.* - Gives all permissions
+gamebox.admin - Gives permission to use admin commands
+gamebox.use - Allows the player to use /gamebox and the hub item
+gamebox.shop - Allows the player to open the shop from the main menu
+gamebox.play.* - Allows the player to play all games
+gamebox.gamegui.* - Allows to open all game guis
+gamebox.info - Allows the usage of the subcommand info
+gamebox.help - Allows the usage of the subcommand help or ?
+
+----GadgetsMenu----
+gadgetsmenu.* - No description given
+gadgetsmenu.cosmetics.* - No description given
+gadgetsmenu.commands.* - Let a player to use all GadgetsMenu commands.
+gadgetsmenu.bypassregion.* - Allows a player to use specified cosmetic in region which is disabled that cosmetic.
+gadgetsmenu.mysteryboxes.open.* - Allows a player to open all mystery boxes.
+gadgetsmenu.hats.* - Let a player to use all Hats.
+gadgetsmenu.particles.* - Let a player to use all Particles.
+gadgetsmenu.suits.frog.* - No description given
+gadgetsmenu.suits.ninja.* - No description given
+gadgetsmenu.suits.speedster.* - No description given
+gadgetsmenu.suits.ghostly.* - No description given
+gadgetsmenu.suits.disco.* - No description given
+gadgetsmenu.suits.mermaid.* - No description given
+gadgetsmenu.suits.spooderman.* - No description given
+gadgetsmenu.suits.warrior.* - No description given
+gadgetsmenu.suits.necromancer.* - No description given
+gadgetsmenu.suits.thor.* - No description given
+gadgetsmenu.suits.baker.* - No description given
+gadgetsmenu.suits.bumblebee.* - No description given
+gadgetsmenu.suits.plumber.* - No description given
+gadgetsmenu.suits.icewalker.* - No description given
+gadgetsmenu.suits.vampire.* - No description given
+gadgetsmenu.suits.* - Let a player to use all Suits.
+gadgetsmenu.gadgets.* - Let a player to use all gadgets.
+gadgetsmenu.pets.cow.* - No description given
+gadgetsmenu.pets.chicken.* - No description given
+gadgetsmenu.pets.wolf.* - No description given
+gadgetsmenu.pets.pig.* - No description given
+gadgetsmenu.pets.silverfish.* - No description given
+gadgetsmenu.pets.endermite.* - No description given
+gadgetsmenu.pets.zombie.* - No description given
+gadgetsmenu.pets.cat.* - No description given
+gadgetsmenu.pets.rabbit.* - No description given
+gadgetsmenu.pets.sheep.* - No description given
+gadgetsmenu.pets.horse.* - No description given
+gadgetsmenu.pets.villager.* - No description given
+gadgetsmenu.pets.spider.* - No description given
+gadgetsmenu.pets.skeleton.* - No description given
+gadgetsmenu.pets.blaze.* - No description given
+gadgetsmenu.pets.creeper.* - No description given
+gadgetsmenu.pets.golem.* - No description given
+gadgetsmenu.pets.* - Let a player to use all Pets.
+gadgetsmenu.morphs.* - Let a player to use all Morphs.
+gadgetsmenu.banners.* - Let a player to use all Banners.
+gadgetsmenu.emotes.* - Let a player to use all Emotes.
+gadgetsmenu.cloaks.* - Let a player to use all Emotes.
+
+----ChestShop----
+ChestShop.* - Gives access to all ChestShop permissions
+ChestShop.shop.* - Gives access to all user ChestShop permissions
+ChestShop.shop.create - Allows the user to create a shop that sells and buys any item
+ChestShop.shop.create.buy - Allows the user to create a shop that sells any item
+ChestShop.shop.create.sell - Allows the user to create a shop that buy any item
+ChestShop.shop.create.(itemID) - Allows user to create a shop that sells item with itemID like in the permission node (replace (itemID) with NUMERICAL item ID)
+ChestShop.shop.buy.(itemID) - Allows user to buy certain (itemID) from a shop (replace (itemID) with NUMERICAL item ID)
+ChestShop.shop.sell.(itemID) - Allows user to sell certain (itemID) from a shop (replace (itemID) with NUMERICAL item ID)
+ChestShop.shop.buy - Allows user to buy from a shop
+ChestShop.shop.sell - Allows user to sell to a shop
+ChestShop.nofee - User doesn't have to pay the shop creation fee.
+ChestShop.toggle - Allows user to toggle messages.
+ChestShop.admin - Allows user to modify/destroy other stores and create an Admin Shops
+ChestShop.mod - Allows user only to view other store chests, he can't destroy them or create an Admin Shop
+ChestShop.name.(some name) - Gives you the power to do create shops for (some name), for example your town.
+ChestShop.shop.create.food - Allows to create a shop that sells food
+ChestShop.shop.create.diamondgrade - Allows to create a shop that sells diamond gear
+ChestShop.shop.create.irongrade - Allows to create a shop that sells iron gear
+ChestShop.shop.create.goldgrade - Allows to create a shop that sells gold gear
+ChestShop.shop.create.stonegrade - Allows to create a shop that sells stone tools and chain armor
+ChestShop.shop.create.woodgrade - Allows to create a shop that sells wood tools and leather armor
+ChestShop.shop.create.diamondarmor - Allows to create a shop that sells diamond armor
+ChestShop.shop.create.diamondtools - Allows to create a shop that sells diamond tools
+ChestShop.shop.create.goldarmor - Allows to create a shop that sells gold armor
+ChestShop.shop.create.goldtools - Allows to create a shop that sells gold tools
+ChestShop.shop.create.ironarmor - Allows to create a shop that sells iron armor
+ChestShop.shop.create.irontools - Allows to create a shop that sells iron tools
+ChestShop.shop.create.chainarmor - Allows to create a shop that sells chain armor
+ChestShop.shop.create.stonetools - Allows to create a shop that sells stone tools
+ChestShop.shop.create.leatherarmor - Allows to create a shop that sells leather armor
+ChestShop.shop.create.woodtools - Allows to create a shop that sells wood tools
+ChestShop.shop.create.bows - Allows to create a shop that sells bows & arrows
+ChestShop.shop.create.misctools - Allows to create a shop that sells misc tools
+ChestShop.shop.create.ore - Allows to create a shop that sells ores
+ChestShop.shop.create.ingots - Allows to create a shop that sells ingots
+ChestShop.shop.create.stairs - Allows to create a shop that sells stairs
+ChestShop.shop.create.monsterdrops - Allows to create a shop that sells mob drops
+ChestShop.shop.create.netherdrops - Allows to create a shop that sells nether drops
+ChestShop.shop.create.plants - Allows to create a shop that sells plants
+ChestShop.shop.create.redstone - No description given
+ChestShop.shop.create.netherblocks - No description given
+ChestShop.shop.create.misc - No description given
+ChestShop.shop.create.steps - Allows to create a shop that sells steps
+ChestShop.shop.create.brewing - Allows to create a shop that sells brewing materials
+ChestShop.shop.create.basic - Allows to create a shop that sells basic blocks
+ChestShop.shop.create.doors - No description given
+ChestShop.shop.create.music - Allows to create a shop that sells music items
+ChestShop.shop.create.vehicles - Allows to create a shop that sells vehicles
+ChestShop.shop.create.wool - Allows to create a shop that sells wool and dye
+ChestShop.shop.create.fence - Allows to create a shop that sells fence
+ChestShop.shop.create.bench - Allows to create a shop that sells crafting blocks
+ChestShop.shop.create.unobtainables - Allows to create a shop that sells unobtainable items
+
+----DiscordSRV----
+discordsrv.player - parent permission of player-related functions of DiscordSRV
+discordsrv.admin - parent permission of admin-related functions of DiscordSRV
+discordsrv.chat - whether or not the user is able to have their chat forwarded to Discord
+discordsrv.silentjoin - whether or not to have join messages for players with this permission to be silenced
+discordsrv.silentquit - whether or not to have quit messages for players with this permission to be silenced
+discordsrv.help - whether or not the player is able to display command help for DiscordSRV
+discordsrv.updatenotification - whether or not the player should be told if there's an update to DiscordSRV when joining
+discordsrv.bcast - whether or not the player is able to broadcast messages to the main text channel of DiscordSRV
+discordsrv.setpicture - whether or not the player is able to set the bot's avatar picture
+discordsrv.reload - whether or not the player is able to reload DiscordSRV's configuration
+discordsrv.debug - whether or not the player is able to run a debug report
+discordsrv.link - whether or not the player is able to link their Minecraft account to their Discord account
+discordsrv.unlink - whether or not the player is able to unlink their Minecraft account from their Discord account
+discordsrv.unlink.others - whether or not the player is able to unlink other people's accounts
+discordsrv.linked - whether or not the player is able to check what Discord account their Minecraft account is linked to
+discordsrv.linked.others - whether or not the player is able to check what Discord account other Minecraft accounts are linked to
+
+----AuthMe----
+authme.admin.* - Give access to all admin commands.
+authme.admin.register - Administrator command to register a new user.
+authme.admin.unregister - Administrator command to unregister an existing user.
+authme.admin.forcelogin - Administrator command to force-login an existing user.
+authme.admin.changepassword - Administrator command to change the password of a user.
+authme.admin.lastlogin - Administrator command to see the last login date and time of a user.
+authme.admin.accounts - Administrator command to see all accounts associated with a user.
+authme.admin.getemail - Administrator command to get the email address of a user, if set.
+authme.admin.changemail - Administrator command to set or change the email address of a user.
+authme.admin.getip - Administrator command to get the last known IP of a user.
+authme.admin.spawn - Administrator command to teleport to the AuthMe spawn.
+authme.admin.setspawn - Administrator command to set the AuthMe spawn.
+authme.admin.firstspawn - Administrator command to teleport to the first AuthMe spawn.
+authme.admin.setfirstspawn - Administrator command to set the first AuthMe spawn.
+authme.admin.purge - Administrator command to purge old user data.
+authme.admin.purgelastpos - Administrator command to purge the last position of a user.
+authme.admin.purgebannedplayers - Administrator command to purge all data associated with banned players.
+authme.admin.seeotheraccounts - Permission for user to see other accounts.
+authme.admin.switchantibot - Administrator command to toggle the AntiBot protection status.
+authme.admin.converter - Administrator command to convert old or other data to AuthMe data.
+authme.admin.reload - Administrator command to reload the plugin configuration.
+authme.player.* - Permission to use all player (non-admin) commands.
+authme.player.email - Gives access to player email commands
+authme.player.login - Command permission to login.
+authme.player.logout - Command permission to logout.
+authme.player.register - Command permission to register.
+authme.player.unregister - Command permission to unregister.
+authme.player.changepassword - Command permission to change the password.
+authme.player.email.add - Command permission to add an email address.
+authme.player.email.change - Command permission to change the email address.
+authme.player.email.recover - Command permission to recover an account using it's email address.
+authme.player.captcha - Command permission to use captcha.
+authme.player.canbeforced - Permission for users a login can be forced to.
+authme.vip - Allow vip slot when the server is full
+authme.bypassantibot - Bypass the AntiBot check
+authme.allowmultipleaccounts - Allow more accounts for same ip
+authme.bypassforcesurvival - Bypass all ForceSurvival features
+
+----CommandSigns----
+commandsigns.* - Gives access to all CommandSigns commands
+commandsigns.create.* - Gives access CommandSigns sign creation commands
+commandsigns.save - Allows saving CommandSigns without reloading
+commandsigns.reload - Reloads CommandSigns and all configuration
+commandsigns.use.* - Gives access to CommandSigns sign use
+commandsigns.create.regular - Allows you to create a regular CommandSign
+commandsigns.create.super - Allows you to create a super CommandSign
+commandsigns.create.redstone - Allows you to create redstone-activated signs
+commandsigns.create.op - Allows you to create op-level CommandSigns
+commandsigns.remove - Allows you to remove a CommandSign
+commandsigns.use.regular - Allows you to use a regular CommandSign
+commandsigns.use.super - Allows you to use a super CommandSign
+commandsigns.group.* - Allows you to use all group commands
+commandsigns.update - Shows this player CommandSigns updates and allows them to update
+commandsigns.edit - Allows editing of CommandSigns
+
+----Factions----
+factions.kit.admin - All faction permissions.
+factions.* - This is just an alias for factions.kit.admin
+factions.kit.mod - All faction permissions but configuration and persistance.
+factions.kit.halfmod - Zones, bypassing, kicking, and chatspy
+factions.kit.fullplayer - Can also create new factions.
+factions.kit.halfplayer - Can do all but create factions.
+factions.admin - hand over your admin rights
+factions.admin.any - give or revoke admin status for any player in any faction
+factions.autoclaim - auto-claim land as you walk around
+factions.bypass - enable admin bypass mode
+factions.chat - change chat mode
+factions.chatspy - enable admin chat spy mode
+factions.claim - claim land where you are standing
+factions.claim.radius - claim land in a large radius
+factions.config - change a conf.json setting
+factions.create - create a new faction
+factions.deinvite - remove a pending invitation
+factions.description - change the faction description
+factions.disband - disband a faction
+factions.disband.any - disband another faction
+factions.dtr - set a factions dtr
+factions.help - display a help page
+factions.home - teleport to the faction home
+factions.invite - invite a player to your faction
+factions.join - join a faction
+factions.join.any - join any faction, bypassing invitation process for closed factions
+factions.join.others - specify another player in the join command, to move them to the specified faction
+factions.kick - kick a player from the faction
+factions.kick.any - kick anyone from any faction
+factions.leave - leave your faction
+factions.list - see a list of the factions
+factions.lock - lock all write stuff
+factions.managesafezone - claim land as a safe zone and build/destroy within safe zones
+factions.managewarzone - claim land as a war zone and build/destroy within war zones
+factions.map - show the territory map, and set optional auto update
+factions.mod - give or revoke moderator rights
+factions.mod.any - give or revoke moderator rights for any player in any faction
+factions.money.balance - show your factions current money balance
+factions.money.balance.any - show money balance for factions other than your own
+factions.money.deposit - deposit money into a faction bank
+factions.money.withdraw - withdraw money from your faction bank
+factions.money.withdraw.any - withdraw money from your factions other than your own
+factions.money.f2f - transfer money from faction to faction
+factions.money.f2p - transfer money from faction to player
+factions.money.p2f - transfer money from player to faction
+factions.money.kit.standard - No description given
+factions.money.* - No description given
+factions.noboom - toggle explosions (peaceful factions only)
+factions.open - switch if invitation is required to join
+factions.owner - set ownership of claimed land
+factions.ownerlist - list owner(s) of this claimed land
+factions.ownershipbypass - bypass ownership restrictions within own faction's territory
+factions.setpeaceful - designate a faction as peaceful
+factions.setpermanent - designate a faction as permanent
+factions.stuck - teleports player outside of a trap
+factions.relation - set relation wish to another faction
+factions.reload - reload data file(s) from disk
+factions.save - save all data to disk
+factions.sethome - set the faction home
+factions.sethome.any - set faction home for another faction
+factions.show - show faction information
+factions.tag - change the faction tag
+factions.thaw - thaw a dtr frozen faction
+factions.title - set or remove a players title
+factions.version - see the version of the plugin
+factions.unclaim - unclaim the land where you are standing
+factions.unclaimall - unclaim all of your factions land
+factions.scoreboard - ability to toggle scoreboards
+factions.showinvites - show pending invites to your faction
+factions.seechunk - see the chunk you stand in
+factions.setwarp - set a warp for your faction
+factions.warp - access your faction warps
+factions.monitorlogins - monitor join and leaves of faction members
+factions.claim.line - claim in a line
+factions.top - sort factions
+factions.ahome - No description given
+
+----PvPManager----
+pvpmanager.* - Gives access to all PvPManager features
+pvpmanager.admin - Gives access to PvPManager features
+pvpmanager.user - Gives access to PvPManager features that i think would be appropriate for a user
+pvpmanager.pvpstatus.nocooldown - No cooldown for pvp command
+pvpmanager.pvpstatus.change - Allows you to change your PvP status between <on> and <off>
+pvpmanager.reload - Allows you to reload PvPManager
+pvpmanager.nocombat - Exempts a player from being tagged in combat
+pvpmanager.nopvp - Players with this permission always have PvP disabled
+pvpmanager.override - Players with this permission can use the PvPOverride command
+pvpmanager.nodisable - Players with this permission don't get fly and gamemode disabled
+pvpmanager.list - Allows access to the list of players with PvP enabled
+pvpmanager.menu - Allows access to PvPManager help menu
+pvpmanager.info.others - Allows access to PvPManager info command
+
+----SensibleToolbox----
+stb.admin - Grants all admin permissions for Sensible Toolbox
+stb.access.any - Allow a block's access control settings to be ignored
+stb.access.modify - Allow a block's access control settings to be changed
+stb.friends.other - Allow viewing/modification of other players' friend data
+stb.recipebook.freefab - Allow any item in the Recipe Book to be fabricated with no ingredient cost
+stb.enderleash.captureany - Allow capturing of animals owned by other players
+stb.enderaccess.creative - Allow players to access ender inventories in creative mode, even if config denies it
+stb.commands.charge - Allow the SCU values for blocks/items to be modified with /stb charge
+stb.commands.debug - Allow plugin debugging to be toggled with /stb debug
+stb.commands.examine - Allow item data to be examined in detail with /stb debug
+stb.commands.getcfg - Allows STB items & blocks to be obtained with /stb give
+stb.commands.recipe - Allows recipes to be searched for by name with /stb recipe
+stb.commands.rename - Allow animal captured in the Ender Leash to be renamed with /stb rename
+stb.commands.rename.free - Allow animal renaming for no experience cost with /stb rename
+stb.commands.save - Allow the plugin data to be force-saved with /stb save
+stb.commands.setcfg - Allows the plugin configuration to be modified with /stb setcfg
+stb.commands.show - Allows existing STB blocks to be listed and inspected with /stb show
+stb.commands.friend - Allow friend information to be viewed/modified with /stb friend
+stb.commands.unfriend - Allow friends to be removed with /stb unfriend
+stb.commands.validate - Allow STB block data to be validated/fixed with /stb validate
+
+----SilkSpawners----
+silkspawners.* - No description given
+silkspawners.info - Allows you to see informative messages about the spawners as you place and break them
+silkspawners.viewtype - Allows you to view the spawner type using /spawner
+silkspawners.reload - Allows you to reload the plugin
+silkspawners.explodedrop - Allows you to receive drops on explosion
+silkspawners.help - Allows you to see the help menu
+
+----InfoBoardReborn----
+InfoBoard.* - No description given
+InfoBoard.View - No description given

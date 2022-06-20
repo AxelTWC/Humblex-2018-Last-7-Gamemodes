@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Cloned
+timestamps:
+  login: 1501972281943
+  lastteleport: 1501972293742
+  logout: 1501972297742
+ipAddress: 24.147.59.7
+lastlocation:
+  world: LionHUB
+  x: 92.994339529679
+  y: 46.0
+  z: -60.999467529085
+  yaw: -11.984131
+  pitch: 3.3602288
+logoutlocation:
+  world: MainLobby
+  x: 6.662183514515801
+  y: 59.15658248110962
+  z: 0.9719125013481706
+  yaw: -91.26016
+  pitch: 25.861074

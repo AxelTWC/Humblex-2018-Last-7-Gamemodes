@@ -1,0 +1,21 @@
+lastAccountName: Puppetual
+socialspy: false
+timestamps:
+  login: 1501186599813
+  lastteleport: 1501186614904
+  logout: 1501187593959
+ipAddress: 68.7.101.215
+lastlocation:
+  world: LionHUB
+  x: 49.23817621685272
+  y: 4.0
+  z: -91.50994931530886
+  yaw: 273.53442
+  pitch: 30.422403
+logoutlocation:
+  world: MainLobby
+  x: 3.750807810671975
+  y: 58.0
+  z: 24.69999998807907
+  yaw: 343.88474
+  pitch: 28.2624

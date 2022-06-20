@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1500163235513
+  login: 1500163215773
+  logout: 1500163233860
+lastlocation:
+  world: MainLobby
+  x: 13.382188820669521
+  y: 57.0
+  z: -0.026074691666063604
+  yaw: -100.030815
+  pitch: 17.15434
+lastAccountName: Yosef_Ahmed
+ipAddress: 156.211.235.47
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

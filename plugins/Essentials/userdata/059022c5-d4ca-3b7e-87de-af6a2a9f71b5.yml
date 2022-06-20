@@ -1,0 +1,21 @@
+lastAccountName: kucsi
+timestamps:
+  login: 1502485182168
+  lastteleport: 1502485373007
+  logout: 1502486067988
+ipAddress: 91.127.212.70
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.63538975100178
+  y: 46.0
+  z: -57.169386756745155
+  yaw: 9.413099
+  pitch: 16.119198
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.4691817266242615
+  yaw: -89.0
+  pitch: 2.0

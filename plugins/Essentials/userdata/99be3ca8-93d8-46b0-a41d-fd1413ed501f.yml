@@ -1,0 +1,26 @@
+lastAccountName: JustCoyote
+timestamps:
+  login: 1521036556902
+  lastteleport: 1520888586599
+  logout: 1521036590213
+  kits:
+    starter: 1520861905774
+ipAddress: 184.166.255.34
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 747.4302785972276
+  y: 10.0
+  z: 3606.9570926675224
+  yaw: -0.10546875
+  pitch: -4.859901
+logoutlocation:
+  world: LionHUB
+  x: 750.5844547866366
+  y: 9.0
+  z: 3583.308343082988
+  yaw: -343.74435
+  pitch: 21.461365
+money: '0.0'
+powertools: {}
+afk: false

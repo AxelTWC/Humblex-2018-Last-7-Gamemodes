@@ -1,0 +1,807 @@
+# [][][][][][][][][][][][][][][][][][][][][]
+#  CratesPlus V4.4.4 Config
+# [][][][][][][][][][][][][][][][][][][][][]
+# ------------------------------------------
+# There are many placeholders that can now be used withing the config and messages file, placeholders are as followed:
+# - %name% - Replaces with the players name, Example: "Notch".
+# - %displayname% - Replaces with the players display name, Example: "[Owner] Notch".
+# - %uuid% - Replaces with the players UUID.
+# - %crate% - The crate types name.
+# - %prize% - The name of the winning.
+# - %percentage% - Percentage of the winning, useful for "Chance Message".
+# - %rand;100;500% - Generates a random number between two numbers, example is between 100 and 500.
+# ------------------------------------------
+# Don't change the config version!
+
+Config Version: 6
+Update Checks: true
+Update Branch: spigot
+Metrics: true
+Default Opener: NoGUI
+Default Cooldown: 0
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+- Right-Click to Open!
+- Left-Click to Preview!
+Crates:
+  Bronze:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: AQUA
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: '&r&9Bronze Helmet'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§9Bronze Helmet
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 2
+          repair-cost: 1
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: '&r&9Bronze Chest'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§9Bronze Chest
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 2
+          repair-cost: 1
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: '&r&9Bronze Leggings'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§9Bronze Leggings
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 2
+          repair-cost: 1
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: '&r&9Bronze Boots'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§9Bronze Boots
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 1
+            DURABILITY: 2
+          repair-cost: 1
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: '&r&9Bronze Pickaxe'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§9Bronze Pickaxe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 2
+          repair-cost: 1
+      '6':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: '&r&9Bronze Axe'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§9Bronze Axe
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 2
+          repair-cost: 1
+      '7':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: '&r&9Bronze Shovel'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-3
+        - DURABILITY-2
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§9Bronze Shovel
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 2
+          repair-cost: 1
+      '8':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 5
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 5
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 5
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: REDSTONE_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 5
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: LAPIS_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 5
+        Enchantments: []
+        Lore: []
+      '13':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 5
+        Enchantments: []
+        Lore: []
+      '14':
+        Type: ITEM
+        Item Type: SLIME_BALL
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '15':
+        Type: ITEM
+        Item Type: WEB
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '16':
+        Type: ITEM
+        Item Type: SPECKLED_MELON
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '17':
+        Type: ITEM
+        Item Type: POTATO_ITEM
+        Item Data: 0
+        Name: NONE
+        Amount: 4
+        Enchantments: []
+        Lore: []
+      '18':
+        Type: ITEM
+        Item Type: FERMENTED_SPIDER_EYE
+        Item Data: 0
+        Name: NONE
+        Amount: 4
+        Enchantments: []
+        Lore: []
+      '19':
+        Type: ITEM
+        Item Type: NETHER_STALK
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '20':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 2
+        Enchantments: []
+        Lore: []
+  Saphire:
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: DARK_BLUE
+  Emerald:
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: GREEN
+  God:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: GOLD
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: '&r&6God Diamond'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Diamond
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: '&r&6God Diamond'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Diamond
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: '&r&6God Diamond'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Diamond
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: '&r&6God Diamond'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Diamond
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: '&r&6God Diamond Sword'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-2
+        - DAMAGE_UNDEAD-4
+        - DURABILITY-4
+        - DAMAGE_ARTHROPODS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Diamond Sword
+          enchants:
+            DAMAGE_ALL: 2
+            DAMAGE_UNDEAD: 4
+            DURABILITY: 4
+            DAMAGE_ARTHROPODS: 4
+          repair-cost: 1
+      '6':
+        Type: ITEM
+        Item Type: GOLD_HELMET
+        Item Data: 0
+        Name: '&r&6God Bard'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Bard
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '7':
+        Type: ITEM
+        Item Type: GOLD_CHESTPLATE
+        Item Data: 0
+        Name: '&r&6God Bard'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Bard
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '8':
+        Type: ITEM
+        Item Type: GOLD_LEGGINGS
+        Item Data: 0
+        Name: '&r&6God Bard'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Bard
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '9':
+        Type: ITEM
+        Item Type: GOLD_BOOTS
+        Item Data: 0
+        Name: '&r&6God Bard'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Bard
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '10':
+        Type: ITEM
+        Item Type: LEATHER_HELMET
+        Item Data: 0
+        Name: '&r&6God Archer'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §r§6God Archer
+          enchants:
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '11':
+        Type: ITEM
+        Item Type: LEATHER_CHESTPLATE
+        Item Data: 0
+        Name: '&r&6God Archer'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §r§6God Archer
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '12':
+        Type: ITEM
+        Item Type: LEATHER_LEGGINGS
+        Item Data: 0
+        Name: '&r&6God Archer'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §r§6God Archer
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '13':
+        Type: ITEM
+        Item Type: LEATHER_BOOTS
+        Item Data: 0
+        Name: '&r&6God Archer'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §r§6God Archer
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '14':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Name: '&r&6God Bow'
+        Amount: 1
+        Enchantments:
+        - ARROW_DAMAGE-4
+        - ARROW_KNOCKBACK-1
+        - ARROW_FIRE-1
+        - DURABILITY-4
+        - ARROW_INFINITE-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Bow
+          enchants:
+            ARROW_DAMAGE: 4
+            ARROW_KNOCKBACK: 1
+            ARROW_FIRE: 1
+            DURABILITY: 4
+            ARROW_INFINITE: 1
+          repair-cost: 1
+      '15':
+        Type: ITEM
+        Item Type: CHAINMAIL_HELMET
+        Item Data: 0
+        Name: '&r&6God Rouge'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Rouge
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '16':
+        Type: ITEM
+        Item Type: CHAINMAIL_CHESTPLATE
+        Item Data: 0
+        Name: '&r&6God Rouge'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Rouge
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '17':
+        Type: ITEM
+        Item Type: CHAINMAIL_LEGGINGS
+        Item Data: 0
+        Name: '&r&6God Rouge'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Rouge
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '18':
+        Type: ITEM
+        Item Type: CHAINMAIL_BOOTS
+        Item Data: 0
+        Name: '&r&6God Rouge\'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - PROTECTION_FIRE-4
+        - DURABILITY-4
+        - PROTECTION_EXPLOSIONS-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§6God Rouge\
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            PROTECTION_FIRE: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+          repair-cost: 1
+      '19':
+        Type: ITEM
+        Item Type: LAPIS_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '20':
+        Type: ITEM
+        Item Type: IRON_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '21':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '22':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '23':
+        Type: ITEM
+        Item Type: REDSTONE_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '24':
+        Type: ITEM
+        Item Type: GOLD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '25':
+        Type: ITEM
+        Item Type: ENDER_PEARL
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '26':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '27':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 1
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+  Silver:
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: DARK_GRAY

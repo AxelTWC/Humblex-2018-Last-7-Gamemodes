@@ -1,0 +1,21 @@
+lastAccountName: CraftNFast
+socialspy: false
+timestamps:
+  login: 1502222854250
+  lastteleport: 1502223059852
+  logout: 1502223114310
+ipAddress: 73.252.29.250
+lastlocation:
+  world: LionHUB
+  x: 94.17205409451329
+  y: 47.0
+  z: -47.38316516917983
+  yaw: 6.0885997
+  pitch: -5.0110407
+logoutlocation:
+  world: MainLobby
+  x: 19.278155661722508
+  y: 57.5
+  z: -0.9457965817625894
+  yaw: -93.063736
+  pitch: 12.726357

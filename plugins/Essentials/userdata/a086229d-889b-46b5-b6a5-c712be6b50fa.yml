@@ -1,0 +1,36 @@
+lastlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -0.47781372
+  pitch: -3.5336792
+lastAccountName: Mclovinx
+timestamps:
+  login: 1516296458344
+  lastteleport: 1514549541618
+  jail: 0
+  logout: 1516296472830
+  kits:
+    starter: 1512218498218
+    keys: 1511794402342
+    bard: 1511794410640
+ipAddress: 213.149.191.195
+money: '600.0'
+jailed: false
+logoutlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -0.47781372
+  pitch: -3.5336792
+nickname: §6Mclovinx
+homes:
+  home:
+    world: Factions
+    x: -227.20745687656267
+    y: 3.0
+    z: -1997.5740333000701
+    yaw: 3.1901715
+    pitch: 33.75002

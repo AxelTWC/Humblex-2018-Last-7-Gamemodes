@@ -1,0 +1,34 @@
+MaintenanceMode:
+  options:
+    enabled: false
+    countdown: 30
+    announce:
+    - '30'
+    - '20'
+    - '10'
+    - '5'
+    - '4'
+    - '3'
+    - '2'
+    - '1'
+    whitelist:
+    - ElieTGM
+    - JosephGP
+    - XxMr1234GamerzxX
+    - test
+    broadcastMessage: '&4Server is entering MaintenanceMode in &a%seconds%&c seconds!'
+    maintenancekickmessage: '&4The server is currently in maintenancemode!%newline%&cCheck
+      back soon!'
+    motd: '&6Welcome to Humblex%newline%&4We are currently in MaintenanceMode!'
+    protocolMessage: HumblexMaintenance
+  misc:
+    protocolEnabled: true
+    soundenabled: true
+    sound: ORB_PICKUP
+    finalsoundenabled: true
+    finalsound: AMBIENCE_THUNDER
+    nopermmessage: '&cYou do not have the sufficient permissions to execute this command!'
+    server-icon: true
+    overrideslp: true
+  messages:
+    prefix: '&0[&6HumblexMaintenance&0]'

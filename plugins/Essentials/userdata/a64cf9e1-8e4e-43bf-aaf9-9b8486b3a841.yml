@@ -1,0 +1,21 @@
+lastAccountName: MorCerta
+timestamps:
+  login: 1503236389676
+  lastteleport: 1503236402891
+  logout: 1503236417946
+ipAddress: 218.252.94.7
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.77777432614305
+  y: 48.00133597911215
+  z: -48.20268419144003
+  yaw: 7.8584785
+  pitch: 0.8150725
+logoutlocation:
+  world: MainLobby
+  x: 24.72617424476106
+  y: 58.0
+  z: 1.478836525839113
+  yaw: -86.33001
+  pitch: 4.8325634

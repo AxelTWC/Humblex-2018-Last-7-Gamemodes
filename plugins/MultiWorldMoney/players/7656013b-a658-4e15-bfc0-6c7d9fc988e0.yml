@@ -1,0 +1,8 @@
+name: TheLuciferFallen
+uuid: 7656013b-a658-4e15-bfc0-6c7d9fc988e0
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

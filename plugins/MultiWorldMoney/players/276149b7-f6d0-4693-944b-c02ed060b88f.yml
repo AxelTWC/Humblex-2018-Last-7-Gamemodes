@@ -1,0 +1,6 @@
+name: F0rcide
+uuid: 276149b7-f6d0-4693-944b-c02ed060b88f
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 2.262426325920787
+  y: 60.0
+  z: 1.7145258454672478
+  yaw: 88.99381
+  pitch: 23.461617
+lastAccountName: sepokegeme268
+timestamps:
+  login: 1516531615714
+  logout: 1516531625704
+  lastteleport: 1515472379717
+ipAddress: 170.231.140.2
+logoutlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -97.62923
+  pitch: 44.245705
+money: '500.0'

@@ -1,0 +1,26 @@
+lastlocation:
+  world: Factions
+  x: 61.35452663496686
+  y: 71.0
+  z: -553.4398385350225
+  yaw: -33.6214
+  pitch: 11.22347
+lastAccountName: PigRank
+timestamps:
+  login: 1513736552635
+  logout: 1513737337237
+  lastteleport: 1513736585011
+  kits:
+    keys: 1512095966539
+    rouge: 1512094687093
+    bard: 1511732554112
+ipAddress: 99.169.254.49
+logoutlocation:
+  world: Factions
+  x: 122.0
+  y: 71.0
+  z: -312.0
+  yaw: 0.0
+  pitch: 0.0
+money: '0.0'
+nickname: PigRank

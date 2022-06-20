@@ -1,0 +1,46 @@
+Courses:
+- easy-1
+- medium-1
+- easy-2
+easy-1:
+  Creator: XxMr1234GamerzxX
+  Views: 170
+  Completed: 100
+  XP: 0
+  Points: 0
+  World: parkour
+  '0':
+    X: 1000.5
+    Y: 29.5
+    Z: 1000.5
+    Yaw: 2.1007996
+    Pitch: 80.85
+  Finished: true
+medium-1:
+  Creator: XxMr1234GamerzxX
+  Views: 165
+  Completed: 52
+  XP: 0
+  Points: 0
+  World: parkour
+  '0':
+    X: 733.5
+    Y: 28.5
+    Z: 1000.5
+    Yaw: 0.34994507
+    Pitch: 1.5500064
+  Finished: true
+easy-2:
+  Creator: XxMr1234GamerzxX
+  Views: 171
+  Completed: 81
+  XP: 0
+  Points: 0
+  World: parkour
+  '0':
+    X: 983.5
+    Y: 29.5
+    Z: 1000.5
+    Yaw: 357.0499
+    Pitch: 34.50003
+  Finished: true

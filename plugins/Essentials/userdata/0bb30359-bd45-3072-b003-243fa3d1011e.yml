@@ -1,0 +1,21 @@
+lastAccountName: xxxxDMaschine
+timestamps:
+  login: 1502559903747
+  logout: 1502559907747
+  lastteleport: 1501921539306
+ipAddress: 91.52.104.181
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.54122661844667
+  y: 46.0
+  z: -59.55940394002108
+  yaw: 15.536787
+  pitch: 42.81216
+logoutlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: -178.71323
+  pitch: 5.162167

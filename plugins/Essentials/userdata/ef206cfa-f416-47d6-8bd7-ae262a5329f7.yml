@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+money: '0.0'
+lastAccountName: Nexi369
+timestamps:
+  login: 1517700469556
+  logout: 1517700579273
+  lastteleport: 1517700525340
+ipAddress: 180.150.35.34
+logoutlocation:
+  world: MainLobby
+  x: 2.9129991920332508
+  y: 60.0
+  z: 0.48382882360183066
+  yaw: -104.03718
+  pitch: -1.6786268

@@ -1,0 +1,6 @@
+name: LazyLawson
+uuid: d21c17fa-087f-4be6-8944-9f0edb82c261
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 3700.0

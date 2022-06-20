@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1499528952452
+  login: 1499528766932
+  logout: 1499528951747
+lastlocation:
+  world: MainLobby
+  x: 6.252712005021854
+  y: 59.0
+  z: 6.887887529055982
+  yaw: -15.302679
+  pitch: 23.548655
+lastAccountName: Skeppy
+ipAddress: 31.208.215.53
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 44.0
+  z: -62.5
+  yaw: -179.4159
+  pitch: 90.0

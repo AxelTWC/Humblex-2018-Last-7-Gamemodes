@@ -1,0 +1,22 @@
+lastlocation:
+  world: LionHUB
+  x: 746.4595168699966
+  y: 10.0
+  z: 3608.961996923385
+  yaw: -0.10546875
+  pitch: -1.409901
+lastAccountName: marcos1739
+timestamps:
+  login: 1517530758989
+  logout: 1517530854303
+  lastteleport: 1517527716177
+ipAddress: 73.232.160.67
+logoutlocation:
+  world: LionHUB
+  x: 723.193078948695
+  y: 5.0
+  z: 3609.6942935279744
+  yaw: -32.655384
+  pitch: 40.14007
+money: '600.0'
+afk: false

@@ -1,0 +1,22 @@
+lastAccountName: LazyLawson
+timestamps:
+  login: 1516145654553
+  lastteleport: 1516145713341
+  logout: 1516145725102
+ipAddress: 99.64.80.61
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 987.0534375001602
+  y: 37.5
+  z: -417.1997583656435
+  yaw: 113.94734
+  pitch: 7.7211742
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 30.74233905111654
+  y: 57.0
+  z: 0.080266872914851
+  yaw: -199.17921
+  pitch: 28.722126

@@ -1,0 +1,6 @@
+name: Cuzy
+uuid: 3c77690b-dd57-49cf-9311-0872e4053c87
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

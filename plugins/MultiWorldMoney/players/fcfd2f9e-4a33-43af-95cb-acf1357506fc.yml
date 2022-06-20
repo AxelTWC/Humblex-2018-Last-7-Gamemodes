@@ -1,0 +1,9 @@
+name: OGRefill
+uuid: fcfd2f9e-4a33-43af-95cb-acf1357506fc
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  Factions: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

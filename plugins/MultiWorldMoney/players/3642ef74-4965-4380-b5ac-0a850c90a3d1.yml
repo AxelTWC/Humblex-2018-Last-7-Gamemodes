@@ -1,0 +1,6 @@
+name: Onion_HD
+uuid: 3642ef74-4965-4380-b5ac-0a850c90a3d1
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

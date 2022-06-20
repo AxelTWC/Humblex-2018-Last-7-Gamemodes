@@ -1,0 +1,7 @@
+name: focuscraft
+uuid: 16570422-d48d-37b7-b9c8-dab13c308ec2
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

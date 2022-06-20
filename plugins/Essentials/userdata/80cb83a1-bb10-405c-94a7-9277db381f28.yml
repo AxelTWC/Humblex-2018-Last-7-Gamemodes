@@ -1,0 +1,36 @@
+lastlocation:
+  world: LionHUB
+  x: 746.2736861740466
+  y: 9.421485600668692
+  z: 3547.5799761617704
+  yaw: -179.66638
+  pitch: -8.151362
+lastAccountName: XxChrisProxX
+timestamps:
+  login: 1521235030532
+  lastteleport: 1521235694253
+  logout: 1521236701421
+  kits:
+    starter: 1517686343916
+    archer: 1517686355317
+    bard: 1518028349836
+ipAddress: 212.251.122.34
+money: '0.0'
+logoutlocation:
+  world: HCF
+  x: 0.8797372901366859
+  y: 71.0
+  z: 21.76249998807907
+  yaw: 10.374135
+  pitch: 12.851137
+afk: false
+godmode: false
+homes:
+  testing:
+    world: lobby_practice
+    x: -305.7023343222391
+    y: 31.0
+    z: -770.3189413247342
+    yaw: 26.316269
+    pitch: 37.583157
+powertools: {}

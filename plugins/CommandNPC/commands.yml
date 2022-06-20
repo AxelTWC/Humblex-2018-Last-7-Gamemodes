@@ -1,0 +1,143 @@
+NPCS:
+  '5':
+    Commands:
+    - warp arenapvp~~false
+  '6':
+    Commands:
+    - ffa join~~false
+  '7':
+    Commands:
+    - meetup join~~false
+  '12':
+    Commands:
+    - meetup join~noperms~false
+  '13':
+    Commands:
+    - meetup leave~noperms~false
+  '15':
+    Commands:
+    - vote~~false
+  '56':
+    Commands:
+    - '%player% Join our discord https://discord.gg/F2T6W8p~msg~true'
+    - Join our discord https://discord.gg/F2T6W8p~%player%~false
+    - our discord https://discord.gg/F2T6W8p~Join~false
+    - Join our discord https://discord.gg/F2T6W8p~console~false
+  '8':
+    Commands:
+    - warp skyblock~~false
+  '62':
+    Commands:
+    - warp uhcmeetup~~false
+  '63':
+    Commands:
+    - warp survivalgames~~false
+  '71':
+    Commands:
+    - no~~false
+    - meetup join~~false
+  '70':
+    Commands:
+    - sw join~~false
+  '88':
+    Commands:
+    - rm~~false
+  '84':
+    Commands:
+    - hm~~false
+  '87':
+    Commands:
+    - votegui~~false
+  '118':
+    Commands:
+    - warp arenapvp~~false
+  '119':
+    Commands:
+    - warp arenapvp~~false
+  '122':
+    Commands:
+    - meetup join~~false
+  '123':
+    Commands:
+    - meetup join~~false
+  '94':
+    Commands:
+    - warp skyblock~~false
+  '120':
+    Commands:
+    - sw join~~false
+  '121':
+    Commands:
+    - sw join~~false
+  '111':
+    Commands:
+    - warp survivalgames~~false
+  '110':
+    Commands:
+    - warp survivalgames~~false
+  '76':
+    Commands:
+    - tell %name https://discord.gg/F2T6W8p <-- Join it now!~~true
+  '129':
+    Commands:
+    - warp newhub~~false
+  '130':
+    Commands:
+    - hub~~false
+  '132':
+    Commands:
+    - tell %name Boo,free enderpearl!~~true
+    - give %name enderpearl 1~~true
+  '134':
+    Commands:
+    - warp parkour~~false
+  '38':
+    Commands:
+    - votegui~~false
+  '39':
+    Commands:
+    - msg %name &6Join us &6&lNow!~~true
+    - msg %name https://discord.gg/F2T6W8p~~true
+    - msg %name &9Have Fun!~~true
+  '40':
+    Commands:
+    - helpmenu~~false
+  '42':
+    Commands:
+    - warp parkour~~false
+  '72':
+    Commands:
+    - meetup leave~~false
+  '96':
+    Commands:
+    - vote~~false
+  '103':
+    Commands:
+    - hm~~false
+  '105':
+    Commands:
+    - vote~~false
+  '106':
+    Commands:
+    - buy~~false
+  '113':
+    Commands:
+    - resetkit %name~~false
+  '116':
+    Commands:
+    - resetkit %name~~false
+  '115':
+    Commands:
+    - kp clear~~false
+  '114':
+    Commands:
+    - kp clear~~false
+  '169':
+    Commands:
+    - kp clear~~false
+  '170':
+    Commands:
+    - kp clear~~false
+  '101':
+    Commands:
+    - msg %name &6https://discord.gg/TdrKFvg~~true

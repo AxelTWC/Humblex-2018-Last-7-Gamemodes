@@ -1,0 +1,7 @@
+name: Hogintin
+uuid: 9dcf7af7-fa73-4c2b-acf8-ac23561ace23
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

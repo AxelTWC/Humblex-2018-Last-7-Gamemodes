@@ -1,0 +1,6 @@
+name: Fob823
+uuid: a773bf9d-c222-4d4e-9cdb-fabaaef96669
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

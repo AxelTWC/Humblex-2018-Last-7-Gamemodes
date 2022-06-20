@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: _MrGiggles
+timestamps:
+  login: 1501221042393
+  lastteleport: 1501221049296
+  logout: 1501222069813
+ipAddress: 121.211.212.14
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: -1.2632126
+  pitch: 11.762165
+logoutlocation:
+  world: MainLobby
+  x: 4.349408811097009
+  y: 60.0
+  z: -0.3169087984392738
+  yaw: 258.16592
+  pitch: 50.646767

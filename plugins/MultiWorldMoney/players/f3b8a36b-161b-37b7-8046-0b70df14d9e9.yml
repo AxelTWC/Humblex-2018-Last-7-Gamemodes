@@ -1,0 +1,8 @@
+name: Peshang_Kurdish
+uuid: f3b8a36b-161b-37b7-8046-0b70df14d9e9
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  parkour: 0.0
+  LionHUB: 500.0

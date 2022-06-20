@@ -1,0 +1,21 @@
+lastAccountName: tzlil
+timestamps:
+  login: 1502049447561
+  lastteleport: 1502049489149
+  logout: 1502049495451
+ipAddress: 85.65.72.158
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.49291108212492
+  y: 45.0
+  z: -61.30000001192093
+  yaw: 0.55464745
+  pitch: -1.1441472
+logoutlocation:
+  world: MainLobby
+  x: 1.5
+  y: 60.0
+  z: 0.5
+  yaw: -89.61518
+  pitch: 0.26603284

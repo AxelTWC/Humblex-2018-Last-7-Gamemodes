@@ -1,0 +1,6 @@
+name: Gikinos
+uuid: 46cac57a-b440-3745-8fb7-a3c82fef95aa
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

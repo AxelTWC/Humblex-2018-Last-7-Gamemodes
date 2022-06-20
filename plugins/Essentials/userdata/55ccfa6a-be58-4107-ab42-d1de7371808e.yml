@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: LosTacos21
+timestamps:
+  login: 1503869010523
+  lastteleport: 1503869015175
+  logout: 1503869121165
+ipAddress: 99.114.89.243
+lastlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: 3.3886664
+  pitch: -17.761063
+logoutlocation:
+  world: MainLobby
+  x: 10.89611644439285
+  y: 60.0
+  z: 0.8515319445548016
+  yaw: 67.29999
+  pitch: 5.750004

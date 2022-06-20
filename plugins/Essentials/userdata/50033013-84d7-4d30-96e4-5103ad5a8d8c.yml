@@ -1,0 +1,21 @@
+lastAccountName: DrCarter_
+timestamps:
+  login: 1503963413268
+  logout: 1503963465364
+  lastteleport: 1503963427345
+ipAddress: 99.16.255.55
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 38.69999998807907
+  y: 59.0
+  z: 5.69999998807907
+  yaw: 110.0845
+  pitch: 18.408278
+lastlocation:
+  world: LionHUB
+  x: 94.11350758988512
+  y: 47.0
+  z: -47.653538054436666
+  yaw: 9.668195
+  pitch: -3.81724

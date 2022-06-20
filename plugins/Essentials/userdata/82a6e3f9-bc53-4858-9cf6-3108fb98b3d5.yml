@@ -1,0 +1,22 @@
+lastAccountName: Berkayyyyy
+timestamps:
+  login: 1512241870110
+  lastteleport: 1512241900110
+  logout: 1512241967194
+ipAddress: 77.102.120.115
+socialspy: false
+lastlocation:
+  world: FFAnormal
+  x: 17.06400391884334
+  y: 14.0
+  z: 5.5088946879707725
+  yaw: 61.496414
+  pitch: 2.0766559
+logoutlocation:
+  world: LionHUB
+  x: 943.8313946254902
+  y: 37.0
+  z: -417.5789273983398
+  yaw: 67.38149
+  pitch: 32.99631
+money: '500.0'

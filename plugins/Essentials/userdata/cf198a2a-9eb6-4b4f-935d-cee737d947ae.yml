@@ -1,0 +1,27 @@
+lastAccountName: Guyx
+timestamps:
+  login: 1518312751703
+  lastteleport: 1517742417741
+  logout: 1518312779341
+  mute: 0
+  kits:
+    keys: 1511834258558
+    god: 1517742777201
+ipAddress: 42.61.224.175
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 730.5394681929238
+  y: 5.0
+  z: 3582.154246692039
+  yaw: 148.3829
+  pitch: 17.456276
+logoutlocation:
+  world: LionHUB
+  x: 725.2486180666644
+  y: 13.5
+  z: 3604.944179194901
+  yaw: 95.16747
+  pitch: 12.3064995
+muted: false
+money: '500.0'

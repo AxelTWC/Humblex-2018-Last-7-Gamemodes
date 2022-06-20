@@ -1,0 +1,206 @@
+# # # # # # # # # # # # # # # # # # # # # # 
+#           Made by Wazup92               #
+#     If you really like the plugin       #
+#     Then please dont forget to leave    #
+#        A positive 5 stars review!       #
+# # # # # # # # # # # # # # # # # # # # # # 
+# 
+# Rollback speed is measured in Blocks per tick, default settings are made for average servers
+# Queue-Size is how many arenas can rollback in the same time, Send-Status-Update-Every is how often the rollback percentage updates, and its in ticks
+# The Max-Arena-Size is completely up to you, thats why i added it here, but obviously, the smaller the size is, the better.
+# Executed commands on Player-Win variables -> %player%, Arena-Start -> %world%
+# Custom slots format -> 'Slot amount : Permission'
+# Mystery-Box chances don't have to add up to 100%
+# If Empty-Chunk-Generator is enabled, the world importing feature will import worlds with a custom generator that generates empty chunks
+# Please BE AWARE. Holographic-Stats are resource intensive. and so is an animated Title
+# If you have generators other than iron, gold, diamonds, and you want them to be upgradeable / fixable, you can add them in the Generators-Settings list to customize their properties
+# Killstreaks format -> 'Kills : Command : Command : ....'
+
+Load-Delay-Ticks: 10
+Empty-Chunk-Generator: false
+Check-For-Updates: true
+use-UUID: false
+use-Vault: false
+String-Coins: 2000
+Coins-Per-Kill: 2
+Coins-Per-Win: 50
+Min-Exp-Per-Kill: 2
+Max-Exp-Per-Kill: 5
+Celebration-Length: 10
+Max-Warnings: 3
+Block-Behind-Signs: 159
+Leave-Countdown-Seconds: 5
+Party-Invitation-Length: 30
+Same-Player-Kill-Limit-Per-Arena: 15
+Holograms-Above-Generators: false
+Signs-Above-Generators: true
+Respawn-With-Kit: false
+Void-Instant-Death: false
+Allow-Spectators-Inventory-View: true
+Load-Skins-On-Skulls: true
+Disable-Natural-Mob-Spawning: true
+Show-Health-On-Bow-Hit: true
+Spectators-Chat: true
+Team-Chat: true
+Lobby-Chat: true
+Fireworks-Enabled: true
+Leash-Mobs: false
+Lobby-Scoreboard: true
+Display-Rank-In-Chat: true
+Selling-Value: 0.33
+Max-Arena-Size: 4500000
+Update-Leaderboard-Every-Minutes: 15
+Core-Block-Type: DRAGON_EGG
+Teleport-Sound-Enabled: true
+Building-Sound-Enabled: true
+Build-Protection-Range: 3
+Dropped-Items-On-Death:
+  clear: true
+  exceptions:
+  - EMERALD
+  - DIAMOND
+  - GOLD_INGOT
+Death-Protection-In-Seconds: 3
+Coins-Per-Egg-Break: 15
+Broadcaster-Send-Every: 60
+Broadcast-Time:
+- 60
+- 30
+- 15
+- 5
+- 4
+- 3
+- 2
+- 1
+Allowed-Commands:
+- ew
+- eggwars
+- tell
+- help
+- r
+- msg
+- ban
+- kick
+- report
+Command-Aliases: []
+Mystery-Box:
+  Block-Type: ENDER_CHEST
+  Cost: 1000
+  Contents:
+  - 'Kits : 45%'
+  - 'Trails : 55%'
+  Rarities:
+  - 'Common : 60%'
+  - 'Rare : 30%'
+  - 'Legendary : 10%'
+Party:
+  Default-Slots: 3
+  Custom-Slots:
+  - '4 : eggwars.party.slots.4'
+  - '5 : eggwars.party.slots.5'
+  - '6 : eggwars.party.slots.6'
+Bungee-Mode:
+  enabled: false
+  hub: lobby
+MySQL:
+  enabled: false
+  table: Eggwars
+  host: localhost
+  port: 3306
+  database: database
+  username: root
+  password: root
+  max_uuid_size: 36
+Rollback:
+  Scan-Speed: 50000
+  Repair-Speed: 10000
+  Queue-Size: 1
+  Send-Status-Update-Every: 20
+Ranks:
+  First-Rank-Exp: 20
+  Rank-Modifier: 1.3
+  Max-Rank: 30
+  Commands:
+  - '30 : broadcast %player% has reached the highest rank!'
+Hotbar-Items:
+  Arena-Selector:
+    enabled: true
+    slot: 1
+  Shop:
+    enabled: true
+    slot: 2
+  Party:
+    enabled: true
+    slot: 3
+  Profile:
+    enabled: true
+    slot: 5
+  Quit:
+    enabled: true
+    slot: 9
+Killstreaks:
+- '3 : give %player% beef 1'
+- '5 : give %player% emerald 1'
+- '8 : give %player% golden_apple 1'
+- '12 : give %player% emerald 3'
+Generator-Settings:
+  IRON_INGOT:
+    Item-Limit: -1
+    Upgrades:
+      Enabled: true
+      Fix-Cost: 'EMERALD : 1'
+      List:
+      - 'IRON_INGOT : 48 :: 10'
+  GOLD_INGOT:
+    Item-Limit: -1
+    Upgrades:
+      Enabled: true
+      Fix-Cost: 'EMERALD : 2'
+      List:
+      - 'GOLD_INGOT : 32 :: 80'
+      - 'GOLD_INGOT : 48 :: 60'
+      - 'GOLD_INGOT : 72 :: 40'
+  DIAMOND:
+    Item-Limit: -1
+    Upgrades:
+      Enabled: true
+      Fix-Cost: 'EMERALD : 3'
+      List:
+      - 'DIAMOND : 5 :: 160'
+      - 'DIAMOND : 15 :: 120'
+      - 'DIAMOND : 25 :: 100'
+Executed-Commands:
+  Player-Win: []
+  Arena-Countdown:
+  - broadcast Arena %arena% is about to start in %seconds% seconds!
+  Arena-Start: []
+Saving-Task:
+  Enabled: true
+  Save-Every-Minutes: 10
+Winners-Map:
+  enabled: false
+  display-image: false
+  image-url: http://i.imgur.com/FrgIjmJ.png
+Scoreboard-Title-Animation:
+  enabled: false
+  interval: 8
+  frames:
+  - '&b&lEGGWARS'
+  - '&e&lEGGWARS'
+  - '&b&lEGGWARS'
+  - '&a&lEGGWARS'
+  - '&b&lEGGWARS'
+  - '&c&lEGGWARS'
+  - '&e&lE&b&lGGWARS'
+  - '&b&lE&e&lG&b&lGWARS'
+  - '&b&lEG&e&lG&b&lWARS'
+  - '&b&lEGG&e&lW&b&lARS'
+  - '&b&lEGGW&e&lA&b&lRS'
+  - '&b&lEGGWA&e&lR&b&lS'
+  - '&b&lEGGWAR&e&lS'
+Action-Bar-Enabled: true
+Titles:
+  enabled: true
+  fadeIn: 10
+  stay: 40
+  fadeOut: 10

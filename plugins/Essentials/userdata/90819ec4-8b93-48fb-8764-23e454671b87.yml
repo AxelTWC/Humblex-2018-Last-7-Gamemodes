@@ -1,0 +1,21 @@
+lastAccountName: LunarVoid
+socialspy: false
+timestamps:
+  login: 1504194782118
+  lastteleport: 1504194833183
+  logout: 1504194838351
+ipAddress: 166.170.31.83
+lastlocation:
+  world: LionHUB
+  x: 92.72376346733168
+  y: 46.0
+  z: -59.508210465007785
+  yaw: -176.46317
+  pitch: 5.612164
+logoutlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: -90.21354
+  pitch: 2.5263548

@@ -1,0 +1,43 @@
+timestamps:
+  lastteleport: 1517092866162
+  login: 1517090493734
+  logout: 1517095003020
+  kits:
+    diamond: 1513692220347
+    starter: 1513774342825
+    archer: 1513598136491
+    rouge: 1513593946657
+    god: 1513597770763
+    miner: 1513775821974
+    bard: 1513775442150
+lastlocation:
+  world: skywars
+  x: 247.98950187993015
+  y: 61.72139192049228
+  z: -221.84276763119658
+  yaw: 145.48447
+  pitch: 2.1000087
+lastAccountName: PartyIsHell
+ipAddress: 197.14.111.196
+socialspy: false
+godmode: false
+logoutlocation:
+  world: skywars
+  x: 335.5091013903192
+  y: 27.065552758709767
+  z: -218.18575847279928
+  yaw: 279.7336
+  pitch: 7.049942
+powertools: {}
+homes:
+  home:
+    world: Factions
+    x: 25.764733964725412
+    y: 42.0
+    z: -448.69999998807907
+    yaw: -5.7267456
+    pitch: 17.800554
+afk: false
+money: '0.0'
+nickname: §4Party
+teleportenabled: true

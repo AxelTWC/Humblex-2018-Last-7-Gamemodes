@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: Mogge_JigSaw
+timestamps:
+  login: 1515602895158
+  lastteleport: 1515602900545
+  logout: 1515606500554
+ipAddress: 78.67.83.62
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 9.688378838332934
+  y: 60.0
+  z: 0.5283995227643856
+  yaw: -90.950005
+  pitch: 7.250001

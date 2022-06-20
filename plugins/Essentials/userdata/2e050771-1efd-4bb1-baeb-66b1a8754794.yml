@@ -1,0 +1,22 @@
+lastAccountName: _RedSun_
+timestamps:
+  login: 1515549780215
+  logout: 1515550479235
+  lastteleport: 1515549819874
+ipAddress: 173.171.52.19
+socialspy: false
+logoutlocation:
+  world: Sg
+  x: -93.00768724387359
+  y: 3.0
+  z: 66.48020807860335
+  yaw: -299.01215
+  pitch: -51.03572
+lastlocation:
+  world: Breeze
+  x: -6.954583992004611
+  y: 67.0
+  z: 26.454334627423993
+  yaw: -75.735886
+  pitch: 2.651696
+money: '500.0'

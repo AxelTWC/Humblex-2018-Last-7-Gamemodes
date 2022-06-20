@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: CLUTHY
+timestamps:
+  login: 1506723943464
+  logout: 1506723964241
+  lastteleport: 1502167500946
+ipAddress: 212.237.134.30
+logoutlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: 5.0922174
+  pitch: -6.8828335
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: -1.2632126
+  pitch: 11.762165

@@ -1,0 +1,22 @@
+lastAccountName: ra11o125
+timestamps:
+  login: 1505576686209
+  lastteleport: 1505576702425
+  logout: 1505576711305
+ipAddress: 67.10.62.252
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 96.6695526416136
+  y: 47.0
+  z: -64.09247702239934
+  yaw: -176.67381
+  pitch: 35.459114
+logoutlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: -1.2632126
+  pitch: 11.762165
+money: '420'

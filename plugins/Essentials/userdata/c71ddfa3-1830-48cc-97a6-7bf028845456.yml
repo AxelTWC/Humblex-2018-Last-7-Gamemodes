@@ -1,0 +1,21 @@
+lastAccountName: PanMedic
+timestamps:
+  login: 1506275235864
+  lastteleport: 1506275239630
+  logout: 1506275155780
+ipAddress: 212.79.110.119
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 358.88678
+  pitch: 11.612165
+logoutlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 358.7368
+  pitch: 11.762165

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Alqric
+timestamps:
+  login: 1501189260780
+  lastteleport: 1501189269963
+  logout: 1501189313666
+ipAddress: 98.167.53.220
+lastlocation:
+  world: LionHUB
+  x: 91.46654110304904
+  y: 46.0
+  z: -59.623741961225065
+  yaw: -10.427826
+  pitch: -5.5962777
+logoutlocation:
+  world: MainLobby
+  x: 8.973910413026633
+  y: 60.0
+  z: 0.3596001619056926
+  yaw: 295.41522
+  pitch: 14.746231

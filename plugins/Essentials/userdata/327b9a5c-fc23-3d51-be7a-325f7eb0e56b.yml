@@ -1,0 +1,21 @@
+lastAccountName: Aqrya
+timestamps:
+  login: 1501189117299
+  lastteleport: 1501189129522
+  logout: 1501189311166
+ipAddress: 23.121.210.121
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.16712655628152
+  y: 46.0
+  z: -61.21056746025192
+  yaw: 4.7514772
+  pitch: 2.0610576
+logoutlocation:
+  world: MainLobby
+  x: 5.782307849907764
+  y: 59.5
+  z: -0.25188499000009623
+  yaw: 263.27344
+  pitch: 23.962887

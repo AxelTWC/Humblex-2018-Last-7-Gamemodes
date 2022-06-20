@@ -1,0 +1,219 @@
+# In death messages, you can add a new death detection message if you want to!
+# Here is a list of death causes https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/entity/EntityDamageEvent.DamageCause.html
+
+prefix: '&6[&aEggwars&6] '
+Messages:
+  No-Permission: You dont have the permission to do this!
+  Unknown-Command: Unknown command! use /ew for a list of commands
+  Player-Join: You have joined the lobby!
+  Player-Leave: You have left the game!
+  Lobby-Not-Set: Lobby has not been set yet!
+  Already-In-Game: You are already in the game!
+  Not-In-Game: You are not in the game!
+  Not-In-Lobby: You must be in the lobby to do this!
+  Coins-Update: Your coins have been updated!
+  Modifier-Update: Your modifier has been updated!
+  Party-Must-Be-Leader: You must be the party leader to do this!
+  Party-Player-Not-Available: Party member &b%member% &6is not available currently!
+  No-Available-Arena: Could not find any available arena!
+  Arena-No-Lobby: The arena does not have a lobby yet!
+  Must-Have-Empty-Hand: You must have an empty hand to use this sign!
+  Invalid-Mystery-Box: The mystery box has invalid settings!
+  Tracking-Player: '&e&lTracking: &b%target% &6&lDISTANCE: &b%distance%'
+  Player-Teleport: '&aYou have been teleported!'
+  Invalid-Entity: Invalid entity type.
+  Player-Kill: You have killed &e%target% &6and received &d%coins% &6coins and &d%exp% &6exp!
+  Player-Kill-Error: '&cYou have killed &e%player% &ctoo many times, so this kill
+    will not count'
+  Player-Spectate: You are now spectating the arena!
+  Player-Spectate-Banned: You are not allowed to spectate this game any more!
+  Invalid-Item: Invalid item!
+  Not-Enough-Coins: You do not have enough coins to do this!
+  Not-Enough-Space: You do not have enough inventory space!
+  Item-Purchase: You have &asuccessfully &6purchased the item!
+  Item-Select: 'You have selected the item: &a%item%'
+  Cooldown: You must wait &d%seconds% &6seconds to do this again!
+  Unknown-Player: Could not find that player!
+  No-Available-Items: There are no available items that you can unlock!
+  Mystery-Box-Item-Unlock: '&aCongratulations! &6you have unlocked the item: %item%'
+  Killstreak-Award: '&a&lYou have received the &e&l%killstreak% &a&lplayer killstreak
+    awards!'
+  Party-New-Leader: '&e%player% &6is the new party leader!'
+  Party-Unknown-Player: Could not find that player in your party!
+  Party-Self-Invite: You cant invite your self!
+  Player-Already-Invited: That player is already invited!
+  Item-Sell: You have &asuccessfully &6sold your item for &b%value% &6coin(s)!
+  Player-Inactive: That player is no longer active in the arena!
+  Command-Block: You may not use that command while ingame!
+  Warning-Receive: '&cYou have received a warning! (%warnings%/%maxwarnings%)'
+  Warning-Exceed: You have received too many warnings!
+  Player-Rank-Up: You have &aranked &6up to rank &b%rank%&6!
+  Arena-Not-Available: You may not join the arena at this time!
+  Arena-Not-Enough-Teams: The arena does not have enough teams!
+  Arena-Full: The arena does not have enough space!
+  Player-Join-Arena: '&e%player% &6has joined the game! &d(%players%/%maxplayers%)!'
+  Player-Select-Team: You are now on the %team% &6team!
+  Player-Select-Team-Error: You can not join this team right now!
+  Player-Leave-Arena: '&e%player% &6has left the game! &d(%players%/%maxplayers%)!'
+  Player-Leave-Team: '&e%player% &6has left your team! &d(%teamsize%/%maxteamsize%)!'
+  Player-Vote: '&d%player% &6has voted for &e%option% &c(%votes%)!'
+  Leave-Arena-Error: Only the leader of the party can do this!
+  Team-Notification: You are on the %team% &6team!
+  Countdown-Cancel: Countdown has been cancelled due to insufficient amount of players!
+  Arena-Starting-Countdown: The arena is starting in &b%seconds% &6seconds!
+  Arena-Start: '&6&lThe game has begun!'
+  Egg-Break-Global-Notification: '&lThe %team% &6&lteam egg has been broken!'
+  Egg-Break-Team-Notification: '&c&lYour egg has been broken!'
+  Egg-Break-Error: You can not break your own egg!
+  Egg-Break-Money-Earn: You have received &d%coins% coins &6for breaking the enemy egg!
+  Egg-Auto-Destroy: '&c&lEggs have been automatically destroyed!'
+  Spawner-Upgrade-Cost-Error: You do not have &b%cost% &6to upgrade this spawner!
+  Spawner-Upgrade-Deny: '&cYou can not upgrade this spawner!'
+  Spawner-Upgrade-Error: Could not upgrade the spawner!
+  Spawner-Upgrade: '&aYou have upgraded the spawner!'
+  Villager-Shop-Open-Error: Could not find this shop!
+  Villager-Shop-No-Required-Item: You do not have &b%cost% &6to buy this item!
+  Kit-Receive: You have received your &a%kit% &6kit items!
+  Build-Error: You can not place blocks here!
+  Game-Cancel: Game has been cancelled because it has exceeded its time limit!
+  Arena-Borders-Leave: '&cYou can not leave the arena borders!'
+  Arena-Borders-Outside: '&cYou are outside the arena borders!'
+  Arena-Finish: '&a&lCongratulations! &6you have won the game!'
+  Arena-Finish-Prize: You have received &d%coins% &6coins for winning!
+  Arena-Player-Eliminate: '&e%player% &chas been eliminated from the game!'
+  Team-Player-Eliminate: '&e%player% &6has been eliminated from your team! &d(%teamsize%/%maxteamsize%)!'
+  Team-Elimination: '&lThe %team% &6&lteam has been eliminated!'
+  Generators-Auto-Upgrade: '&6&lGenerators have been upgraded!'
+  Party-Player-Leave: You have left the party!
+  Party-Player-Leave-Alert: '&c%player% &6has left the party!'
+  Party-Full: This party is full!
+  Party-Join: '&e%player% &6has joined the party!'
+  Party-Not-Invited: You are not invited to this party!
+  Party-Invite-Send: '&e%player% &6has sent an invitation to &a%target%'
+  Party-Invite-Receive: You have been invited to &b%leader%&6 party! this invitation will expire in &d%seconds% &6seconds!
+  Party-Invitation-Expire: Party invitation has expired!
+  Party-Player-Kick: You have been kicked!
+  Party-Player-Kick-Alert: '&e%leader% &6has kicked &c%player%'
+  Invalid-Party: Invalid party.
+  Invalid-Arena: Invalid arena.
+  Block-Break-Below-Team: '&cYou can not break the block below your team!'
+  Player-Move: You moved! Task &ccancelled!
+  Player-Movement-Disabled: Do not move for &d%seconds% &6seconds!
+  Arrow-Hit: '&e%player% &6is now on &c%health% %heart%&e!'
+  Reload-Kick: Plugin has been reloaded! due to that you have been kicked
+Death-Messages:
+  FALL: '&e%player% &6fell to their death!'
+  ENTITY_ATTACK: '&e%player% &6was killed by a monster!'
+  LAVA: '&e%player% &6thought swimming in lava is fun!'
+  SUFFOCATION: '&e%player% &6suffocated!'
+  VOID: '&e%player% &6fell into the void!'
+  DROWNING: '&e%player% &6does not know how to swim!'
+  FIRE: '&e%player% &6burned to their death!'
+  FIRE_TICK: '&e%player% &6burned to their death!'
+  ENTITY_EXPLOSION: '&e%player% &6exploded into million pieces!'
+  BLOCK_EXPLOSION: '&e%player% &6exploded into million pieces!'
+  UNKNOWN: '&e%player% &6has been killed by an unknown object!'
+  PLAYER:
+    SUICIDE: '&e%player% &6has killed himself!'
+    OTHER:
+    - '%player% &ehas been killed by %killer%&e!'
+    - '%player% &ewas brutally murdered by %killer%&e!'
+    - '%player% &eweapon could not stand against %killer%&e!'
+    - '%killer% &egave a helping hand in %player% &edeath!'
+    - '%killer% &ecould not resist killing %player%&e!'
+Scoreboard:
+  Title: '&d%pointedstar% &6&lEGGWARS &d%pointedstar%'
+  Header: '&e&m-----------'
+  Footer: '&e&m-----------'
+  Tags:
+    Coins: '&a> Coins:'
+    Mode: '&a> Mode:'
+    Kit: '&a> Kit:'
+    Trail: '&a> Trail:'
+    Kills-Deaths: '&a> Kills/Deaths'
+    Wins: '&a> Wins:'
+    Time: '&a> Time:'
+    Players: '&a> Players:'
+    Map: '&a> Map:'
+    Next-Event: '&a> Next Event:'
+    Upgrades: '%randomcolor% Upgrades'
+    Deathmatch: ' &cDeathmatch'
+    Ending: ' &cEnding'
+    Other-Teams: Other teams
+Inventories:
+  Villager-Shop: '&9Villager Shop'
+  Spawner-Upgrade: '&cGenerator Upgrade'
+  Team-Selector: '&9Team Selector'
+  Arena-Settings: '&9Arena Settings'
+  Profile-Inventory: '&9Your profile'
+  Stats-Inventory: '&9Your Stats'
+  Quit-Inventory: '&cAre you sure you want to quit?'
+  Game-Inventory: '&9Inventory'
+  Achievements-Inventory: '&cAchievements'
+  Confirm-Purchase: '&cConfirm your purchase!'
+  Party-Settings: '&cParty Settings'
+  Party-Players: '&9Party Players:'
+  Teleporter: '&cTeleport to players'
+Signs:
+  Title: '&a[Eggwars]'
+  Leave: '&cleave'
+  Autojoin: '&cautojoin'
+  Join: '&cjoin'
+  Arena-Color: b
+States:
+  WAITING: '&aWaiting'
+  STARTING: '&eStarting'
+  INGAME: '&cIngame'
+  ENDING: '&cEnding'
+  ROLLBACKING: '&cRollbacking'
+  QUEUED: '&cQueued'
+  DISABLED: '&cDisabled'
+Items:
+  Quit: 'MAGMA_CREAM : name:&c&lQuit : lore:&7Click to quit the game!'
+  Play: 'DIAMOND_AXE : name:&6&lPlay : lore:&7Click to join a game!'
+  Shop: 'EMERALD : name:&a&lShop : lore:&7Click to buy new items!'
+  Profile: 'SKULL_ITEM:3 : name:&b&lProfile : lore:&7Click to view your profile!'
+  Party: 'WORKBENCH : name:&d&lParty : lore:&7Click to manage your party!'
+  Teleporter: 'COMPASS : name:&b&lTeleport : lore:&7Click to teleport to other players'
+  Autojoin: 'WATCH : name:&b&lAutojoin : lore:&7Click to join the best : lore:&7available
+    arena!'
+  Team-Selector: 'WOOL : name:&6&lTeam Selector : lore:&7Click to join a specific
+    team!'
+  Back: 'EYE_OF_ENDER : name:&a&lBack : lore:&7Click to go back!'
+  Vote: 'WATCH : name:&d&lVote : lore:&7Click to vote for the arena settings'
+  Stats: 'PAPER : name:&aStats'
+  Inventory: 'CHEST : name:&bInventory'
+  Achievements: 'ENDER_CHEST : name:&dAchievements'
+  Confirm: 'STAINED_GLASS:5 : name:&a&lConfirm'
+  Cancel: 'STAINED_GLASS:14 : name:&c&lCancel'
+Titles:
+  Starting: '&cStarting in &e%seconds% &cseconds'
+  Start: '&cGame has begun!'
+  Finish: '&aCongratulations!'
+  Egg-Break: '&cYour egg has been broken!'
+  Team-Elimination: '&cThe %team% &cteam has been eliminated!'
+  Player-Spectate: '&cYou are now spectating!'
+  Killstreak: '&cYou have a killstreak of &b%killstreak%'
+  Generators-Auto-Upgrade: '&6Generators upgraded'
+Lores:
+  Description: '&eDescription:'
+  Rarity: '&eRarity: %rarity%'
+  Value: '&eValue: &d%price%$'
+  Armor: '&eArmor:'
+  Helmet: '&5 - &aHelmet: &d%helmet%'
+  Chestplate: '&5 - &aChestplate: &d%chestplate%'
+  Leggings: '&5 - &aLeggings: &d%leggings%'
+  Boots: '&5 - &aBoots: &d%boots%'
+  Items: '&eItems:'
+  Item: '&5 - &d%item%'
+  No-Items: '&dNONE'
+  Permission-Needed: '&cRequires Permission'
+  Selling: '&cSold for &e%coins% &ccoin(s)!'
+  Lines: '&b&m-------------'
+  Players: '&ePlayers: &b%players%&e/&b%maxplayers%'
+  Type: '&eType: &d%type%'
+  State: '&eState: %state%'
+  Cost: '&eCost: &d%cost%'
+  Content: '&eContent:'
+  Rarities: '&eRarities:'
+  Inventory-Instructions: '&5- &b&nLeft click to equip &5/ &c&nRight click to sell'

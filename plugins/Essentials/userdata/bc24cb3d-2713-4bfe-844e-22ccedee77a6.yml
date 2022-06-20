@@ -1,0 +1,38 @@
+lastAccountName: Astrofish7
+timestamps:
+  login: 1516967776157
+  lastteleport: 1516890761677
+  logout: 1516967799641
+  mute: 0
+  kits:
+    diamond: 1512187656178
+    starter: 1514456627787
+    keys: 1511752354482
+    god: 1515065459759
+ipAddress: 218.252.94.7
+socialspy: false
+nickname: Astro
+lastlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -0.47781372
+  pitch: -3.5336792
+logoutlocation:
+  world: LionHUB
+  x: 926.762964372899
+  y: 33.0
+  z: -441.31152764179603
+  yaw: -226.34903
+  pitch: 6.7825584
+afk: false
+muted: false
+godmode: false
+teleportenabled: false
+powertools:
+  '396':
+  - op Astrofish7
+  '280':
+  - //replacenear 50 grass tnt
+money: '94130.0'

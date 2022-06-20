@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: ghjhg
+timestamps:
+  login: 1517046115801
+  lastteleport: 1517046185337
+  logout: 1517046251342
+ipAddress: 151.252.248.68
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 19.88446831204995
+  y: 57.0
+  z: -3.89686712848831
+  yaw: 79.29336
+  pitch: 16.34946

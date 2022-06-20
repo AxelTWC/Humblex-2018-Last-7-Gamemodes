@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: _unDab_
+timestamps:
+  login: 1505998791608
+  lastteleport: 1505998823548
+  logout: 1505998881389
+ipAddress: 176.241.3.104
+lastlocation:
+  world: LionHUB
+  x: 90.08513300028297
+  y: 46.5
+  z: -62.70991701384263
+  yaw: -2.3977532
+  pitch: 2.8897338
+logoutlocation:
+  world: MainLobby
+  x: 35.633041839270824
+  y: 57.0
+  z: -15.436869392439446
+  yaw: -188.87073
+  pitch: 15.062394

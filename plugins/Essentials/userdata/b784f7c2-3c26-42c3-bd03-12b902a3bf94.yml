@@ -1,0 +1,24 @@
+lastAccountName: Unstoppably
+timestamps:
+  login: 1516923572469
+  lastteleport: 1516923782811
+  logout: 1516925933556
+  kits:
+    starter: 1516923818459
+ipAddress: 67.2.203.149
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 942.8002647861504
+  y: 39.170787077218804
+  z: -466.9847857838457
+  yaw: 181.60902
+  pitch: 9.640789
+logoutlocation:
+  world: Factions
+  x: 148.9935129274665
+  y: 63.0
+  z: -222.1608735295465
+  yaw: 228.72786
+  pitch: 26.70361
+money: '0.0'

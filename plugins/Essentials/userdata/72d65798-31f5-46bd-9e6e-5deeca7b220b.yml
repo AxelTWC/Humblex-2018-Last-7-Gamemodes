@@ -1,0 +1,23 @@
+lastlocation:
+  world: MainLobby
+  x: 0.2848006995705517
+  y: 60.0
+  z: 0.4466786553997219
+  yaw: -89.0
+  pitch: -5.0
+lastAccountName: EzZweifs
+timestamps:
+  login: 1518018689175
+  lastteleport: 1518018732500
+  kits:
+    starter: 1518018504170
+  logout: 1518018968292
+ipAddress: 90.224.122.10
+money: '0.0'
+logoutlocation:
+  world: lobby_practice
+  x: 35.65406196021604
+  y: 99.0
+  z: -3027.719819659832
+  yaw: -51.803074
+  pitch: 7.7661405

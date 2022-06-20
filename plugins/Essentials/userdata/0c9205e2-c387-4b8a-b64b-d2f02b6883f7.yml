@@ -1,0 +1,21 @@
+lastAccountName: NicoSteve
+timestamps:
+  login: 1505583448344
+  lastteleport: 1505583464711
+  logout: 1505583720375
+ipAddress: 172.248.43.91
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.36423008728686
+  y: 47.0
+  z: -50.73197463165215
+  yaw: 1.2886657
+  pitch: -1.4110628
+logoutlocation:
+  world: MainLobby
+  x: 12.22331484205126
+  y: 57.0
+  z: 6.009031896328654
+  yaw: -89.75001
+  pitch: 10.400004

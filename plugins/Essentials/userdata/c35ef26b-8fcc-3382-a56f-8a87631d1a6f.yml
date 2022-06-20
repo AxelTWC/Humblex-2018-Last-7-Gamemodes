@@ -1,0 +1,23 @@
+lastlocation:
+  world: MainLobby
+  x: 13.715316966264222
+  y: 57.0
+  z: 2.470027957596958
+  yaw: 123.38269
+  pitch: 32.026257
+lastAccountName: ExBattalionOP
+timestamps:
+  login: 1514798313132
+  lastteleport: 1514798711119
+  kits:
+    starter: 1514798722400
+  logout: 1514799180043
+ipAddress: 110.54.228.36
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 103.43041293624414
+  y: 88.0
+  z: -2005.699999988079
+  yaw: 178.45349
+  pitch: -3.730549

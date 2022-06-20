@@ -1,0 +1,8 @@
+name: FusionSuP
+uuid: e2c9c493-d28d-475d-9cfd-cc146e953eb9
+logoffworld: world
+balances:
+  MainLobby: 0.0
+  world: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

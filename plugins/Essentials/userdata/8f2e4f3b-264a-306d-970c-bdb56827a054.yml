@@ -1,0 +1,21 @@
+lastAccountName: WTPotato
+timestamps:
+  login: 1502555036413
+  lastteleport: 1502555055976
+  logout: 1502555257105
+ipAddress: 88.235.188.126
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.27000677209354
+  y: 47.0
+  z: -47.992558496943
+  yaw: -4.3137836
+  pitch: -9.834772
+logoutlocation:
+  world: MainLobby
+  x: 11.339910908051166
+  y: 59.0
+  z: 0.4936909911844954
+  yaw: -95.676094
+  pitch: 20.980082

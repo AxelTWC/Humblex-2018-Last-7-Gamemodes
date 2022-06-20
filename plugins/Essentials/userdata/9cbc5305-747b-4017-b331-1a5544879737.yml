@@ -1,0 +1,21 @@
+lastAccountName: SlashToggleKA
+timestamps:
+  login: 1504824775486
+  lastteleport: 1504824833631
+  logout: 1504824912422
+ipAddress: 104.178.204.137
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 92.22882058444175
+  y: 46.0
+  z: -68.48444390983974
+  yaw: 19.92804
+  pitch: 14.150856
+logoutlocation:
+  world: MainLobby
+  x: 10.320152383963922
+  y: 60.0
+  z: 1.298534699346417
+  yaw: 158.05841
+  pitch: 10.764843

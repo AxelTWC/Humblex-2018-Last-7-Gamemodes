@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: LocalSkills
+timestamps:
+  login: 1505095739540
+  lastteleport: 1505095745497
+  logout: 1505096498936
+ipAddress: 73.87.142.195
+lastlocation:
+  world: LionHUB
+  x: 93.52910595952017
+  y: 48.166109260938214
+  z: -48.441117209404126
+  yaw: 0.9835876
+  pitch: -7.3482604
+logoutlocation:
+  world: MainLobby
+  x: 2.1053688833141706
+  y: 60.0
+  z: -1.0115692200714772
+  yaw: -89.0
+  pitch: 2.0
+godmode: false

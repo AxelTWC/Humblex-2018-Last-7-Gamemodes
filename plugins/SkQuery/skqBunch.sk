@@ -1,0 +1,136 @@
+custom effect logic for "(create|register) warp [with name|named] %string% at %location%":
+	set {_t} to string expression 1
+	set {_l} to location expression 2
+	set {bunch.warp.loc.%{_t}%} to {_l}
+	
+custom effect logic for "(unregister|delete) warp [with name|named] %string%":
+	delete {bunch.warp.loc.%string expression 1%}
+	
+custom effect logic for "(move|tp|teleport) %player% to warp [with name|named] %string%":
+	if {bunch.warp.loc.%string expression 2%} is set:
+		teleport player expression 1 to {bunch.warp.loc.%string expression 2%}
+		
+custom effect logic for "(create|register) team [with name|named] %string%":
+	loop {bunch.teams.created::*}:
+		if "%loop-value%" is "%string expression 1%":
+			stop trigger
+	add string expression 1 to {bunch.teams.created::*}
+	
+custom effect logic for "(delete|unregister) team [with name|named] %string%":
+	loop {bunch.teams.created::*}:
+		if "%loop-value%" is string expression 1:
+			remove loop-value from {bunch.teams.created::*}
+			delete {bunch.team.%string expression 1%.members::*}
+		
+custom effect logic for "add %player% to team %string%":
+	set {_p} to player expression 1
+	loop {bunch.teams.created::*}:
+		if "%loop-value%" is string expression 2:
+			set {_c} to 1
+			stop loop
+	{_c} is 1
+	loop {bunch.team.%{bunch.team.%{_p}%}%.members::*}:
+		if loop-value is {_p}:
+			stop trigger
+	add {_p} to {bunch.team.%string expression 3%.members::*}
+	set {bunch.team.%{_p}%} to string expression 3
+	
+custom effect logic for "remove %player% from team %string%":
+	set {_p} to player expression 1
+	if {bunch.team.%{_p}%} isn't set:
+		stop trigger
+	loop {bunch.teams.created::*}:
+		if "%loop-value%" is string expression 2:
+			set {_c} to 1
+			stop loop
+	{_c} is 1
+	loop {bunch.team.%{bunch.team.%{_p}%}%.members::*}:
+		if loop-value is {_p}:
+			delete loop-value
+	delete {bunch.team.%{_p}%}
+			
+custom effect logic for "set (rule|flag) %string% of team %string% to %boolean%":
+	loop {bunch.teams.created::*}:
+		if "%loop-value%" is string expression 2:
+			set {_c} to 1
+			stop loop
+	{_c} is 1
+	if string expression 1 is "friendlyfire":
+		set {_c2} to 1
+	{_c2} is 1
+	set {bunch.team.%string expression 2%.rule.%string expression 1%} to boolean expression 3
+	
+custom property logic for "team" of "player":
+	set {_p} to player origin expression
+	if {bunch.team.%{_p}%} is set:
+		set expression value to {bunch.team.%{_p}%}
+		
+custom effect logic for "(move|tp|teleport) team %string% to %location%":
+	loop {bunch.teams.created::*}:
+		if "%loop-value%" is string expression 1:
+			set {_c} to 1
+			stop loop
+	{_c} is 1
+	loop {bunch.team.%string expression 1%.members::*}:
+		teleport loop-value to location expression 2
+		
+custom effect logic for "(write|broadcast) %string% to team %string%":
+	loop {bunch.teams.created::*}:
+		if "%loop-value%" is string expression 2:
+			set {_c} to 1
+			stop loop
+	{_c} is 1
+	loop {bunch.team.%string expression 2%.members::*}:
+		send "%coloured string expression 1%" to loop-value
+	
+	
+	
+on damage:
+	if "%{bunch.team.%attacker%}%" is "%{bunch.team.%victim%}%":
+		if {bunch.team.%{bunch.team.%attacker%}%.rule.friendlyfire} is true:
+			cancel the event
+			send "&cYou are not allowed to damage your teammates"
+		
+on join:
+	loop {bunch.teams.created::*}:
+		if loop-value is {bunch.team.%player%}:
+			set {_c} to 1
+			stop loop
+	{_c} isn't 1
+	send "&cYour team has been disbanded" to player
+	delete {bunch.team.%player%}
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+

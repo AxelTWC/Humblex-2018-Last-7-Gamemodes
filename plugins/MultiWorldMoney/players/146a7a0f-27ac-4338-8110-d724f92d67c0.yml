@@ -1,0 +1,7 @@
+name: FinLaggy
+uuid: 146a7a0f-27ac-4338-8110-d724f92d67c0
+logoffworld: lobby_practice
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

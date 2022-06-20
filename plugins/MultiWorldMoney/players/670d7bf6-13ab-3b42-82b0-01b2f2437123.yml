@@ -1,0 +1,7 @@
+name: aebsaf
+uuid: 670d7bf6-13ab-3b42-82b0-01b2f2437123
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

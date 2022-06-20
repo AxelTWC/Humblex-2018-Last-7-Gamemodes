@@ -1,0 +1,6 @@
+name: InHabits
+uuid: df363d17-f9d7-43b1-814a-5d9aae04823e
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

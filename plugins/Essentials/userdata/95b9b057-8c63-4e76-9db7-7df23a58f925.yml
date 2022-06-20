@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: iTzMeDr4c0x
+timestamps:
+  login: 1513032288351
+  logout: 1513032338835
+  lastteleport: 1512345153991
+ipAddress: 181.53.168.251
+logoutlocation:
+  world: LionHUB
+  x: 943.6305983210877
+  y: 37.0
+  z: -404.5443118484449
+  yaw: 359.5222
+  pitch: -3.5336792
+lastlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -0.47781372
+  pitch: -3.5336792
+money: '0.0'

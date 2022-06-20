@@ -1,0 +1,188 @@
+enabled: true
+world: ValleysideUniversity
+minPlayers: 2
+maxPlayers: 24
+lobby-time: 30
+grace-time: 30
+deathmatch-grace-time: 20
+game-time: 1200
+warn-every-seconds: 60
+time-till-deathmatch-start-after-announce: 30
+deathmatch-time: 120
+chests-refill-at: 600
+minimum-chest-items: 3
+max-chest-items: 5
+minimum-chest-tier2-items: 2
+max-chest-tier2-items: 4
+playerstilldeathmatch: 3
+spawnpoints:
+  '1':
+    x: 317
+    y: 5
+    z: 146
+    yaw: -180.68109
+    pitch: 0.16974857
+  '2':
+    x: 321
+    y: 5
+    z: 145
+    yaw: -192.65784
+    pitch: 3.7305717
+  '3':
+    x: 325
+    y: 5
+    z: 145
+    yaw: -208.5188
+    pitch: 0.73623544
+  '4':
+    x: 329
+    y: 5
+    z: 141
+    yaw: -225.67578
+    pitch: 6.401182
+  '5':
+    x: 332
+    y: 5
+    z: 137
+    yaw: -235.71246
+    pitch: 7.5341563
+  '6':
+    x: 333
+    y: 5
+    z: 133
+    yaw: -256.18744
+    pitch: 3.24497
+  '7':
+    x: 334
+    y: 5
+    z: 129
+    yaw: -268.245
+    pitch: 0.41244394
+  '8':
+    x: 333
+    y: 5
+    z: 125
+    yaw: -287.02014
+    pitch: 4.701645
+  '9':
+    x: 332
+    y: 5
+    z: 121
+    yaw: -296.2456
+    pitch: 3.3258631
+  '10':
+    x: 329
+    y: 5
+    z: 117
+    yaw: -315.8299
+    pitch: 4.377922
+  '11':
+    x: 325
+    y: 5
+    z: 114
+    yaw: -330.15442
+    pitch: 4.620697
+  '12':
+    x: 321
+    y: 5
+    z: 113
+    yaw: -346.3407
+    pitch: -0.15406032
+  '13':
+    x: 317
+    y: 5
+    z: 112
+    yaw: -359.69354
+    pitch: 0.0077980487
+  '14':
+    x: 313
+    y: 5
+    z: 113
+    yaw: -16.040894
+    pitch: 2.1928406
+  '15':
+    x: 309
+    y: 5
+    z: 114
+    yaw: -27.29126
+    pitch: 2.3547056
+  '16':
+    x: 305
+    y: 5
+    z: 117
+    yaw: -45.501038
+    pitch: 4.782545
+  '17':
+    x: 302
+    y: 5
+    z: 121
+    yaw: -60.31201
+    pitch: 3.0830564
+  '18':
+    x: 301
+    y: 5
+    z: 125
+    yaw: -72.93652
+    pitch: 0.81708735
+  '19':
+    x: 300
+    y: 5
+    z: 129
+    yaw: -92.19733
+    pitch: 2.4356406
+  '20':
+    x: 301
+    y: 5
+    z: 133
+    yaw: -102.79883
+    pitch: -0.23499408
+  '21':
+    x: 302
+    y: 5
+    z: 137
+    yaw: -121.16846
+    pitch: -0.5587151
+  '22':
+    x: 305
+    y: 5
+    z: 141
+    yaw: -131.93274
+    pitch: 2.1119037
+  '23':
+    x: 309
+    y: 5
+    z: 144
+    yaw: -142.04834
+    pitch: 26.309408
+  '24':
+    x: 313
+    y: 5
+    z: 145
+    yaw: -159.04272
+    pitch: 2.5165334
+deathmatch:
+  spawnpoints:
+    '1':
+      x: 317
+      y: 5
+      z: 146
+      yaw: -180.65051
+      pitch: 18.621267
+    '2':
+      x: 334
+      y: 5
+      z: 129
+      yaw: -270.07593
+      pitch: 3.4067707
+    '3':
+      x: 317
+      y: 5
+      z: 112
+      yaw: -1.6859131
+      pitch: 2.8402998
+    '4':
+      x: 300
+      y: 5
+      z: 129
+      yaw: -90.95581
+      pitch: 3.325876

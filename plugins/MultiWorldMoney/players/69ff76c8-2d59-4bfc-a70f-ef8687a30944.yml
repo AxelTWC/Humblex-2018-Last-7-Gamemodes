@@ -1,0 +1,8 @@
+name: Divermax
+uuid: 69ff76c8-2d59-4bfc-a70f-ef8687a30944
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  Sg: 500.0
+  lobby_practice: 0.0
+  LionHUB: 0.0

@@ -1,0 +1,22 @@
+lastAccountName: agent9002
+timestamps:
+  login: 1514473915752
+  logout: 1514474257314
+  lastteleport: 1514474003708
+ipAddress: 94.173.218.37
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 27.19291068435345
+  y: 57.5
+  z: -31.69999998807907
+  yaw: 161.03369
+  pitch: 90.0
+lastlocation:
+  world: LionHUB
+  x: 943.5855808162913
+  y: 38.0
+  z: -363.0801076331735
+  yaw: 6.7221737
+  pitch: -2.6999211
+money: '0.0'

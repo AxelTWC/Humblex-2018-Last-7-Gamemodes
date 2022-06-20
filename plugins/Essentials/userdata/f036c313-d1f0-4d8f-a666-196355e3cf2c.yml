@@ -1,0 +1,21 @@
+lastAccountName: YoloDark21
+timestamps:
+  login: 1506701057281
+  lastteleport: 1506096695137
+  logout: 1506701077372
+ipAddress: 213.140.204.238
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: 31.5
+  y: 80.0
+  z: 489.5
+  yaw: -88.67439
+  pitch: 6.780102
+logoutlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 0.53678757
+  pitch: -0.2378347

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: getmycombo
+timestamps:
+  login: 1506258859211
+  lastteleport: 1505353524080
+  logout: 1506259060105
+ipAddress: 113.180.29.116
+lastlocation:
+  world: MainLobby
+  x: 8.136653440331663
+  y: 59.0
+  z: 2.434745822061754
+  yaw: 93.52546
+  pitch: 23.796078
+logoutlocation:
+  world: LionHUB
+  x: 93.7843201139722
+  y: 47.0
+  z: -48.754979642319256
+  yaw: -6.2938232
+  pitch: 17.906181

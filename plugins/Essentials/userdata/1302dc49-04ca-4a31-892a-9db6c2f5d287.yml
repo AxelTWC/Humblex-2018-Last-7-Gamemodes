@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+lastAccountName: TheOfficialFire
+timestamps:
+  login: 1521341018370
+  logout: 1521342168544
+  lastteleport: 1517594242093
+  kits:
+    starter: 1517587099263
+ipAddress: 155.186.162.25
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 808.5526153317097
+  y: 92.0
+  z: 3614.699999988079
+  yaw: 9.543457
+  pitch: 16.778347

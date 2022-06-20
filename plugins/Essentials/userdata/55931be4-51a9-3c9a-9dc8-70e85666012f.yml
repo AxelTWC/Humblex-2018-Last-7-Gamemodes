@@ -1,0 +1,21 @@
+lastAccountName: Vanderan
+timestamps:
+  login: 1501177728438
+  lastteleport: 1501177732489
+  logout: 1501178621904
+ipAddress: 72.190.164.73
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 92.26914522553591
+  y: 46.0
+  z: -59.580058581180616
+  yaw: -127.92622
+  pitch: 5.0794535
+logoutlocation:
+  world: MainLobby
+  x: 3.612089832600386
+  y: 59.0
+  z: 13.95228828271522
+  yaw: 16.861328
+  pitch: 25.078588

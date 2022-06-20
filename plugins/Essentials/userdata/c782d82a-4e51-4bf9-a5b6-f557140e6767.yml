@@ -1,0 +1,23 @@
+lastlocation:
+  world: Factions
+  x: 113.70486349313654
+  y: 68.0
+  z: -286.8625568383193
+  yaw: 40.18954
+  pitch: 3.2003498
+lastAccountName: _OmegaPlayz_
+timestamps:
+  login: 1512698171256
+  lastteleport: 1512698188317
+  kits:
+    starter: 1512685102659
+  logout: 1512698216563
+ipAddress: 216.209.114.15
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 943.1935437517062
+  y: 38.0
+  z: -415.09600205390643
+  yaw: -160.88228
+  pitch: -15.477216

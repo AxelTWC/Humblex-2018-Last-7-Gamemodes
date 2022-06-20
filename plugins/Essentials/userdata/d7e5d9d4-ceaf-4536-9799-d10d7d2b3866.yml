@@ -1,0 +1,24 @@
+lastAccountName: ikninja
+timestamps:
+  login: 1507074828609
+  logout: 1507075706722
+  lastteleport: 1506793926146
+  mute: 0
+socialspy: false
+ipAddress: 24.79.239.223
+logoutlocation:
+  world: TNT
+  x: 446.69999998807907
+  y: 104.0
+  z: 86.69999998807907
+  yaw: 3.8184814
+  pitch: -0.29990378
+lastlocation:
+  world: TNT
+  x: 445.5
+  y: 4.0
+  z: 81.5
+  yaw: 6.0692787
+  pitch: 22.578987
+muted: false
+money: '40197'

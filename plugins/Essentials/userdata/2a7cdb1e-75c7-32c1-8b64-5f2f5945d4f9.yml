@@ -1,0 +1,23 @@
+lastAccountName: shqipe1234
+timestamps:
+  login: 1501840785740
+  logout: 1501841380797
+  lastteleport: 1501840802021
+  mute: 0
+ipAddress: 109.193.73.223
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 19.625606946808368
+  y: 57.53584062504456
+  z: 0.6462700967876562
+  yaw: -71.0808
+  pitch: 11.754345
+lastlocation:
+  world: LionHUB
+  x: 93.62454560356309
+  y: 47.0
+  z: -48.62709964761099
+  yaw: -1.2632127
+  pitch: 10.712164
+muted: false

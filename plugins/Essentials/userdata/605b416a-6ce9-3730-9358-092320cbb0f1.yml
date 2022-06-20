@@ -1,0 +1,24 @@
+timestamps:
+  lastteleport: 1501141790067
+  login: 1501156126151
+  logout: 1501157214998
+  mute: 0
+lastlocation:
+  world: LionHUB
+  x: 93.37731508249118
+  y: 48.0
+  z: -46.78341813561798
+  yaw: -3.4852479
+  pitch: 1.3947663
+socialspy: false
+lastAccountName: Astrofish7
+ipAddress: 218.252.94.7
+logoutlocation:
+  world: MainLobby
+  x: 37.69999998807907
+  y: 57.5
+  z: 2.410065785697826
+  yaw: 272.0
+  pitch: 0.0
+afk: false
+muted: false

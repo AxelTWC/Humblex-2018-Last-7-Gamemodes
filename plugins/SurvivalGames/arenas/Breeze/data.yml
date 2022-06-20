@@ -1,0 +1,188 @@
+enabled: true
+world: Breeze
+minPlayers: 2
+maxPlayers: 24
+lobby-time: 30
+grace-time: 30
+deathmatch-grace-time: 20
+game-time: 1200
+warn-every-seconds: 60
+time-till-deathmatch-start-after-announce: 30
+deathmatch-time: 240
+chests-refill-at: 600
+minimum-chest-items: 3
+max-chest-items: 5
+minimum-chest-tier2-items: 2
+max-chest-tier2-items: 4
+playerstilldeathmatch: 3
+spawnpoints:
+  '1':
+    x: -7
+    y: 67
+    z: 26
+    yaw: -88.37336
+    pitch: 0.16179979
+  '2':
+    x: -6
+    y: 67
+    z: 32
+    yaw: -106.824875
+    pitch: -0.5666174
+  '3':
+    x: -4
+    y: 67
+    z: 37
+    yaw: -119.04512
+    pitch: -2.104226
+  '4':
+    x: 0
+    y: 67
+    z: 42
+    yaw: -133.5312
+    pitch: -1.9423625
+  '5':
+    x: 5
+    y: 67
+    z: 46
+    yaw: -149.39314
+    pitch: -5.3413596
+  '6':
+    x: 10
+    y: 67
+    z: 48
+    yaw: -163.39368
+    pitch: 1.0519725
+  '7':
+    x: 16
+    y: 67
+    z: 49
+    yaw: -179.98401
+    pitch: -4.289261
+  '8':
+    x: 22
+    y: 67
+    z: 48
+    yaw: -190.99023
+    pitch: 5.4221363
+  '9':
+    x: 27
+    y: 67
+    z: 46
+    yaw: -211.0604
+    pitch: 4.1273046
+  '10':
+    x: 32
+    y: 67
+    z: 42
+    yaw: -219.47688
+    pitch: 2.9133785
+  '11':
+    x: 36
+    y: 67
+    z: 37
+    yaw: -240.43742
+    pitch: -0.080964185
+  '12':
+    x: 38
+    y: 67
+    z: 32
+    yaw: -246.66881
+    pitch: 6.069565
+  '13':
+    x: 39
+    y: 67
+    z: 26
+    yaw: -269.89532
+    pitch: -5.098505
+  '14':
+    x: 38
+    y: 67
+    z: 20
+    yaw: -279.03964
+    pitch: 4.1273117
+  '15':
+    x: 36
+    y: 67
+    z: 15
+    yaw: -301.5376
+    pitch: 1.9422573
+  '16':
+    x: 32
+    y: 67
+    z: 10
+    yaw: -315.4572
+    pitch: 2.0232038
+  '17':
+    x: 27
+    y: 67
+    z: 6
+    yaw: -322.9835
+    pitch: -1.6994807
+  '18':
+    x: 22
+    y: 67
+    z: 4
+    yaw: -342.16388
+    pitch: -2.104122
+  '19':
+    x: 16
+    y: 67
+    z: 3
+    yaw: -356.73074
+    pitch: -2.1040998
+  '20':
+    x: 10
+    y: 67
+    z: 4
+    yaw: -9.112793
+    pitch: -5.17937
+  '21':
+    x: 5
+    y: 67
+    z: 6
+    yaw: -26.755127
+    pitch: -0.56644297
+  '22':
+    x: 0
+    y: 67
+    z: 10
+    yaw: -35.738037
+    pitch: -3.3179739
+  '23':
+    x: -4
+    y: 67
+    z: 15
+    yaw: -61.230927
+    pitch: 0.56662804
+  '24':
+    x: -6
+    y: 67
+    z: 20
+    yaw: -71.50885
+    pitch: -6.150394
+deathmatch:
+  spawnpoints:
+    '1':
+      x: -7
+      y: 67
+      z: 26
+      yaw: -88.42322
+      pitch: -4.2080812
+    '2':
+      x: 16
+      y: 67
+      z: 50
+      yaw: -178.3346
+      pitch: -4.5317698
+    '3':
+      x: 39
+      y: 67
+      z: 26
+      yaw: -268.97412
+      pitch: -0.56626904
+    '4':
+      x: 16
+      y: 67
+      z: 3
+      yaw: -359.1283
+      pitch: -5.421946

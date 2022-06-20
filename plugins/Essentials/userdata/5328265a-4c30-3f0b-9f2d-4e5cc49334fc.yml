@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: CJAlnadabi
+timestamps:
+  login: 1512647437129
+  logout: 1512647569591
+  lastteleport: 1512647542419
+ipAddress: 5.36.249.233
+logoutlocation:
+  world: SkyBlock
+  x: 0.7115647709322166
+  y: 65.0
+  z: 1.1093143487600794
+  yaw: -359.80896
+  pitch: 12.773777
+lastlocation:
+  world: SkyBlock
+  x: 0.0
+  y: 65.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+money: '0.0'

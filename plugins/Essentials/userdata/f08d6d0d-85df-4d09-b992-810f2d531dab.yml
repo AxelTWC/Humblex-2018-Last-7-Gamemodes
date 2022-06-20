@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: CO_N_N_OR
+timestamps:
+  login: 1503890150256
+  lastteleport: 1503889625419
+  logout: 1503890234474
+ipAddress: 37.24.150.10
+lastlocation:
+  world: MainLobby
+  x: 2.990708121472566
+  y: 60.0
+  z: 0.5031192949245451
+  yaw: -89.763535
+  pitch: 2.676355
+logoutlocation:
+  world: LionHUB
+  x: 90.47922404993355
+  y: 47.0
+  z: -64.12406105294338
+  yaw: 352.28802
+  pitch: 21.062143

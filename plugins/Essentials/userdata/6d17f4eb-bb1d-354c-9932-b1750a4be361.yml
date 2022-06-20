@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: SeboTR
+timestamps:
+  login: 1502561447589
+  lastteleport: 1502561464891
+  logout: 1502561506511
+ipAddress: 95.14.1.134
+lastlocation:
+  world: LionHUB
+  x: 93.56169815605234
+  y: 46.0
+  z: -69.96638818097563
+  yaw: 180.92323
+  pitch: 10.407008
+logoutlocation:
+  world: MainLobby
+  x: 14.715735854718186
+  y: 57.0
+  z: -0.6215545616070071
+  yaw: -93.1635
+  pitch: 10.203551

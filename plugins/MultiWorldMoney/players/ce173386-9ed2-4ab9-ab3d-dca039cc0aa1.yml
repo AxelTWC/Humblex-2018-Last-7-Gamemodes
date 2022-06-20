@@ -1,0 +1,8 @@
+name: Sweetman22
+uuid: ce173386-9ed2-4ab9-ab3d-dca039cc0aa1
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  parkour: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,51 @@
+lastAccountName: Aqska
+timestamps:
+  login: 1506185232232
+  lastteleport: 1506185247788
+  logout: 1506186724134
+ipAddress: 104.178.204.137
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.73691917816087
+  y: 47.5
+  z: -47.2089195708322
+  yaw: 14.403107
+  pitch: -22.839527
+logoutlocation:
+  world: LionHUB
+  x: 93.23026723457494
+  y: 46.0
+  z: -58.77486960282425
+  yaw: 191.45634
+  pitch: 39.30593
+godmode: false
+afk: false
+money: '36000'
+homes:
+  skyblock:
+    world: SkyBlock
+    x: 0.5956135411244009
+    y: 65.0
+    z: 0.5858892775895478
+    yaw: 1.6290888
+    pitch: 35.11972
+powertools:
+  '385':
+  - fireball
+  '325':
+  - burn AxelTWC 100
+  '41':
+  - smite
+  '327':
+  - freeze XxMr1234GamerzxX
+  '351':
+  - SMITE
+  '1':
+  - smite KryptialGaming
+  '347':
+  - aackick XxMr1234GamerzxX die
+  '98':
+  - SMITE
+  '5':
+  - smite Evenity

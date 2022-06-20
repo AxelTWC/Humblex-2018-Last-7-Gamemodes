@@ -1,0 +1,44 @@
+socialspy: false
+lastAccountName: xpawesome100
+timestamps:
+  login: 1517623391038
+  lastteleport: 1517624468813
+  logout: 1517625331260
+  jail: 0
+  kits:
+    diamond: 1514940646962
+    starter: 1512432344797
+    keys: 1512178710450
+    archer: 1514848734398
+    rouge: 1512345949061
+    god: 1514848738150
+    miner: 1512772032484
+    bard: 1511835348118
+ipAddress: 174.221.137.99
+lastlocation:
+  world: MainLobby
+  x: -0.3881248442316677
+  y: 82.22509656640544
+  z: 7.582672727226127
+  yaw: 302.41888
+  pitch: 40.69763
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+teleportenabled: true
+money: '0.0'
+afk: false
+godmode: false
+jailed: false
+homes:
+  home:
+    world: Factions
+    x: 174.30000001192093
+    y: 66.0
+    z: 233.30000001192093
+    yaw: 134.63225
+    pitch: 29.743757

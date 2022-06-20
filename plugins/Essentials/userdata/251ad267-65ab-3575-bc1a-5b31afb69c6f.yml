@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: PNGteamGR
+timestamps:
+  login: 1502881307318
+  lastteleport: 1502807927490
+  logout: 1502881313969
+ipAddress: 188.4.215.5
+lastlocation:
+  world: LionHUB
+  x: 93.69915992966023
+  y: 46.0
+  z: -60.68142170323334
+  yaw: 357.9013
+  pitch: 13.3346195
+logoutlocation:
+  world: LionHUB
+  x: 93.52429393482453
+  y: 45.0
+  z: -62.0505526946338
+  yaw: -1.2632126
+  pitch: 11.762165

@@ -1,0 +1,21 @@
+lastAccountName: _RedSun_
+timestamps:
+  login: 1501186532551
+  lastteleport: 1501186552724
+  logout: 1501187593959
+ipAddress: 173.171.35.206
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 96.78904295702193
+  y: 46.0
+  z: -64.5846312256587
+  yaw: -190.26317
+  pitch: 31.112167
+logoutlocation:
+  world: MainLobby
+  x: 4.172554548391114
+  y: 59.0
+  z: 20.658445826418927
+  yaw: 258.47754
+  pitch: 32.93125

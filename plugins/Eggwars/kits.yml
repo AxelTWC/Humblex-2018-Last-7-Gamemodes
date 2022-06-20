@@ -1,0 +1,332 @@
+# Kit item format: 'Item:Durability'
+# Kit armor format: 'Item:Durability : enchant:<enchantment>:level : name:<name> : lore:<lore>'
+# Kit items format: 'Item:Durability : Amount : enchant:<enchantment>:level : name:<name> : lore:<lore>'
+# For Potions and Splash potions, if the format POTION:ID doesn't work, try this special format -> 'POTION:NAME:DURATION:AMPLIFIER'
+# This is due to the change in potions in 1.9, the special format doesn't guarantee that things will work properly
+# Example (1): 'POTION:REGENERATION:40:1 : 1' this will give a drinkable potion that gives the regeneration 1 effect for 40 seconds
+# For a list of potions names, visit https://hub.spigotmc.org/javadocs/spigot/org/bukkit/potion/PotionEffectType.html
+# For a list of enchantments, visit https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+# This plugin also supports friendly enchantment names, such as SHARPNESS or EFFICIENCY
+# There is no lock on the enchantment level!
+
+Kits:
+  Pyro:
+    item: FLINT_AND_STEEL
+    permission: none
+    rarity: RARE
+    value: 3000
+    helmet: AIR
+    chestplate: 'LEATHER_CHESTPLATE : enchant:PROTECTION_FIRE:5'
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'FLINT_AND_STEEL : 1'
+    - 'LAVA_BUCKET : 2'
+    description:
+    - '&7Set everyone on fire and'
+    - '&7watch them burn while'
+    - '&7you laugh and swim in lava'
+  Hunter:
+    item: BOW
+    permission: none
+    rarity: COMMON
+    value: 1000
+    helmet: LEATHER_HELMET
+    chestplate: AIR
+    leggings: LEATHER_LEGGINGS
+    boots: AIR
+    items:
+    - 'BOW : 1'
+    - 'ARROW : 8'
+    - 'COOKED_BEEF : 2'
+    description:
+    - '&7Receive a normal bow and have the instant'
+    - '&7ability of knocking other players'
+    - '&7when the game starts'
+  Troll:
+    item: WEB
+    permission: none
+    rarity: RARE
+    value: 3000
+    helmet: AIR
+    chestplate: IRON_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'WEB : 15'
+    description:
+    - '&7Trap players inside your'
+    - '&7webs and watch them go crazy'
+    - '&7as you destroy their eggs!'
+  Builder+:
+    item: DIAMOND_BLOCK
+    permission: none
+    rarity: LEGENDARY
+    value: 5000
+    helmet: AIR
+    chestplate: CHAINMAIL_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'SANDSTONE : 64'
+    - 'BRICK : 1 : name:&6Special - &bBridge Builder : lore:&7Builds a bridge in the
+      way you are looking'
+    description:
+    - '&7You are the master of building'
+    - '&7You can command nature to build blocks'
+    - '&7to complete your path'
+  Teleporter:
+    item: EYE_OF_ENDER
+    permission: none
+    rarity: LEGENDARY
+    value: 5000
+    helmet: DIAMOND_HELMET
+    chestplate: LEATHER_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'WOOD_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'FIREWORK : 2 : name:&6Special - &cTeleporter : lore:&7Teleports you back to
+      your base instantly'
+    description:
+    - '&7You are the master of time'
+    - '&7You can command time to take you back'
+    - '&7To your first location in the map'
+  Builder:
+    item: SANDSTONE
+    permission: none
+    rarity: COMMON
+    value: 1000
+    helmet: LEATHER_HELMET
+    chestplate: AIR
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'WOOD_PICKAXE : 1'
+    - 'SANDSTONE : 32'
+    description:
+    - '&7Begin with simple building material'
+    - '&7to build towards the middle'
+  Hunter+:
+    item: BOW
+    permission: none
+    rarity: RARE
+    value: 2500
+    helmet: LEATHER_HELMET
+    chestplate: AIR
+    leggings: LEATHER_LEGGINGS
+    boots: AIR
+    items:
+    - 'BOW : 1 : enchant:ARROW_DAMAGE:1'
+    - 'ARROW : 16'
+    - 'BREAD : 1'
+    description:
+    - '&7Receive a strong bow and have the instant'
+    - '&7ability of knocking other players'
+    - '&7when the game starts'
+  Trainer:
+    item: BONE
+    permission: none
+    rarity: COMMON
+    value: 1000
+    helmet: AIR
+    chestplate: LEATHER_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'MONSTER_EGG:95 : 2'
+    - 'BONE : 10'
+    - 'BREAD : 1'
+    description:
+    - '&7Tame some wolfs that will protect you'
+  Swordsman:
+    item: STONE_SWORD
+    permission: none
+    rarity: COMMON
+    value: 1000
+    helmet: AIR
+    chestplate: LEATHER_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'STONE_SWORD : 1'
+    - 'COOKED_BEEF : 3'
+    description:
+    - '&7Start instantly ready for a battle!'
+    - '&7Use your advantage to quickly eliminate'
+    - '&7nearby players!'
+  Miner+:
+    item: IRON_PICKAXE
+    permission: none
+    rarity: RARE
+    value: 2500
+    helmet: 'IRON_HELMET : enchant:PROTECTION_EXPLOSIONS:3'
+    chestplate: AIR
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'IRON_PICKAXE : 1 : enchant:DIG_SPEED:3 : enchant:DURABILITY:3'
+    - 'TNT : 4'
+    - 'COOKED_CHICKEN : 3'
+    description:
+    - '&7Your enchanted pickaxe will help'
+    - '&7you mine faster than any one'
+    - '&7giving you the advantage to get'
+    - '&7decent gear and trap others'
+  Fisherman:
+    item: FISHING_ROD
+    permission: none
+    rarity: RARE
+    value: 2500
+    helmet: LEATHER_HELMET
+    chestplate: LEATHER_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'FISHING_ROD : 1 : enchant:KNOCKBACK:1 : enchant:DURABILITY:3'
+    - 'COOKED_FISH : 10'
+    description:
+    - '&7Start with a knockback fishing rod'
+    - '&7and some of your cooked fishes'
+  Miner:
+    item: STONE_PICKAXE
+    permission: none
+    rarity: COMMON
+    value: 1000
+    helmet: 'IRON_HELMET : enchant:PROTECTION_EXPLOSIONS:2'
+    chestplate: AIR
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'STONE_PICKAXE : 1 : enchant:DIG_SPEED:1 : enchant:DURABILITY:3'
+    - 'COOKED_BEEF : 2'
+    - 'TNT : 1'
+    description:
+    - '&7Your enchanted pickaxe will help'
+    - '&7you mine faster than any one'
+    - '&7giving you the advantage to get'
+    - '&7decent gear and trap others'
+  Griefer:
+    item: MONSTER_EGG
+    permission: none
+    rarity: LEGENDARY
+    value: 5000
+    helmet: LEATHER_HELMET
+    chestplate: LEATHER_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'WOOD_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'MONSTER_EGG:50 : 5 : name:&cCreeper'
+    description:
+    - '&7Spawn creepers that will cause'
+    - '&7massive damage to the area'
+  Blaze:
+    item: MONSTER_EGG:61
+    permission: none
+    rarity: RARE
+    value: 3000
+    helmet: AIR
+    chestplate: CHAINMAIL_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'WOOD_SWORD : 1'
+    - 'MONSTER_EGG:61 : 2'
+    description:
+    - '&7Spawn blazes that will protect'
+    - '&7you and set everyone on fire!'
+  Knight:
+    item: IRON_SWORD
+    permission: none
+    rarity: LEGENDARY
+    value: 5000
+    helmet: AIR
+    chestplate: AIR
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'IRON_SWORD : 1 : enchant:DAMAGE_ALL:1'
+    - 'BREAD : 2'
+    description:
+    - '&7Start with a very strong'
+    - '&7enchanted iron sword, but unfortunately'
+    - '&7you will have no protection'
+  Enchanter:
+    item: ENCHANTMENT_TABLE
+    permission: none
+    rarity: RARE
+    value: 2500
+    helmet: IRON_HELMET
+    chestplate: AIR
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'ENCHANTMENT_TABLE : 1'
+    - 'EXP_BOTTLE : 10'
+    - 'GRILLED_PORK : 1'
+    description:
+    - '&7Receive an enchanting table and'
+    - '&7start enchanting to protect your self'
+  Snowman:
+    item: SNOW_BALL
+    permission: none
+    rarity: LEGENDARY
+    value: 5000
+    helmet: AIR
+    chestplate: CHAINMAIL_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'WOOD_SPADE : 1 : enchant:DIG_SPEED:2'
+    - 'PUMPKIN : 2'
+    - 'SNOW_BLOCK : 4'
+    description:
+    - '&7Build snowmen that will produce'
+    - '&7snow balls for you to farm'
+  Armorer+:
+    item: LEATHER_CHESTPLATE
+    permission: none
+    rarity: RARE
+    value: 2500
+    helmet: LEATHER_HELMET
+    chestplate: LEATHER_CHESTPLATE
+    leggings: LEATHER_LEGGINGS
+    boots: LEATHER_BOOTS
+    items:
+    - 'WOOD_AXE : 1'
+    - 'BREAD : 2'
+    description:
+    - '&7Receive a full leather set'
+    - '&7that will help you stay alive'
+    - '&7in the early stages'
+  Necromancer:
+    item: MONSTER_EGG:51
+    permission: none
+    rarity: RARE
+    value: 2500
+    helmet: LEATHER_HELMET
+    chestplate: LEATHER_CHESTPLATE
+    leggings: AIR
+    boots: AIR
+    items:
+    - 'MONSTER_EGG:51 : 2'
+    - 'COOKED_BEEF : 3'
+    description:
+    - '&7Spawn skeletons that will'
+    - '&7protect you from others'
+  Armorer:
+    item: LEATHER_CHESTPLATE
+    permission: none
+    rarity: COMMON
+    value: 1000
+    helmet: AIR
+    chestplate: LEATHER_CHESTPLATE
+    leggings: LEATHER_LEGGINGS
+    boots: AIR
+    items:
+    - 'BREAD : 2'
+    description:
+    - '&7Receive a leather chest and leggings'
+    - '&7that will help you stay alive'
+    - '&7in the early stages'

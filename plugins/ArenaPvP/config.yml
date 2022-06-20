@@ -1,0 +1,263 @@
+#ArenaPvP by Royendero
+#If you have a problem or bug, sendme a PM in spigot!
+#No distribute this plugin, or your id will disabled for use this plugin.
+#
+#worlds: choose the worlds that you want use the plugin ArenaPvP (Spawns and Arenas)
+worlds:
+  - "MainLobby"
+  - "lobby_practice"
+  - "UhcMeetup"
+#  - "YouCandAddMoreWorlds!"
+#Tp to lobby on join server.
+tplobbytojoin: false
+#Time in seconds, cooldown per duel.
+duelcooldown: 10
+#Use commands in game,
+#If you want bypass this, use permission "arenapvp.bypasscommands
+usecommandsingame: false
+#Antirain protection in the world.
+antirain: true
+#View health when you hurt a player.
+viewhealthbyarrow: true
+#Enable sounds
+sounds: true
+#Enable display message
+enabletitleandsubtitlescreen: true
+#Enable action bar messages
+enableactionbar: true
+#Enable party fire
+partyfire: true
+#Save file (If you use FlatFile) every x seconds.
+#If your file is big, add more seconds!
+saveelo: 240
+#Rankeds defaulf for users.
+rankedsdefault: 100
+#Unankeds default for users.
+unrankedsdefault: 70
+#When a Party vs Party finish, remove all drops in x radious.
+removedropsradious: 50
+#When the meetup finish, remove all drops in x radious.
+removedropsmeetupradious: 100
+#Enable heal mode of the plugin.
+#First, use /gamerule naturalRegeneration false.
+#And the plugin, heal automatically in kits: Soup, McSg, etc.
+#No heal in BuildUHC, IronBuild, UHC, FInalUHC, ComboBuild, etc.
+healmodeoftheplugin: true
+#If you are using 1.8 server:
+#if use olds pectator is false:
+#the spectators are invisibles.
+#if use olds pectator is enable:
+#the spectarors are in gamemode 3
+useoldspectator: true
+#Cancel break when the player are not playing (Any block)
+protectantibreak: true
+#Cancel build when the player are not playing (Any block)
+protectantibuild: true
+#Hide players in the hotbar spawn.
+hideplayersinhotbarspawn: false
+meetup:
+  maxplayers: 20
+  minplayers: 2
+# start meetup when are 2 players.
+  start: 20
+#ITEM ON HOTBAR
+hotbar:
+  ranked:
+#   Give the item in hotbar.
+    enable: true
+    id: 276
+#   data-value: example:
+#   35:5, the id is 35, the dava-value is 5
+    data-value: 0
+#   amount, please keep 1, in new updates you can change it.
+#   if you change it, the players can drop this item.
+    amount: 1
+#   Slots: [0|1|2|3|4|5|6|7|8]
+    slot: 1
+  unranked:
+    enable: true
+    id: 268
+    data-value: 0
+    amount: 1
+    slot: 2
+  duelaccept:
+    enable: true
+    id: 266
+    data-value: 0
+    amount: 1
+    slot: 3
+  meetup:
+    enable: true
+    id: 396
+    data-value: 0
+    amount: 1
+    slot: 4
+  meetupleave:
+    enable: true
+    id: 391
+    data-value: 0
+    amount: 1
+    slot: 6
+  sethotbar:
+    enable: true
+    id: 340
+    data-value: 0
+    amount: 1
+    slot: 0
+  party:
+    enable: true
+    id: 399
+    data-value: 0
+    amount: 1
+    slot: 7
+  options:
+    enable: true
+    id: 76
+    data-value: 0
+    amount: 1
+    slot: 8
+    command: "/settings open"
+  spectator:
+    enable: true
+    id: 381
+    data-value: 0
+    amount: 1
+    slot: 5
+hotbarparty:
+  rank2v2:
+    id: 276
+    data-value: 0
+    amount: 1
+    slot: 0
+  rank3v3:
+    id: 276
+    data-value: 0
+    amount: 1
+    slot: 2
+  duel:
+    id: 283
+    data-value: 0
+    amount: 1
+    slot: 4
+  actions:
+    id: 399
+    data-value: 0
+    amount: 1
+    slot: 6
+  leave:
+    id: 331
+    data-value: 0
+    amount: 1
+    slot: 8
+      
+hotbarranked:
+  leave:
+    id: 331
+    data-value: 0
+    amount: 1
+    slot: 8
+    
+#GUI ITEMS
+gui:
+  playingmsg: true
+  queuemsg: true
+  kits:
+    builduhc:
+#     enable this kit in the GUI
+      enable: true
+      id: 327
+      data-value: 0
+      amount: 1
+      slot: 0
+    ironbuild:
+      enable: true
+      id: 326
+      data-value: 0
+      amount: 1
+      slot: 1
+    pots:
+      enable: true
+      id: 373
+      data-value: 16453
+      amount: 1
+      slot: 2
+    potsdebuff:
+      enable: true
+      id: 373
+      data-value: 16388
+      amount: 1
+      slot: 3
+    vanilla:
+      enable: true
+      id: 373
+      data-value: 8261
+      amount: 1
+      slot: 4
+    gapple:
+      enable: true
+      id: 322
+      data-value: 1
+      amount: 1
+      slot: 5
+    iron:
+      enable: true
+      id: 306
+      data-value: 0
+      amount: 1
+      slot: 6
+    diamond:
+      enable: true
+      id: 310
+      data-value: 0
+      amount: 1
+      slot: 7
+    mcsg:
+      enable: true
+      id: 259
+      data-value: 0
+      amount: 1
+      slot: 8
+    uhc:
+      enable: true
+      id: 322
+      data-value: 0
+      amount: 1
+      slot: 9
+    soup:
+      enable: true
+      id: 282
+      data-value: 0
+      amount: 1
+      slot: 10
+    finaluhc:
+      enable: true
+      id: 30
+      data-value: 0
+      amount: 1
+      slot: 18
+    combobuild:
+      enable: true
+      id: 420
+      data-value: 0
+      amount: 1
+      slot: 25
+    combofly:
+      enable: true
+      id: 349
+      data-value: 3
+      amount: 1
+      slot: 26
+  party:
+    ffa:
+      enable: true
+      id: 276
+      data-value: 0
+      amount: 1
+      slot: 0
+mysql:
+  use: false
+  ip: 'localhost'
+  port: '3306'
+  database: 'database'
+  username: 'user'
+  password: 'password'

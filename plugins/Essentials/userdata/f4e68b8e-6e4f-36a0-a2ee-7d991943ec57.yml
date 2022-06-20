@@ -1,0 +1,35 @@
+lastlocation:
+  world: LionHUB
+  x: 749.7051539131897
+  y: 3.0
+  z: 3933.033353674214
+  yaw: 141.02686
+  pitch: 24.349356
+lastAccountName: SgcCrafting
+timestamps:
+  login: 1521498180051
+  logout: 1521498587917
+  lastteleport: 1521498205596
+  kits:
+    diamond: 1521477379389
+    starter: 1521477046423
+    rouge: 1521488177108
+    god: 1521477269864
+ipAddress: 90.219.114.112
+logoutlocation:
+  world: LionHUB
+  x: 746.9954603804313
+  y: 10.0
+  z: 3602.883615656349
+  yaw: -132.10548
+  pitch: 15.9901
+money: '600.0'
+nickname: Framed
+homes:
+  home:
+    world: HCF
+    x: 210.6999999880791
+    y: 72.0
+    z: 544.6999999880791
+    yaw: -40.880737
+    pitch: 30.039742

@@ -1,0 +1,23 @@
+lastlocation:
+  world: map
+  x: -987.8179200835062
+  y: 88.0
+  z: 281.2745533420402
+  yaw: 71.75662
+  pitch: 3.7740686
+lastAccountName: NicepvperYt
+timestamps:
+  login: 1518458625299
+  logout: 1518459047704
+  lastteleport: 1518458866481
+  kits:
+    starter: 1518458870096
+ipAddress: 90.184.131.244
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -10.851161
+  pitch: -1.8498123

@@ -1,0 +1,31 @@
+lastlocation:
+  world: Factions
+  x: 301.0787992186755
+  y: 23.0
+  z: 483.69999998807907
+  yaw: 23.801025
+  pitch: 9.896749
+lastAccountName: MaksaGamingHD
+timestamps:
+  login: 1516873477281
+  lastteleport: 1516873503932
+  kits:
+    starter: 1516873530103
+  logout: 1516873599469
+ipAddress: 92.60.237.115
+money: '0.0'
+homes:
+  home:
+    world: Factions
+    x: 284.5
+    y: 37.0
+    z: 484.5
+    yaw: 280.6147
+    pitch: 21.512775
+logoutlocation:
+  world: Factions
+  x: 114.56614756559698
+  y: 68.0
+  z: -281.536315534299
+  yaw: 5.3112183
+  pitch: 8.69596

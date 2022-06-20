@@ -1,0 +1,21 @@
+lastAccountName: Beosor
+timestamps:
+  login: 1503026717874
+  lastteleport: 1503026820694
+  logout: 1503027099169
+ipAddress: 174.218.140.21
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 176.82113256416477
+  y: 4.0
+  z: -203.10999429549605
+  yaw: -115.86304
+  pitch: 18.149994
+logoutlocation:
+  world: MainLobby
+  x: 10.744710820935516
+  y: 57.0
+  z: 13.04458973345405
+  yaw: -63.950016
+  pitch: 17.899984

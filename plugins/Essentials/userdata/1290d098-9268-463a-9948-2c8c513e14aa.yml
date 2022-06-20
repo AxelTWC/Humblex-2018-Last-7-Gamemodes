@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Steve25_
+timestamps:
+  login: 1503883436015
+  lastteleport: 1503883448219
+  logout: 1503883589276
+ipAddress: 174.227.9.52
+lastlocation:
+  world: LionHUB
+  x: 93.16751972766066
+  y: 47.0
+  z: -47.78810493421858
+  yaw: 352.58884
+  pitch: -5.6110525
+logoutlocation:
+  world: MainLobby
+  x: 20.012183757256967
+  y: 58.0
+  z: 0.37324945767768875
+  yaw: -109.4
+  pitch: 7.7000036

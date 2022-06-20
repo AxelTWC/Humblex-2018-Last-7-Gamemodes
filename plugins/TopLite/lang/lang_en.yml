@@ -1,0 +1,35 @@
+prefix: '&f[&9TopLite&f] '
+config-reload: '&aConfiguration reloaded!'
+config-reset: '&cConfiguration has been reset!'
+no-permission: '&cYou do not have permissions!'
+invalid-arguments: '&cInvalid arguments!'
+no-console: '&cThis command can only be used ingame'
+top-flag-monitor-off: '&aMonitor mode has been turned off!'
+list-page-range: '&cThe page can be from 1-{PAGES}!'
+list-noitems: '&cNo items found!'
+help:
+- '&6~ Commands'
+- '&8/&atop&f- Show the server status'
+top-part-tps-averagetps: '  Average TPS: '
+top-part-ram-memoryusage: 'Memory usage: '
+top-part-ram-info-low:
+- '&9Used Ram information'
+- '&fYou do not have enough RAM available to'
+- '&fsupport more plugins or players.'
+top-part-ram-info-critical:
+- '&9Used Ram information'
+- '&fYou are critically low on RAM'
+- '&frestart now to prevent word corruption.'
+top-part-ram-allocated: allocated
+top-part-ram-info-allocated:
+- '&9Allocated memory'
+- '&fIf you are using the -Xms parameter'
+- '&fthe maximum RAM will be dynamically'
+- '&fincreased based on the usage.'
+top-part-server-header: '&8&m==================&8[ &9Server Status &8]&m=================='
+top-part-timings-plugins: plugins
+top-part-timings-worlds: worlds
+top-part-timings-both: plugins and worlds
+top-part-tps-tps: 'TPS: '
+top-flag-monitor-on: '&aMonitor mode has been turned on!'
+timings-reset: '&aPlugin timings have been reset!'

@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.22093755098058876
+  y: 60.0
+  z: 1.0000354449182993
+  yaw: 237.72908
+  pitch: 14.184614
+lastAccountName: Othrguy
+timestamps:
+  login: 1517556086276
+  lastteleport: 1517545484343
+  logout: 1517556102390
+ipAddress: 110.175.224.111
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901

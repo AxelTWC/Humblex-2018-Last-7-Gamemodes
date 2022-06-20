@@ -1,0 +1,22 @@
+lastAccountName: TezFlurZ
+timestamps:
+  login: 1504066987865
+  lastteleport: 1501703977507
+  logout: 1504067914520
+ipAddress: 24.197.176.100
+socialspy: false
+lastlocation:
+  world: SkyBlock
+  x: -85.1092826808866
+  y: 74.0
+  z: 9.667395174175
+  yaw: -94.65032
+  pitch: 39.646557
+logoutlocation:
+  world: SkyBlock
+  x: 0.6934311021720878
+  y: 65.0
+  z: 22.945133409250538
+  yaw: -359.80896
+  pitch: 12.773777
+money: '922100'

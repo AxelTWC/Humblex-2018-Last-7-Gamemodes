@@ -1,0 +1,76 @@
+USE_PREFIX: true
+SCOREBOARD:
+  SCOREBOARD_TITLE: '&a&lHumblex HCF'
+  USE_SCOREBOARD: true
+  SCOREBOARD_LINES:
+  - ' '
+  - '&6&lClass name:'
+  - '%classname%'
+  - ' '
+  - '&6&lEffects:'
+  - '%effects%'
+  - ' '
+  - '&6&lElapsed Time:'
+  - '%time%'
+  - ' '
+  BARD_ENERGY_LINES:
+  - '&6&lEnergy Remaining:'
+  - '%energy%'
+  - ' '
+ARCHER_CLASS:
+  ENABLED: true
+  SPEED_BOOST_ENABLED: true
+  SPEED_BOOST_AMPLIFIER: 4
+  SPEED_BOOST_DURATION: 15
+  SPEED_BOOST_COOLDOWN: 30
+  LONG_RANGE_DAMAGE_MULTIPLER: 2
+  LONG_RANGE_DISTANCE: 25
+  DEFAULT_DAMAGE_MULTIPLER: 1.5
+ROGUE_CLASS:
+  ENABLED: true
+  SWORD_DAMAGE: 4
+  BREAK_SWORD: true
+  SPEED_BOOST_ENABLED: true
+  SPEED_BOOST_AMPLIFIER: 6
+  SPEED_BOOST_DURATION: 15
+  SPEED_BOOST_COOLDOWN: 30
+MINER_CLASS:
+  ENABLED: true
+  BELOW_Y_ENABLED: true
+  BELOW_Y_BLOCK: 16
+BARD_CLASS:
+  ENABLED: true
+  MAX_DISTANCE_FOR_EFFECTS: 30.0
+  ENERGY_PER_SECOND: 2
+  MAX_ENERGY: 120
+  ITEMS:
+    SUGAR:
+      USE: true
+      ENERGY: 40
+      COOLDOWN: 10
+    BLAZE_POWDER:
+      USE: true
+      ENERGY: 50
+      COOLDOWN: 10
+    IRON_INGOT:
+      USE: true
+      ENERGY: 35
+      COOLDOWN: 10
+    FEATHER:
+      USE: true
+      ENERGY: 40
+      COOLDOWN: 10
+    SPIDER_EYE:
+      USE: true
+      ENERGY: 40
+      COOLDOWN: 10
+    GHAST_TEAR:
+      USE: true
+      ENERGY: 40
+      COOLDOWN: 10
+    MAGMA_CREAM:
+      USE: true
+    WHEAT:
+      USE: true
+      ENERGY: 30
+      COOLDOWN: 10

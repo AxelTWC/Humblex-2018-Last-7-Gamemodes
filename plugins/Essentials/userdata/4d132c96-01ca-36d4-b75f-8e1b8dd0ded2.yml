@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: duncogaming
+timestamps:
+  login: 1509819078781
+  logout: 1509819124675
+  lastteleport: 1509819124025
+ipAddress: 94.197.120.50
+lastlocation:
+  world: SkyBlock
+  x: 0.49358701345698935
+  y: 64.0
+  z: 10.713663808796717
+  yaw: 4.071989
+  pitch: 21.261395
+logoutlocation:
+  world: SkyBlock
+  x: 0.1373822672051438
+  y: 65.0
+  z: 6.074999988079071
+  yaw: 2.8719893
+  pitch: 52.461395
+afk: false
+powertools:
+  '41':
+  - smite

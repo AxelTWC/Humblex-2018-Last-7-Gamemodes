@@ -1,0 +1,7 @@
+name: Aphnx
+uuid: 1a047eed-47d4-428e-b1fe-c58ac00a3570
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

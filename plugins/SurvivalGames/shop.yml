@@ -1,0 +1,15 @@
+# Usage: ItemID : Amount : Price
+# You can also control the durability of the item by doing this: (ItemID:Durability : Amount : Price)
+# You can add unlimited enchants by doing this: (ItemID : Amount : Price : enchant:enchantment:level : enchant:enchantment:level)
+# You can also set the name or lore like this: (ItemID : Amount : Price : name:name : lore:lore)
+# Example (267 : 1 : 100 : enchant:DAMAGE_ALL:1 : enchant:FIRE_ASPECT:2) this will create a iron sword for 100 coins with the sharpness and fireaspect enchants
+# For a list of Enchants that you can use, click this link! https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/enchantments/Enchantment.html
+Items:
+- '267 : 1 : 200 : enchant:DAMAGE_ALL:1'
+- '272:20 : 1 : 50'
+- '261 : 1 : 20'
+- '262 : 10 : 10'
+- '46 : 2 : 30'
+- '384 : 2 : 15'
+- '322 : 1 : 60'
+- '297 : 5 : 10'

@@ -1,0 +1,7 @@
+name: sinkoj
+uuid: 5356c77e-71e7-3795-ba94-2b4da00777e4
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,6 @@
+name: ThatsZman
+uuid: e63a7317-4f7c-4088-a748-5b69cfaafd93
+logoffworld: MainLobby
+balances:
+  MainLobby: 500.0
+  LionHUB: 0.0

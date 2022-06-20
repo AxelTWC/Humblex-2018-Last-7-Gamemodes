@@ -1,0 +1,21 @@
+lastAccountName: Spetral
+socialspy: false
+timestamps:
+  login: 1504853420023
+  lastteleport: 1504853437993
+  logout: 1504853450395
+ipAddress: 1.9.101.202
+lastlocation:
+  world: LionHUB
+  x: 94.2316576391028
+  y: 48.170787077218804
+  z: -46.79615448627929
+  yaw: 15.98865
+  pitch: 21.838942
+logoutlocation:
+  world: MainLobby
+  x: 5.30000001192093
+  y: 60.0
+  z: 4.925000011920929
+  yaw: -197.76352
+  pitch: 20.676355

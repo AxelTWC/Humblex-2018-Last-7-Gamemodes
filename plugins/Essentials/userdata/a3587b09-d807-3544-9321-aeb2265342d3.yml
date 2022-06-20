@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1499308685344
+  login: 1499308296532
+  logout: 1499308684189
+lastlocation:
+  world: MainLobby
+  x: 1.153897655556341
+  y: 60.0
+  z: 0.48368195738981556
+  yaw: 272.1028
+  pitch: 0.0
+socialspy: false
+lastAccountName: Xperial
+ipAddress: 94.189.136.194
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -179.4159
+  pitch: 90.0

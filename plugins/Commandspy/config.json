@@ -1,0 +1,1 @@
+{"updateCheck":true,"updateNotifyLevel":"AHEAD","databaseEnabled":false,"databaseDriver":"com.mysql.jdbc.Driver","databaseAddress":"jdbc:mysql://localhost/commandspy?useUnicode\u003dtrue\u0026characterEncoding\u003dutf-8","databaseUsername":"commandspy","databasePassword":"","defaultEffect":"EXCLUDE"}

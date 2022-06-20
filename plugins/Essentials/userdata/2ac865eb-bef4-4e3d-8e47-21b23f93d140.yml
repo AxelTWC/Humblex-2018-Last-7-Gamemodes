@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Popcorn_Poppor
+timestamps:
+  login: 1512252278889
+  lastteleport: 1512252307899
+  logout: 1512252335134
+ipAddress: 71.10.71.74
+lastlocation:
+  world: LionHUB
+  x: 941.6676935641693
+  y: 37.0
+  z: -375.27188320946544
+  yaw: 3.272185
+  pitch: 18.516323
+logoutlocation:
+  world: Factions
+  x: 120.87078695834857
+  y: 68.0
+  z: -366.89918984901016
+  yaw: -269.87665
+  pitch: 32.200535
+money: '0.0'

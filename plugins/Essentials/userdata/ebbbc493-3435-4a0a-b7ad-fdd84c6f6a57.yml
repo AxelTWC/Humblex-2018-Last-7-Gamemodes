@@ -1,0 +1,23 @@
+lastlocation:
+  world: MainLobby
+  x: 0.3000000119209286
+  y: 57.5
+  z: 12.699999988079071
+  yaw: -171.64555
+  pitch: 38.282936
+lastAccountName: CabePVP
+timestamps:
+  login: 1521420766100
+  logout: 1521420956073
+  lastteleport: 1521402899915
+  kits:
+    starter: 1518292560521
+ipAddress: 74.62.185.1
+logoutlocation:
+  world: LionHUB
+  x: 711.2653917474165
+  y: 7.0
+  z: 3561.5469726387196
+  yaw: 293.80377
+  pitch: -1.9348329
+money: '500.0'

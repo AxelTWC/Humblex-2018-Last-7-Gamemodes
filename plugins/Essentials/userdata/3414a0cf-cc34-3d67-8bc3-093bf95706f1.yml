@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Bernard101
+timestamps:
+  login: 1503733477367
+  lastteleport: 1503733505416
+  logout: 1503733563440
+ipAddress: 36.72.0.46
+lastlocation:
+  world: LionHUB
+  x: 93.48726507778338
+  y: 45.0
+  z: -61.30000001192093
+  yaw: 0.6847116
+  pitch: -1.9344896
+logoutlocation:
+  world: MainLobby
+  x: 3.646364286281797
+  y: 60.0
+  z: 0.5096172395818903
+  yaw: -88.91947
+  pitch: 2.4831634

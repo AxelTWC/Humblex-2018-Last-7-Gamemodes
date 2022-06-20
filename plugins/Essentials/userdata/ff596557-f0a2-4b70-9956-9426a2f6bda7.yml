@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 20.46044468191559
+  y: 47.69679987549792
+  z: -28.98923195876364
+  yaw: 214.09848
+  pitch: -8.999223
+lastAccountName: Tarooxi
+timestamps:
+  login: 1515000768733
+  logout: 1515003030793
+  lastteleport: 1515000774664
+ipAddress: 92.227.11.134
+logoutlocation:
+  world: LionHUB
+  x: 955.3049840245254
+  y: 33.0
+  z: -447.3473448070344
+  yaw: 20.856947
+  pitch: 24.101519
+money: '500.0'

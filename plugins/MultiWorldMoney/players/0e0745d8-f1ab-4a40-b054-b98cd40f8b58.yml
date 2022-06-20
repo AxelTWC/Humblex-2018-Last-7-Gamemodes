@@ -1,0 +1,6 @@
+name: ImUnstoppable
+uuid: 0e0745d8-f1ab-4a40-b054-b98cd40f8b58
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

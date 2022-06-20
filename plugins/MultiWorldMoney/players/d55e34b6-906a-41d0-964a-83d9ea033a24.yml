@@ -1,0 +1,7 @@
+name: pejako
+uuid: d55e34b6-906a-41d0-964a-83d9ea033a24
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

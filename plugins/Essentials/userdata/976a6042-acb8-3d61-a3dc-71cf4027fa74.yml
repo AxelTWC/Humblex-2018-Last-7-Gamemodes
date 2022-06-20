@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 7.610110874541871
+  y: 59.0
+  z: 1.1381849735762035
+  yaw: 198.08905
+  pitch: 3.0701237
+lastAccountName: SARRAPAPAS
+timestamps:
+  login: 1517166782662
+  logout: 1517166823331
+  lastteleport: 1517166791289
+ipAddress: 79.167.35.99
+logoutlocation:
+  world: UhcMeetup
+  x: 146.01925800503247
+  y: 67.0
+  z: 102.56752059472998
+  yaw: -135.0452
+  pitch: 0.51217
+money: '0.0'

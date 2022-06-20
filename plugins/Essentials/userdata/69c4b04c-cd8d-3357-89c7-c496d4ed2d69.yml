@@ -1,0 +1,21 @@
+lastAccountName: kindlenhand
+timestamps:
+  login: 1504947525600
+  lastteleport: 1504947193952
+  logout: 1504947632459
+ipAddress: 123.21.17.2
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.4119921407114
+  y: 47.0
+  z: -49.217990217378684
+  yaw: -0.16806139
+  pitch: 1.3582044
+logoutlocation:
+  world: MainLobby
+  x: 4.557702791510246
+  y: 60.42159999847412
+  z: 1.4721523173186357
+  yaw: 138.26357
+  pitch: 32.808647

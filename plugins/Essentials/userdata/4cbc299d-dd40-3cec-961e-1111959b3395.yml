@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: HuyOfGamer_VN
+timestamps:
+  login: 1505044358022
+  logout: 1505044529887
+  lastteleport: 1505044451492
+ipAddress: 27.2.33.86
+logoutlocation:
+  world: MainLobby
+  x: 41.69999998807908
+  y: 78.5
+  z: 488.9103352521479
+  yaw: -89.65524
+  pitch: 47.15021
+lastlocation:
+  world: LionHUB
+  x: 95.21294214631156
+  y: 47.0
+  z: -48.46554104242997
+  yaw: 349.0801
+  pitch: -2.6848855

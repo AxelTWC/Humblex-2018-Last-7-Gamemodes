@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: Hogintin
+timestamps:
+  login: 1513570494693
+  lastteleport: 1513570510432
+  logout: 1513571398052
+ipAddress: 99.42.81.29
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 3.740030845943292
+  y: 61.0
+  z: 3.548325541599495
+  yaw: -92.02359
+  pitch: 21.747908

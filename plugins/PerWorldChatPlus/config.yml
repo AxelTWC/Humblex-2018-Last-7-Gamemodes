@@ -1,0 +1,61 @@
+DO NOT DELETE: PerWorldChatPlus is developed and managed by Shades161
+Config Version: '6.0'
+Check for Updates: true
+Lang: En
+Announce Dev Join: true
+Prefix: '&5[PerWorldChat]'
+Global:
+  Prefix: '&6&lGlobal'
+  Override: '!wc'
+  Always Global: false
+  TimedGlobal:
+    Allow: true
+    Announce: true
+    DefaultTime: 5
+    'On': false
+Alert:
+  Mention:
+    OnName: true
+    RequirePermission: false
+    RequireAtSymbol: false
+    SendNotice: false
+Format:
+  Enabled: true
+  Format:
+    Default: '%player% : %message%'
+    Global: '%global% %player% : %message%'
+Chat:
+  Color:
+    Translate: true
+    Auto: true
+    Default: WHITE
+    RequirePermission: true
+  Swear:
+    Block:
+      Enabled: false
+      EntireMessage: false
+    Replace: '***'
+    Kick:
+      Enabled: false
+      Announce: true
+    Blocked:
+    - Crap
+    - Shit
+    - Fuck
+    - fk
+    - fuc
+    - dick
+    - dickhead
+    - bitch
+  Ad:
+    Block:
+      Enabled: false
+      EntireMessage: false
+      Ip-Addresses: true
+      Websites: true
+    Replace: '***'
+    Kick:
+      Enabled: false
+      Announce: true
+SharesList:
+- world

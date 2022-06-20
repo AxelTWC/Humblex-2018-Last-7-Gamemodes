@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1497940136021
+  login: 1497940080711
+  logout: 1497940133767
+lastlocation:
+  world: MainLobby
+  x: 25.349703540861125
+  y: 58.0
+  z: 1.5798518279336558
+  yaw: -266.63782
+  pitch: 29.613018
+lastAccountName: DeepL
+ipAddress: 116.197.201.46
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158

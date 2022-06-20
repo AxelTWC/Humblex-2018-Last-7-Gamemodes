@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: TMOG_EpicGamerXD
+timestamps:
+  login: 1501639977134
+  lastteleport: 1501639992754
+  logout: 1501640689092
+ipAddress: 68.148.76.219
+lastlocation:
+  world: LionHUB
+  x: 93.22299554825348
+  y: 46.0
+  z: -64.74196009572299
+  yaw: 183.92375
+  pitch: 5.3569202
+logoutlocation:
+  world: MainLobby
+  x: 1.852308315893012
+  y: 60.0
+  z: 0.49409042965958905
+  yaw: 272.0
+  pitch: -0.0941948

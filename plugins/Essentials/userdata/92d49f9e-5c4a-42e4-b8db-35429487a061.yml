@@ -1,0 +1,31 @@
+lastlocation:
+  world: LionHUB
+  x: 744.1620352021151
+  y: 10.0
+  z: 3603.381810673438
+  yaw: 122.5773
+  pitch: 3.118328
+lastAccountName: PurplePvpYT
+timestamps:
+  login: 1519071430814
+  lastteleport: 1519071445403
+  logout: 1519071482392
+  kits:
+    starter: 1519068841089
+ipAddress: 51.37.134.251
+money: '5000'
+logoutlocation:
+  world: HCF
+  x: -2.2685652215572523
+  y: 69.0
+  z: 123.36028317011194
+  yaw: -63.95368
+  pitch: -11.160992
+homes:
+  home:
+    world: HCF
+    x: 322.9179987987702
+    y: 2.0
+    z: 661.3000000119209
+    yaw: 75.964294
+    pitch: 37.67231

@@ -1,0 +1,9 @@
+&bThe Current time is
+
+&6{time}
+
+&bPlayers Online
+
+&6{online} &8/ &6{max_players}
+
+&dEnjoy your stay

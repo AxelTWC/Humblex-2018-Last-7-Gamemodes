@@ -1,0 +1,21 @@
+lastAccountName: GBSM_YT
+timestamps:
+  login: 1503848600886
+  logout: 1503848701823
+  lastteleport: 1503848625869
+ipAddress: 49.148.22.171
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 4.485649408371935
+  y: 62.0
+  z: -4.389796919567502
+  yaw: 292.60202
+  pitch: 3.3206444
+lastlocation:
+  world: LionHUB
+  x: 93.65996817559062
+  y: 48.0
+  z: -46.58725468787854
+  yaw: -1.2632126
+  pitch: 11.762165

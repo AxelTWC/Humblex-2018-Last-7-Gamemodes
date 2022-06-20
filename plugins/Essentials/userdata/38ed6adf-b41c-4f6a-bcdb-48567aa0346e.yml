@@ -1,0 +1,21 @@
+lastAccountName: MajnKjaft
+timestamps:
+  login: 1506123748441
+  logout: 1506123872330
+  lastteleport: 1506123771498
+ipAddress: 94.254.50.221
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 10.063736072826641
+  y: 60.0
+  z: 1.2991520426737737
+  yaw: -121.550026
+  pitch: 13.849998
+lastlocation:
+  world: LionHUB
+  x: 93.44726866100973
+  y: 46.0
+  z: -57.34585104113244
+  yaw: 9.986788
+  pitch: 1.8621652

@@ -1,0 +1,1 @@
+{"SURVIVAL":{"armorContents":{},"inventoryContents":{"0":{"==":"org.bukkit.inventory.ItemStack","type":"PORK","amount":6},"1":{"==":"org.bukkit.inventory.ItemStack","type":"LEATHER"},"2":{"==":"org.bukkit.inventory.ItemStack","type":"RAW_BEEF","amount":4}},"enderChestContents":{}}}

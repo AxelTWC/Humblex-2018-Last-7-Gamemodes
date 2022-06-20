@@ -1,0 +1,25 @@
+timestamps:
+  lastteleport: 1517799558820
+  login: 1517799527279
+  logout: 1501226122548
+lastlocation:
+  world: HCF
+  x: 10.063049080148767
+  y: 69.0
+  z: -0.10826337381517193
+  yaw: -103.34533
+  pitch: 8.983033
+lastAccountName: AxelTWC
+ipAddress: 24.79.239.176
+logoutlocation:
+  world: LionHUB
+  x: 93.50081594871881
+  y: 45.0
+  z: -62.042331742357725
+  yaw: 1.2886657
+  pitch: -1.4110628
+afk: false
+socialspy: false
+godmode: false
+nickname: AxelTWC
+money: '500.0'

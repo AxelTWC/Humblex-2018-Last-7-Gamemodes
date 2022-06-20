@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: WhiteFudgeOreo
+timestamps:
+  login: 1506176209563
+  logout: 1506176569375
+ipAddress: 219.78.64.20
+lastlocation:
+  world: LionHUB
+  x: 93.27288269869968
+  y: 47.0
+  z: -51.52366198116219
+  yaw: 7.5259757
+  pitch: 9.525912
+logoutlocation:
+  world: MainLobby
+  x: 22.704717589013285
+  y: 57.0
+  z: -4.619395475571846
+  yaw: -251.88765
+  pitch: 11.900852

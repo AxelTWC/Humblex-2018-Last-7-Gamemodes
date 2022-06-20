@@ -1,0 +1,1 @@
+{"SURVIVAL":{"armorContents":{},"enderChestContents":{},"inventoryContents":{"0":{"==":"org.bukkit.inventory.ItemStack","type":"BUCKET","amount":8},"1":{"==":"org.bukkit.inventory.ItemStack","type":"WATER_BUCKET"}},"potions":"[]","stats":{"ex":"0.3015499","ma":"300","fl":"20","el":"0","hp":"20","xp":"0.0","txp":"0","sa":"5.0","ft":"-20","fd":"14.990555","ra":"300"}}}

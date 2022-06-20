@@ -1,0 +1,23 @@
+lastAccountName: PotatoeBait
+timestamps:
+  login: 1507601038192
+  lastteleport: 1507601258028
+  mute: 0
+  logout: 1507601277832
+ipAddress: 99.162.155.209
+socialspy: false
+lastlocation:
+  world: parkour
+  x: -1.1107230534677959
+  y: 20.0
+  z: -2.3790069066514965
+  yaw: 242.12628
+  pitch: 11.942151
+muted: false
+logoutlocation:
+  world: LionHUB
+  x: 943.0644037800563
+  y: 38.0
+  z: -414.69615849648756
+  yaw: 28.91433
+  pitch: 3.8252473

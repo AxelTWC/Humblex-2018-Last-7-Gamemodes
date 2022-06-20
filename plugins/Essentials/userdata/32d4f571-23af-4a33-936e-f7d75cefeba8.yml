@@ -1,0 +1,21 @@
+lastAccountName: GravityEdit
+timestamps:
+  login: 1502219142794
+  lastteleport: 1502219150553
+  logout: 1502219203012
+ipAddress: 107.210.157.215
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.73359244404811
+  y: 48.0
+  z: -46.388524663736455
+  yaw: 3.5386815
+  pitch: 1.7389386
+logoutlocation:
+  world: MainLobby
+  x: 7.638152256878206
+  y: 59.0
+  z: 0.2402555270865959
+  yaw: -152.31366
+  pitch: -33.473633

@@ -1,0 +1,6 @@
+name: Ganerumo
+uuid: b1852760-5e07-41a7-86b2-767dfba620e9
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

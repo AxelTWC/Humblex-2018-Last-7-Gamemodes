@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: The_Assasin_Bro
+timestamps:
+  login: 1504795699299
+  lastteleport: 1504796431612
+  logout: 1504797172435
+ipAddress: 91.82.68.72
+lastlocation:
+  world: LionHUB
+  x: 93.51898573148355
+  y: 45.0
+  z: -61.30000001192093
+  yaw: 0.38186166
+  pitch: 13.520693
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

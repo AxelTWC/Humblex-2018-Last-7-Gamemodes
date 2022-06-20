@@ -1,0 +1,7 @@
+name: Schulleiter
+uuid: 7fd5e63e-f85c-4623-81d7-ebdf95c927cd
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

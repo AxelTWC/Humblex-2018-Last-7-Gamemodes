@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: qqwwqqxx
+timestamps:
+  login: 1504102932975
+  lastteleport: 1504102956375
+  logout: 1504102973439
+ipAddress: 88.253.61.73
+lastlocation:
+  world: LionHUB
+  x: 93.47771059059596
+  y: 45.0
+  z: -61.30000001192093
+  yaw: 1.2886657
+  pitch: -1.4110628
+logoutlocation:
+  world: MainLobby
+  x: 20.450609620561217
+  y: 57.0
+  z: 4.8400358018221645
+  yaw: -193.99878
+  pitch: 13.8123045

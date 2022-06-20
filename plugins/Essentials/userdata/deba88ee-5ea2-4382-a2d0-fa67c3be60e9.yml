@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 946.9442688802458
+  y: 38.0
+  z: -466.7062493122094
+  yaw: 60.27333
+  pitch: 30.900032
+lastAccountName: Makaia
+timestamps:
+  login: 1511935663469
+  logout: 1511935914009
+  lastteleport: 1511935713503
+  kits:
+    bard: 1511935749464
+ipAddress: 111.69.139.135
+logoutlocation:
+  world: Factions
+  x: 158.56201343479336
+  y: 64.0
+  z: -455.9231469031213
+  yaw: -159.62825
+  pitch: 37.30046
+money: '0.0'

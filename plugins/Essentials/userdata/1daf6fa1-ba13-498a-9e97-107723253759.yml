@@ -1,0 +1,23 @@
+lastlocation:
+  world: MainLobby
+  x: 18.982637067903084
+  y: 57.0
+  z: -4.649979414035345
+  yaw: 235.7081
+  pitch: 12.465556
+lastAccountName: PizzaRolez
+timestamps:
+  login: 1517543354537
+  lastteleport: 1517543038069
+  kits:
+    starter: 1517542754217
+  logout: 1517543356289
+ipAddress: 174.56.85.206
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: 0.78621536
+  pitch: -5.282278

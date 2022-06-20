@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: store_01
+timestamps:
+  login: 1504962727121
+  logout: 1504962750361
+  lastteleport: 1504962673056
+ipAddress: 222.254.99.164
+logoutlocation:
+  world: LionHUB
+  x: 93.23240831470089
+  y: 47.0
+  z: -48.89273426413308
+  yaw: 358.7368
+  pitch: 11.762165
+lastlocation:
+  world: LionHUB
+  x: 93.46086731151203
+  y: 47.0
+  z: -47.79772690394269
+  yaw: -8.163212
+  pitch: -8.187839

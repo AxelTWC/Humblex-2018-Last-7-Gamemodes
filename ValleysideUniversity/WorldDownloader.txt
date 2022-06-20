@@ -1,0 +1,7 @@
+#
+#Thu Jul 10 12:11:31 BST 2014
+Spawn=player
+LinkedWorlds=
+RandomSeed=
+AutoStart=false
+ServerName=MCSG

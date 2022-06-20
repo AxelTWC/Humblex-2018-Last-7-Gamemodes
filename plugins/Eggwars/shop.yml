@@ -1,0 +1,47 @@
+# Format: 'Slot: Item'
+
+Shops:
+  '&cKits #1':
+    '10': Miner
+    '11': Armorer
+    '12': Trainer
+    '13': Builder
+    '14': Swordsman
+    '15': Hunter
+    '16': Necromancer
+    '19': Troll
+    '20': Enchanter
+    '21': Pyro
+    '22': Blaze
+    '23': Armorer+
+    '24': Miner+
+    '25': Hunter+
+    '28': Fisherman
+    '29': Snowman
+    '30': Builder+
+    '31': Griefer
+    '32': Teleporter
+    '33': Knight
+  '&eTrails #1':
+    '10': Dirt Trail
+    '11': Melon Trail
+    '12': Sandstone Trail
+    '13': Wood Trail
+    '14': Snow Trail
+    '15': Cobblestone Trail
+    '16': Grass Trail
+    '19': Stone Trail
+    '20': Brick Trail
+    '21': Sponge Trail
+    '22': Log Trail
+    '23': Obsidian Trail
+    '24': Furnace Trail
+    '25': Pumpkin Trail
+    '28': Workbench Trail
+    '29': Ice Trail
+    '30': Bookshelf Trail
+    '31': Redstone Trail
+    '32': Tnt Trail
+    '33': Glowstone Trail
+    '34': Emerald Trail
+    '37': Diamond Trail

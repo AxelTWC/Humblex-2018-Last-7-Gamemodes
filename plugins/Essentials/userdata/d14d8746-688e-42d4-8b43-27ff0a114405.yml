@@ -1,0 +1,47 @@
+lastlocation:
+  world: LionHUB
+  x: 741.7827477047133
+  y: 11.5
+  z: 3614.7234116191976
+  yaw: 2.5945394
+  pitch: 71.64008
+lastAccountName: MadMonkeyYT
+timestamps:
+  login: 1521402175629
+  lastteleport: 1521372770610
+  logout: 1521402182549
+  kits:
+    diamond: 1518293198710
+    starter: 1518292456105
+    archer: 1512313474926
+    rouge: 1518292805362
+    god: 1519069085634
+    miner: 1516548865760
+    bard: 1516548718464
+ipAddress: 94.0.124.244
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -3.8554688
+  pitch: -3.359901
+afk: false
+homes:
+  home:
+    world: HCF
+    x: 45.30625452657906
+    y: 68.0
+    z: 725.5878491382838
+    yaw: -286.80356
+    pitch: 13.05006
+socialspy: true
+powertools:
+  '272':
+  - smite KryptialGaming
+  '266':
+  - kill TheGoodAdmin
+powertoolsenabled: true
+teleportenabled: true
+godmode: false

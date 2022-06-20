@@ -1,0 +1,5 @@
+Speed: 1.0
+&0[&4-&0]&5Welcome To HCF&0[&4-&0]
+&2This is the place to kill aminals 
+&6For food or &6&lMoney
+&5Have fun!

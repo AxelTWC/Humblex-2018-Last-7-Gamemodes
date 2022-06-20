@@ -1,0 +1,25 @@
+lastlocation:
+  world: MainLobby
+  x: 6.561362152108258
+  y: 59.0
+  z: -2.6352432263375736
+  yaw: -86.06201
+  pitch: 1.1864023
+lastAccountName: TrueRespect
+timestamps:
+  login: 1518556545626
+  logout: 1518556554464
+  lastteleport: 1518480523787
+  kits:
+    god: 1518047912466
+    miner: 1512517054861
+ipAddress: 68.58.66.55
+money: '600.0'
+logoutlocation:
+  world: LionHUB
+  x: 746.2223989709868
+  y: 5.437647058179274
+  z: 3641.493376026595
+  yaw: 0.5273285
+  pitch: 4.76767
+godmode: false

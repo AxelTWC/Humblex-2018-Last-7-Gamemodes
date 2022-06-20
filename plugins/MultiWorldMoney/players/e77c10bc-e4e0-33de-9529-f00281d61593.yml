@@ -1,0 +1,6 @@
+name: leternlol
+uuid: e77c10bc-e4e0-33de-9529-f00281d61593
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

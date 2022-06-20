@@ -1,0 +1,80 @@
+lastAccountName: XxMr1234GamerzxX
+timestamps:
+  login: 1508970404207
+  lastteleport: 1508970487207
+  logout: 1508298854525
+ipAddress: 87.114.98.117
+socialspy: true
+lastlocation:
+  world: MainLobby
+  x: 1.7903548676762617
+  y: 60.0
+  z: -1.6760454034598646
+  yaw: -55.863426
+  pitch: 16.626352
+afk: false
+homes:
+  greenlobby:
+    world: LionHUB
+    x: 774.6061101149734
+    y: 8.0
+    z: -230.77451435830864
+    yaw: 163.75781
+    pitch: 56.40015
+  slots:
+    world: LionHUB
+    x: -40.51583191383824
+    y: 5.0
+    z: -367.6607984898489
+    yaw: 179.78113
+    pitch: 63.300014
+  lobbytest:
+    world: LionHUB
+    x: 943.1353221310326
+    y: 37.0
+    z: -419.9728052696302
+    yaw: 259.9083
+    pitch: 28.50018
+  island_storage:
+    world: ASkyBlock
+    x: -199.60302371809306
+    y: 111.0
+    z: 202.6415235505483
+    yaw: -172.04988
+    pitch: 13.200008
+  island_top:
+    world: ASkyBlock
+    x: -192.66936548578627
+    y: 118.0
+    z: 205.16857842261976
+    yaw: -59.399868
+    pitch: 13.200005
+  skywars:
+    world: skywars
+    x: 102.49181024286625
+    y: 251.0
+    z: -129.5848981563098
+    yaw: 232.96902
+    pitch: 49.512997
+  dragon:
+    world: LionHUB
+    x: 1225.7354621182212
+    y: 78.0
+    z: -694.8152485735495
+    yaw: 256.30838
+    pitch: 31.049995
+logoutlocation:
+  world: LionHUB
+  x: 941.5365253337061
+  y: 37.0
+  z: -428.41400951483746
+  yaw: 173.59666
+  pitch: 15.507527
+money: '349163.0'
+powertools:
+  '398':
+  - smite
+  '261':
+  - kill Aqska
+godmode: false
+nickname: §2XxGamerzxX

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: RPB_Johnny_ez
+timestamps:
+  login: 1503291205901
+  logout: 1503291262734
+  lastteleport: 1503291247514
+ipAddress: 114.27.64.24
+logoutlocation:
+  world: MainLobby
+  x: 9.10694715053615
+  y: 60.0
+  z: 0.19119454583738504
+  yaw: -257.4121
+  pitch: 18.288609
+lastlocation:
+  world: LionHUB
+  x: 93.65806182854583
+  y: 47.0
+  z: -48.15466008282678
+  yaw: -355.91046
+  pitch: -7.9506016

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: ItzMeSario
+timestamps:
+  login: 1505561292008
+  lastteleport: 1505561319150
+  logout: 1505561385384
+ipAddress: 37.188.246.38
+lastlocation:
+  world: LionHUB
+  x: 94.79184136185887
+  y: 47.0
+  z: -53.32688122477614
+  yaw: 41.122986
+  pitch: 11.700768
+logoutlocation:
+  world: MainLobby
+  x: 7.8231669494725775
+  y: 59.5
+  z: 0.908935546986742
+  yaw: -35.91124
+  pitch: -3.0759835

@@ -1,0 +1,26 @@
+PRIMARY_COLOR: §7
+SECONDARY_COLOR: §a
+ERROR_COLOR: §c
+CHAT_PREFIX: '§0[§6Humblex§0] '
+WORD_TRANSLATION_ENCHANTED: Enchanted
+GUI_CASE_EDITOR_TITLE: '%PRI%Editing: %SEC%%NAME%'
+GUI_CASE_EDITOR_SUCCESS: '%PREFIX%%PRI%Case saved.'
+GUI_CASE_OPENER_TITLE: '%PRI%Opening Case'
+COMMAND_CASE_DOESNT_EXIST: '%PREFIX%%ERR%That case doesn''t exist.'
+COMMAND_CASE_ALREADY_EXISTS: '%PREFIX%%ERR%That case already exists.'
+COMMAND_CASE_CREATE_SUCCESS: '%PREFIX%%PRI%Case %SEC%%CASE%%PRI% created.'
+COMMAND_CASE_REMOVE_SUCCESS: '%PREFIX%%pRI%Case %SEC%%CASE%%PRI% removed.'
+COMMAND_CASE_LIST_PREFIX: '%PREFIX%%PRI%Cases: '
+COMMAND_CASE_LIST_NO_CASES: '%PREFIX%%ERR%There aren''t any cases.'
+COMMAND_CASE_SETREDEEMDELAY_INVALID_TIME: '%PREFIX%%ERR%That was not a valid time.'
+COMMAND_CASE_SETREDEEMDELAY_SUCCESS: '%PREFIX%%PRI%Case redeem time set to %SEC%%TIME%%PRI%
+  minutes.'
+COMMAND_CASE_REDEEM_NO_DELAY_SET: '%PREFIX%%ERR%That case isn''t redeemable.'
+COMMAND_CASE_REDEEM_NO_PERMISSION: '%PREFIX%%ERR%You cannot redeem that case.'
+COMMAND_CASE_REDEEM_MUST_WAIT: '%PREFIX%%ERR%You must wait %TIME% minute(s) before
+  you can redeem this again.'
+COMMAND_CASE_REDEEM_SUCCESS: '%PREFIX%%PRI%Case redeemed.'
+ERROR_NO_PERMISSION: '%PREFIX%%ERR%You do not have permission to do that.'
+ERROR_MUST_BE_INGAME: '%PREFIX%%ERR%You must be in game to do that.'
+ERROR_UNKNOWN_PLAYER: '%PREFIX%%ERR%That player could not be found.'
+ERROR_CASE_EMPTY: '%PREFIX%%ERR%You cannot open that case, because it is empty.'

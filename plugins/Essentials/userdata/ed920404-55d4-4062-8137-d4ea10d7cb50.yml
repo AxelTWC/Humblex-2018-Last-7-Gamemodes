@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: BayteO_O
+timestamps:
+  login: 1503812609368
+  lastteleport: 1503812620663
+  mute: 0
+  logout: 1503812763880
+ipAddress: 70.36.85.152
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 349.74432
+  pitch: 1.8173807
+muted: false
+logoutlocation:
+  world: MainLobby
+  x: 36.69999998807907
+  y: 57.0
+  z: 0.6169141155143756
+  yaw: 319.0313
+  pitch: -15.456274

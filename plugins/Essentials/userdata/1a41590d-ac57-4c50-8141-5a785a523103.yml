@@ -1,0 +1,22 @@
+lastAccountName: RoyalKillsYT
+timestamps:
+  login: 1517513196933
+  logout: 1517513406142
+  lastteleport: 1517513404491
+ipAddress: 90.199.92.1
+socialspy: false
+logoutlocation:
+  world: UhcMeetup
+  x: 162.41231297868637
+  y: 68.0
+  z: 97.72481820424267
+  yaw: 16.700754
+  pitch: 5.2180576
+lastlocation:
+  world: LionHUB
+  x: 794.0361052285182
+  y: 7.2738186606318305
+  z: 3655.7787457242184
+  yaw: -36.25504
+  pitch: -3.4499903
+money: '0.0'

@@ -1,0 +1,7 @@
+name: _iStrafq_PvP
+uuid: fe126299-78d3-47e8-ba21-b6c47c84b8c7
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  Factions: 500.0
+  LionHUB: 0.0

@@ -1,0 +1,21 @@
+lastAccountName: FactionGamer123
+timestamps:
+  login: 1505638710082
+  lastteleport: 1505638803995
+  logout: 1505639935223
+ipAddress: 94.71.22.80
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 95.49685180254605
+  y: 47.0
+  z: -64.94407620855216
+  yaw: -50.206036
+  pitch: 19.997732
+logoutlocation:
+  world: MainLobby
+  x: 0.45805841163429867
+  y: 60.0
+  z: -0.476034175447523
+  yaw: -89.0
+  pitch: 2.0

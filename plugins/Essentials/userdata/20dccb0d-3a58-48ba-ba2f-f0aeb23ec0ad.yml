@@ -1,0 +1,22 @@
+lastAccountName: XxJunorexx
+timestamps:
+  login: 1506877982091
+  logout: 1506878049888
+  lastteleport: 1504609246266
+ipAddress: 119.74.41.123
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 971.0801036525837
+  y: 36.5
+  z: -388.53258713167605
+  yaw: 55.656372
+  pitch: 32.21746
+lastlocation:
+  world: LionHUB
+  x: 943.0644037800563
+  y: 38.0
+  z: -414.69615849648756
+  yaw: 358.24664
+  pitch: 1.7075297
+godmode: true

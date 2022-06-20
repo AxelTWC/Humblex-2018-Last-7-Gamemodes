@@ -1,0 +1,61 @@
+users:
+  059181e5-20c1-4444-bbe2-231c73aee027:
+    lastname: FIREBOY_RY
+    group: Mod
+    subgroups: []
+    permissions: []
+  28c22520-3ea6-4280-9f35-f8467e5a57fd:
+    lastname: PetMeLlama
+    group: Admin
+    subgroups: []
+    permissions: []
+  3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f:
+    lastname: AxelTWC
+    group: Owner
+    subgroups: []
+    permissions: []
+  73f57edd-b120-4689-aec5-11b5748fcbf3:
+    lastname: WARRIOR_LINKER
+    group: Ceo
+    subgroups: []
+    permissions: []
+  ba10fd9e-6e30-4f74-8132-85330547d7b3:
+    lastname: marcos1739
+    group: Admin
+    subgroups: []
+    permissions: []
+  bc_assassin:
+    group: Mod
+    subgroups: []
+    permissions: []
+  dfdbc112-40a8-4b47-a3d6-34ed8814fcd8:
+    lastname: MaSikStudio
+    group: Dev
+    subgroups: []
+    permissions: []
+  ebbbc493-3435-4a0a-b7ad-fdd84c6f6a57:
+    lastname: CabePVP
+    group: Mod
+    subgroups: []
+    permissions: []
+  Evenity:
+    group: Admin
+    subgroups: []
+    permissions: []
+  f4e68b8e-6e4f-36a0-a2ee-7d991943ec57:
+    lastname: SgcCrafting
+    group: Mod
+    subgroups: []
+    permissions: []
+  Fluffy_chicken73:
+    group: Ceo
+    subgroups: []
+    permissions: []
+  TheOfficialFire:
+    group: Mod
+    subgroups: []
+    permissions: []
+  TrueRespect:
+    group: Admin
+    subgroups: []
+    permissions: []

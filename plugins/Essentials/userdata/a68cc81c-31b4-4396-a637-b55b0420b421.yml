@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.4691817266242615
+  yaw: -89.48866
+  pitch: -0.11754371
+money: '0.0'
+lastAccountName: PingsClient
+timestamps:
+  login: 1518320370553
+  lastteleport: 1518320398572
+  logout: 1518321368116
+ipAddress: 64.92.128.192
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.4691817266242615
+  yaw: -98.55608
+  pitch: -0.55191153

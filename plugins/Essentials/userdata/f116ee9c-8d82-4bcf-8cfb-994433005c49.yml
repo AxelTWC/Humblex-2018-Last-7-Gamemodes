@@ -1,0 +1,21 @@
+lastAccountName: Asswan
+timestamps:
+  login: 1511090744079
+  lastteleport: 1511090939942
+  logout: 1511090976588
+ipAddress: 124.123.22.224
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: 1.733550942848795
+  y: 60.0
+  z: -0.6277057897155127
+  yaw: -294.9357
+  pitch: -18.765326
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

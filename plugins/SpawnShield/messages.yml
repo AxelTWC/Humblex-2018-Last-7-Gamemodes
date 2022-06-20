@@ -1,0 +1,6 @@
+# Messagse for spawnshield
+# Supports color codes with the '&' character
+
+# In mode teleport this message will be sent if they enter a safezone in combat
+# Will be sent at max once a second
+cantEnterSafezone: '&4[SpawnShield] You can''t enter a safezone in combat!'

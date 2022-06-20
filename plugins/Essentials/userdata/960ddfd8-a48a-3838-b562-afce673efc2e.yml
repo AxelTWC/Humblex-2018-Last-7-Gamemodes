@@ -1,0 +1,21 @@
+lastAccountName: Shield
+timestamps:
+  login: 1505533441749
+  lastteleport: 1505533539867
+  logout: 1505533631487
+ipAddress: 68.111.196.253
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 95.27054412039264
+  y: 46.0
+  z: -75.47372178023991
+  yaw: -270.8112
+  pitch: 16.738968
+logoutlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: 267.38678
+  pitch: 12.27635

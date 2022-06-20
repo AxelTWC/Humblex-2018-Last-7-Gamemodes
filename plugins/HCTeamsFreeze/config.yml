@@ -1,0 +1,30 @@
+#HCTeams Freeze
+#Version 5.1
+#Made by Tom7653
+
+#Prefix
+Prefix: '&4&l[&c&l!&4&l]'
+
+#Frozen message
+Message: '&6You have been frozen! Do not log out or you will be banned!'
+
+#Teamspeak / Mumble IP
+IP: '&6https://discord.gg/F2T6W8p'
+
+#Godmode message
+God: '&cThis player is frozen! You may not attack them!'
+
+#Blockbreak message
+Break: '&cYou can not break blocks while frozen!'
+
+#Blockplace message
+Place: '&cYou can not place blocks while frozen!'
+
+#Logout while frozen staff alert
+#%player% is acceptable here
+Alert: '&c%player% logged out while frozen!'
+
+#Logout while frozen command, leave empty for no command to be executed
+#%player% is acceptable here
+Logout: 'tempban %player% 2d Logging out while frozen!'
+

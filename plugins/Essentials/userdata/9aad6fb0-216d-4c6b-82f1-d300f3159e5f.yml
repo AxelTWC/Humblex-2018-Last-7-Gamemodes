@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: sahel_ksa
+timestamps:
+  login: 1502101245123
+  lastteleport: 1501311764183
+  logout: 1502101333613
+ipAddress: 112.205.1.217
+lastlocation:
+  world: LionHUB
+  x: 93.70733903989176
+  y: 47.0
+  z: -48.6362072345241
+  yaw: 6.2365723
+  pitch: -5.6378384
+logoutlocation:
+  world: FFA
+  x: 1.0
+  y: 13.0
+  z: 0.0
+  yaw: 271.67212
+  pitch: 8.382758

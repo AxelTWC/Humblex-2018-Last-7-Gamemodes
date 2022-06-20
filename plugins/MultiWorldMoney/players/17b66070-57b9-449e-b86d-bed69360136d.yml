@@ -1,0 +1,8 @@
+name: BluDerp
+uuid: 17b66070-57b9-449e-b86d-bed69360136d
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

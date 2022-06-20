@@ -1,0 +1,339 @@
+Menu:
+  General:
+    Title: 'Kits'
+    Size: 45
+  Items:
+    Fighter:
+      Name: '&a&lFighter Kit'
+      Item: IRON_CHESTPLATE
+      Slot: 10
+      Lore:
+      - '&6Ability: &73 Health Packs'
+      - ' '
+      - '&7- Iron Sword'
+      - '&7- Iron Helmet'
+      - '&7- Iron Chestplate'
+      - '&7- Iron Leggings'
+      - '&7- Iron Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Archer:
+      Name: '&a&lArcher Kit'
+      Item: BOW
+      Slot: 11
+      Lore:
+      - '&6Ability: &710 Fire Arrows'
+      - ' '
+      - '&7- Wooden Sword'
+      - '&7- Bow'
+      - '&7- 32 Arrows'
+      - '&7- Leather Helmet'
+      - '&7- Chain Chestplate'
+      - '&7- Chain Leggings'
+      - '&7- Chain Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Tank:
+      Name: '&a&lTank Kit'
+      Item: DIAMOND
+      Slot: 12
+      Lore:
+      - '&6Ability: &73 Speed Boosts'
+      - ' '
+      - '&7- Wooden Sword'
+      - '&7- Diamond Helmet'
+      - '&7- Diamond Chestplate'
+      - '&7- Diamond Leggings'
+      - '&7- Diamond Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Soldier:
+      Name: '&a&lSoldier Kit'
+      Item: ARROW
+      Slot: 13
+      Lore:
+      - '&6Ability: &75 Guns'
+      - ' '
+      - '&7- Iron Sword'
+      - '&7- Bow'
+      - '&7- 32 Arrows'
+      - '&7- Fishing Rod'
+      - '&7- Leather Helmet'
+      - '&7- Chain Chestplate'
+      - '&7- Leather Leggings'
+      - '&7- Leather Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Bomber:
+      Name: '&a&lBomber Kit'
+      Item: TNT
+      Slot: 14
+      Lore:
+      - '&6Ability: &73 TNT Trails'
+      - ' '
+      - '&7- Iron Sword'
+      - '&7- 16 TNT'
+      - '&7- Leather Helmet'
+      - '&7- Leather Chestplate'
+      - '&7- Leather Leggings'
+      - '&7- Leather Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Kangaroo:
+      Name: '&a&lKangaroo Kit'
+      Item: SADDLE
+      Slot: 15
+      Lore:
+      - '&6Ability: &73 Launchers'
+      - ' '
+      - '&7- Iron Sword'
+      - '&7- Leather Helmet'
+      - '&7- Leather Chestplate'
+      - '&7- Leather Leggings'
+      - '&7- Leather Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Warper:
+      Name: '&a&lWarper Kit'    
+      Item: ENDER_PEARL
+      Slot: 16
+      Lore:
+      - '&6Ability: &73 Teleporters'
+      - ' '
+      - '&7- Iron Sword'
+      - '&7- 4 Ender Pearls'
+      - '&7- Leather Helmet'
+      - '&7- Leather Chestplate'
+      - '&7- Leather Leggings'
+      - '&7- Leather Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Witch:
+      Name: '&a&lWitch Kit'
+      Item: POTION
+      Slot: 19
+      Lore:
+      - '&6Ability: &7Infinite Potions'
+      - ' '
+      - '&7- Iron Sword'
+      - '&7- Leather Helmet'
+      - '&7- Leather Chestplate'
+      - '&7- Leather Leggings'
+      - '&7- Leather Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Ninja:
+      Name: '&a&lNinja Kit'
+      Item: NETHER_STAR
+      Slot: 20
+      Lore:
+      - '&6Ability: &73 Vanish Stars'
+      - ' '
+      - '&7- Wooden Sword'
+      - '&7- Leather Helmet'
+      - '&7- Chain Chestplate'
+      - '&7- Chain Leggings'
+      - '&7- Chain Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Thunderbolt:
+      Name: '&a&lThunderbolt Kit'
+      Item: BLAZE_POWDER
+      Slot: 21
+      Lore:
+      - '&6Ability: &73 Lightning Strikes'
+      - ' '
+      - '&7- Golden Sword'
+      - '&7- Leather Helmet'
+      - '&7- Golden Chestplate'
+      - '&7- Leather Leggings'
+      - '&7- Leather Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Vampire:
+      Name: '&a&lVampire Kit'
+      Item: FERMENTED_SPIDER_EYE
+      Slot: 22
+      Lore:
+      - '&6Ability: &73 Blood Suckers'
+      - ' '
+      - '&7- Iron Sword'
+      - '&7- Leather Helmet'
+      - '&7- Leather Chestplate'
+      - '&7- Leather Leggings'
+      - '&7- Leather Boots'
+      - ' '
+      - '&eClick to select.'
+      Commands:
+        Console:
+          Commands:
+          - 'These are commands that are run from the console'
+          - 'when a player selects this kit. You can place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'          
+          Enabled: false
+        Player:
+          Commands:
+          - 'These are commands that are run from the player'
+          - 'when a player selects this kit. You can also place commands'
+          - 'that teleport a player to the arena here if you would like.'
+          - 'You can use %player% as the name of the player.'
+          Enabled: false
+    Close:
+      Name: '&c&lClose'
+      Item: BARRIER
+      Slot: 40
+      Lore:
+      - '&7Click to close the Kit Menu.'
+      
+      

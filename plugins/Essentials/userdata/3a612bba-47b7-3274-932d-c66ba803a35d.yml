@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 941.4607316087572
+  y: 38.0
+  z: -466.9777585585123
+  yaw: -176.3588
+  pitch: 6.1674247
+lastAccountName: ItsScarks
+timestamps:
+  login: 1513485016979
+  logout: 1513485080985
+  lastteleport: 1513485065191
+  kits:
+    starter: 1512780480186
+ipAddress: 118.100.84.192
+logoutlocation:
+  world: Factions
+  x: 122.50597533071414
+  y: 70.0625
+  z: -312.3570612964678
+  yaw: -179.1267
+  pitch: 0.7005392
+money: '0.0'

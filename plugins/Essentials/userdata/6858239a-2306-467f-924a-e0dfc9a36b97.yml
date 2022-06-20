@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: WESTSIDESHOOTER
+timestamps:
+  login: 1516400439674
+  lastteleport: 1516403842526
+  logout: 1516403850643
+  kits:
+    starter: 1516403774464
+ipAddress: 75.117.94.191
+lastlocation:
+  world: LionHUB
+  x: 942.7977066596532
+  y: 38.0
+  z: -363.1140505180656
+  yaw: 2.2632751
+  pitch: -0.17621559
+logoutlocation:
+  world: MainLobby
+  x: 24.20530880158115
+  y: 58.0
+  z: 0.5
+  yaw: -105.878624
+  pitch: 5.1041822
+money: '0.0'

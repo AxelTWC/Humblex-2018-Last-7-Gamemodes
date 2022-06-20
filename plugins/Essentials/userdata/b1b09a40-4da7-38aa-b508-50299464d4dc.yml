@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1500121268038
+  login: 1500121036379
+  logout: 1500121266584
+lastlocation:
+  world: MainLobby
+  x: 9.069822210414667
+  y: 57.0
+  z: 19.80594005754803
+  yaw: 195.05011
+  pitch: 31.949991
+lastAccountName: bezimenimarko
+ipAddress: 93.138.100.179
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

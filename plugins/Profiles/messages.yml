@@ -1,0 +1,16 @@
+# ###############
+# 
+# Profiles by iAmGio
+# 
+# Messages configuration
+# 
+# ###############
+no-permission:
+  me: '&cInsufficient permission!'
+  others: '&cYou can''t open <player>''s profile!'
+info:
+  write: '&aWrite your <info>'
+  updated: '&aUpdated ''<info>&a'' with ''<value>&a'''
+  send-to-console: true
+  console: '&a<player> has updated ''<info>&a'' with ''<value>&a'''
+no-profile: '&c''<player>'' hasn''t got a profile!'

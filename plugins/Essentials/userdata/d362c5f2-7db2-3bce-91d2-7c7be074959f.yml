@@ -1,0 +1,23 @@
+timestamps:
+  lastteleport: 1498012730961
+  login: 1498012697119
+  logout: 1498012729459
+  mute: 0
+lastlocation:
+  world: MainLobby
+  x: 36.84300184097675
+  y: 58.0
+  z: 2.7683719454880835
+  yaw: -179.03299
+  pitch: 15.47496
+socialspy: false
+lastAccountName: MCSkully
+ipAddress: 58.182.146.146
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158
+muted: true

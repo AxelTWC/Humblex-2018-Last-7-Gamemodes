@@ -1,0 +1,21 @@
+lastAccountName: ChaseV2
+timestamps:
+  login: 1505908091887
+  lastteleport: 1505652143110
+  logout: 1505908128235
+ipAddress: 112.198.73.149
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.53143569060194
+  y: 46.0
+  z: -58.48021759997005
+  yaw: 33.749386
+  pitch: 8.184236
+logoutlocation:
+  world: LionHUB
+  x: 93.60463698407693
+  y: 47.0
+  z: -52.00657813449495
+  yaw: -1.2632126
+  pitch: 11.762165

@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 0.9078340831824128
+  y: 60.0
+  z: 0.5152997340617662
+  yaw: 209.71648
+  pitch: 1.8409568
+logoutlocation:
+  world: MainLobby
+  x: 22.777416756056695
+  y: 58.0
+  z: -1.0822202228624556
+  yaw: 246.20169
+  pitch: 33.71066
+lastAccountName: TheLuciferFallen
+timestamps:
+  login: 1512309640069
+  lastteleport: 1512309649113
+  logout: 1512310165646
+ipAddress: 82.6.126.148
+money: '0.0'

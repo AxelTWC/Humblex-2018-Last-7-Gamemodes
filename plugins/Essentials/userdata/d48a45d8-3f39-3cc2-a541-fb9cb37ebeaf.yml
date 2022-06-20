@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: NeatherGasp
+timestamps:
+  login: 1511653691050
+  lastteleport: 1511653725830
+  logout: 1511653765178
+ipAddress: 174.255.204.183
+logoutlocation:
+  world: MainLobby
+  x: 6.427502052688798
+  y: 59.0
+  z: 3.1294739422064834
+  yaw: -75.44357
+  pitch: 16.768934
+money: '0.0'

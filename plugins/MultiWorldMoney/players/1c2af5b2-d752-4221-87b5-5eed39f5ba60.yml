@@ -1,0 +1,8 @@
+name: Axovii
+uuid: 1c2af5b2-d752-4221-87b5-5eed39f5ba60
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  SkywarsMap1: 0.0
+  LionHUB: 500.0

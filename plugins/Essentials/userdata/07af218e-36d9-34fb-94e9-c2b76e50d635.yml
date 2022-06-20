@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: bagus435
+timestamps:
+  login: 1503811165282
+  lastteleport: 1502512142728
+  logout: 1503811241126
+ipAddress: 36.80.131.239
+lastlocation:
+  world: LionHUB
+  x: 92.8819727298748
+  y: 47.5
+  z: -47.20756959768518
+  yaw: -24.871185
+  pitch: -7.6835775
+logoutlocation:
+  world: LionHUB
+  x: 96.78974187025703
+  y: 47.0
+  z: -106.93575049184491
+  yaw: 268.7448
+  pitch: 2.4612958

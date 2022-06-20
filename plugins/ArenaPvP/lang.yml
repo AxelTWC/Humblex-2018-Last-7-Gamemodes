@@ -1,0 +1,382 @@
+nopermission: '&cYou dont have permission.'
+noarenas: '&cNo arenas availables.'
+duelmsgstart: '&cHacking is illegal!'
+rankedsedited: '&Rankeds and UnRankeds updated!'
+dueldisable: '&cDuels disabled'
+duelenable: '&cDuels enabled'
+duelresult: '&2<winner> &avs &c<loser> &c<health>&4 ❤ &7(<kit>)'
+eloresult: '&a<winner> (<elo1>) (+<newelo1>) &c<loser> (<elo2>) (-<newelo2>)'
+playeroutmap: '&cPlayer is not in the map.'
+specmode: '&cYou are in spectator mode, use /spec to leave.'
+duelignored: '&aYou duel has been ignored for the reload/stop plugin.'
+commanderror: '&cCommand error.'
+notduelself: '&cYou dont duel yourself.'
+unknownkit: '&cUnknown kit.'
+elostats: '&aELO <kit>: &e<elo>'
+statsmsg: '&2<kit>, Wins: &e<wins>&2/&e<played>&2, ELO: &e<elo>'
+statsmeetup: '&2Meetup, Wins: &e<wins>&2/&e<played>&2, KILLS: &e<kills>'
+specleave: '&aSpectator mode off.'
+spectingplayer: '&aYou are specting to &e<player>&a. Use /spec to leave.'
+notseeinventory: '&cYou cant view inventory now, please wait a few minutes.'
+duelwindefault: '&cYou rival desconnected to server, you win to default.'
+cantcraft: '&cYou cant craft.'
+cantdrop: '&cYou cant drop this.'
+cantusecommandsingame: '&cYou cant use commands in game.'
+cantbuild: '&cYou cant build and destroy.'
+arrowhealth: '&2&l<player> have &c&l<health> &4 ❤'
+lobbyset: '&aLobby set!'
+lobbhotbaryset: '&aLobby hotbar set!'
+arenaalreadyenabled: '&cArena already enabled.'
+arenaenabled: '&aArena enabled.'
+pluginloaded: '&aPlugin loaded.'
+mapsregenerated: '&aMaps regenerated.'
+reloaded: '&aReloaded.'
+unknowncommand: '&cUnknown command of ArenaPvP.'
+toggleduelson: '&aDuels toggle on.'
+toggleduelsoff: '&aDuels toggle off.'
+playerduelstoggleoff: '&cThis player isn''t accept duels.'
+kitedited: '&aKit edited!'
+editthekit: '&aYou are editing the kit &e<kit>&a, please use &c/arenapvp savekit&a
+  to save the kit.'
+noteditingkit: '&cYou are not editing the kit.'
+ranked:
+  leave: '&cYou have left to ranked'
+  search: '&9Searching players in ranked: '
+  duelEloMsg: '&9<player> (<elo1>) vs <player2> (<elo2>)'
+  ilimited: '&aYou have ilimited rankeds.'
+  left: '&aYou have <number> rankeds.'
+  outmsg:
+  - '&4----------------------'
+  - '&cYou not have more rankeds! buy VIP.'
+  - '&4----------------------'
+duelRankedEloTitle:
+  title: '&7<elo>'
+  subtitle: '&c<player>'
+unranked:
+  leave: '&cYou have left to unranked'
+  search: '&2Searching players in unranked: '
+  duelMsgStart: '&9<player> vs <player2>'
+  ilimited: '&aYou have ilimited rankeds.'
+  left: '&aYou have <number> rankeds.'
+  outmsg:
+  - '&4----------------------'
+  - '&cYou not have more rankeds! buy VIP.'
+  - '&4----------------------'
+alertmsgstart:
+- '&4Camping is ilegal.'
+- '&4Hacking is ilegal.'
+duelUnRankedTitle:
+  title: '&7Unranked <kit>'
+  subtitle: '&9<player>  vs <player2>'
+duelresulttitle:
+  winner:
+    title: '&2You win vs'
+    subtitle: '&a<player>'
+  loser:
+    title: '&4You lose vs'
+    subtitle: '&c<player>'
+norankeds:
+- '&4----------------'
+- '&cYou dont have more rankeds!'
+- '&cBuy VIP'
+- '&4----------------'
+nounrankeds:
+- '&4----------------'
+- '&cYou dont have more unrankeds!'
+- '&cBuy VIP'
+- '&4----------------'
+youenvied: '&cPlease wait a moment for send new duel or that player has one.'
+peticionsend: '&aDuel sended...'
+peticionreceived: '&3<player> &bwant a duel of &3<kit>'
+clickheretoacept: ' ➡ Click here to acept duel ←'
+nothaveduel: '&cYou dont have a duel.'
+playeroffline: '&cPlayer offline.'
+playerplaying: '&cPlayer in game.'
+rankedqueue: '&cYou are in ranked queue.'
+playerinrankedqueue: '&cThis player is in ranked queue.'
+unrankedqueue: '&cYou are in unranked queue.'
+playerinunrankedqueue: '&cThis player is in unranked queue.'
+meetupqueue: '&cYou are in UHC Meetup queue.'
+playerinmeetupqueue: '&cThis player is in UHC Meetup queue.'
+meetupfull: '&cMeetup is full.'
+joinedmeetup: '&aYou joined to UHC Meetup, use /meetup leave to exit.'
+youareinmeetup: '&aYou are in Meetup, please use /meetup leave to exit, are <players>
+  in queue'
+needminplayers: '&aNeed <number> of players to start Meetup'
+meetupstarts: '&aUHC Meetup starts in <number> seconds!.'
+meetupstarted: '&2&lUHC MEETUP STARTED.'
+playersinmeetup: '&a<number> of players in meetup.'
+meetupalreadystarted: '&cMeetup already started. <number> players left.'
+meetupleave: '&cYou left to Meetup.'
+notareinmeetup: '&cYou not are in Meetup.'
+meetupwinner: '&2<player> &awon the UHC Meetup.'
+meetupmsg:
+- '&4-*-*-*-*-*-*-*-*-*-*-*-*-*-*-'
+- '&cTEAMING of two is legal'
+- '&4-*-*-*-*-*-*-*-*-*-*-*-*-*-*-'
+- '&aGOOD LUCK'
+meetuptitle:
+  title: '&9UHC Meetup'
+  subtitle: '&cBy Humblex'
+meetupuseitem: '&cUse the item in your inventory.'
+metupleavevip: '&6Buy VIP to change to spectator automaticaly.'
+meetupdeath: '&2MEETUP > &a<player> death!'
+meetupdeathleave: '&2MEETUP > &a<player> left.'
+meetupplayersleft: '&2MEETUP > &a<number> players left.'
+hotbarmodify: '&aModifing hotbar, please use &e/duel saveinv &ato save.'
+hotbaryouare: '&cEditing the hotbar.'
+hotbartitle:
+  title: '&aSet hotbar'
+  subtitle: '&cUse /duel saveinv to save.'
+hotbarnotediting: '&aYou need to use /duel setinv'
+hotbarsaved: '&aHotbar saved!.'
+hotbarnotedit: '&cThis kit cant would edited.'
+partycreated: '&dParty created! Use &e/party help&d to see all commands.'
+youareinparty: '&cYou are in a party.'
+partyinvitealreadysended: '&cPlease wait to invite this player, or the player has
+  one.'
+partysendinvite: '&dParty invite sended...'
+partyplayerinvited: '&5<player> &dhas invited you to he party.'
+partyclicktojoin: ' ➡ Click to accept invitation.'
+partyingame: '&cParty in game.'
+partynoinvitation: '&cYou dont have a invitation.'
+partymsgjoin: '&b<player>&d join to the party.'
+partymsgleave: '&c<player>&d left the party.'
+partynewowner: '&5<player>&d is the new owner of the party.'
+partyleave: '&cYou left the party.'
+partyplayernotinparty: '&cThis player is not in the party.'
+partymsgkick: '&e<player> &dkicked for the party.'
+partykicked: '&dYou kicked for the party.'
+partynoowner: '&cYou not are the owner of the party.'
+partyffawon: '&a<player> won the game!'
+partyonlytwoffa: '&cYou need min 2 players to start FFA'
+partywinner: '&aYou win the game!'
+partywinnertitle:
+  title: '&aYou win'
+  subtitle: '&7Congratulations!'
+partyloser: '&cYou lose!'
+partylosertitle:
+  title: '&4You lose!'
+  subtitle: '&cSorry.'
+partynotexist: '&cThis party not exist.'
+partyduelalreadysended: '&cPlease wait to duel this party, or the party has one.'
+partyduelsended: '&dDuel sended...'
+partyduelreceive: '&2<player>''s party&d want a duel of &2<kit>'
+partyduelclickaccept: ' ➡ Click to accept duel'
+partyplayeralready: '&cThis player are in a party.'
+partynoare: '&cYou not are in a party.'
+partychatformat: '&9&lPARTY >> &3<player>: &b<msg>'
+partykill: '&2<killed> &akilled by &2<killer> &c<health>&4&l❤'
+partydeath: '&2<player> &adeath!'
+partydesconnect: '&5<player>&c disconnected.'
+partyteamdeath: '&c<killed> &7killed by &a<killer> &c<health>&4&l❤'
+partyhelpmsg:
+- Â§5/party invite <player>
+- ''
+- Â§5/party kick
+- ''
+- Â§5/party promote <player>
+- ''
+- Â§5/party leave
+- ''
+- Â§5/pc
+- Â§dParty Chat
+clickseeinvrival: ' ➡ Click to see inventories: '
+screenmsgonjoin:
+  title: '&6&lArenaPvP'
+  subtitle: '&4By Humblex'
+hotbar:
+  ranked:
+    name: '&9Ranked'
+    lore:
+    - '&7Click to play ranked matches.'
+  unranked:
+    name: '&6UnRanked'
+    lore:
+    - '&7Click to play unranked matches.'
+  duelaccept:
+    name: '&eDuel accept'
+    lore:
+    - '&7Accept duel.'
+  meetup:
+    name: '&bUHC Meetup'
+    lore:
+    - '&7Click to play UHC Meetup'
+  sethotbar:
+    name: '&2Set custom hotbar'
+    lore:
+    - '&7Click to set custom hotbar.'
+  party:
+    name: '&5Party'
+    lore:
+    - '&7Click to create a party'
+  options:
+    name: '&8Options'
+    lore:
+    - '&7Click to set options.'
+  spectator:
+    name: '&dSpectator'
+    lore:
+    - '&7Click to spectate a player.'
+hotbarparty:
+  rank2v2:
+    name: '&9Ranked 2v2'
+    lore:
+    - '&7Click to play ranked 2v2 matches.'
+  rank3v3:
+    name: '&6Ranked 3v3'
+    lore:
+    - '&7Click to play ranked 3v3 matches.'
+  duel:
+    name: '&eDuel party'
+    lore:
+    - '&7Duel other party'
+  actions:
+    name: '&bParty actions'
+    lore:
+    - '&7Click to see all actions'
+  leave:
+    name: '&cLeave party'
+    lore:
+    - '&7Click to leave.'
+hotbarranked:
+  leave:
+    name: '&cLeave'
+    lore:
+    - '&7Click to leave.'
+gui:
+  playing: '&aPlaying: &f'
+  queue: '&aIn queue: &f'
+  titles:
+    ranked: '&7Ranked duel'
+    unranked: '&7Unranked duel'
+    partyduels: '&7All partys'
+    partyduelkit: '&7Choose a kit for duel party'
+    editkits: '&7Edit the kit'
+    partyactions: '&7Party Actions'
+    partyactionsffa: '&7Choose kit for FFA'
+    edithotbar: '&7Edit the hotbar'
+  kits:
+    builduhc:
+      name: '&6BuildUHC'
+    ironbuild:
+      name: '&bIronBuildUHC'
+    pots:
+      name: '&dPots (No Debuff)'
+    potsdebuff:
+      name: '&aPots (Debuff)'
+    vanilla:
+      name: '&dVanilla'
+    gapple:
+      name: '&6GApple'
+    iron:
+      name: '&7Iron'
+    diamond:
+      name: '&9Diamond'
+    mcsg:
+      name: '&eMcSg'
+    uhc:
+      name: '&eUHC'
+    soup:
+      name: '&fSoup'
+    finaluhc:
+      name: '&4FinalUHC'
+    combofly:
+      name: '&fComboFly'
+    combobuild:
+      name: '&6ComboBuild'
+  party:
+    ffa:
+      name: '&cFFA &7(Free For All)'
+signs:
+  topelo:
+    line2: '&l<position>'
+    line3: '&2<player>'
+    line4: '&a<elo>'
+    maxplayerserror: '&cThe max player position is <number>'
+    signset: '&aSign of <kit> position <position> set!'
+    signbreak: '&aSign of <kit> position <position> removed!'
+    title: '&lArenaPvP'
+wordunlimited: Unlimited
+scoreboard:
+  spawn:
+    title: '&2&lHumblex ArenaPvP'
+    line1: Welcome:&6&e<player>
+    line2: <space>
+    line3: '&aRanked: &f<rankeds>'
+    line4: '&aUnRanked: &f<unrankeds>'
+    line5: <space>
+    line6: '&bLet the pvp rattle!'
+    line7: '&7------------'
+    line8: '&6humblex.serv.nu'
+    line9: none
+    line10: none
+  ranked:
+    title: '&2&lArenaPvP'
+    line1: '&7Ranked <kit>'
+    line2: <space>
+    line3: '&a<player1>'
+    line4: '&f<elo1>'
+    line5: <space>
+    line6: '&a<player2>'
+    line7: '&f<elo2>'
+    line8: '&7------------'
+    line9: '&6humblex.serv.nu'
+    line10: none
+  unranked:
+    title: '&2&lArenaPvP'
+    line1: '&7UnRanked <kit>'
+    line2: <space>
+    line3: '&a<player1>'
+    line4: '&avs'
+    line5: '&a<player2>'
+    line6: '&7------------'
+    line7: '&6humblex.serv.nu'
+    line8: none
+    line9: none
+    line10: none
+  partyffa:
+    title: '&2&lArenaPvP'
+    line1: '&7Party FFA'
+    line2: '&a<kit>'
+    line3: <space>
+    line4: '&aOwner: &f<owner>'
+    line5: '&7------------'
+    line6: '&6humblex.serv.nu'
+    line7: none
+    line8: none
+    line9: none
+    line10: none
+  partyvsparty:
+    title: '&2&lArenaPvP'
+    line1: '&7Party vs Party'
+    line2: '&a<kit>'
+    line3: <space>
+    line4: '&a<owner1>'
+    line5: <space>
+    line6: '&avs'
+    line7: <space>
+    line8: '&a<owner2>'
+    line9: '&7------------'
+    line10: '&6humblex.serv.nu'
+  meetup:
+    title: '&2&lHumblex'
+    line1: '&aUHC Meetup'
+    line2: <space>
+    line3: '&5Kills: &f<kills>'
+    line4: '&5Players: &f<players>'
+    line5: '&5Spectators: &f<spectators>'
+    line6: '&aScenarios:&fNoClean'
+    line7: '&6humblex.serv.nu'
+    line8: '&7------------'
+    line9: none
+    line10: none
+partyffatitle:
+  title: '&9Party FFA'
+  subtitle: '&7UnRanked <kit>'
+partyvspartytitle:
+  title: '&9Party vs Party'
+  subtitle: '&7UnRanked <kit>'
+meetupcanceled: '&2MEETUP > &aMeetup canceled! Need <number> players!'
+speconlyingame: '&cYou only can spec if the player are playing.'
+langreloaded: '&aLang reloaded!'

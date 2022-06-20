@@ -1,0 +1,63 @@
+# Color codes are supported for the signs customization!
+Signs-Format:
+  Prefix: '&3[SG]'
+  Stats:
+    Line-2: '&bStats'
+  Auto-Join:
+    Line-2: '&bAuto-Join'
+  Join:
+    Line-2-Color: '&0'
+    Line-4-Color: '&0'
+Signs:
+  Join:
+    Zone85:
+      world: Sg
+      x: -102.0
+      y: 6.0
+      z: 44.0
+    Breeze:
+      world: Sg
+      x: -101.0
+      y: 6.0
+      z: 44.0
+    Resort:
+      world: Sg
+      x: -100.0
+      y: 6.0
+      z: 44.0
+    Valleyside:
+      world: Sg
+      x: -99.0
+      y: 6.0
+      z: 44.0
+  Top:
+    Kills:
+      '1':
+        world: Sg
+        x: -98.0
+        y: 6.0
+        z: 58.0
+    Wins:
+      '1':
+        world: Sg
+        x: -99.0
+        y: 6.0
+        z: 58.0
+    Deaths:
+      '1':
+        world: Sg
+        x: -102.0
+        y: 6.0
+        z: 58.0
+    Gamesplayed:
+      '1':
+        world: Sg
+        x: -100.0
+        y: 6.0
+        z: 58.0
+    Coins:
+      '1':
+        world: Sg
+        x: -101.0
+        y: 6.0
+        z: 58.0

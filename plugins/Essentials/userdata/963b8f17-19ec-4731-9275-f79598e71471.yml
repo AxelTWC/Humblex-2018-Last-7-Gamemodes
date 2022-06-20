@@ -1,0 +1,21 @@
+lastAccountName: Lotlae
+timestamps:
+  login: 1505031805673
+  lastteleport: 1505031832778
+  logout: 1505031867964
+ipAddress: 101.180.32.242
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 94.44210772947439
+  y: 46.0
+  z: -58.13985017147084
+  yaw: 342.6888
+  pitch: 4.8889284
+logoutlocation:
+  world: MainLobby
+  x: 19.319735005824924
+  y: 57.0
+  z: -8.92229712461318
+  yaw: -270.3635
+  pitch: 12.276356

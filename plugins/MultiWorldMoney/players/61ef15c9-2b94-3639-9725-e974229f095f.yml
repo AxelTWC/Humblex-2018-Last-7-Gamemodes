@@ -1,0 +1,6 @@
+name: bndr_ksa
+uuid: 61ef15c9-2b94-3639-9725-e974229f095f
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

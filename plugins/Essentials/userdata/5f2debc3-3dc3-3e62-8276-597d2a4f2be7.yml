@@ -1,0 +1,33 @@
+timestamps:
+  lastteleport: 1503890405973
+  login: 1503890400719
+  logout: 1503891110200
+lastlocation:
+  world: LionHUB
+  x: 93.52515295935154
+  y: 45.0
+  z: -61.30000001192093
+  yaw: -1.2632126
+  pitch: 11.762165
+socialspy: false
+lastAccountName: Redination
+ipAddress: 37.24.150.10
+logoutlocation:
+  world: MainLobby
+  x: 41.38524630623317
+  y: 61.03584062504456
+  z: -0.19396938769545552
+  yaw: 82.37345
+  pitch: 42.054264
+homes:
+  home:
+    world: LionHUB
+    x: -174.26296152642323
+    y: 11.0
+    z: -645.2809504934951
+    yaw: 354.1802
+    pitch: 40.80058
+powertools: {}
+godmode: false
+afk: false
+nickname: §4Redination

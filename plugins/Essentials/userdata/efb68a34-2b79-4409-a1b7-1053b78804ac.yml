@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: mr_spud_nugget
+timestamps:
+  login: 1518458387155
+  lastteleport: 1518458831384
+  mute: 0
+  logout: 1518460846515
+  kits:
+    starter: 1517851937463
+ipAddress: 5.64.80.153
+lastlocation:
+  world: map
+  x: -954.5897106392824
+  y: 13.0
+  z: 280.33538554168223
+  yaw: 158.72028
+  pitch: -4.2604814
+muted: false
+logoutlocation:
+  world: map
+  x: -990.5
+  y: 87.0
+  z: 275.5
+  yaw: 0.0
+  pitch: -1.0
+godmode: false
+money: '0.0'

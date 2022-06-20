@@ -1,0 +1,21 @@
+lastAccountName: D0lto
+timestamps:
+  login: 1503988715691
+  lastteleport: 1503988732163
+  logout: 1503988816037
+ipAddress: 93.99.49.150
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.46856347874564
+  y: 46.0
+  z: -57.18654531817861
+  yaw: 1.2886657
+  pitch: -1.4110628
+logoutlocation:
+  world: MainLobby
+  x: 8.464794588017064
+  y: 59.0
+  z: 1.937711501830024
+  yaw: -229.54407
+  pitch: 5.6169457

@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: ThErEaLBoRkEr
+timestamps:
+  login: 1513883140722
+  lastteleport: 1513883296377
+  logout: 1513883688074
+ipAddress: 84.81.91.248
+lastlocation:
+  world: Factions
+  x: 528.4587445779615
+  y: 72.0
+  z: 1056.834844710072
+  yaw: 153.43866
+  pitch: 7.996776
+logoutlocation:
+  world: Factions
+  x: 121.25472114891491
+  y: 70.0625
+  z: -307.2997608345185
+  yaw: 104.82568
+  pitch: 5.650589
+money: '0.0'

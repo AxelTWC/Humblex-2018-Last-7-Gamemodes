@@ -1,0 +1,2590 @@
+# Citizens NPC Storage
+
+
+
+
+last-created-npc-id: 181
+npc:
+  '8':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkwMzU0ODg2NDYsInByb2ZpbGVJZCI6IjZkOTU5ZmNjZTBjYTQ0ZmY4ZDQ5ZjRhMmFlOWY4ZGU4IiwicHJvZmlsZU5hbWUiOiJTa2VsZXRvbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVmMmZlOTE1MDkzYzRjOGJhOWYzNWUyNjBhOTRjNjIzMjE3N2Y1YmVkMGQ1M2JlMDhlNGM4MjdjNjViODNlIn19fQ==
+      cached-skin-uuid-name: skeleton
+      cached-skin-uuid: 6d959fcc-e0ca-44ff-8d49-f4a2ae9f8de8
+      player-skin-signature: AenqZPI7YwUw1wsp7Z6JT8agZaxXsKay6VOJWWcr03H+fNrM4ywDpjPockoCIg2Y9rrfRbzAQvcxW1uW9jmUJmLNIMELiheDvikltcCawTZXZu3yMC0CiMwo+Goh+YzvpEmMXzR7OjixqkoCn3WpX9EZ7imaX4usLXk8wcAGhNeDlvwDAtlP3nxmMwBBneLCtrZmUe+Nf4I5mXJmJ6brexV5ksoj3Xe6CYIH3TADGjRf/7V0qpO0Vgg/+MtjIeIxCIWbcVGLslwHgFH+l0tcHGiV8FinWWemQ5nAsEH/UmZtRNmPbrjBYfLXVhdcYXqwqlkd2bxEjKql4xV84jM/rwOQNBojbnQGJg9gzbNY0Gm4JSHiQPdFXUOgZlAee8NXnboZLDW4Bwm9Er0u35uhJ+1qy5knNK1Ssg7ucQC7IkNGPNBrbZCNUhOX6zSLAxawNzOxCMktmVsoU0AZa7wz0UxZo9KEG14WYipWk4pnwr0VZUHOX/Aa4VzXfnqX5PXiX5UxHG0V+ix7Jh8bQMC59jivET6MbbwHZhr9aP/038wW3HXzRyH2k8o7+3AfhL1zRC5bGFLGZlgK5JFifYO1jj5JET5GXHuMfIf8AaOj2Y070/M9aj30rY+B5EX0UPIik0H9SXBXwK5jhNcjMZYGn2ymAEyiymj5v7QFK1p9WFM=
+      player-skin-name: skeleton
+    name: §2Vote
+    uuid: c709fb9a-e346-4f21-8567-af6c3e4646a9
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1369.4871456572644'
+        y: '33.0'
+        z: '-395.3991762091489'
+        yaw: '224.1474609375'
+        pitch: '0.35751453042030334'
+      owner:
+        owner: XxMr1234GamerzxX
+        uuid: ac4b6597-061d-46cf-a851-79f1f1717f6f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkwMzU0ODkxNDIsInByb2ZpbGVJZCI6IjllMjg5ZjM1MjllNDQ0NmNiN2NlNzI1NTdhNTUzMjIxIiwicHJvZmlsZU5hbWUiOiJEZWF0aCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYThkZmQ0NDE4ZTFiNWQ1MzBhOTVhZGU5NmZlOGVhNThkNzRkYThjYWJiNzNhOWJlYWI1OTZjMTkzY2Q5MWYwIn19fQ==
+      cached-skin-uuid-name: death
+      cached-skin-uuid: 9e289f35-29e4-446c-b7ce-72557a553221
+      player-skin-signature: YfpYxutrlLUJ7gdN+NVIg1fv3nu2ZjO6KFXSe6+6K1y4V0cjt8e9ZzC1SmLFV5aRdn00PWb6cekpWV7kwLgpPgDupTyb9IX6FwH80JV319ApYsKiAHNfZNrzOLB1yOs7+vKSh6YpV1PxgdCjS6fUGUYipxfUj3iTO1zUPaRXDyQYXnmJFGAciC6t52LrVAAmolOPGtUBUT38K1zZmGHMdWQ0yna2gBuOshNgFJhXtNd2mY4g2zHceWju3cKLa4gmpxpSo/Sa5T0zegT0yXAfFAJvR4KRirsJsFE/CDG4/kNfy4WFZdqWpbucBWYLvMBdjtaJ6llbKs/EQVb7Jcupf2LakOXVGFx84/In2qho47aUFDgixUrmNdb1wBm+c3nVOInpuI4j8gJ9+zfkfHtQ7l2EVVD5chkzWZRDGciZ+kQuMcRpuAQm9hy/X2xHxKVfu9iCCf99egS9YkHYKTf02gk/9K2Xqi5Lo5naJJmYA9XPlMo8wr0rJHIQos3ts025tRQfJqUZsgqb0rNW7LRXUayeRX86grIyvClECJDDu/Ry58j2BgaVphB4kVv3LJ6k0qnVFGOwiXPH4t6rYerjl+GMurAxSmXwtOTvFMHDfR6awF5PvcP4tYY8hbfvW0mtnFfvZOhXaJ48EpMoGW+NOJ6VQQCmM59h5dzrLgpCFd0=
+      player-skin-name: death
+    name: §6Discord
+    uuid: bcc41313-9c35-4d78-8480-c235b031c9f1
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1386.6324378091815'
+        y: '33.0'
+        z: '-395.488803891377'
+        yaw: '138.94723510742188'
+        pitch: '3.2075142860412598'
+      owner:
+        owner: XxMr1234GamerzxX
+        uuid: ac4b6597-061d-46cf-a851-79f1f1717f6f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    name: doscord
+    uuid: a39686b9-fa7c-452e-8118-fd3fcdd0f708
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1369.1464366635155'
+        y: '37.0'
+        z: '-412.56060648396414'
+        yaw: '311.6265869140625'
+        pitch: '8.331584930419922'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjU5ODMsInByb2ZpbGVJZCI6IjAyYjBlODZkYzg2YTRhZTdiYzQxMDE1ZDIxZjgwYzFjIiwicHJvZmlsZU5hbWUiOiJab21iaWUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2NzY0YmZlYmIzZjEzMmI1OGFlNmYyOGU4OTNjYzJlOTk2ODU2Yjg0NDgzMDEzMjUxNzVhYzZkMWVmOSJ9fX0=
+      cached-skin-uuid-name: zombie
+      cached-skin-uuid: 02b0e86d-c86a-4ae7-bc41-015d21f80c1c
+      player-skin-signature: WDtJXVDR33bwWG3U6SXg/BKlFjhnq/ko6ddES1sNwIdLu2fUWTmVYd38dULWPRJEX5vn6oViw1e88a2JuR4qOxCH7jN/kSuumMkdKcnJs11m4MRpqamyw0vhsoFXwgw8z7GvyN2/8atkNrLZISC3ohX/Ys9+MjhcluiOhYLACGSTXEUPdWYEwVo81l7RFdHgdrCBDhRUN+ZEUNj4DCtMKivOrYrhPD5cbi/XGz3SUZEIVY6jaVX0IljkJpcYtEg73Ed9NxctzPHAz4t+zMS4wThNLFa4v6DZI29UIPB6mQhBO0ZWuxnWDvtkRkmAGD0ix5LYB0c4X7d/aHqwQdVr7L/6Hx9GJtmpjQcXjGOhIZkLLlJ3CETvFPm6Pp3vZePz0ZUJvCOGNIFBEWJ/BsDMlx+Z8xz9V+2N/FIGEqP11G7/cRw0d79h3MBCuC79Um0z8BQoc+wyuQB3A5n8O+Z9WgHsXWlNQ6j2Xy5l8hzadImhBtUzgJTykkn6Ntg6R/9o5F2McR7jfSpEaea+MDVbQX6Qbz6DVRlhC73hQKPsM5yJ3RqIlp2xXw3DtoWbuuNpYHPHX9edEkdIGLwtU1oGpDnBnwgHg+kNZopjIP1fPTaOsVdRWdaP7CDsWDgUjZeHm5+F/ZhrE9xVQWUmqiJki3TBiY5UQZVpqPT/0SyATN4=
+      player-skin-name: zombie
+    name: §2Help
+    uuid: 1cc42f4b-bcef-4f5f-9422-d311f03eb72c
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: LionHUB
+        x: '1386.4850751286856'
+        y: '37.0'
+        z: '-412.51173178397266'
+        yaw: '49.847076416015625'
+        pitch: '-13.442497253417969'
+      owner:
+        owner: XxMr1234GamerzxX
+        uuid: ac4b6597-061d-46cf-a851-79f1f1717f6f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    name: em figured it out but dad wont respond rip
+    uuid: 77b9b172-89ec-4b63-81e5-c16f2aca534b
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1369.3544470810584'
+        y: '37.0'
+        z: '-412.6330217842979'
+        yaw: '308.92669677734375'
+        pitch: '11.631603240966797'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    name: DEV XxMr1234GamerzxX
+    uuid: dfe7a331-6947-43ca-9333-e050f30bd71d
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1395.5776971061568'
+        y: '34.0'
+        z: '-386.3735635632042'
+        yaw: '-38.02365493774414'
+        pitch: '1.8815522193908691'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      cached-skin-uuid: e70b3af8-9557-4fb6-870f-2a79bea36694
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDg5Nzc4OTgwNDUsInByb2ZpbGVJZCI6ImU3MGIzYWY4OTU1NzRmYjY4NzBmMmE3OWJlYTM2Njk0IiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZmQyZGM2OWM5N2E2MmI2NDI4Zjg1NTRhOTk0MmY3MjhmOTI5MDZkNzZjMzM5NGQ0YTUyZjhmNWZjYmVjMjIifX19
+      player-skin-signature: spupRH0sELhyy7khZpxutNiUY+c8O3zp2pD/au9Zwv/RYdakUDv91RjuGf2PQt3gqkxoZdJqpWO8EpwGrT3PwR8cgpa6K38KCYKczoo0h3P12t/Kk//hppqk0IusR+xwX6S1h1K+6pc3K0AZBUyJOc81WkTBnRKl4un+4aQ+i4xyM6wQ/N2bCZQHdmag5r3gOG62NW+UIwvo7jhRf0PlxUeJ9PJNyoyP2HAb1qGahMRZkndQ66+dSYqcNKiDEzNCe4kyQeDj9WqoVAjcr/Ho+sYfy8YMCOOM1/pHm9VLW5Qyr1ML0vgdA+8bv3IZt4t0W8mXqIing69n50OWnliqJ6sdm4WLW78Qv0NA7DG9x/UOXycIHT/FvNrZROPNzoy1O+fYH+ErPKbxlEHNgLGB/7AIyh9ikhpjIbnNeBHKaHtawfQUuawortX8xRYuvTc6rG1HB1ppmWD/GkV2sgarPeq3irY9bDLSPfNDQ0v4Ngb7Ty1fMR50V8jwk7ZwujAm+q+5hYVjuLpsLXoZTA555qyVXPGOw3Met/LfUeE+PiYrwHN0pQHxWqjasNTeiOS1+mvtmqpIS/7JQpXYpwodR22Eqp/yBPns1rm4v0hFRGnTZzAuQIL1sii7AF14inp/8DgSuZCRmY8s/EvT8aW+I0e6Rxl2qfaURjP82JMY3v8=
+      cached-skin-uuid-name: discord
+    name: Discord
+    uuid: 2ad562c1-eb2f-4fbd-b8ff-fa5383da7032
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1369.4256283007005'
+        y: '37.0'
+        z: '-412.62566089864055'
+        yaw: '316.9974365234375'
+        pitch: '3.300001621246338'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      cached-skin-uuid: e70b3af8-9557-4fb6-870f-2a79bea36694
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDg5Nzc4OTgwNDUsInByb2ZpbGVJZCI6ImU3MGIzYWY4OTU1NzRmYjY4NzBmMmE3OWJlYTM2Njk0IiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZmQyZGM2OWM5N2E2MmI2NDI4Zjg1NTRhOTk0MmY3MjhmOTI5MDZkNzZjMzM5NGQ0YTUyZjhmNWZjYmVjMjIifX19
+      player-skin-signature: spupRH0sELhyy7khZpxutNiUY+c8O3zp2pD/au9Zwv/RYdakUDv91RjuGf2PQt3gqkxoZdJqpWO8EpwGrT3PwR8cgpa6K38KCYKczoo0h3P12t/Kk//hppqk0IusR+xwX6S1h1K+6pc3K0AZBUyJOc81WkTBnRKl4un+4aQ+i4xyM6wQ/N2bCZQHdmag5r3gOG62NW+UIwvo7jhRf0PlxUeJ9PJNyoyP2HAb1qGahMRZkndQ66+dSYqcNKiDEzNCe4kyQeDj9WqoVAjcr/Ho+sYfy8YMCOOM1/pHm9VLW5Qyr1ML0vgdA+8bv3IZt4t0W8mXqIing69n50OWnliqJ6sdm4WLW78Qv0NA7DG9x/UOXycIHT/FvNrZROPNzoy1O+fYH+ErPKbxlEHNgLGB/7AIyh9ikhpjIbnNeBHKaHtawfQUuawortX8xRYuvTc6rG1HB1ppmWD/GkV2sgarPeq3irY9bDLSPfNDQ0v4Ngb7Ty1fMR50V8jwk7ZwujAm+q+5hYVjuLpsLXoZTA555qyVXPGOw3Met/LfUeE+PiYrwHN0pQHxWqjasNTeiOS1+mvtmqpIS/7JQpXYpwodR22Eqp/yBPns1rm4v0hFRGnTZzAuQIL1sii7AF14inp/8DgSuZCRmY8s/EvT8aW+I0e6Rxl2qfaURjP82JMY3v8=
+      cached-skin-uuid-name: discord
+    name: Discord
+    uuid: 092cf4f1-558a-480e-bd10-1c9de6d43778
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1369.4711078651064'
+        y: '37.0'
+        z: '-412.5083877703605'
+        yaw: '317.1473693847656'
+        pitch: '9.957489013671875'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      cached-skin-uuid: 6a7b43e5-543b-4542-a365-d9106e16ce17
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDg5Nzc2ODc4ODcsInByb2ZpbGVJZCI6IjZhN2I0M2U1NTQzYjQ1NDJhMzY1ZDkxMDZlMTZjZTE3IiwicHJvZmlsZU5hbWUiOiJBbGNoZW1pc3QiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifSwidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZWVmNTY1NWVlZmI5NThmNjAzNTJjYTc3ZjQ1NGE5N2JjYWI1NTNjYjEyNzM2YzRmYTYzNjZiMGNhMzMifX19
+      player-skin-signature: YQmdI3kkWi+wWX74fxji4ktCtBtY6NDSpeLzcyNLYGT0G+tIkryPRBJy1PiLuSV6+Gu5I/UTcS2U9HhlvHBeWdzRZPBOM4OeyacXA3MGwu9jcT0k53tQZqTf4YLbBEr/0ABIyYhO1lO68FR/FcGT05u814ue+4P2oyIQFZ+elXmPvNhMe/Kc+4LLfTWiSD0H9fHhAgD43O+t40yh0YlFBfRohcrZp5TXh5t3l1rVgLveNsGhL87vU4ZEFHVC6dj6lsYxyyzbHD1JZj2SL6v3bGiIQIZju5UUCT6ReXEseFoFG30e74hCXjwFG4Y5wzYje6a1TCxovN2rEWFa85vAOZP4EzA5gBUAfvABpsAPbD0lYBUPUkDEjCAszqHlKjflGhXhO8QU/mAa4Vdc40MyDRJL8GGdYPvON5zjr79Ka1cJhKgX29MiDl5jFmhFbI9L+ryFi43cc3cjyadIPaaVmOVi9WOHXCFEDxMQEAQPDWI7cA7P0zgpZkcWJiHLizcZB2PIJt64296d/pl/ZmKL1bl1Gw1QwmwzFohbni5jCRdcH2792lzrjt12e7Tk/8FcxTyk/HE0pD6KGKE6ipl9CcGlad38Gc3V3MD1haOyP4ren2dckWORtdTlfbsE5Q0HACCdl7+oS1s0dHIwowAjzymKwy3KlCyaXbwEgidjQu8=
+      cached-skin-uuid-name: alchemist
+    name: alchemist
+    uuid: ab695019-a3ea-4284-9ea8-78015a5d2ff7
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1369.539333597435'
+        y: '37.0'
+        z: '-412.4368236579656'
+        yaw: '312.046875'
+        pitch: '12.44999885559082'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '15':
+    name: fluffychicken12
+    uuid: 82c370d3-7fed-46ee-abec-e2880890d7d7
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1360.595558755721'
+        y: '34.0'
+        z: '-421.4185164322815'
+        yaw: '135.6483154296875'
+        pitch: '2.45760440826416'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '14':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: §6AxelTWC§c
+    uuid: d9a323d8-aa04-4174-ab9f-cd2c84f0de28
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: MainLobby
+        x: '10.728249721996352'
+        y: '60.0'
+        z: '0.5257123247549922'
+        yaw: '95.53106689453125'
+        pitch: '-2.6884424686431885'
+      speech: chat
+      text:
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': '&4&lLet the battle begin...'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: speech,inventory,lookclose,owner,text,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '13':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkwMzU0ODg3ODksInByb2ZpbGVJZCI6IjYyMGYwZWI0OTc2ZjRiYjBhZGEzMTRlMmQxYmFkZmFkIiwicHJvZmlsZU5hbWUiOiJFdmVuaXR5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzUzY2Q3YWQxODQzODE5OTU2YTlmM2FkZDdhZjdiOTY2MmVjMjkxMWFkY2IxZmE1NWVkZWFlNzRlMzkzNmEifX19
+      cached-skin-uuid-name: evenity
+      cached-skin-uuid: 620f0eb4-976f-4bb0-ada3-14e2d1badfad
+      player-skin-signature: rZVFV94USRrBcvZxuLXfTY9W74LOBnprwAnbX5FH3+R/60NToWfbofj53mPV1m0zp+kJgDK3dSm9wMR6ZEWT2kJ/aXYeIQUOa732/M+QN/OTTBE88TZEArNUzYLYNKUcTECzTyfC4E8DxrecID7LTCu3V0ki51NjeobeR9oCVzIo7XE81xuyCrOUkLm/i/9mLGsR5hvaYwnHnwcowYNStx2nPPmmR9eFLKAlB3HZvX7yLVwZN5pNRFDxWqFDl/ugdzpxcXRKWLQr4s0LH3hbLyXiPRORLv8XiFdu79ic1fnvmlTF88NzgmH5cNL6yB5hypKW9idJ7q+Rde1PtC22qL5P3KDdebHn5OzPtdm42isIyiPlc5s1LHZWRyZMdOhBxWq8jiTJAIPX0ux+Ilvm/6lmE6y+NBru3zMFPH1rbkqosRNEbIwHEhx27Q/tbqF86uB8Qq6mN9TzXwkUSI8zac8HEir8A1mVDbsfFdJGZD/h28DyrKjt36KdH/0cXJJryJt69vS00IzYydQMT+ZBleZF6EBKUt4w6PcripTe03uM5X74qOz82BoRhxluCAHZUZDrJcqSO3J2p9BcPQ25UjGMriBwPW5KlmzrxQS6JnHsGRKdp+X4+R+q9/o4lAyTjRQzh+/y70QbSSPq124xIVED7/XGtZR9N8/WsLTOYig=
+    name: Evenity
+    uuid: b959a751-9141-4cf3-8a91-8a5753b16257
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1360.4940399957575'
+        y: '8.0'
+        z: '-386.47576794677246'
+        yaw: '49.723876953125'
+        pitch: '-3.2999637126922607'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTQ5OTAwODYsInByb2ZpbGVJZCI6ImFjNGI2NTk3MDYxZDQ2Y2ZhODUxNzlmMWYxNzE3ZjZmIiwicHJvZmlsZU5hbWUiOiJYeE1yMTIzNEdhbWVyenhYIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMjlkMTU5YWViNzhhYTI2YzVmZjQxMjI2MGU2NDQxYTcwN2ZmYmY0N2E1NjllNjhmMGNhZjFkNTVkMjc2Yjg1In19fQ==
+      cached-skin-uuid-name: xxmr1234gamerzxx
+      cached-skin-uuid: ac4b6597-061d-46cf-a851-79f1f1717f6f
+      player-skin-signature: PvAA/fWmu92ECHgSRSeUsWuopG6SXVnOHahYXstQgya5aK7xqZOFplOKBEOwf74XCi5BA8uaeIJgHF7ofQnpeUTWDkJugdaS7hIlX+RM4uppKr09XhWj6e/ZAgzQv3UrLUhiamPm9TMgzNbGyr6/O/326osmnK5bI17eBTDIWHiaeUO7qZGOd9Hf8TIkPdFjELlQfk4ybbqfdxJuFXauvQw2kjfVI5uSysZyG71TwKwED8rQpBxTcxe9Jdrgcj97jQmOmpfBkG+yWEe2DI7rGqVXfCeWpzRSGZT+fZWLnDzv/hQoO/LepcQU/BjldizaVA+8DtyrBvuO5alyUXdwgYk1T+sK2a+DgIfgT4C1aKz/stAliDgVJCZMMHHEfdZXTHAqyFAEgoRt1g5kBUKVz9Iba+OPQXvmn+u2r5uqLMfRjkrBPuAVeWZnS8GvXaY43/+JDQn8l6xpsOoFXVk2FRJoWxRKegjau6lU/ui5TMeNVZ+JJyqXIlPdYAViRYmA2mHiXtokkGetyAeV5zcdfKc1Oli2g3fhaKZR/ku4Oa1aNDjTpBrrYcsESJ4YC479WgW+LpCEwPrGMzOhTg3fSuhe0EAtx7WmvvvafgxwrHZALjpP2ZWaBTN7s58m0ngCPJaPPy8Q8SOPVID17Y6iOMQTt/Adeho7dvF+h7oNRLo=
+    name: XxMr1234GamerzxX
+    uuid: 02a30a01-1e7e-4cb6-9504-a7b06694538e
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1395.5123629569205'
+        y: '7.0'
+        z: '-386.3371294416038'
+        yaw: '316.7255859375'
+        pitch: '-0.8999673128128052'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkwMzU0ODkwMzEsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: Ef1F8oVDczfyrC6AvF97h+B8v0T10yymVG7/AlREUOop0aqLhPIhYLHTyLuKY8U3jJOMLIlsIOVwA1iIPkV3sQ0zC85zE/8jUJFimNz+yaNn8mh+x3du9BD3sIjti7VRztX3Y/wq9+bBkTJDKnyP3XBjQy8KG+APmxXshOGfojR7BAeeSPYTRGFPYINkCVHTQ2viYimkK/PcpK+Wm5upW6uGo47MuRx8Wbr8NCPMgIdbfpUotGi7lMHOxv6wwLq2xubpfnwY7hqTUy+0iVvg378VCrstjys3VzY4nE2JurDaELkHneaWTh280wrug8krx42Jpzvze1bAlabhrFxVNn+Y/eCpPtesR7xlHXr2l7kd+gYC0wSdhwJkZ2qtCOzOlCn08Di0qXUnZ1dOFIlwm/fuGkKthtTxNcexU9qzzvN1ul0DaA+JZlBOyiAk4i1jAopSTD+E3e2njWfA4Ivu3s1UXNxotbTUIHDoaMxo8cvST6WAMvFwJVCe/ccv9UDCuy0CZMlH1+MQlyAIAiFDYmSEubhhGytPY2oEuzIZWVjwIsVovbpB3zpfBOTb65OJ2WwAgWJPOMy6qYRcXVcvYP57ZMmrVF50D87vMQtg6ftWTqwgR5ERKIUSq35zWySsyj3V/7MnRta7IoiusTKmaUo0NVUrYfEWE5tYZ0QE/fI=
+    name: AxelTWC
+    uuid: 14665a7d-f653-43d2-9b53-b1675c920e88
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1395.3388496320397'
+        y: '9.0'
+        z: '-421.4986704253479'
+        yaw: '227.326171875'
+        pitch: '-1.7999937534332275'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    name: AxelTWC OWNER§4
+    uuid: 722e6f9c-2182-4edf-90f5-4dd657c3b59f
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1395.632775899945'
+        y: '34.0'
+        z: '-421.7461984028392'
+        yaw: '228.2257080078125'
+        pitch: '1.9499988555908203'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDg5Nzg3Mzc3OTUsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      player-skin-signature: kXMNlVbMXUFKWH5BqEcwukzflp4/Oz/GyzqkeGRTUofZrydQ+1iDfBCljaNEM7AcUMCJ9TFIMs+Q5B2tjhIaU/kvRJWHkD1h/O4WrVicxQPCKqPv2sECoYOGteEiImvePluvHHSTtYr8GIeFfqI7w2ND9h11kPXpakE0uP649PEqmxEQD+gGGliiC9v5LFD35kSspQdlKuDSroITgIPcMA1mlrW3zDHxGA8E06A2SIFeaXJIMa95WYNG2TJhHLvkrUlak2oXuIjMeXhQjAnUOFTjkrJ9oib6gkIxuuKNL+LvjZmDLFe0sQAs/MxORXcaMJH2t7FP/LZsTsQS1UV6QPw6ksPFu4vFpwc29NdlcP+aTkVUYMOUTtR5PoT/B+OLt5C11ngo/zssT/3qi1R4j0eul/O//7Nzp/u69EqLcp6YD7SWTNM46MD0sD1ibeCeijNRcPHqeJu7w1bePlzMyL2HvwWFocyCOFQHzx9sWa/+vUFb5OtrQ8WnaI5zbzrxlf/nkNqZloyrZdnmCXfPHdfJ7QzfSoqADrJ///zBlK8CG8DPQMC/c95STg2i123Vr7YAye0Giynr59Nebr4mM6aHkp5Mh5M+Y1HSDQLW8dwxJOB8z7OP81jj3Oqvm0AdZavi8WRwNHgewYz76ostBP/orS6MVpPtBoFjxklvOrc=
+      cached-skin-uuid-name: axeltwc
+    name: AxelTWC
+    uuid: 470db9f1-e690-4006-b583-6d9b80b3d5f2
+    traits:
+      inventory: {}
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1395.519542996923'
+        y: '34.0'
+        z: '-421.4823303906131'
+        yaw: '232.425537109375'
+        pitch: '-2.249999523162842'
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '17':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: AxelTWC
+    uuid: f53c639d-0a19-4596-add6-e3ae1fe3c836
+    traits:
+      spawned: true
+      location:
+        world: LionHUB
+        x: '1395.3946465747624'
+        y: '34.0'
+        z: '-421.43074735725395'
+        yaw: '230.89581298828125'
+        pitch: '6.29998254776001'
+      inventory: {}
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjY5NDksInByb2ZpbGVJZCI6IjYyMGYwZWI0OTc2ZjRiYjBhZGEzMTRlMmQxYmFkZmFkIiwicHJvZmlsZU5hbWUiOiJFdmVuaXR5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNTVjYTJiNjEzNGQzMWJlNTBkNzIyOTg4NjYyZDFhYTRkYTI3MTg4M2U1NjFjMGI0YmRjZWE0M2U5Mzg2In19fQ==
+      cached-skin-uuid-name: evenity
+      cached-skin-uuid: 620f0eb4-976f-4bb0-ada3-14e2d1badfad
+      player-skin-signature: G6lZEPrKe0RDUVdJMh9CDCpeEdIvvuDU5SUX5PkieAVZFYwxXbcQGFIMGxMIz70srw+aPAi4bXU3698OEQm1Gyi32ahaikq2Kr+Ere/8qT+t9I2VV26V5oesK80NUYkX9CeElWYo3UZ4EVQWxnuER554SUhFrh8WbZH/do5b9SlVCUP5SbvHA3dDfohE7YimlPw4/tQNDrCGW3JC/o56YS8R83ki9lwI+kN4Z1GpY/GWE2anpnW9XkuzuLMDTBSSyLXVyRUKeVIa1uUyPhXEL12SU2PTZHmz26Hrp+tnRSNFQibY8sLt/ZF+jvffthJc1dzx98IN+p30ndAq1b0V8M8Vni28fKDA36GqTUs7Km75Jq6kC7/NUZ4o+xivtQq2JCyzRdVWCbCOYcBXPWZnOfLYUScIrzYMqqQXBoW0jo+O+jPUwYlc+e38T6im9B88pGHFFtm0lT5NhopZ2kU5Hr97CoR3LmJMMs27c/c2I1gmW3dZCyptdxRXKCBXrxba9SNvHNKlYKuLDqTq9dzaLat1e6q74dbNG32BnISS7qDz0HOFUQpaWeuoMDCJPVMlwKIVzuRvnG15pKY8SD5HYY1+euuQcTMSviGQH+clHV2YJX49Hnkc8bZjIQ75YDrgIKILBF6SZ126fAeAhgychFX35BTpkc1cLVMkcVrzQ/w=
+    name: Evenity
+    uuid: c57a7980-3649-4d96-91b1-8680799739fb
+    traits:
+      spawned: true
+      location:
+        world: LionHUB
+        x: '1360.43390664063'
+        y: '34.0'
+        z: '-386.49033812057365'
+        yaw: '52.397308349609375'
+        pitch: '4.49999475479126'
+      inventory: {}
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '18':
+    metadata:
+      cached-skin-uuid: 45294351-c8ff-42e6-8890-8cd2af98d1e7
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTQ4ODYwMTYsInByb2ZpbGVJZCI6IjQ1Mjk0MzUxYzhmZjQyZTY4ODkwOGNkMmFmOThkMWU3IiwicHJvZmlsZU5hbWUiOiJIZWxwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZjJiNTFjN2U1Mjk0ZDYwZDhkOWI0ZGM2NjRjZTE5YTE1OTlhODVlNTg2MWNmZjFjYjQ3N2YxMTNlODMxYzUxIn19fQ==
+      player-skin-signature: ZEVXnhutqiQLZieFXUHL84eNCvUg/PYLi4HNcJfZ4TmTrS4NGPGfb+df6jeCqVBH2eZ1WqUZ4Zuw0iTTlkht4rJpHxx+ajG69UX/jRqSpMwl0R+bTXKBT0/zLNxypitaRIduon9uxzYzhicWXKE0V+TMfHCpBkzNxLCwMR95Y4ywPWhMRoCJIpIIvtWgDkOu9YI2ZhMvK+32E9LyCMWGWK0+uf0ws3x/4zqfypun4qFzQt0LmbznUzwsdjm39nzMXcmlNqsC1TiDLgTbsP4aMLNiakBJ+vcxB60DWCAyTEHLYmXYiVw1mbsBCekFjjRaFUTtxsxd7HAv5K7LlwxgpTWorXmasxFCeOE8v36ZRuP/C01ypKdRabfK4wOGy9NyXSU1+WAtJES+L5r/AMby60J6TQaDMeqm6ZyTHUxv00RwQb33zDJpy7q4AHDjy4QwRRRGIp5Q6bQPIgQkFkbLvd918aYR2OYEF9E1AZBzeU4fFeKXCa1vqQBjP9NLuJv2E/dtV0/EbGFXlhYKvueHXYgew1bibcLUlle7DGcfCaaAm0BsslMkU9cst2LkTHp5CX2e8qTjqxzD1MYaoGqEOUOpHeBNGyxz9vqJEDJt7TPYXWN+7Lw9D+eDA79ipTwzp2dcD9ujHXSJrVyDO5WO9PzwaHH7+TR4EOsixhx/gcw=
+      cached-skin-uuid-name: help
+    name: Help§a
+    uuid: bbaf1163-dc88-4589-8d3b-2cdfe9251114
+    traits:
+      spawned: false
+      location:
+        world: LionHUB
+        x: '1386.7272660884146'
+        y: '37.0'
+        z: '-395.557568401385'
+        yaw: '135.34735107421875'
+        pitch: '0.44998976588249207'
+      inventory: {}
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '25':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjY2NjMsInByb2ZpbGVJZCI6IjI5MzAyOGU2OGM1NjRiZmQ4OGNmODk5YWU2NDRmMjU4IiwicHJvZmlsZU5hbWUiOiJWb3RlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7fX0=
+      cached-skin-uuid-name: vote
+      cached-skin-uuid: 293028e6-8c56-4bfd-88cf-899ae644f258
+      player-skin-signature: C6uNRqnQq381GZ5/gW+Ab/OMTgpM8oKK2+TzkZEI0c7JyJK/3iwIwaYtS69DGWuLvM167ZqYVzDUD6k4ypVFi/tXJVw85XaZcw2+ykOtUtyAYDHv1X99LheJmSYuOuHTxb+Z8I3LaKuv53INFCiBLP1untcOJElq0rx6KiUZdgV5sGXMkdMqrxW5nJpGXx6fvEQC6v5a7C75j01XPUNc2RWVZTFySPS5wtAeAyAo82qAkgrQscJ4rkVUT2p3KNNwlDLjkIB8gIgsv3VCvy1fL6D1V44WrxcB99Zdh7ElHsLOHCpEt4eCP9JSCg1a/a8Jww9CTVuwOFeHM/hb4QUQv/rWlkltKPjUQnLngM1XdKObW2RZE054EeB3QhqvKMcgmoQKLwjwR5113qu7xZACVkJoA/MaXI4f4XKZIOgjzAyDVkxSMdqNS8NdUPDE/T7Tw9Yyok1/4H15AM6lpSHqXC4VCwrOA3zQyoKBEi/Qr+xXBagrobYZ8KtGlnEGmsDeMdvAx9TAwkmCvNyoCdfSHvHWz5m3cUBzKyUytjAFPEVQUYreZjhutoKhJ1srqXUCojJynixPpfXvBV6W4Cs4UEMW99sMXzgXikVBvTVsmZf5hR/3H3FY3i7i9kGhMmXA1xmmqezw/qkuo7vdfmcUrSmqLM/JTGEkBcFoZtyxjLE=
+    name: Vote§d
+    uuid: 604470de-1203-4eed-b202-f0c877d5b685
+    traits:
+      location:
+        world: LionHUB
+        x: '1369.440104017563'
+        y: '37.0'
+        z: '-395.4816063731948'
+        yaw: '223.847412109375'
+        pitch: '-1.9499934911727905'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '24':
+    metadata:
+      cached-skin-uuid: 293028e6-8c56-4bfd-88cf-899ae644f258
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTgyODM1MTEsInByb2ZpbGVJZCI6IjI5MzAyOGU2OGM1NjRiZmQ4OGNmODk5YWU2NDRmMjU4IiwicHJvZmlsZU5hbWUiOiJWb3RlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7fX0=
+      player-skin-signature: QgLy8PGpqn8Ugw7C2paiY5po+1aRkjLYo8PIJtsC+3WvG1ejAjsQ2+I6DX0rWoyNtU+WV/b0/VwDbMaFVji9cCijmhPJS3a6z99T4w1n2tVTbHydmcJ0B2Y8DSDOMDfSXA5GvmDaz24Qg9jzrST+bcyInABFc0m98tEM13tW6GxMOZRl5RP2WYtZG67IGTceULJDhVfuiQWRgpw5fGfCJMHlIX9dDBKyGyHJ6PaK/SfbDrVhlxMMx+YlblELXJHNaq5gadEoB8xa86N3XPsblLc9kXfygJq8q9tcbu0g65pb2AoYj/UXhZJd2F65qP7dJCLbFth7Qnyl1onzB/b/juPWOqcSx8NpRf4Zl61fZzYeKqOfiFS3sBqDEtSxk1S88n0I77SIEx0LcKjvJr9e7PP0fnyqEEUijtxT0UBH0m5+lTS6mFsEsUhrGbLAIo+rjlTZCMhs2nZlj8qso816XV4bj2EZ3T0pL4QpKiunwaWDqr0mJVb1Lk7qHcjL7evmABNDl0z5bHPYK0tPWpXIvTmTustMkXpfdz8ul1EDtBIR1kVl8UvoUNG3UN7VgFjoBAmnfmvSu6TF8V2RBewDV6xGJtQrtDCdlKXKs2/7ZGTchUmdlOaUgZRKinragELb0pFvN7RAbbgSfIPVT7WECTIGnaT4W1W+0nm8NRm9BXw=
+      cached-skin-uuid-name: vote
+    name: Vote
+    uuid: d358f812-b405-44be-a30f-cfc76e484a6d
+    traits:
+      location:
+        world: LionHUB
+        x: '1369.5900268732134'
+        y: '37.0'
+        z: '-395.5235247553203'
+        yaw: '224.59814453125'
+        pitch: '-0.5999783873558044'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '23':
+    metadata:
+      cached-skin-uuid: 293028e6-8c56-4bfd-88cf-899ae644f258
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTgyODM1MTEsInByb2ZpbGVJZCI6IjI5MzAyOGU2OGM1NjRiZmQ4OGNmODk5YWU2NDRmMjU4IiwicHJvZmlsZU5hbWUiOiJWb3RlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7fX0=
+      player-skin-signature: QgLy8PGpqn8Ugw7C2paiY5po+1aRkjLYo8PIJtsC+3WvG1ejAjsQ2+I6DX0rWoyNtU+WV/b0/VwDbMaFVji9cCijmhPJS3a6z99T4w1n2tVTbHydmcJ0B2Y8DSDOMDfSXA5GvmDaz24Qg9jzrST+bcyInABFc0m98tEM13tW6GxMOZRl5RP2WYtZG67IGTceULJDhVfuiQWRgpw5fGfCJMHlIX9dDBKyGyHJ6PaK/SfbDrVhlxMMx+YlblELXJHNaq5gadEoB8xa86N3XPsblLc9kXfygJq8q9tcbu0g65pb2AoYj/UXhZJd2F65qP7dJCLbFth7Qnyl1onzB/b/juPWOqcSx8NpRf4Zl61fZzYeKqOfiFS3sBqDEtSxk1S88n0I77SIEx0LcKjvJr9e7PP0fnyqEEUijtxT0UBH0m5+lTS6mFsEsUhrGbLAIo+rjlTZCMhs2nZlj8qso816XV4bj2EZ3T0pL4QpKiunwaWDqr0mJVb1Lk7qHcjL7evmABNDl0z5bHPYK0tPWpXIvTmTustMkXpfdz8ul1EDtBIR1kVl8UvoUNG3UN7VgFjoBAmnfmvSu6TF8V2RBewDV6xGJtQrtDCdlKXKs2/7ZGTchUmdlOaUgZRKinragELb0pFvN7RAbbgSfIPVT7WECTIGnaT4W1W+0nm8NRm9BXw=
+      cached-skin-uuid-name: vote
+    name: Vote
+    uuid: 4c82c916-c140-457d-9ca2-ef0b41ac8455
+    traits:
+      location:
+        world: LionHUB
+        x: '1369.1840217997137'
+        y: '37.0'
+        z: '-395.50557804062765'
+        yaw: '225.4976806640625'
+        pitch: '-0.44997119903564453'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '22':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjc3NTAsInByb2ZpbGVJZCI6ImU3MGIzYWY4OTU1NzRmYjY4NzBmMmE3OWJlYTM2Njk0IiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZmQyZGM2OWM5N2E2MmI2NDI4Zjg1NTRhOTk0MmY3MjhmOTI5MDZkNzZjMzM5NGQ0YTUyZjhmNWZjYmVjMjIifX19
+      cached-skin-uuid-name: discord
+      cached-skin-uuid: e70b3af8-9557-4fb6-870f-2a79bea36694
+      player-skin-signature: g7JNRBOSKisQcej8xfCawv4z/pW8ucSm56XmhyCfw83fcR8Ue0mq/8UG8gadKRdtYPyNZljbwMxqpXMZP+EY7KcVqzQ7LBbAW8t2gZeycQ2Z2VUvMBY2KSvPF2tS+OVS/CDCP69WiBkrrdrdufxJA65ap3Rmky7xnFCqnxT8jj+VIIDLKsuN+mlA8W8yuVgQHoyB9d7Ef3Qkq+vy/os3ZgJ5Jn8mOhzO+PIxhAeM5Z5ln4JZfQA7WJ3dZkFmnaFjNyzLYswXtWXRSRXraZZo9+J3zwUIkTuLZEbwfsxjCui1Cv/tj1lxIFGWtlGkm/ikT+crBuSS7XOPfxYctKtSBMAOAYOuKIG+1LJV3CcUOh8T2gXtEdB4eSvtkPNEFUtXLo49rWf/Rdpmx0AunbDypLfPcV+DINHcFTWnBfkDvNY0HW5VLon7ScWC5y/5VEwvFC6Ee9cVxL+otIq3eF+ngVoo00aNTgiBeXPYW6U9btTJyFtjKMZxblnyQYR3ym4w3CiZDWlhji0YrKhTxbu+E722dwU1zrRovXNDlGMJr0huPALSptEWcSQT45jpHXdwTmd3u0Tsr9/OJO95f4CAMhZoV6B/lmmIDJHrNdtiL8VOiVbLgSDI4dTJ1Nulo+gR27zCKJVhvb/e1HVzwJK+s7s8YGtJ9kqUG1BALhYX1JQ=
+    name: Discord§1
+    uuid: 408d296b-f53a-434f-bbfc-4f36a6c7203c
+    traits:
+      location:
+        world: LionHUB
+        x: '1386.6135685505187'
+        y: '37.0'
+        z: '-395.2093250995783'
+        yaw: '134.74853515625'
+        pitch: '-1.3499900102615356'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '21':
+    name: Discord:\u00A71
+    uuid: 31d200b1-e516-46a2-b3b1-39625c72bab7
+    traits:
+      location:
+        world: LionHUB
+        x: '1386.6135685505187'
+        y: '37.0'
+        z: '-395.2093250995783'
+        yaw: '134.74853515625'
+        pitch: '-1.3499900102615356'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '20':
+    name: Discord\u00A71
+    uuid: a0683aac-3dab-487f-8c08-d68cb13e5d3c
+    traits:
+      location:
+        world: LionHUB
+        x: '1386.5622450279145'
+        y: '37.0'
+        z: '-395.28082960098493'
+        yaw: '135.048095703125'
+        pitch: '-1.0500208139419556'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '19':
+    metadata:
+      cached-skin-uuid: e70b3af8-9557-4fb6-870f-2a79bea36694
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTgxNjU2NzUsInByb2ZpbGVJZCI6ImU3MGIzYWY4OTU1NzRmYjY4NzBmMmE3OWJlYTM2Njk0IiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZmQyZGM2OWM5N2E2MmI2NDI4Zjg1NTRhOTk0MmY3MjhmOTI5MDZkNzZjMzM5NGQ0YTUyZjhmNWZjYmVjMjIifX19
+      player-skin-signature: BVFOX09vysXb7TzlsLvQjf+TPDPMZhOQz+yuXxoJ8RMgCJJ6d/h+wNAEV+SRo+JS/sBLQDA89KgkppVMjzjX/809ZR1DJKDMfrUTOlDW4s8TbsCGj8bQXQSJNiwnZ33L5jyjVw2V8yYZpHXhm4PTmFbZXWgeuzsN9imjXP/Gr3Ev8r7LXBWamjVr0g3I4pH19higJ6MhqnsiNX9e3SDsuF1I0IFyC6Q8rVn7/02miCophCjm8MdR7viyv8TnFJ2c+ts/jYIX78HQggcF5b3NodUNa+5LC+tDDqOM9Y68MF1W07x8XhpdaWKA6Q2uSlqESrKPEqW+yvad0N+PmAowoyjUATlih1M62CqrvMpz6KbD8T7uj0bgH0YUwCjYDz8VmVqavUTmWXVNBWix02tl3aeIXKbAY3QKj1FuSFeE85c9YbeUz1whSvBczfMmfj/kmiisillvbwy7H4z+mgMlkth1TltxC7Nyvo3gZ/6Ob5qF+daHcK8Bo8/MaWH+DJp4E+S6dnnLocT5RwtHdAag1rLEoAUyUWFoHkXzcxY5oCCZmWviaRIsRaZTENcNq/ssA1grO46Y6WxOmi7AhnvPQ7w4+8PJMvsqKk2bttRV6GR0F56dkmnlWGl53V73QPP70gYTCLKjKDnPvgRAcONwUtPDA4Fr/OVkFIMyBMctsC4=
+      cached-skin-uuid-name: discord
+    name: Discord§1
+    uuid: 4235819b-8670-40d0-ba7b-cab92d55fea0
+    traits:
+      location:
+        world: LionHUB
+        x: '1386.5344521059708'
+        y: '37.0'
+        z: '-395.5453655621284'
+        yaw: '134.89712524414062'
+        pitch: '2.8499808311462402'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '35':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjAzMDE2MzM3MDgsInByb2ZpbGVJZCI6ImFjNGI2NTk3MDYxZDQ2Y2ZhODUxNzlmMWYxNzE3ZjZmIiwicHJvZmlsZU5hbWUiOiJYeE1yMTIzNEdhbWVyenhYIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMjlkMTU5YWViNzhhYTI2YzVmZjQxMjI2MGU2NDQxYTcwN2ZmYmY0N2E1NjllNjhmMGNhZjFkNTVkMjc2Yjg1In19fQ==
+      cached-skin-uuid-name: xxmr1234gamerzxx
+      cached-skin-uuid: ac4b6597-061d-46cf-a851-79f1f1717f6f
+      player-skin-signature: RXjtVd0yVNCV11uHXbvlMITYQMjQI4f5KTWgH0Fi1eegtsW4UvczHw1vzjumKm3qVmNOO+jNAmyKAenLXU48pntPnrWpCr+LfO9TSIvqEA+V9gBDQipPDuMoL08sjrdMFJcgLGVGrSndYood64u9uhENFYNXkVwAf0lyyUMlsY6KMC9yAh31pq4xYnX6f44yjcQv5CllG11V97x5029Cb6kYz70bYThz2N2d9ltkmGPDLZp7rqauApFgyTJYY4fEsSnforAacKumpGRuelO9y+N35xuh9wd51VhOFVbJrKmSzRjRNgBXdl4ImTbv8BsnI9UcPPexEFhm0uczyq/XTMEEACo22e1UEELuRhqdhQollzCZGm/7ViHY0JBaDRs4mhdcRPMZoJMeIKTIEXaXSBUGJCRi0LExdzT/U2wmIepDmabxLdGNqKeHVzqkYcAuv2UTtL5+ZyRKgoeGFqjxMc93ZOEnq8RlOh+M37CPvj3pSUFfOqyNeLuO+oxwHkYZe3FJrtMAOw2fgP1Aa9jHqoRFCLULn2bEYIScGY7VOLheqURoFG8GnoYFus+g7JlVRTZixsaeaXpJ5yvflljOT9tyfCmatIar3W6XZE1Leyb1hnoJsUqg5UHRzBfHeWFLFqeHoDcF3yglrx0DIj3b6YAj9Ijk7A9arb+qhgkFB+o=
+    name: XxMr1234GamerzxX
+    uuid: 1024e514-8bae-4bab-a2d5-e04de7cf0780
+    traits:
+      location:
+        world: LionHUB
+        x: '1395.5773519247987'
+        y: '34.0'
+        z: '-386.6421666968196'
+        yaw: '313.69873046875'
+        pitch: '-2.3999805450439453'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '34':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTQ5OTAwODYsInByb2ZpbGVJZCI6ImFjNGI2NTk3MDYxZDQ2Y2ZhODUxNzlmMWYxNzE3ZjZmIiwicHJvZmlsZU5hbWUiOiJYeE1yMTIzNEdhbWVyenhYIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMjlkMTU5YWViNzhhYTI2YzVmZjQxMjI2MGU2NDQxYTcwN2ZmYmY0N2E1NjllNjhmMGNhZjFkNTVkMjc2Yjg1In19fQ==
+      cached-skin-uuid-name: xxmr1234gamerzxx
+      cached-skin-uuid: ac4b6597-061d-46cf-a851-79f1f1717f6f
+      player-skin-signature: PvAA/fWmu92ECHgSRSeUsWuopG6SXVnOHahYXstQgya5aK7xqZOFplOKBEOwf74XCi5BA8uaeIJgHF7ofQnpeUTWDkJugdaS7hIlX+RM4uppKr09XhWj6e/ZAgzQv3UrLUhiamPm9TMgzNbGyr6/O/326osmnK5bI17eBTDIWHiaeUO7qZGOd9Hf8TIkPdFjELlQfk4ybbqfdxJuFXauvQw2kjfVI5uSysZyG71TwKwED8rQpBxTcxe9Jdrgcj97jQmOmpfBkG+yWEe2DI7rGqVXfCeWpzRSGZT+fZWLnDzv/hQoO/LepcQU/BjldizaVA+8DtyrBvuO5alyUXdwgYk1T+sK2a+DgIfgT4C1aKz/stAliDgVJCZMMHHEfdZXTHAqyFAEgoRt1g5kBUKVz9Iba+OPQXvmn+u2r5uqLMfRjkrBPuAVeWZnS8GvXaY43/+JDQn8l6xpsOoFXVk2FRJoWxRKegjau6lU/ui5TMeNVZ+JJyqXIlPdYAViRYmA2mHiXtokkGetyAeV5zcdfKc1Oli2g3fhaKZR/ku4Oa1aNDjTpBrrYcsESJ4YC479WgW+LpCEwPrGMzOhTg3fSuhe0EAtx7WmvvvafgxwrHZALjpP2ZWaBTN7s58m0ngCPJaPPy8Q8SOPVID17Y6iOMQTt/Adeho7dvF+h7oNRLo=
+    name: XxMr1234GamerzxX
+    uuid: 5b4010ad-63e2-423c-9f90-1821fdb36803
+    traits:
+      location:
+        world: LionHUB
+        x: '1393.9516562927824'
+        y: '7.0'
+        z: '-387.5477791232734'
+        yaw: '9.1966552734375'
+        pitch: '24.00001335144043'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '33':
+    name: XxMr12345GamerzxX
+    uuid: 0819d463-e337-4d82-9208-eeda06602f2e
+    traits:
+      location:
+        world: LionHUB
+        x: '1395.4906261910735'
+        y: '34.0'
+        z: '-386.3439792755438'
+        yaw: '317.7467041015625'
+        pitch: '-5.9999871253967285'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '32':
+    name: XxMr12345GamerzxX
+    uuid: 0ce36c7f-06dd-436a-9034-27a4d4e36bd6
+    traits:
+      location:
+        world: LionHUB
+        x: '1395.4906261910735'
+        y: '34.0'
+        z: '-386.3439792755438'
+        yaw: '317.7467041015625'
+        pitch: '-5.9999871253967285'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '31':
+    name: XxMr12345GamerzxX
+    uuid: 1918bc40-0aaf-4619-8e35-d6bb1192e7e6
+    traits:
+      location:
+        world: LionHUB
+        x: '1395.4906261910735'
+        y: '34.0'
+        z: '-386.3439792755438'
+        yaw: '317.7467041015625'
+        pitch: '-5.9999871253967285'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '30':
+    name: XxMr12345GamerzxX
+    uuid: 27d4984b-616a-4ef9-b0c6-4f8dd0893847
+    traits:
+      location:
+        world: LionHUB
+        x: '1395.4906261910735'
+        y: '34.0'
+        z: '-386.3439792755438'
+        yaw: '317.7467041015625'
+        pitch: '-5.9999871253967285'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '29':
+    metadata:
+      cached-skin-uuid: ac4b6597-061d-46cf-a851-79f1f1717f6f
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTQ5OTAwODYsInByb2ZpbGVJZCI6ImFjNGI2NTk3MDYxZDQ2Y2ZhODUxNzlmMWYxNzE3ZjZmIiwicHJvZmlsZU5hbWUiOiJYeE1yMTIzNEdhbWVyenhYIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMjlkMTU5YWViNzhhYTI2YzVmZjQxMjI2MGU2NDQxYTcwN2ZmYmY0N2E1NjllNjhmMGNhZjFkNTVkMjc2Yjg1In19fQ==
+      player-skin-signature: PvAA/fWmu92ECHgSRSeUsWuopG6SXVnOHahYXstQgya5aK7xqZOFplOKBEOwf74XCi5BA8uaeIJgHF7ofQnpeUTWDkJugdaS7hIlX+RM4uppKr09XhWj6e/ZAgzQv3UrLUhiamPm9TMgzNbGyr6/O/326osmnK5bI17eBTDIWHiaeUO7qZGOd9Hf8TIkPdFjELlQfk4ybbqfdxJuFXauvQw2kjfVI5uSysZyG71TwKwED8rQpBxTcxe9Jdrgcj97jQmOmpfBkG+yWEe2DI7rGqVXfCeWpzRSGZT+fZWLnDzv/hQoO/LepcQU/BjldizaVA+8DtyrBvuO5alyUXdwgYk1T+sK2a+DgIfgT4C1aKz/stAliDgVJCZMMHHEfdZXTHAqyFAEgoRt1g5kBUKVz9Iba+OPQXvmn+u2r5uqLMfRjkrBPuAVeWZnS8GvXaY43/+JDQn8l6xpsOoFXVk2FRJoWxRKegjau6lU/ui5TMeNVZ+JJyqXIlPdYAViRYmA2mHiXtokkGetyAeV5zcdfKc1Oli2g3fhaKZR/ku4Oa1aNDjTpBrrYcsESJ4YC479WgW+LpCEwPrGMzOhTg3fSuhe0EAtx7WmvvvafgxwrHZALjpP2ZWaBTN7s58m0ngCPJaPPy8Q8SOPVID17Y6iOMQTt/Adeho7dvF+h7oNRLo=
+      cached-skin-uuid-name: xxmr1234gamerzxx
+    name: XxMr1234GamerzxX
+    uuid: e704a33b-0a89-4d3c-aab6-ab3f5297b1c2
+    traits:
+      location:
+        world: LionHUB
+        x: '1395.687901593195'
+        y: '34.0'
+        z: '-386.5764634936223'
+        yaw: '323.2965087890625'
+        pitch: '-0.8999941945075989'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '28':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTQ5OTAwODYsInByb2ZpbGVJZCI6ImFjNGI2NTk3MDYxZDQ2Y2ZhODUxNzlmMWYxNzE3ZjZmIiwicHJvZmlsZU5hbWUiOiJYeE1yMTIzNEdhbWVyenhYIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMjlkMTU5YWViNzhhYTI2YzVmZjQxMjI2MGU2NDQxYTcwN2ZmYmY0N2E1NjllNjhmMGNhZjFkNTVkMjc2Yjg1In19fQ==
+      cached-skin-uuid-name: xxmr1234gamerzxx
+      cached-skin-uuid: ac4b6597-061d-46cf-a851-79f1f1717f6f
+      player-skin-signature: PvAA/fWmu92ECHgSRSeUsWuopG6SXVnOHahYXstQgya5aK7xqZOFplOKBEOwf74XCi5BA8uaeIJgHF7ofQnpeUTWDkJugdaS7hIlX+RM4uppKr09XhWj6e/ZAgzQv3UrLUhiamPm9TMgzNbGyr6/O/326osmnK5bI17eBTDIWHiaeUO7qZGOd9Hf8TIkPdFjELlQfk4ybbqfdxJuFXauvQw2kjfVI5uSysZyG71TwKwED8rQpBxTcxe9Jdrgcj97jQmOmpfBkG+yWEe2DI7rGqVXfCeWpzRSGZT+fZWLnDzv/hQoO/LepcQU/BjldizaVA+8DtyrBvuO5alyUXdwgYk1T+sK2a+DgIfgT4C1aKz/stAliDgVJCZMMHHEfdZXTHAqyFAEgoRt1g5kBUKVz9Iba+OPQXvmn+u2r5uqLMfRjkrBPuAVeWZnS8GvXaY43/+JDQn8l6xpsOoFXVk2FRJoWxRKegjau6lU/ui5TMeNVZ+JJyqXIlPdYAViRYmA2mHiXtokkGetyAeV5zcdfKc1Oli2g3fhaKZR/ku4Oa1aNDjTpBrrYcsESJ4YC479WgW+LpCEwPrGMzOhTg3fSuhe0EAtx7WmvvvafgxwrHZALjpP2ZWaBTN7s58m0ngCPJaPPy8Q8SOPVID17Y6iOMQTt/Adeho7dvF+h7oNRLo=
+    name: XxMr1234GamerzxX
+    uuid: 9bbd9b24-5eae-4b9c-a43f-833691b6bfe0
+    traits:
+      location:
+        world: LionHUB
+        x: '1393.6100843236973'
+        y: '7.0'
+        z: '-385.72839633923553'
+        yaw: '249.496826171875'
+        pitch: '14.10003662109375'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '27':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjYzNTIsInByb2ZpbGVJZCI6ImI0MTg2MzE4ZjhkYzRlMDQ4ODZjNTgxNDRiN2RiZDE5IiwicHJvZmlsZU5hbWUiOiJwYXJrb3VyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZmZjZDVmMTkxYTI0MmFkMWI1MjM1YjZlODE5YmUyNTM5ZGMyYzY4MmQxN2IyODJlZjhhMGIyYjgxZTJjNDAifX19
+      cached-skin-uuid-name: parkour
+      cached-skin-uuid: b4186318-f8dc-4e04-886c-58144b7dbd19
+      player-skin-signature: o88/FarmeyTUOFiHHk5cqknkHOaz/U2a7z3KDDPLD/s9cDFs3MZgEltypLBiTnEj2m0g0Wuax9ot86KbCVrsgjPgHnq1IaFoF4508ZvaWUPyksnN7F/jiIQitkUvatY+5G+scj4qo6S5U8FcW3rMCnVzxsBtrwWO2mXyt53ptSrdVQMOp9ewxpIoCeVdGduQpUmZW6eiLG4uBOOI3he9neFMaS9KO/G7/J8kdLnGfvpRlU8IqYjoUw0YJqolfMJ2x18H0yW6VGzZv5aQ2ep+3A3P/At41zakZhm/aH/cjt1cKkWIjrnv2AeGr3vXKCSdhGBbNtFyTcg7EHClXPmoNd4FoU8BstvkNPj1ufs99kflQfIHayX1Qn2XZqFPZGVx8BRsOTDOz3ET27YLkGIm8h9I88XAZz/no6BSXnvV1XOB7QRJQOHrLF4aow0xfHweenJ9p4/2Uzitg4kQoP1fL5EvvpENBdeIvgdBXr4SjCq/YCiNYzQqlVR2w2b0ovoEmPz2ouGeaFlscGPhMzmvhVmb0CliwR168xWfhm5iTp9464bxclqi0JvgzlLCERV9fqcGeMCTiPNZ0vC0ZjoSrLEBJATnRjSHjdBbcNZClFqKuXHP15dhTjiku+BvzbXlxvWYIQd63Eo4GPmXDPgCsihI37/LdTjEavJ4RHTxLKE=
+    name: Parkour
+    uuid: a2520d01-0eb3-4be5-b7d8-1f684736c38e
+    traits:
+      location:
+        world: LionHUB
+        x: '1386.6122961976328'
+        y: '51.0'
+        z: '-414.7191746570838'
+        yaw: '178.9976806640625'
+        pitch: '3.7501585483551025'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '26':
+    metadata:
+      cached-skin-uuid: e906031d-348a-4130-af89-2ae9aadad1ae
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MDkyMTg4MTg4NDQsInByb2ZpbGVJZCI6ImU5MDYwMzFkMzQ4YTQxMzBhZjg5MmFlOWFhZGFkMWFlIiwicHJvZmlsZU5hbWUiOiJQYXJrb3JlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NmY3YzhiNzM3MTBhYTQ1OGZlODE5YzJiZjFkZDU3NjgxMzRjYTI3NmI3YWQyMWMzMWQyMGZhYzMzNDhhIn19fQ==
+      player-skin-signature: x3pjaVYbzfT+QBC0pBgtoY+ceJfSg7po3+kWztWSrHP/H4DCe0xr7llLRNudG3YA66u222GgxiZNB2DGUggfPbbcaHC+8LOKqEnvhoMo5UR3kX/+e38vG2ZpIkjSmryPIGUWtihosyoKaAOItNcjcwJOIhuH1KTegbzeYcZfBacBPIlazvBE+NT1X7MDGgzMR3bK3dIzFkp6hqdXozsTvxJj71VdPJkuRgStP27TJjtuF2o/fbib4FRbVr21W64zyjmYpytnDss9gzPT90DUvvuyFEIDng6ARVVhQDvRAqM6STLSp2w4eGTCecnfPHWDrMazOW+VTPgw1fdqySdk+QIMC8ix+7VWNX3yz7GWy0FVj95hkaCvmSNeIxPdgXWj5H6RKLk/Av9mRZYc9NVJ/RbfiJMc5MdRuFXi13pgfUp3mkrhznfRgphSCeQPlgNlp4EgEN0V2u0SLyVIRM5nR5k9A5eMhc1JLW5e81txru8FTbGqqCxHS3lot1s56OQ2d7vaZaIHxB4wvOWPwRMbap9eO7SDf9tMSIFFsppdv7jo2Ylw6VP8gj/xHPAjgfujZx+ix6NH0D+5+vkyqfwBrXbicqUpvARtQ75xgzIN8h+X8B+WzjPH5TsFHnjxaR0HS7GgTx8YCyc+b7vvmsdLLaCWy8ctz+pFI7cierccPfY=
+      cached-skin-uuid-name: parkore
+    name: Parkore
+    uuid: 5743ffcd-7049-455a-970d-5d3323a12a1c
+    traits:
+      location:
+        world: LionHUB
+        x: '1386.3725103541396'
+        y: '51.0'
+        z: '-414.6457976419101'
+        yaw: '182.297119140625'
+        pitch: '3.7501614093780518'
+      inventory: {}
+      spawned: false
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '40':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjU5ODMsInByb2ZpbGVJZCI6IjAyYjBlODZkYzg2YTRhZTdiYzQxMDE1ZDIxZjgwYzFjIiwicHJvZmlsZU5hbWUiOiJab21iaWUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2NzY0YmZlYmIzZjEzMmI1OGFlNmYyOGU4OTNjYzJlOTk2ODU2Yjg0NDgzMDEzMjUxNzVhYzZkMWVmOSJ9fX0=
+      cached-skin-uuid-name: zombie
+      cached-skin-uuid: 02b0e86d-c86a-4ae7-bc41-015d21f80c1c
+      player-skin-name: zombie
+      player-skin-signature: WDtJXVDR33bwWG3U6SXg/BKlFjhnq/ko6ddES1sNwIdLu2fUWTmVYd38dULWPRJEX5vn6oViw1e88a2JuR4qOxCH7jN/kSuumMkdKcnJs11m4MRpqamyw0vhsoFXwgw8z7GvyN2/8atkNrLZISC3ohX/Ys9+MjhcluiOhYLACGSTXEUPdWYEwVo81l7RFdHgdrCBDhRUN+ZEUNj4DCtMKivOrYrhPD5cbi/XGz3SUZEIVY6jaVX0IljkJpcYtEg73Ed9NxctzPHAz4t+zMS4wThNLFa4v6DZI29UIPB6mQhBO0ZWuxnWDvtkRkmAGD0ix5LYB0c4X7d/aHqwQdVr7L/6Hx9GJtmpjQcXjGOhIZkLLlJ3CETvFPm6Pp3vZePz0ZUJvCOGNIFBEWJ/BsDMlx+Z8xz9V+2N/FIGEqP11G7/cRw0d79h3MBCuC79Um0z8BQoc+wyuQB3A5n8O+Z9WgHsXWlNQ6j2Xy5l8hzadImhBtUzgJTykkn6Ntg6R/9o5F2McR7jfSpEaea+MDVbQX6Qbz6DVRlhC73hQKPsM5yJ3RqIlp2xXw3DtoWbuuNpYHPHX9edEkdIGLwtU1oGpDnBnwgHg+kNZopjIP1fPTaOsVdRWdaP7CDsWDgUjZeHm5+F/ZhrE9xVQWUmqiJki3TBiY5UQZVpqPT/0SyATN4=
+    name: §5Help
+    uuid: 8cbf78db-d1c1-4646-846a-46dc61ee6550
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '951.6999999880791'
+        y: '37.0'
+        z: '-423.69999998807907'
+        yaw: '-43.637969970703125'
+        pitch: '0.0'
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '39':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjUyNzAsInByb2ZpbGVJZCI6IjViY2FlOWUzMjkyMDQ1ZWViMDY2NDc0NDE3NWQyOWZlIiwicHJvZmlsZU5hbWUiOiJBbGllbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RjZDRkNDc0NWE0NDYzNWU4NGY1Mzk2YTE0N2UwNzczNzIyNjZmMmY1NjkxMWRhNTZmYzk4MDEyMjNmYTE2IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: alien
+      cached-skin-uuid: 5bcae9e3-2920-45ee-b066-4744175d29fe
+      player-skin-name: alien
+      player-skin-signature: EuEMlGRMcX96IJ+O6+j0fnXCeAe+WVcyWZE2j8eDSQZ+XgDpSxXD2UDg4G84y0t7apq1q0ymT8KlKH/heXorIp4C79pjPcp8WY5Vn9UdRSXiLO7MkwvOUtWpST20wmN042+MQd5erh2Rw/VbbTjfX9qfsk+jKlKoVufcjlRmexD3O9tIzFwQ1fAO1ZCXGoyWyyYgVxhRqO+ykTBtHs/TnLnDDdYtO/MuKULCQh6+gS4Co6r/yrvR4hjBZde/yp8QzWWcGYJuFluwjrs2i2dcPkGRzDksO6SDkCz1k68368HEiJbAuTnlXTh4egf8uiPWY23EZzvvhy5NbSpSggsZvvcZX7QPq1T7QY1bdJC4uO0F+ENbwnbpHBOJI5mXmsubJ+7YNSuIIc30WNhn3oDVYs1h4ulnOCG2ei9IFIgsbjn0H2NAj9pJKdV2eaSNXbVuOf6H5NRQaO6REgHXneOXZzpl9wc0Kk3Ko2sX7PWEdcsZQYC4aA+m54mPMrS0OXuIMkugd2cbcGrmUsgpFEZT4DVqyGEib9iWjmCCnpgRQfdbv+mZvI5+UPpevuICSPpfNdl/QHWXgFvxtlmQ6j2jg6F54pWNhOM3ASxFpnQMwtdkwp9YcPcy/R9xZ5NRfm0sOBjdN7sJ9JiZmGskYTuQ8vne31b803PYHD/GpyAyCpI=
+    name: §6Discord
+    uuid: 6fa46c46-7271-4dbf-83fa-8a2b83556bdd
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '934.3000000119209'
+        y: '37.0'
+        z: '-406.30000001192093'
+        yaw: '137.53756713867188'
+        pitch: '-32.49680709838867'
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '38':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjU1NjcsInByb2ZpbGVJZCI6ImVjOWEyZTU2YTJhYjQ4ZThhMTVkZTU3OWEzNjQyOWYwIiwicHJvZmlsZU5hbWUiOiJBc3Ryb25hdXQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyMWRmZjIzYTVmNmE2NDVjZGJiZjExOTc2MmI3Mzk4NjQzYWJmZTk4NWIzZTMxN2RkYjgyNzMwZDNmZmFhIn19fQ==
+      cached-skin-uuid-name: astronaut
+      cached-skin-uuid: ec9a2e56-a2ab-48e8-a15d-e579a36429f0
+      player-skin-name: astronaut
+      player-skin-signature: Jr745eRmAcS12NKnsbwnO00AuRXx+Lbhdg39cPR8bFtMaKSzPePaB1/FyFXS+RDg6cSr5+U2JYbz6zhj7piuBoD7adm0BumkCfQSm38DLUYkHjIPW0skzGv+pQx2KCYpQWyIPd1D2lDZN4YOWoX/RgjosQ5owG2Oh+NLqqAi5cBjQspHz3fNPu8Wt6ljN87Yjkt5KYj3YMbs47XIUcYulqvIWZUEBhZzQMspyA6UVV12KL5OR17LsOwoSgvnLIer4w58u8cdIi7SxnXqS/wTEDuIf4BNrIz0wnf00DYdLGIBt1N0p507hOoZ5DkwtT/lrqy1NxzPQ1IZqAw3oxm4V4C4hDaOl1okIsJ0sWLcVMui/x7I1OzRJ14zU7o14q5Txc/yF2/jJafsoV6UGsBeUybh0okIaz8QI3O6MLN7ygM2Rt2RRbl4/sQD3mnKusE+6jqpTYsaaVGAngkdHwWcESg4E+PpmyGNrhGkhOYBvFbpBXQzMAldF83y07pr1eGdI4WCd/k8tC+pvM/74I5HBIekCX7VYjqrRPpVcyMoaQfTr3F/SEZz6SEH4EMIajju0lD03SA0tOJw+dVALhwSwp8mtASGbHfxIdNNw75V1cCEuH4vLtnZKYLG81C4ZVrqzjZqTOHoXwm9RtKdnxecVORmKoi2Vfm4MwkMdPL1EDg=
+    name: §2Vote
+    uuid: 7665fbb5-b674-49c8-a1d0-4e97e0306207
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '934.3968093500556'
+        y: '37.0'
+        z: '-423.69999998807907'
+        yaw: '-37.448036193847656'
+        pitch: '-74.81542205810547'
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '43':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: AxelTWC
+    uuid: 93252c25-1c23-48ef-8737-be78bfbe97e1
+    traits:
+      location:
+        world: LionHUB
+        x: '960.3073315461056'
+        y: '34.5'
+        z: '-432.5814453911845'
+        yaw: '-36.13425827026367'
+        pitch: '-28.06489372253418'
+      spawned: true
+      inventory: {}
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '42':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjYzNTIsInByb2ZpbGVJZCI6ImI0MTg2MzE4ZjhkYzRlMDQ4ODZjNTgxNDRiN2RiZDE5IiwicHJvZmlsZU5hbWUiOiJwYXJrb3VyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZmZjZDVmMTkxYTI0MmFkMWI1MjM1YjZlODE5YmUyNTM5ZGMyYzY4MmQxN2IyODJlZjhhMGIyYjgxZTJjNDAifX19
+      cached-skin-uuid-name: parkour
+      cached-skin-uuid: b4186318-f8dc-4e04-886c-58144b7dbd19
+      player-skin-signature: o88/FarmeyTUOFiHHk5cqknkHOaz/U2a7z3KDDPLD/s9cDFs3MZgEltypLBiTnEj2m0g0Wuax9ot86KbCVrsgjPgHnq1IaFoF4508ZvaWUPyksnN7F/jiIQitkUvatY+5G+scj4qo6S5U8FcW3rMCnVzxsBtrwWO2mXyt53ptSrdVQMOp9ewxpIoCeVdGduQpUmZW6eiLG4uBOOI3he9neFMaS9KO/G7/J8kdLnGfvpRlU8IqYjoUw0YJqolfMJ2x18H0yW6VGzZv5aQ2ep+3A3P/At41zakZhm/aH/cjt1cKkWIjrnv2AeGr3vXKCSdhGBbNtFyTcg7EHClXPmoNd4FoU8BstvkNPj1ufs99kflQfIHayX1Qn2XZqFPZGVx8BRsOTDOz3ET27YLkGIm8h9I88XAZz/no6BSXnvV1XOB7QRJQOHrLF4aow0xfHweenJ9p4/2Uzitg4kQoP1fL5EvvpENBdeIvgdBXr4SjCq/YCiNYzQqlVR2w2b0ovoEmPz2ouGeaFlscGPhMzmvhVmb0CliwR168xWfhm5iTp9464bxclqi0JvgzlLCERV9fqcGeMCTiPNZ0vC0ZjoSrLEBJATnRjSHjdBbcNZClFqKuXHP15dhTjiku+BvzbXlxvWYIQd63Eo4GPmXDPgCsihI37/LdTjEavJ4RHTxLKE=
+    name: Parkour
+    uuid: 9021e558-4106-4fae-9025-98da1422d5ca
+    traits:
+      location:
+        world: LionHUB
+        x: '952.1263282387592'
+        y: '53.0'
+        z: '-430.7066155600264'
+        yaw: '-176.88275146484375'
+        pitch: '-0.9210119247436523'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: Maechunbu
+        uuid: 3dc6174c-eae5-4fab-9a6b-479ca59b99a6
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '55':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: AxelTWC
+    uuid: 1e135f93-a12b-41d0-80bc-b68951d2be8e
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '394.2130356565205'
+        y: '-86360.59999930428'
+        z: '-12.165994265140533'
+        yaw: '-23.4000244140625'
+        pitch: '-8.100019454956055'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '54':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: AxelTWC
+    uuid: 5ed6359f-2125-49d4-b1bf-a0e3481c3629
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '394.18955178638726'
+        y: '-87787.39999928352'
+        z: '-11.770143998679211'
+        yaw: '-37.35064697265625'
+        pitch: '13.95000171661377'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '53':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: 4681faa8-f112-4c87-89e0-1fa771458d4b
+    traits:
+      spawned: true
+      equipment:
+        hand:
+          type: GOLD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: GOLD_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: GOLD_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: GOLD_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: GOLD_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      inventory:
+        '0':
+          type: GOLD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      location:
+        world: ASkyBlock
+        x: '395.2914285615977'
+        y: '-86375.99999930405'
+        z: '-12.337193585096863'
+        yaw: '332.099853515625'
+        pitch: '-2.249979019165039'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,equipment,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '52':
+    name: joe
+    uuid: 55ccee1d-d5e3-4781-909a-94d40635c2e5
+    traits:
+      spawned: true
+      type: Zombie
+      equipment:
+        hand:
+          type: RED_ROSE
+          amount: 1
+          durability: 0
+          mdata: 0
+      location:
+        world: ASkyBlock
+        x: '429.1463027454567'
+        y: '8.0'
+        z: '-1.9777914079345238'
+        yaw: '356.2502746582031'
+        pitch: '0.0'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: owner,equipment,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '51':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: 6858310a-da74-4837-bdb4-d14e7e5d734b
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '411.69999998807907'
+        y: '-89081.99999926468'
+        z: '-3.699999988079071'
+        yaw: '192.15025329589844'
+        pitch: '57.14996337890625'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '50':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: 40f3913a-b8c6-4d3b-8bbb-75015004a51a
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '411.23080138703267'
+        y: '-89823.99999925388'
+        z: '1.5914919365928544'
+        yaw: '0.6002697348594666'
+        pitch: '28.64997100830078'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '56':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+      protected-leash: false
+    name: fluffy_chicken73
+    uuid: 3dbabd9b-e9f6-4dcc-9a38-1cc4b19a38c6
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '818.9414196357968'
+        y: '1.0'
+        z: '-426.2298371090809'
+        yaw: '4.6219482421875'
+        pitch: '44.6999626159668'
+      spawned: true
+      speech: chat
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: speech,inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '65':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: f74e209b-7584-41a7-845e-a71718bb5009
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '1001.300000011921'
+        y: '-1277128.8376469302'
+        z: '-311.30000001192093'
+        yaw: '-36.479736328125'
+        pitch: '85.80004119873047'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '64':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: fae2e198-9fc8-4abe-a4ee-0cef1fc064c0
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '1049.4001172170788'
+        y: '-1272814.558599411'
+        z: '-362.4588694603777'
+        yaw: '-63.328857421875'
+        pitch: '89.25'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '63':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: f57400b1-f761-45de-85d3-d3cda1d082ae
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '936.5378588801594'
+        y: '-1190615.8872981926'
+        z: '-540.3000000119209'
+        yaw: '-190.8284912109375'
+        pitch: '82.65005493164062'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '61':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: cd730440-ac01-4f1d-a8b8-555a9c87cbb1
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '886.5045862366097'
+        y: '1.0'
+        z: '-500.30000001192093'
+        yaw: '-221.42750549316406'
+        pitch: '33.45001220703125'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '60':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: 4fe07eee-b337-493b-89e9-71e38f49d52b
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '1072.300000011921'
+        y: '-1171803.6982520043'
+        z: '-420.69999998807907'
+        yaw: '-104.72760009765625'
+        pitch: '89.55000305175781'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '59':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: c8d5c11f-6da5-4f5f-8c08-3745fafb0965
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '1062.5537624588787'
+        y: '-1214342.3754359684'
+        z: '-504.69999998807907'
+        yaw: '-162.47698974609375'
+        pitch: '90.0'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '58':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: 57f3f7f2-6e4a-43a9-bf6c-cb3596ac907c
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '1062.300000011921'
+        y: '-1214445.2431316185'
+        z: '-504.30000001192093'
+        yaw: '-131.72756958007812'
+        pitch: '90.0'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '57':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: a82d86b6-125c-45d1-ad4d-ebfff59efb74
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '1048.6196633089749'
+        y: '-1273397.0283608967'
+        z: '-357.30000001192093'
+        yaw: '-42.77753829956055'
+        pitch: '90.0'
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '68':
+    name: type-- zombie
+    uuid: 32c24418-3e9c-492b-9220-06bd8fdd489d
+    traits:
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '406.8387828972873'
+        y: '-17514.000000028653'
+        z: '1.1030667573284414'
+        yaw: '146.4001922607422'
+        pitch: '18.89997100830078'
+      spawned: true
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '69':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgzMzAsInByb2ZpbGVJZCI6IjBhODNiNDg3OWFjYzRjMjM5ZDgyM2RjMDA0ZjkzNGRkIiwicHJvZmlsZU5hbWUiOiJCcm96emllc3QiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjYzg4MzMzNzEyY2JlY2UxN2JlNjM1NzIwNzg2Yjg3ZDZmYTc5M2Y1MDE2Mjg2NDY0M2ZkNmZjY2JiYiJ9fX0=
+      cached-skin-uuid-name: brozziest
+      cached-skin-uuid: 0a83b487-9acc-4c23-9d82-3dc004f934dd
+      player-skin-name: brozziest
+      player-skin-signature: jASGGg7J3/iBwb+dAstDV/IG0nXyUDWnJifp2pwv9yHTF+t5q3ctp8//qTs4f+GDRg/JgfH7vTH2PHHuxoFL57nFsrRGKhEtrSlFAQilEADO+ckcfz5hHTGeoTfX09BPQOx7Vmw+ngU6zwtOfDgpbUAnLIM8SM9FLMwqR51ShTwRCf1TbLn0Dq+Y+Ldgxa1kubTenuOPaLbkuu6N2L9b5uEwni2Nr45Hjxnt5AgNBaPiQScTCLssdMHJHsBhTD8conQqCziVqz0ZCvPyrcQK5730cF1+Zm9onQ8dXMgVIDxqGnSqG3fU6Q6sgPon8ts/cP2pvKEUKtjIG2C6h1rEfsAbH/Jmgosk5VRe/XfiB6fKQe/6gdxdqonA0L0qC4SLFwrKbtSniBpV62j/wcneKrWIQJxcBjR4I+j51TyKuOtoGeXNMwtxZFhbOihl20OcAzfuLIo3BgKtjNFkDPD9Ieu4VaKr4BlVvGs7I7UP2G3ii+Dg1pC2MeHdzw2L0F0MRrZCYRkhSxz+N9Q/NqwRu4RJnLG2xjdOLgUYaGo0oGiONPi3HyeolVyTEi/8vT/rIwwngYZZXRlPmTrp61CQjOoq2+aKPDh3qiED9f7iGc6J0bR/kkwzWLX/iYZXngivUlH/1ttaqkbgvwVDHHFumPza6C+hdtswkeam1tuE4pI=
+    name: Dancetaface1991
+    uuid: f7c2a4ae-d46a-42ff-9a76-68da6a5eb0e8
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '925.4097116571504'
+        y: '34.5'
+        z: '-432.3590504838543'
+        yaw: '-2.1433944702148438'
+        pitch: '-48.83460235595703'
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: Dancetaface1991
+        uuid: 5be9c7b2-921a-3213-9898-f468758957ea
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '72':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjY2MDIsInByb2ZpbGVJZCI6IjhiNzdjY2E4M2YyNzRiNjFhMDQxYWNjNzM3NWU0ZThmIiwicHJvZmlsZU5hbWUiOiJNZWV0dXAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjM2I4NGU1OTg4MGI5ZTgxMmQ2NjdjMDllYmEyZGNiNTQ4OTY2YTNlMGI2NzYxZjIxNjA3ZWE1MzNhMTEifX19
+      cached-skin-uuid-name: meetup
+      cached-skin-uuid: 8b77cca8-3f27-4b61-a041-acc7375e4e8f
+      player-skin-signature: yaB+L1lkgybcTBchI+n53/O2nOmgbX2MO4EsrZQfiSdB8L/C6wuV0lJsHXh/eDk5oKzAuV/X8seLJx1kEdGPwqpUFUUOOVff0tFpNOQvY+A1Y7nfE4MowbDcLs5R/lKDLAH9yZhMPnSW7JOJam4S8LTans9TLGG2x9quYOLqNVzQ1IecHiLUsjc2BmaTWsto2k/YYR/F+TMOYvdVTtWZYUhbg0ZyewlfhDOyJI6MpiJ8qDUKEaJ/w8VWFKOekesaQMonwEBSr31QiiqfJ52IgoNhfM28PaFs46umsCZA0ngueZ9hByE6wDJh5KYNCS6dpmw6QzGaoyzTuTufDdpbzK2JKfpvFrIy3jAl9Qvq5/fhPprrLhlgG0ey5c14mZtk5zCh7wN+xmw6ZtpvHo5kAUsoEH+UAAR+ML183rPg25y1AaZAFp7SQDtd3LC6I4a4egrac5huHyrpKP4s7cR9QSyZLYTbu7qY7pxPI4RxjBYxIK9WrMNhXD+Ecrl5Felam7kp0Jf+JVfkpPwKxidZeUwPI6aizFbFpxlE+BeaURELl66yTKOdC8SuP7or7jJ8BPygQbkURgy0smUOQXQta+csFzE/9hGYkIVwISWFPR57rTPPx9/cwtls78kmx61JISgS/NszPKHGHy/V6MfRVoIRcO5doo53SxCkMpseAq0=
+    name: meetup
+    uuid: 44495801-105c-4c85-9275-e8551cc4b248
+    traits:
+      spawned: true
+      location:
+        world: MainLobby
+        x: '35.69999998807907'
+        y: '79.0'
+        z: '493.69999998807907'
+        yaw: '-221.50173950195312'
+        pitch: '5.658087730407715'
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '71':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjY2MDIsInByb2ZpbGVJZCI6IjhiNzdjY2E4M2YyNzRiNjFhMDQxYWNjNzM3NWU0ZThmIiwicHJvZmlsZU5hbWUiOiJNZWV0dXAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjM2I4NGU1OTg4MGI5ZTgxMmQ2NjdjMDllYmEyZGNiNTQ4OTY2YTNlMGI2NzYxZjIxNjA3ZWE1MzNhMTEifX19
+      cached-skin-uuid-name: meetup
+      cached-skin-uuid: 8b77cca8-3f27-4b61-a041-acc7375e4e8f
+      player-skin-signature: yaB+L1lkgybcTBchI+n53/O2nOmgbX2MO4EsrZQfiSdB8L/C6wuV0lJsHXh/eDk5oKzAuV/X8seLJx1kEdGPwqpUFUUOOVff0tFpNOQvY+A1Y7nfE4MowbDcLs5R/lKDLAH9yZhMPnSW7JOJam4S8LTans9TLGG2x9quYOLqNVzQ1IecHiLUsjc2BmaTWsto2k/YYR/F+TMOYvdVTtWZYUhbg0ZyewlfhDOyJI6MpiJ8qDUKEaJ/w8VWFKOekesaQMonwEBSr31QiiqfJ52IgoNhfM28PaFs46umsCZA0ngueZ9hByE6wDJh5KYNCS6dpmw6QzGaoyzTuTufDdpbzK2JKfpvFrIy3jAl9Qvq5/fhPprrLhlgG0ey5c14mZtk5zCh7wN+xmw6ZtpvHo5kAUsoEH+UAAR+ML183rPg25y1AaZAFp7SQDtd3LC6I4a4egrac5huHyrpKP4s7cR9QSyZLYTbu7qY7pxPI4RxjBYxIK9WrMNhXD+Ecrl5Felam7kp0Jf+JVfkpPwKxidZeUwPI6aizFbFpxlE+BeaURELl66yTKOdC8SuP7or7jJ8BPygQbkURgy0smUOQXQta+csFzE/9hGYkIVwISWFPR57rTPPx9/cwtls78kmx61JISgS/NszPKHGHy/V6MfRVoIRcO5doo53SxCkMpseAq0=
+    name: meetup
+    uuid: 8e70cc8f-49a2-4744-a8a4-96757440d2ea
+    traits:
+      spawned: true
+      location:
+        world: MainLobby
+        x: '35.69999998807907'
+        y: '79.0'
+        z: '485.30000001192093'
+        yaw: '-319.22662353515625'
+        pitch: '18.728673934936523'
+      inventory: {}
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '73':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: AxelTWC
+    uuid: 6eabf23c-5f1a-44b1-8359-09b162fe4267
+    traits:
+      spawned: true
+      location:
+        world: MainLobby
+        x: '82.74428637075482'
+        y: '4.0'
+        z: '-650.2557136292452'
+        yaw: '-165.51458740234375'
+        pitch: '0.0'
+      inventory: {}
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: St00tSDaPVPnoob_
+        uuid: c5ad705e-7287-4506-8ce0-0ff6a54afb90
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '5.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '74':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: 2c10b8bc-4229-436f-ba4d-893a959543df
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '925.4300200729939'
+        y: '34.5'
+        z: '-397.49898575420326'
+        yaw: '-178.04107666015625'
+        pitch: '-39.54425811767578'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '82':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: AxelTWC
+    uuid: 083dfb4a-cc5a-4c24-bdb7-af1dbe3b9db6
+    traits:
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '427.028367292805'
+        y: '-13921.600000015585'
+        z: '-18.57471802765707'
+        yaw: '17.6981201171875'
+        pitch: '-9.15006160736084'
+      spawned: true
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '81':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgxMjIsInByb2ZpbGVJZCI6ImQ2NjRmNGI0ZDY4ODRkMjg5ZmJkM2Q1OGVmMjg0NGI0IiwicHJvZmlsZU5hbWUiOiJCb2IiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ViYzViYzUwNjUzMmE1YzEyZWQ4MjJlYThkZGU2YzEyYmU0M2JhOTQ3OTRmYjU1Yjk3NjdhYzM5ZDE5ZTYifX19
+      cached-skin-uuid-name: bob
+      cached-skin-uuid: d664f4b4-d688-4d28-9fbd-3d58ef2844b4
+      player-skin-signature: VzpX7tO6HVe/ykOkiUz+oUcJPCq6qxyZ98YphVqseWtMVHG8gYFa4FLAS18fITfDSLCLz83ymI8aDCGMeF4JLk0XdjCBJkM43E2f3uROIir+1NZ+qPegWRnvTrGd34P3fiFaa6lLdxALjRri0QKXukI2xuEP92wFT2dodzJ8d7t1h0z0Fl4ZLq9SMohAhGIkkQWu/gNhAwaZvCxaAq1j4o0dQ5CZS1N5gBwtS5DJLKSreiE0w66q9I7MmcCalyizDaMYEk0UoySZJWCapwhtgIG1ZJfsd6iFcBuRkloHxSHNQvPJ0E8fwCNUUa6h6iHdGLlabK+Ko3XXgKiCt99yUy8aTWhMtpyIkr46ny0OmJS2eAoVIlR7nvQ7abFcHVkHccuvRwUNsNMfK2pSvRE9KOYUSzYyuyZCDG7fhO6DFNkjRnuqqPWC0rCf0LGRwnwL17SFpn6fkwHKxiuOVL1g+ZinWeX1Q6zHV1WcbqlhsGXPppLyQmbwFjj+w6pB+vZJGIWY/clFN3MdxJJQGqTFPgi/QYwqUUKX8DZIROmoSISGovytigaOFk/GUogK8wKqB1EyWqF6N2KifIh1q/JJsMgoWecTRcfLYHhXBRSAhN0dWH2Ys/RhsqRYySOm57r9UOaGvesD8skX1rsT8d1GR9jq7PT7Wo3aFhgEzuX00PE=
+    name: bob
+    uuid: d06e0c42-7eab-4303-a0cc-64e1d8d5e6fa
+    traits:
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '428.06952216691826'
+        y: '-13907.800000015535'
+        z: '-18.073541189363546'
+        yaw: '23.09881591796875'
+        pitch: '-0.7500677108764648'
+      spawned: true
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '84':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: b0f43663-47ce-4f42-aafa-f4f3df57eac0
+    traits:
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '403.8064754902872'
+        y: '-5972.199999996761'
+        z: '-12.222447143586768'
+        yaw: '26.999893188476562'
+        pitch: '6.599950313568115'
+      spawned: true
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '83':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: d526485e-7a7b-4394-8678-40bb4c2185cd
+    traits:
+      inventory: {}
+      location:
+        world: ASkyBlock
+        x: '411.4325852047906'
+        y: '-6066.199999996676'
+        z: '-0.19074952477442364'
+        yaw: '181.50018310546875'
+        pitch: '0.30000653862953186'
+      spawned: true
+      owner:
+        owner: fluffy_chicken73
+        uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '85':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjY5NDksInByb2ZpbGVJZCI6IjYyMGYwZWI0OTc2ZjRiYjBhZGEzMTRlMmQxYmFkZmFkIiwicHJvZmlsZU5hbWUiOiJFdmVuaXR5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNTVjYTJiNjEzNGQzMWJlNTBkNzIyOTg4NjYyZDFhYTRkYTI3MTg4M2U1NjFjMGI0YmRjZWE0M2U5Mzg2In19fQ==
+      cached-skin-uuid-name: evenity
+      cached-skin-uuid: 620f0eb4-976f-4bb0-ada3-14e2d1badfad
+      player-skin-signature: G6lZEPrKe0RDUVdJMh9CDCpeEdIvvuDU5SUX5PkieAVZFYwxXbcQGFIMGxMIz70srw+aPAi4bXU3698OEQm1Gyi32ahaikq2Kr+Ere/8qT+t9I2VV26V5oesK80NUYkX9CeElWYo3UZ4EVQWxnuER554SUhFrh8WbZH/do5b9SlVCUP5SbvHA3dDfohE7YimlPw4/tQNDrCGW3JC/o56YS8R83ki9lwI+kN4Z1GpY/GWE2anpnW9XkuzuLMDTBSSyLXVyRUKeVIa1uUyPhXEL12SU2PTZHmz26Hrp+tnRSNFQibY8sLt/ZF+jvffthJc1dzx98IN+p30ndAq1b0V8M8Vni28fKDA36GqTUs7Km75Jq6kC7/NUZ4o+xivtQq2JCyzRdVWCbCOYcBXPWZnOfLYUScIrzYMqqQXBoW0jo+O+jPUwYlc+e38T6im9B88pGHFFtm0lT5NhopZ2kU5Hr97CoR3LmJMMs27c/c2I1gmW3dZCyptdxRXKCBXrxba9SNvHNKlYKuLDqTq9dzaLat1e6q74dbNG32BnISS7qDz0HOFUQpaWeuoMDCJPVMlwKIVzuRvnG15pKY8SD5HYY1+euuQcTMSviGQH+clHV2YJX49Hnkc8bZjIQ75YDrgIKILBF6SZ126fAeAhgychFX35BTpkc1cLVMkcVrzQ/w=
+    name: Evenity
+    uuid: e0ce1386-8c4f-4e6a-a490-7bd22f16579a
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '960.6644680079025'
+        y: '34.5'
+        z: '-397.30028938961954'
+        yaw: '-36.0992431640625'
+        pitch: '8.554811477661133'
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '92':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: fluffy_chicken73
+    uuid: 6730e3b8-c37b-4810-83ea-e4d49eaba0d6
+    traits:
+      location:
+        world: LionHUB
+        x: '1406.5338099651'
+        y: '5.0'
+        z: '727.3021232585888'
+        yaw: '-1.2445913553237915'
+        pitch: '14.378851890563965'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: marcos1739
+        uuid: 66527c7a-ce2a-3418-be88-7b576793f109
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '95':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjYwNjIsInByb2ZpbGVJZCI6ImM1YWQ3MDVlNzI4NzQ1MDY4Y2UwMGZmNmE1NGFmYjkwIiwicHJvZmlsZU5hbWUiOiJTdG8wdFMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1MGRmZWU4ZTU1NDkzZTdmYWNlNjgxODhlY2MyNzcxNDQ4YmNmYzJmMDUzZGUzNjk2YjM5Y2NlMzM2NDkifX19
+      cached-skin-uuid-name: sto0ts
+      cached-skin-uuid: c5ad705e-7287-4506-8ce0-0ff6a54afb90
+      player-skin-signature: aIug9Cjq9RIJBtrXNEgptNIA3n1/0/1cL4yTjhh9oxFzlW8diKfWukhZfywjd9X1+0K+n1HiLQ9Erd8a2L/yZAbsgXXCqT4MhisoJqmwvAWmpnCrf+xm9Rw1aP9I2Vdhboaw3ghgeITRMVINycU9cJDmggnzz0tE4QsLbCGRDm4rVX7td5rhz4Mx1jec9wxLzPYA0jyN7bf6hE2kBDb0P1nJQZadGqrMGnInYpo8jYul5dNKclfSc38enpOUSt/BJJFTHK8QP7Mc19Z+0QFx3vdR8lSErX84DVImzqKvcog72bBQ8A4Ll4/zYdgqfGyUza4issAFreaMp2oK5hQqOL8nNuCWAFhdOJBVC4wQgQyYZC7JsyUnBD+y6tsX9vNOq0IhIr5ahg2EmMpkzdV+Y1wB+DdhsY/ftcbnXd4OhZ+906p/fCsDGTWgXh29D/O2XtK+uw/dv8WEN1isZ2fduKWJZZUkmrCT9CPalMMHdUOQ8cwEStxnyYi5WYRhSHLq19S5DznEz8txSDu+knVi3FSfCYZMVNGCd8sF2tJOXk/SmzKL3x6dO/Dz/8SF4nsDr7jUNo0lDXc8VUoPBEw9pnSeSJ7y8ExgbtX0Fvj7m0AAphjZENX5Sl3Ys+98gIoqqyIvK5Mr3cI5affjoEGsPi0ernnT4s+wdARndrmi1os=
+    name: Sto0ts
+    uuid: cc83f3b6-07ea-41e3-bb36-060f3aa61187
+    traits:
+      inventory: {}
+      text:
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Im lame kms ty
+      spawned: true
+      location:
+        world: LionHUB
+        x: '1407.49376495898'
+        y: '5.0'
+        z: '727.5353967130322'
+        yaw: '-358.9560546875'
+        pitch: '0.7194061279296875'
+      speech: chat
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: speech,inventory,owner,text,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '101':
+    metadata:
+      cached-skin-uuid: 5bcae9e3-2920-45ee-b066-4744175d29fe
+      player-skin-name: alien
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjUyNzAsInByb2ZpbGVJZCI6IjViY2FlOWUzMjkyMDQ1ZWViMDY2NDc0NDE3NWQyOWZlIiwicHJvZmlsZU5hbWUiOiJBbGllbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RjZDRkNDc0NWE0NDYzNWU4NGY1Mzk2YTE0N2UwNzczNzIyNjZmMmY1NjkxMWRhNTZmYzk4MDEyMjNmYTE2IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      player-skin-signature: EuEMlGRMcX96IJ+O6+j0fnXCeAe+WVcyWZE2j8eDSQZ+XgDpSxXD2UDg4G84y0t7apq1q0ymT8KlKH/heXorIp4C79pjPcp8WY5Vn9UdRSXiLO7MkwvOUtWpST20wmN042+MQd5erh2Rw/VbbTjfX9qfsk+jKlKoVufcjlRmexD3O9tIzFwQ1fAO1ZCXGoyWyyYgVxhRqO+ykTBtHs/TnLnDDdYtO/MuKULCQh6+gS4Co6r/yrvR4hjBZde/yp8QzWWcGYJuFluwjrs2i2dcPkGRzDksO6SDkCz1k68368HEiJbAuTnlXTh4egf8uiPWY23EZzvvhy5NbSpSggsZvvcZX7QPq1T7QY1bdJC4uO0F+ENbwnbpHBOJI5mXmsubJ+7YNSuIIc30WNhn3oDVYs1h4ulnOCG2ei9IFIgsbjn0H2NAj9pJKdV2eaSNXbVuOf6H5NRQaO6REgHXneOXZzpl9wc0Kk3Ko2sX7PWEdcsZQYC4aA+m54mPMrS0OXuIMkugd2cbcGrmUsgpFEZT4DVqyGEib9iWjmCCnpgRQfdbv+mZvI5+UPpevuICSPpfNdl/QHWXgFvxtlmQ6j2jg6F54pWNhOM3ASxFpnQMwtdkwp9YcPcy/R9xZ5NRfm0sOBjdN7sJ9JiZmGskYTuQ8vne31b803PYHD/GpyAyCpI=
+      cached-skin-uuid-name: alien
+    name: §6Discord
+    uuid: 12f7b24f-be46-41e4-91f8-e20ff67245d0
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: LionHUB
+        x: '750.372130765389'
+        y: '10.0'
+        z: '3612.343027466711'
+        yaw: '24.029403686523438'
+        pitch: '-4.561629295349121'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '100':
+    metadata:
+      cached-skin-uuid: 5bcae9e3-2920-45ee-b066-4744175d29fe
+      player-skin-name: alien
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjUyNzAsInByb2ZpbGVJZCI6IjViY2FlOWUzMjkyMDQ1ZWViMDY2NDc0NDE3NWQyOWZlIiwicHJvZmlsZU5hbWUiOiJBbGllbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RjZDRkNDc0NWE0NDYzNWU4NGY1Mzk2YTE0N2UwNzczNzIyNjZmMmY1NjkxMWRhNTZmYzk4MDEyMjNmYTE2IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      player-skin-signature: EuEMlGRMcX96IJ+O6+j0fnXCeAe+WVcyWZE2j8eDSQZ+XgDpSxXD2UDg4G84y0t7apq1q0ymT8KlKH/heXorIp4C79pjPcp8WY5Vn9UdRSXiLO7MkwvOUtWpST20wmN042+MQd5erh2Rw/VbbTjfX9qfsk+jKlKoVufcjlRmexD3O9tIzFwQ1fAO1ZCXGoyWyyYgVxhRqO+ykTBtHs/TnLnDDdYtO/MuKULCQh6+gS4Co6r/yrvR4hjBZde/yp8QzWWcGYJuFluwjrs2i2dcPkGRzDksO6SDkCz1k68368HEiJbAuTnlXTh4egf8uiPWY23EZzvvhy5NbSpSggsZvvcZX7QPq1T7QY1bdJC4uO0F+ENbwnbpHBOJI5mXmsubJ+7YNSuIIc30WNhn3oDVYs1h4ulnOCG2ei9IFIgsbjn0H2NAj9pJKdV2eaSNXbVuOf6H5NRQaO6REgHXneOXZzpl9wc0Kk3Ko2sX7PWEdcsZQYC4aA+m54mPMrS0OXuIMkugd2cbcGrmUsgpFEZT4DVqyGEib9iWjmCCnpgRQfdbv+mZvI5+UPpevuICSPpfNdl/QHWXgFvxtlmQ6j2jg6F54pWNhOM3ASxFpnQMwtdkwp9YcPcy/R9xZ5NRfm0sOBjdN7sJ9JiZmGskYTuQ8vne31b803PYHD/GpyAyCpI=
+      cached-skin-uuid-name: alien
+    name: §6Discord
+    uuid: 825c5932-e929-485a-b73c-aa2e25d9de11
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: LionHUB
+        x: '934.3000000119209'
+        y: '37.0'
+        z: '-406.30000001192093'
+        yaw: '137.53756713867188'
+        pitch: '-32.49680709838867'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '96':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjUwNTcsInByb2ZpbGVJZCI6IjFjY2VmNTBiZjZhZTQ1NDJiMWE5ZDQzNDM4NGE1YjI1IiwicHJvZmlsZU5hbWUiOiJKZWZmIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYTczMmEyYTY0MzhhMzE3ZDI5OWMzZmJlODNkMmM4YTVmZjQxNTYzNGQxNmJiMTNmYjM2NTQxZTZmZjM2YiJ9LCJDQVBFIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZkNjFjM2M0YWM4OGYxYTM0NjhmYmRlZWY0NWNlYzg5ZTVhZmI4N2I5N2ExYTg0NWJmYjNjNjRmZDBiODgzIn19fQ==
+      cached-skin-uuid-name: jeff
+      cached-skin-uuid: 1ccef50b-f6ae-4542-b1a9-d434384a5b25
+      player-skin-name: jeff
+      player-skin-signature: TevyLIaa+YXFeivQnaBafopKP+bviEpvl4XrpZ/BQ43W3YehLQbytCz8ucjlxUKYjasyb+jIDP0wUNMTSPI3s6MeI7dsDK+rPDUnFOxgDH/5Rjnsuu5S480C0gsIPu/yAbkhe0pxH+1LdUAYk6t3VPgmJmvJjbomc+A1ItIl52pRStxoBr4KXN05MR/YYF3sHWcQj8elIRqY5B4HGKftSCAAx2PHlBmquIswXYrH8s1o+60qkarW3MSyEg+kr18D59P68S0M0n0gpcGSnYPDWZc5Vlw9EtHskG1U0AIR6IRDenBBqhxDN8S46KAvX42h/EtaAeY0INzCG2YW6leHQKhLEk3w/0kJphi8HD9UUeEySEhBoE0njeKExr+Q7+3i7TIKlwxSZ8MYd4E2SCrjmaAywBBrG9OiDYH5kGNcrTI6jxzJ4SgidbTaqm73+FGQQUmV4OoJJmr386oSo4Hk7iJSGGO+JcKZqgzmrZf6B6MkL2RFMno5ZcfoHTcQdHMZ6Usfb7x8t6B/187snHNeWEAZWS+pGI4IfZiIvRV3+wEy9o2/DrAtUm8nv+H9mv/leJkpvKwK2U1fDpMO7zALtHPyQt3/VfdDtsCC/cpMSs/Jr8+2qzbrdq1prjMcmS0OfwYqaujOA18DwRVzhdAsSHJ3aSRJbr0ztYHKdcwtV3U=
+    name: §6Vote
+    uuid: 1d32cb54-b22d-4f69-bbd2-d4e3b6351f21
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: newhub
+        x: '-1111.4621676639438'
+        y: '10.0'
+        z: '660.4818954712274'
+        yaw: '-224.7838134765625'
+        pitch: '1.0752601623535156'
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '106':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-name: axeltwc
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: §2Shop
+    uuid: 522a4b4a-4f8e-4d48-933d-49ac490d96e9
+    traits:
+      inventory: {}
+      location:
+        world: map
+        x: '-986.2933580028293'
+        y: '86.0'
+        z: '278.57371976138734'
+        yaw: '30.30846405029297'
+        pitch: '12.847101211547852'
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '105':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjUwNTcsInByb2ZpbGVJZCI6IjFjY2VmNTBiZjZhZTQ1NDJiMWE5ZDQzNDM4NGE1YjI1IiwicHJvZmlsZU5hbWUiOiJKZWZmIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYTczMmEyYTY0MzhhMzE3ZDI5OWMzZmJlODNkMmM4YTVmZjQxNTYzNGQxNmJiMTNmYjM2NTQxZTZmZjM2YiJ9LCJDQVBFIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZkNjFjM2M0YWM4OGYxYTM0NjhmYmRlZWY0NWNlYzg5ZTVhZmI4N2I5N2ExYTg0NWJmYjNjNjRmZDBiODgzIn19fQ==
+      cached-skin-uuid-name: jeff
+      cached-skin-uuid: 1ccef50b-f6ae-4542-b1a9-d434384a5b25
+      player-skin-name: jeff
+      player-skin-signature: TevyLIaa+YXFeivQnaBafopKP+bviEpvl4XrpZ/BQ43W3YehLQbytCz8ucjlxUKYjasyb+jIDP0wUNMTSPI3s6MeI7dsDK+rPDUnFOxgDH/5Rjnsuu5S480C0gsIPu/yAbkhe0pxH+1LdUAYk6t3VPgmJmvJjbomc+A1ItIl52pRStxoBr4KXN05MR/YYF3sHWcQj8elIRqY5B4HGKftSCAAx2PHlBmquIswXYrH8s1o+60qkarW3MSyEg+kr18D59P68S0M0n0gpcGSnYPDWZc5Vlw9EtHskG1U0AIR6IRDenBBqhxDN8S46KAvX42h/EtaAeY0INzCG2YW6leHQKhLEk3w/0kJphi8HD9UUeEySEhBoE0njeKExr+Q7+3i7TIKlwxSZ8MYd4E2SCrjmaAywBBrG9OiDYH5kGNcrTI6jxzJ4SgidbTaqm73+FGQQUmV4OoJJmr386oSo4Hk7iJSGGO+JcKZqgzmrZf6B6MkL2RFMno5ZcfoHTcQdHMZ6Usfb7x8t6B/187snHNeWEAZWS+pGI4IfZiIvRV3+wEy9o2/DrAtUm8nv+H9mv/leJkpvKwK2U1fDpMO7zALtHPyQt3/VfdDtsCC/cpMSs/Jr8+2qzbrdq1prjMcmS0OfwYqaujOA18DwRVzhdAsSHJ3aSRJbr0ztYHKdcwtV3U=
+    name: §cVote
+    uuid: c90bc184-c49f-4095-8fc7-10928fa6a8ae
+    traits:
+      inventory: {}
+      speech: chat
+      location:
+        world: LionHUB
+        x: '750.4175112498325'
+        y: '10.0'
+        z: '3604.602110234031'
+        yaw: '29.288467407226562'
+        pitch: '-9.335234642028809'
+      spawned: true
+      text:
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '1.0'
+        talkitem: default
+        text:
+          '0': '&2Hey there,support us by voting!The more you vote,the more you can
+            experience a better gameplay!'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: speech,inventory,lookclose,owner,text,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '114':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczNDc1MzgsInByb2ZpbGVJZCI6IjczZjU3ZWRkYjEyMDQ2ODlhZWM1MTFiNTc0OGZjYmYzIiwicHJvZmlsZU5hbWUiOiJXQVJSSU9SX0xJTktFUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjlkOWU5Njk3MjY3NmE2Y2Q4ZjI3MWZmZjZmM2RlMjY0MTY5MWY2NGY5MWYxZDdiOGIwNWU0NDdhYTBkZDYifX19
+      cached-skin-uuid-name: warrior_linker
+      cached-skin-uuid: 73f57edd-b120-4689-aec5-11b5748fcbf3
+      player-skin-name: warrior_linker
+      player-skin-signature: Dc0cg7r1/x12Lt2NJ5UOtYCRRYAij5cN7vL3O+ciliYOicREOHdJHery8JE3cpvJQYibx4oCIi3/lgI5TJSxp+Kvz77woc6zrR+UsVWk9qCmzFpmF3Wo6dWgyswR0b1xwMpDRjfSteo3lhASZQzeRBkytGzlRKf5eNnRzklTvtAbU2pOqHvfSTEOG5dfCXGf6VTBqqGxFAgdtFO7Br5dd3TET92UTUlXmAj+unOt9kf5IgRHj2mQEAsRh9djqYh5tGW01x+4RdAM/hmQioYe+AUX34o8J3siNU+MS17DTds6cfKa6R7G1iVwaIUQ3A5fJkoyjj8rAMg0rzyoVqsTC2wyhQDZvPcgXWELy6Il9IpFhsHWOaPJvjMq4mB64FLgV5+p5UzynElbunqmoRHqpoDqmJZekeY9Vmx7yD3Y4yHHzqTNLYabxWgDqPD1trjC6Mpebt8zZ94w7l77Vt9Hgg8DISlxZA0/qiWSBSSKuF9f+mBtGt31n0piNkFz7mAlc/GmdnWLEVar+sEBiqRknwuVli4B+C9p/ugNkbKg5JpZESuBRILufx5Z3PK5emZwZud09m08zmUbba8trEVakWZYW+F9EPpfFq/OfDdVe8GqboIKIcS6TitddoThQaWXLlxl9Zlxhigfsvrcpt4X2oyjcz4ldfnIbJsXebcX2JE=
+    name: §eKIT SELECTOR
+    uuid: 61300385-b0cc-439f-8186-626887983c54
+    traits:
+      spawned: true
+      location:
+        world: map
+        x: '-990.5323337294716'
+        y: '84.0'
+        z: '293.55519963780944'
+        yaw: '-7.435997009277344'
+        pitch: '-10.164155960083008'
+      inventory: {}
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '162':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjU2MDMsInByb2ZpbGVJZCI6IjEzMDJkYzQ5MDRjYTRhMzE4OTJhOWRiNmMyZjVkMjg3IiwicHJvZmlsZU5hbWUiOiJUaGVPZmZpY2lhbEZpcmUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmZDZkMzhjNDIxOTVhNjcyYmJlYzk1NjRjMzU2ZDcxYzRmZDIyMzY2YjU5OWFlZGRlYjJkZjVkNTZjYjkifX19
+      cached-skin-uuid-name: theofficialfire
+      cached-skin-uuid: 1302dc49-04ca-4a31-892a-9db6c2f5d287
+      player-skin-signature: sXMhTP24t7EDQJ8rfWZW5espYUKdR/U/30bpnNymc5LciPgKysE90lEuOyOE00ZSAo4Wvcp15iSyTpY1PI4KcbWNYvn3BPEx9K3piHTcQOEVoFDJkxTKIeINBy/sFvsuapov9hVc3XXQGphTzCnEx5cvyj9EaMOa6+IEh/DF0DPps4fZGy70+AT9ih3Z44VVUR1W+O05iFA1ETlqVOjjGDk1o8uPVeOoDtkN6ZhLTLGRgy7sHQDMa8MOvrwPrSBrlxr2S7945gh+BbffpI2l/JCNGhLr0aIn/CgU1QAS812JNkLEqV0Scz6veWyrDSknTmFv0ABrtcGb+37ynhQwKKUfSRjZeRYFMss7t8XgHWtTTGoyWJv34rTR5kjlN0SwLEVIxW+IvnR3RQS3dEnm+v8rlB4Cpm66yqIeWI+R1NmBD7Js4DyiRWu6eI9lwrexYtdCpn8/J6T+TTeqPiWcKB3br52YBS1cTYpFduybjexH1/swSTf7JX+LoZG/cp1glAv3nCdN6ONi0vb5isyhif2wllZhcj+lz/gowQRB+Srd5YhvVOcF3d9Nsm8DH6AM9Vrj+O8tRX4KN5x+AmP4cLk1FAdJFaavUt+lqWjGqGB0syiWpNDR00D8Dz1WnyMpwhdpmEPtD0i56YnMBq95hQfG91j+fMiCudKgOmpqM+I=
+    name: TheOfficialFire
+    uuid: 5b07d361-0ea5-49fd-be21-a4c0c23894d1
+    traits:
+      location:
+        world: LionHUB
+        x: '756.8075576113587'
+        y: '3.0'
+        z: '3919.300000011921'
+        yaw: '-0.1845703125'
+        pitch: '2.740504503250122'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '160':
+    name: MaSikStudio
+    uuid: cbaa5c23-91c1-425c-a6f2-72a6f90ac44b
+    traits:
+      location:
+        world: LionHUB
+        x: '743.3761400250308'
+        y: '3.0'
+        z: '3934.5556506631133'
+        yaw: '-89.68438720703125'
+        pitch: '4.05420446395874'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjQ5NTUsInByb2ZpbGVJZCI6ImRmZGJjMTEyNDBhODRiNDdhM2Q2MzRlZDg4MTRmY2Q4IiwicHJvZmlsZU5hbWUiOiJNYVNpa1N0dWRpbyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ4NDE3MjkxMjE0NjExOGRmODhiYWNjYjliMGM2MmNlOTU3NDA5ZDFlYzkzZjZiYWI2MjM5ZmE2OWYwZDg1YSJ9fX0=
+      cached-skin-uuid-name: masikstudio
+      cached-skin-uuid: dfdbc112-40a8-4b47-a3d6-34ed8814fcd8
+      player-skin-signature: AlYHJYHaKNE8JkQMxP3Z+a+CLiuP2Bde+DsLyUkJ4jpjBGL8xyHyRWC/vYlEgBPKYlClOVL6S0ttZw1PhpNrkQEPA3OL7y8CiAzovJZBkWcQoSV1XHh2wKpWsH7yYAl63s7/OEecyyk06FByYyGYr0fM/v1UNUvsUvM5gidOj4LdH5j1PawxV6N2+n21M/bK1Wmz3zaIRsAvvRo9FW459BEfVngTiab3JlCFDT5Ghs2JyYRWOzFqheGMj2wuxYSEDAOqY6N6p7jNlmogDWb/+AHXzDPE6ZLJ+dsmxsrjv/aZD43jg25uwuIxsDXuY6u+qLEf+O6MwcMWfUPhFYBeOIo2fzNkL4FOSsCUyK1vDZhgYmvUlQoGzhgvHG1dJJpx7mjAfk/5tNvscibRxnBbhiYCxEOJS+eGZTis5ARWkabGM9nOs+4jstcVCcvlSRoEoxSvQiJzR+EU0Xom7vSzkado5tIXb9CsoOIMcv8n4vBGW6XlhProLI3ZY5h8fz6Lu7lL+8jmtzWVTPrnmLPi0HjLhxs5WBKMJ+XaE3h5WYaHahAuL0iOqrP2STPOgUfBu6yT0jbHcsbQyW1R/0G+DcTj9ueNJtcix00UYwy30kZDsGIP1qqGYUiOqVnlpSCQf4WEegCmBgLp3ne0zfc6SF1O9BjjvTrnNEHLG1thYS4=
+  '159':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjgwNjksInByb2ZpbGVJZCI6IjYwMjQ2ZWRmNWVmZDQyNTM5ZmU0ODQ2MDYwYmRiNWRiIiwicHJvZmlsZU5hbWUiOiJmbHVmZnlfY2hpY2tlbjczIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzEzN2VkYmRjNTViNDg3MmNjY2VkMjUzYzIyMmJjMTZlYTU2YmY4NDRiMTZjMzZjYmI5MjNiYWE3MmUxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: fluffy_chicken73
+      cached-skin-uuid: 60246edf-5efd-4253-9fe4-846060bdb5db
+      player-skin-signature: RtbrwWxt4qplhRksVOTe9tI0c6KVDfehDnepKV7p1biN2boootQ0HTC89NijeabhxpKs+eDzt9OCHs7eO+mI3QXNMPwuzSCzg/Gk4YmDNFBMxx7tH7vGxLGu1Z18XR8CQncrGCq9JDP+0jmsUv/AqTNDD+qyYs+wlTJXqI/GrfSZ4fbtLnWBbkklRbLfZ8gt8PCDwxkrXujxwm6AIqWx3SguUxd/ZpJ5iwICnb36iVEU/tIiY9t3d3fOfeeVxtWRy+Lgo+tY39Efq3Ywg/V8mmVYlQKr4BwQ/6YxSCZPxVSFQW2b5uKH6YnalVqIoUDJwvdnAajlbguBdfdzUeSKcDfvQ99rqmFkcxibqxAOaHa73TJYDHGGtJRVtkS1e9pSpten2CrgsG8KOKxC9picOnLbkl6CwVzdd17lnHTTQD6UO2DUBK+O2o1W6w/y2hhfbs3YrXcVSZVnaWG8X0KiOxe5tc9sMPxwCR9bIztKOAEvRiF+vXF6SNX2NmEaZUFp081zws5Ylc9nFK8p52hlkMZq6LyjfYUdKfDu2k0lm+RhlpIQHWivgLqSJ75/mnNcO4I+lUwounCH+xY86ibSHqpkFP6NDP+9Ekp+puZAZO4wIilIBhAWX0rJPqxHS9n5fja4+d1R1EA8EAYAPyAQ/OCCGuXVReT4oRiPiSLY7qE=
+    name: Fluffy_chicken73
+    uuid: b907d193-93c8-4fa1-88a3-b3ebd9b52c5a
+    traits:
+      location:
+        world: LionHUB
+        x: '743.533315302327'
+        y: '3.0'
+        z: '3932.5025246845926'
+        yaw: '-90.953857421875'
+        pitch: '3.878516674041748'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '157':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczNDc1MzgsInByb2ZpbGVJZCI6IjczZjU3ZWRkYjEyMDQ2ODlhZWM1MTFiNTc0OGZjYmYzIiwicHJvZmlsZU5hbWUiOiJXQVJSSU9SX0xJTktFUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjlkOWU5Njk3MjY3NmE2Y2Q4ZjI3MWZmZjZmM2RlMjY0MTY5MWY2NGY5MWYxZDdiOGIwNWU0NDdhYTBkZDYifX19
+      cached-skin-uuid-name: warrior_linker
+      cached-skin-uuid: 73f57edd-b120-4689-aec5-11b5748fcbf3
+      player-skin-signature: Dc0cg7r1/x12Lt2NJ5UOtYCRRYAij5cN7vL3O+ciliYOicREOHdJHery8JE3cpvJQYibx4oCIi3/lgI5TJSxp+Kvz77woc6zrR+UsVWk9qCmzFpmF3Wo6dWgyswR0b1xwMpDRjfSteo3lhASZQzeRBkytGzlRKf5eNnRzklTvtAbU2pOqHvfSTEOG5dfCXGf6VTBqqGxFAgdtFO7Br5dd3TET92UTUlXmAj+unOt9kf5IgRHj2mQEAsRh9djqYh5tGW01x+4RdAM/hmQioYe+AUX34o8J3siNU+MS17DTds6cfKa6R7G1iVwaIUQ3A5fJkoyjj8rAMg0rzyoVqsTC2wyhQDZvPcgXWELy6Il9IpFhsHWOaPJvjMq4mB64FLgV5+p5UzynElbunqmoRHqpoDqmJZekeY9Vmx7yD3Y4yHHzqTNLYabxWgDqPD1trjC6Mpebt8zZ94w7l77Vt9Hgg8DISlxZA0/qiWSBSSKuF9f+mBtGt31n0piNkFz7mAlc/GmdnWLEVar+sEBiqRknwuVli4B+C9p/ugNkbKg5JpZESuBRILufx5Z3PK5emZwZud09m08zmUbba8trEVakWZYW+F9EPpfFq/OfDdVe8GqboIKIcS6TitddoThQaWXLlxl9Zlxhigfsvrcpt4X2oyjcz4ldfnIbJsXebcX2JE=
+    name: Warrior_Linker
+    uuid: 4918b17e-4509-4993-9e55-dfc1e20272db
+    traits:
+      location:
+        world: LionHUB
+        x: '749.680771489197'
+        y: '3.0'
+        z: '3934.3941698975123'
+        yaw: '-270.970947265625'
+        pitch: '-0.4915864169597626'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '155':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjQ2NzQsInByb2ZpbGVJZCI6IjgwY2I4M2ExYmIxMDQwNWM5NGE3OTI3N2RiMzgxZjI4IiwicHJvZmlsZU5hbWUiOiJYeENocmlzUHJveFgiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyODQ2MWU2YTQzZDI4NmRkMmQwM2U4NzUwNTYzYjMzYmJhZTk5OWU5ODMxZmJiOTNlZjU3ZjdhZjM3YjY0In19fQ==
+      cached-skin-uuid-name: xxchrisproxx
+      cached-skin-uuid: 80cb83a1-bb10-405c-94a7-9277db381f28
+      player-skin-signature: ly9Q0J44y8NARDS6xyskC5jIFsBDhgZcjVZesMiPPSdduYzYgosotI8kGho0GGnB9cuQLMzF2vEis9enW1k0OLYbXByIkefIk2e9VZv8azP5FWL/3UzCx6+kHvbvDqMPzv79ei8gGjFOu84q7JSmSndg7/DinsKNmGZw4SEzWb39V3sUBuEUXAn1387u8VPeuBFayr/u437q5WgHNoeswjFMc63iDalEkWNW5SwfK4r8IFeX9LsPAAh7afSmKyhdDvdhyLbJ56N1Sn7H8RX+xBbdiOzoF543jx9K1DibRejVVe0eusn5JFLFJpvin7pYoWb2srOZdm13NOg8WvsJB0SHdxjzFsa0F96w1gvu8TNPoKo/QAH65XghoZjs22yDaVSqgc8kbji89BWS3GLEWPk4Vnv5tAa3xW5oHsrhB6UUeRJNSTwvM0TI5vS5rfHfQoVy+zeEsE6Tt2gGZVazXsoYFgu4E4AMoXQrzhQMJuNlStt0zi0exB8H4vJ4JE5rcbruOYAEFp/d4/CU1M4FvCUQb5PFCZlwx1KiZX8f00UR3+RVnTRzqqDg+gNV3YIBvXPDaaB1TDGHzrY3gCOnUvbH+xxz60YGpGuPnAOdoCxqkuuGytC2lkC8Euum9KwcyGs1ickbHGRP5cF967yIW0N4v3ikXfjx2E150JYTeOk=
+    name: XxChrisProxX
+    uuid: 92eb922b-b411-423b-9e11-9e7857f8f9fd
+    traits:
+      location:
+        world: LionHUB
+        x: '746.4202954304725'
+        y: '3.0'
+        z: '3935.506396672388'
+        yaw: '-179.3026123046875'
+        pitch: '1.1408215761184692'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '150':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjY5NDksInByb2ZpbGVJZCI6IjYyMGYwZWI0OTc2ZjRiYjBhZGEzMTRlMmQxYmFkZmFkIiwicHJvZmlsZU5hbWUiOiJFdmVuaXR5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNTVjYTJiNjEzNGQzMWJlNTBkNzIyOTg4NjYyZDFhYTRkYTI3MTg4M2U1NjFjMGI0YmRjZWE0M2U5Mzg2In19fQ==
+      cached-skin-uuid-name: evenity
+      cached-skin-uuid: 620f0eb4-976f-4bb0-ada3-14e2d1badfad
+      player-skin-signature: G6lZEPrKe0RDUVdJMh9CDCpeEdIvvuDU5SUX5PkieAVZFYwxXbcQGFIMGxMIz70srw+aPAi4bXU3698OEQm1Gyi32ahaikq2Kr+Ere/8qT+t9I2VV26V5oesK80NUYkX9CeElWYo3UZ4EVQWxnuER554SUhFrh8WbZH/do5b9SlVCUP5SbvHA3dDfohE7YimlPw4/tQNDrCGW3JC/o56YS8R83ki9lwI+kN4Z1GpY/GWE2anpnW9XkuzuLMDTBSSyLXVyRUKeVIa1uUyPhXEL12SU2PTZHmz26Hrp+tnRSNFQibY8sLt/ZF+jvffthJc1dzx98IN+p30ndAq1b0V8M8Vni28fKDA36GqTUs7Km75Jq6kC7/NUZ4o+xivtQq2JCyzRdVWCbCOYcBXPWZnOfLYUScIrzYMqqQXBoW0jo+O+jPUwYlc+e38T6im9B88pGHFFtm0lT5NhopZ2kU5Hr97CoR3LmJMMs27c/c2I1gmW3dZCyptdxRXKCBXrxba9SNvHNKlYKuLDqTq9dzaLat1e6q74dbNG32BnISS7qDz0HOFUQpaWeuoMDCJPVMlwKIVzuRvnG15pKY8SD5HYY1+euuQcTMSviGQH+clHV2YJX49Hnkc8bZjIQ75YDrgIKILBF6SZ126fAeAhgychFX35BTpkc1cLVMkcVrzQ/w=
+    name: Evenity
+    uuid: e2fe9470-071d-4ca6-8b3c-46ed8c8b7b27
+    traits:
+      location:
+        world: LionHUB
+        x: '731.373604956636'
+        y: '3.0'
+        z: '3922.348984678264'
+        yaw: '-89.75289916992188'
+        pitch: '-1.0104832649230957'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '148':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjY4NzksInByb2ZpbGVJZCI6ImJhMTBmZDllNmUzMDRmNzQ4MTMyODUzMzA1NDdkN2IzIiwicHJvZmlsZU5hbWUiOiJtYXJjb3MxNzM5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZDdiMmNjNGQzYjkzOThhZDMzODZlYWYzM2FkMzkxZjZhY2FmNGI2NDlkZTFlZTQ0YTZmNzJlNDc0NDNlIn19fQ==
+      cached-skin-uuid-name: marcos1739
+      cached-skin-uuid: ba10fd9e-6e30-4f74-8132-85330547d7b3
+      player-skin-signature: Pgl9zxmtPhaFmHUv4APNxS0/2i1xW2irHbsZJ5Egl3WxZ2F9bF/I8MfVR3MJOL5t4cRYO6PcqZ/waqk3bWRi5W4AWI3Ty9La0A3+FtknI8loXFmP/94NwQ+1FDXlmBDkzicbWgUYH7vQnrbDklEhrhfUdJYU/vPRZET51EgeGGVboVMy5JSsUYi9VVgcIzampNthxsAmRhSymMrjaeZ40DXQyHLB0v1i+jc/1UGZtQ02NB2mLw8JyDHwuqYY+5TMbRiZyIUgt5OxT/nmRDUJijrfbRL+/wDTcZXELCxaJJ1esYnTtMhqK9fxJtxowoEz5NY43Wm0E2Mg4/OjJagYLEuk0ToZ7BNW8jkrmLzSU4LZxqgi/B6hf7OSigebRP6qsuYUjksuffJ9ZR+Rvw5em/Aog4FovhmMs8VVGvkXI03mmSkQ3axqIOGJtnecGVLhu8iUaCh0LutLkIS/ZYQOkwViRoS2/Fq5FO1C56IVLQTWtUPJfR6xlovDXCAPM/Ut3kikKed59rQPrTTqkjbh1I9bZqa84CHsmlrA86SMl4k04GYF8HOnLVSWdFD1L8A46mEOAu0aZkQqQ8svkzF7ENN6fZo6P5pCc7yEB4WuxahN7aXqMyqkoU1t0+NHqFGdwIim2SgQVqnitAziUaIZSsTMMi3aqlqX+zCItmsJESc=
+    name: marcos1739
+    uuid: be89ea3f-a272-4e3d-b55a-affae21c8cfa
+    traits:
+      location:
+        world: LionHUB
+        x: '731.3714941879662'
+        y: '3.0'
+        z: '3924.4704508576147'
+        yaw: '-89.75289916992188'
+        pitch: '-1.0104832649230957'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '146':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjczMTMsInByb2ZpbGVJZCI6IjNkMzZjZmM1M2NiYzRkZDc4YWZmYWIzYjY4MTU5YjNmIiwicHJvZmlsZU5hbWUiOiJBeGVsVFdDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNTk2NTg5ZWU1NTAzOTQ1NGM1YWE3NDRkOTgyODVlZjZiZDMxM2EzZjMwYjlkNGQ0ZmI4ZmI4MGQ4MmU3In19fQ==
+      cached-skin-uuid-name: axeltwc
+      cached-skin-uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+      player-skin-signature: sh2L+e+IA67FixnTrqWijIQLXq2h40SvbFPk8KbwDEF3XyxR8XiPHN8+HbVC4WmYxwv/atop0Yy2lgoFZiwXxmu5tYsm+emtogULLbqZoScZLiYfvjoL/ql+EM4b5CLINSyd4hHhxaynzzl97VQnABnPRJPSmBh/hEXt7bqQiKu1pg1rG9kkCTMsGDLsGZ4ZtMBIlsv5LR1PIkB+01rPzZ2QBDHAOi0MpYVDti6/Ts5bRVU6g9zyI0SIzKCYy4W7EHA5G8t5SJjwRb/3n3vzTpYBs0+gNmakfgDbHJ4wkJWkwl/N6dNaievMNKFIRpx+AYdTEwTXU515HPHHln2OO17gu2PbzeSbK1ly3WDVEzBSU7Dbr4amVgLuEUXWbBVO4oxUNtl+KQmXrYMony++z8CeVvAq6+zxELdDQvxhW5FJIKBGPZIkE6AY2CUWF4Htn4pVZKix72KMp7IsuJKeOLl1SKknrWNEGky2Xa2tlrmSNQoOUPo9pS1urVdOUrpE4F6QPcYPajYb/jLjQtGtfNc5F05XTx/M6cDqtQgpw5uWOA8xAPf0btKKgi2BmPVqgi3EIyrdWpI+5lGwhBCca5yaFDrKwNqSkWd0F04rkDbTBQzGGOHF6e2p9pzxvoJgYRGFcqq6yoHG+/5jl4AgOcTdxteI/de8qWKftvzyL9o=
+    name: AxelTWC
+    uuid: 54500e5a-db88-4fd7-916a-eded98e2f243
+    traits:
+      location:
+        world: LionHUB
+        x: '746.4364485335971'
+        y: '3.0'
+        z: '3911.300000011921'
+        yaw: '-0.8902587890625'
+        pitch: '2.0708954334259033'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: marcos1739
+        uuid: ba10fd9e-6e30-4f74-8132-85330547d7b3
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '169':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjQ3NDQsInByb2ZpbGVJZCI6ImE4MThjNWQxNzFhMTRkNGNhNmRiNzE0ZTdhYzk5ZDA5IiwicHJvZmlsZU5hbWUiOiJTaWtlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNGQ5OTRkZTc2NjMxMWZiYWE0YWIwNjJmODU5OWZkOTc5YmRiOTk0N2VlNmVjOWM2MDJlOTBkYmZiOGJlZSJ9fX0=
+      cached-skin-uuid-name: sike
+      cached-skin-uuid: a818c5d1-71a1-4d4c-a6db-714e7ac99d09
+      player-skin-name: sike
+      player-skin-signature: ei0iwHk0TGdcZyOQqDYYWoXH3GxK+U8FFMSSIGdCgS1qftLezFo7P3ls7NM8WBlklIAFvuStvCb2SbQSnxPr8pq0DkeG4bYIa6c2PtzFxJ959YoQnjgnPkPUxmNVQ8dxLrzcbWAvn3YIle5BjTlB4kAlerixTQ4mq/ev+UpE1KmhlJ4g9L3ClwY65kkmIIeh8RWJGs2RYra0CcVj/wGD+m4R79gFiqhNaKmJIwvx078bEQuPe3yZ6TazeNB6BWVEMFiSmFfuFE4nBZ1C7+gI2EHRPfS+nzRuFLi2dp9qedsaALDkxl6Brcnetha+2cptdVtFL0Bg8fSWGETAoEtJpqg85nuSTx7kwg1NAfUj7QoZAcKhN1fuHTjCo3Z3dsOxAkwdMoeSN39To6YxE4iRqyfQjt2DufCHFSl0Dr6vxogZ8uHZVhBj3fzpHeKJhYsm0tUVczov4SJkviq+25vplAv0u2GoPDe8SHUiqslxjeiX/E0GALOQH04a0HxcKXwof3v2neRVX6lNaIxybcS3JE73bvugw81K2RPN7tkGNqa3yUl+Z0pCtC9X1zA5UJI5tSwFq+oBnoPwu/x03ggmLbuhjzpiFgVQW7+A6wYi+ZCbALCq7UiK1cZeC4jFjH9q1fZSroCZ6vC8XHuFd+8UnReIPQdk0UbeZiO3pEG8XRM=
+    name: Reset Your Kit
+    uuid: 7c199dd6-7e62-4a2b-b53d-260e3ecc3da6
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: map
+        x: '-990.5'
+        y: '86.5'
+        z: '275.5'
+        yaw: '0.0'
+        pitch: '-1.0'
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '170':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjYzMTYsInByb2ZpbGVJZCI6ImJjMjRjYjNkMjcxMzRiZmU4NDRlMjJjY2VkZWU3N2E2IiwicHJvZmlsZU5hbWUiOiJBc3Ryb2Zpc2g3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMTk2MWEzOGE4Zjk2OGVhYTQ1NTRmZWIzZWNhOTk0ZDI5MDUzNzI4NTA5MzY4NzE0ZThiOWI2NWRmMjQ4IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: astrofish7
+      cached-skin-uuid: bc24cb3d-2713-4bfe-844e-22ccedee77a6
+      player-skin-name: astrofish7
+      player-skin-signature: cEXUlbgwoi8leoL71ESIK1YVfX2u26mKJROhnQqln2mCn2TnVOJflT8utOAkBwiRkqvmuQDlHuHtg8qsh/Rc25jzCmV4K/zsQqUJlZidmcmttFB6lQwSNdWwsYWdJVXCGa6upxCR1gVuOlSrG988AF/gKNgCgIASNvWZpzXzWUO7JjEtlHvLa6Oy3Ysf0agcd33Yhg6kze2wZzXUp7p3rUULgY4M3KwKY/fbLFJNDihQ/TOyRCXjqBswU1njrEHwwZA3qKjr9cYu1oaKXxlF+PpaOroyMy3xYjYjdMm9i55Apxj3Cr397BcJo86CC3vhm07Hq2ekeHF8cHM+kr6AsaOLxSr0UT5XWaMQNKtvPLxk68iy0yfJp5mEci/IOfIb3P/51rN8zwT1+lo2SRRGG8dOwNQ2s12P6KozFhedFhnZY5+cFiVTLOowPLBDQW80CQ7UQ28bBAHJZLdo5AM2ngo+VibD2a8+nsWrsE7kZSxDb4Z+1GgFtnryB4/F3p/O5LFzhb3sJOluHJDJGbiGeGCxAKLyhMosh1ZZQKEf8kfxBK0jlO4xDpFAEu1wPfzBcUl4TYKFsLaxgtkj3n6FUHFkJBUU4b5/TrwuFHcT0XXchnL1PL4f+eFAR4bIecfVt2Hw1oQC2zOcpnaK/YiCvsxltwIemoke1MjZPCR5xmA=
+    name: §6Reset
+    uuid: 8dbd95d1-97aa-44e6-aabf-bc35ec984980
+    traits:
+      location:
+        world: map
+        x: '-990.5'
+        y: '86.5'
+        z: '275.5'
+        yaw: '0.0'
+        pitch: '-1.0'
+      inventory: {}
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: AxelTWC
+        uuid: 3d36cfc5-3cbc-4dd7-8aff-ab3b68159b3f
+    traitnames: inventory,lookclose,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '178':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjUzNDMsInByb2ZpbGVJZCI6ImViYmJjNDkzMzQzNTRhMGFiN2FkZmRkODRjNmY2YTU3IiwicHJvZmlsZU5hbWUiOiJDYWJlUFZQIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZDdkNzc5YjM4ZDcyNmE4OTE2OGVhY2Y3ZDMxNDM0ZjRiMzE3NzljYzllYzU0ZGU1ZmVhNzcwNTYyMzQzNmIifX19
+      cached-skin-uuid-name: cabepvp
+      cached-skin-uuid: ebbbc493-3435-4a0a-b7ad-fdd84c6f6a57
+      player-skin-signature: OaVpmmttK6uvkfaIILGS+2DTDbUNgHe783FfUP3vOurQ+N4fB1TOer8HraOiCUMb1mu6G2tROtKxcpeKhWmGmGLEboZemLfItEy6EKgPLv+hDVOnjQOt5MJvi3sBuXFZluJNfzJcUNhilTtfKEoKpFZur6/aIgc3eax8/HPgaZcNTqOHCElVa6iuA4rPxO0rYH4vWHTb2mOs1NzrHb+LAa6fHnh4IgmoNKU+rm4YnjASOLgYr6DUZSXTVo7l2sOSr2PpO7/uai/TiGmS4YpMoeCOLWkolfhN4Q7/C15wmth2ZdlPvRpGU8yWaI55ee8UUsF6uYAUITLB3hkN5pmOMDC9JW3u8BF3UboISrYg85EmHxaiYXK5EEnhWq+iA4wtbJIIHW/KcOMc3d1H+cGy3ZB1b82Uidy37Ne2YLYx+2rGND9gVfiNtij/ZaJnTvFMzE0lTSlu2v5HLcyMkya+kVt9N14MR/DCHTH3kEFhLEYKOo2HGyP3V2tpDZCSpQi3UBWG3nzYyg9ARwUmZeTyIae0qqjPZbM+zQjuexLVK8vhT8GJq66BsusMP0PENneIxc7G9G6Db7OTFwGwkviMym3OocRROixTP6dH4TvSlvLb9iXfJ7C3KaVqZfIZvxeTvy/yupli8qDbjzHrehDjNt5HbKS0Fll9Uwtyh72yDbc=
+    name: CabePvP
+    uuid: d3dc7a89-4bf7-4d71-9137-e3709c148d6f
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '762.6999999880791'
+        y: '3.0'
+        z: '3920.5335034366553'
+        yaw: '-270.09686279296875'
+        pitch: '5.545620918273926'
+      spawned: true
+      owner:
+        owner: marcos1739
+        uuid: ba10fd9e-6e30-4f74-8132-85330547d7b3
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '177':
+    name: SgcCrafting
+    uuid: 1bdb01c8-d4bf-4e5a-9bb3-f6aff81221ec
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '760.3247555148653'
+        y: '3.0'
+        z: '3919.300000011921'
+        yaw: '-352.3954162597656'
+        pitch: '2.06575870513916'
+      spawned: true
+      owner:
+        owner: marcos1739
+        uuid: ba10fd9e-6e30-4f74-8132-85330547d7b3
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '176':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjc1MjgsInByb2ZpbGVJZCI6IjA1OTE4MWU1MjBjMTQ0NDRiYmUyMjMxYzczYWVlMDI3IiwicHJvZmlsZU5hbWUiOiJGSVJFQk9ZX1JZIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWU3Zjk4NGU1MjA2NWQ4Yjk1MzgxODA0NGFiMWNjNzhjN2M2YWFiZDk1NTc0YzI5NTA5N2I5ZjgxYmM1In19fQ==
+      cached-skin-uuid-name: fireboy_ry
+      cached-skin-uuid: 059181e5-20c1-4444-bbe2-231c73aee027
+      player-skin-signature: QYH6ZbFPJ88S/FsxOC5w//QKC1ZdtWD1x4flJJwkpBnswIetS2p3lJSnOvUx6GLutWOvoKAHWPcYKhNZSrl1e9mhdbsXKLMKtjWqAi28zu+7pczDqcCuL+j2f+rrlOv4M2tpIKs1XbHPZueidFhoOzsVVMuJS/E8RnJSwzPqZiDLBSO9x63wQeye+0mie7cpf73HtjFFv36ycH6QSS/BUNrlF5DkNibaLrabRbS7wNTVh1Wh7d3dmAkZjoaZ3PI2raH3IG6LkYwBsBmC1J4Y+4MOroDZwwCnjWRNLL4Zb24lr4Pyjil1aH2TSCjgNBhB/iytkq92GNRpGHeir04jxAAMn1EReiFkjwWSNpGJJDGKLkUotD9e5IPMg5QZTeFgQ9lYjxqPDFqBbmerfpyu4eFvtKIUM1a8ursyWRptSRXWpP44PutWpVinjzQtWUXlrH71j+OOlApWGZqdVDcS3UfZMvATk8VDLYb5GYs8Z7Rjsb2VWSBM0ZzUFeMMKpPDhWAQAJ5BJhcrebgC2XQPi0G0MGMXnR3ykZGptQcdacABu0XhCBfErV8p41RVZOgF3coH39l7Qj9G25q4e+Imx/rrYapdRWzk+HyNJOHEl12lQxu+KKZKXT8zeWwt89cD0gNZNQJCYvID4JtCKE8ztgglYOIl/+ZlZbGWNQy9kpE=
+    name: FIREBOY_RY
+    uuid: d2de24e4-f5ad-475b-a0b9-5a2dad3e7354
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '758.5946273144193'
+        y: '3.0'
+        z: '3919.300000011921'
+        yaw: '-359.7028503417969'
+        pitch: '11.113431930541992'
+      spawned: true
+      owner:
+        owner: marcos1739
+        uuid: ba10fd9e-6e30-4f74-8132-85330547d7b3
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '175':
+    name: TrueRespect
+    uuid: 5d1637de-6534-4ccf-9d43-85812c1e1784
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '731.3035882334225'
+        y: '3.0'
+        z: '3920.615024158085'
+        yaw: '-90.36135864257812'
+        pitch: '-0.5440904498100281'
+      spawned: true
+      owner:
+        owner: marcos1739
+        uuid: ba10fd9e-6e30-4f74-8132-85330547d7b3
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '174':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MjE1NzczMjc4NDAsInByb2ZpbGVJZCI6IjI4YzIyNTIwM2VhNjQyODA5ZjM1Zjg0NjdlNWE1N2ZkIiwicHJvZmlsZU5hbWUiOiJQZXRNZUxsYW1hIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzZkMjI5M2I5NWVhYzZmMzY4MmIxYjI4OTlhNzI5ZmQ2YzNjMTg4OTNiM2Y2ZmJiOTZlZTMyZTgzM2NhYzYifX19
+      cached-skin-uuid-name: petmellama
+      cached-skin-uuid: 28c22520-3ea6-4280-9f35-f8467e5a57fd
+      player-skin-signature: v9PU7yjJp0diWKI2RI+YZ8/7T1cNnH1rmL+M9i0p0jGZS0xVSvPg0d68Y++ewziTohKT0TFVB8oA1G2oDscVwDCyTJDFwMFUTBSZPsvFPKQ6h1X2h2t6C1LPqVggne+I78nimot05aiglPjzn0+7NPVty4E4qGU+GX6VIFj5os7cB7B/kdOOayhEotysBl0s21+KpMH7gWOLuN0XhXNOAvk/y9WmNXr5DnKpdZw+lI0qXzaj8uPJo/eNFkpcdJavGhWjkLKSizBU6YG/pbPxKZ2U3Q8OAPR4JdIsvUB7eEnijbuYfmfTgW21AF5xBWuBK8Kd17PwkkRDe2CdsQRnXiYuAhV4nyFV+TEWiusQfDHt4zVcjL0mUON4W30J3z2Th9810ljOLOJWZZ/VVD4qoD70l/vw61xqbXqjY00xlECySPl2qFh/sX+g26gV59qym3p7dJVWeSC/22OPtKkBWW15jI3+1pOkHBtf4LfeVIM/87DA4kP2lh5BGLqRisei0ct/GUfX0XM91zIulj7b8jndyUkkiusu5ySe8EDHvPTeXEbTbUEchfdfR0PSdQFONPqoj5w3gugmZsR3cpE3+XPMqdfdATI7gcpDMu4H2rGlQViER7vie22ItEJ7Lwb3OnvJZPzBprYCGrVi7Z8v89GwXWdS2WHqlQuUlZxGP+A=
+    name: PetmeLlama
+    uuid: 5796ef49-caf3-4561-8d12-44bf0e97163b
+    traits:
+      inventory: {}
+      location:
+        world: LionHUB
+        x: '731.3000000119209'
+        y: '3.0'
+        z: '3926.3441716093416'
+        yaw: '-88.44744873046875'
+        pitch: '5.719657897949219'
+      spawned: true
+      owner:
+        owner: marcos1739
+        uuid: ba10fd9e-6e30-4f74-8132-85330547d7b3
+    traitnames: inventory,owner,spawned,type,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

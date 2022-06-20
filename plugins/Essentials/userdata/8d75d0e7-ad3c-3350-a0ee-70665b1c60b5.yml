@@ -1,0 +1,23 @@
+lastAccountName: promontager
+timestamps:
+  login: 1504610382374
+  lastteleport: 1504609821986
+  logout: 1504611315105
+  mute: 0
+ipAddress: 88.247.147.227
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.34584833850975
+  y: 47.5
+  z: -47.130433848854445
+  yaw: -7.2632127
+  pitch: -8.637837
+logoutlocation:
+  world: MainLobby
+  x: 15.2184711277844
+  y: 57.0
+  z: 0.21285159546410518
+  yaw: -3.1999784
+  pitch: 40.399998
+muted: false

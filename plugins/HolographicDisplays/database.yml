@@ -1,0 +1,262 @@
+sw:
+  location: CTF-Lobby, -46.619, 50.000, -11.843
+  lines:
+  - '&bSoulWeel'
+  - '&6Teste sua Sorte! Ganhando Cages'
+  - '&a&lCLICK DIREITO'
+parkour:
+  location: CTF-Lobby, 20.849, 9.200, -2.241
+  lines:
+  - '&a&lParkour'
+  - '&f&lInicio'
+soulwell:
+  location: LobbySkywars, -2527.495, 52.013, 744.487
+  lines:
+  - '&b&lSoulWell'
+  - '&e(Clique Direito)'
+top:
+  location: FFA, 12.531, 15.655, -128.471
+  lines:
+  - '&4&l-=[&8&lTop Players&4&l]=-'
+aidendejesus:
+  location: FFA, 12.436, 14.200, -129.128
+  lines:
+  - '&9&lAidenDejesus'
+  - '&a&lMost Kills!'
+axel:
+  location: FFA, 13.519, 13.200, -129.068
+  lines:
+  - '&6&lAxelTWC'
+  - '&a&lMost Kills!'
+hub:
+  location: LionHUB, 746.466, 12.843, 3619.383
+  lines:
+  - '&4&lHumblex'
+  - '&7[&c-&7]&6 A Rated Minecraft PvP server&7[&c-&7]'
+  - '&2Premium users are not needed to register'
+  - '&7[&c-&7]&5Cracked Users:/Register Password Password&7[&c-&7]'
+  - '&bPremium users can type &b&l/Premium &bIf they are needed to login'
+join:
+  location: MainLobby, 35.700, 81.861, 485.300
+  lines:
+  - '&6Join'
+leave:
+  location: MainLobby, 35.700, 81.860, 493.691
+  lines:
+  - '&6Leave'
+vote:
+  location: LionHUB, 93.319, 48.915, -70.080
+  lines:
+  - '&3Voting 100 times can be rewarded with a donator rank!'
+battle:
+  location: lobby_practice, 361.864, 55.271, -924.257
+  lines:
+  - '&c&lKILL THE OTHER PLAYER!'
+  - '&f'
+  - '&a&lMAKE SURE YOU VOTE AND DONATE! DONATING CAN GET YOU MVP!'
+  - 'ICON: diamond sword'
+  - 'ICON: diamond sword'
+skyblockshop:
+  location: SkyBlock, 0.535, 68.396, 49.740
+  lines:
+  - '&a2nd &6Layer &1at back'
+mysterybox:
+  location: skywars, 102.500, 154.884, -146.424
+  lines:
+  - '&c&l&kk&6&lMysteryBox&c&l&kk'
+owner:
+  location: LionHUB, 960.475, 37.343, -432.591
+  lines:
+  - '&4Owner'
+supporter:
+  location: LionHUB, 925.699, 37.329, -397.643
+  lines:
+  - '&6Top Sponser'
+ffa:
+  location: FFA, 25.461, 29.770, -712.699
+  lines:
+  - '&5Welcome to FFA'
+  - '&3/FFA LEAVE'
+  - '&3Is need if you are leaving ffa'
+  - '&3Unless you leave the server and rejoin'
+hub2:
+  location: LionHUB, 942.938, 39.124, -419.723
+  lines:
+  - '&4&lHumblex'
+  - '&7[&c-&7]&6 A Rated Minecraft PvP server&7[&c-&7]'
+  - '&2Premium users are not needed to register'
+  - '&7[&c-&7]&5Cracked Users:/Register Password Password&7[&c-&7]'
+  - '&bPremium users can type &b&l/Premium &bIf they are needed to login'
+case:
+  location: SkyBlock, 0.500, 67.075, -53.500
+  lines:
+  - '&6Case Crate'
+  - '&7BUY A KEY TO GET A CHANCE AT A CASE'
+voting:
+  location: LionHUB, 978.705, 40.112, -377.414
+  lines:
+  - '{animation: example.txt}'
+  - '&f[&4This Is Not Ready Yet&f]'
+shopblock:
+  location: Factions, 136.357, 65.200, -297.671
+  lines:
+  - '&4Block-Series'
+shopplant:
+  location: Factions, 136.542, 57.200, -295.996
+  lines:
+  - '&3Plant-Series'
+  - '&3Ore-Series'
+shopitem:
+  location: Factions, 138.252, 51.200, -296.295
+  lines:
+  - '&3Item-Series'
+humblexcrates:
+  location: Factions, 109.422, 72.155, -289.548
+  lines:
+  - '&6Humblex Hcf-Factions Crazy Crates'
+  - Receive a crate from your kit
+factions:
+  location: Factions, 122.445, 72.155, -320.208
+  lines:
+  - '{animation: factions.txt}'
+crates:
+  location: Factions, 116.033, 71.239, -305.063
+  lines:
+  - '{animation: Crates.txt}'
+farm:
+  location: Factions, 128.057, 71.780, -316.854
+  lines:
+  - '{animation: Farm.txt}'
+shop:
+  location: Factions, 129.024, 72.352, -304.909
+  lines:
+  - '{animation: Shop.txt}'
+enchantment:
+  location: Factions, 116.023, 71.655, -317.892
+  lines:
+  - '{animation: Enchantment.txt}'
+time1:
+  location: LionHUB, 947.710, 40.270, -414.901
+  lines:
+  - '&bThe Current time is'
+  - ''
+  - '&6{time}'
+  - ''
+  - '&bPlayers Online'
+  - ''
+  - '&6{online} &8/ &6{max_players}'
+  - ''
+  - '&dEnjoy your stay'
+time:
+  location: LionHUB, 746.466, 15.093, 3619.383
+  lines:
+  - '&bThe Current time is'
+  - ''
+  - '&6{time}'
+  - ''
+  - '&bPlayers Online'
+  - ''
+  - '&6{online} &8/ &6{max_players}'
+  - ''
+  - '&dEnjoy your stay'
+time2:
+  location: LionHUB, 943.040, 41.385, -419.659
+  lines:
+  - '&bThe Current time is'
+  - ''
+  - '&6{time}'
+  - ''
+  - '&bPlayers Online'
+  - ''
+  - '&6{online} &8/ &6{max_players}'
+  - ''
+  - '&dEnjoy your stay'
+time3:
+  location: LionHUB, 937.926, 40.270, -415.149
+  lines:
+  - '&bThe Current time is'
+  - ''
+  - '&6{time}'
+  - ''
+  - '&bPlayers Online'
+  - ''
+  - '&6{online} &8/ &6{max_players}'
+  - ''
+  - '&dEnjoy your stay'
+devdance:
+  location: LionHUB, 925.470, 38.200, -432.623
+  lines:
+  - '&9Dev'
+elo:
+  location: MainLobby, 23.200, 62.700, 0.570
+  lines:
+  - '&4&kk&6Topelo&4&kk'
+  - '&b================'
+  - '&2Rank&6#&21-2'
+junkyard:
+  location: lobby_practice, 988.395, 114.364, -1809.910
+  lines:
+  - '&e&lNEW UHC DUELS MAP: &aJUNKYARD'
+  - '-'
+  - '&8[&b■■&7■■■■■■■■■■■■■&8]'
+  - '&b2 USERS LIKED &7/ &a13 USERS UNKNOWN'
+  - '-'
+  - '&eThis map is large and quite detailed with junk all over.'
+  - '&eThis map makes hiding spots available to hide in and heal.'
+  - '&eEnder pearl glitches are fixed in this UHC map which makes it much better!'
+junkyardnew:
+  location: MainLobby, 22.102, 61.756, -14.287
+  lines:
+  - '&e&lNEW UHC MAP: &aJUNKYARD'
+  - '-'
+  - '&eCREATED ON: &72/2/2018&e'
+  - '-'
+  - '&eThere''s now more to explore! &aJUNKYARD &eis the latest new UHC map.'
+  - '&eThis map is really good hiding while trying to &cheal&e!'
+  - '&eThis map also fixed major issues with ender peal glitch landings.'
+  - '&e&ono more getting suck in trees. ;)'
+  - '-'
+  - '&aMADE BY: &cCEO &bWarrior_Linker'
+kitpvp:
+  location: map, -990.555, 93.496, 282.781
+  lines:
+  - '&4&kk&6============================&4&kk'
+  - '&bWelcome to KitPvP'
+  - '&2&lChoose Your kits in your left and right'
+  - '&c&lSpawn-Killing is prohibited!'
+  - '&4&lIf you do so and got caught by staff members'
+  - '&4&lEnjoy your ban >:>'
+  - '&bGood Luck and have fun!'
+  - '&4&kk&6===================================================&4&kk'
+staff:
+  location: LionHUB, 746.522, 5.279, 3919.030
+  lines:
+  - '&6Staff''s List'
+  - '&5Front:Owner'
+  - '&4Left:Admin'
+  - '&3Right:Mod'
+  - '&6Back:&2Ceo,&9Dev'
+hcf:
+  location: HCF, 0.434, 73.373, 10.464
+  lines:
+  - '&6New Hcf map reset'
+humblexkitpvp:
+  location: map, -933.592, 146.795, 125.000
+  lines:
+  - '&7---------------------------'
+  - '&fHUMBLEX KITPVP'
+  - '&7---------------------------'
+kitpvphelp:
+  location: map, -992.734, 88.416, 290.532
+  lines:
+  - '&7------------------------'
+  - '&fHELP/SUPPORT TIP'
+  - '&7------------------------'
+  - '&a❶. &eRight Click on the &a"&cKIT SELECTOR&a" &eNPC.'
+  - '-'
+  - '&6❷. &eRight Click on the chest that will bring up a kit GUI.'
+  - '-'
+  - '&c❸. &eSelect one of the kits! &a(11 KITS)'
+  - '&7------------------------'
+  - 'ICON: chest'
+  - 'ICON: chest'

@@ -1,0 +1,8 @@
+name: GrappleMC
+uuid: 74e4abae-cfa7-4d44-aab9-8ee2b336dc95
+logoffworld: lobby_practice
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 0.0
+  KitPvP: 500.0

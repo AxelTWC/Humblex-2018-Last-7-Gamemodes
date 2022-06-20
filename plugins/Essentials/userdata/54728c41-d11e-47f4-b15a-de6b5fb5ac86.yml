@@ -1,0 +1,22 @@
+lastAccountName: GermanPlayzMC
+timestamps:
+  login: 1507604804281
+  lastteleport: 1507604971831
+  logout: 1507605516524
+ipAddress: 99.162.155.209
+socialspy: false
+lastlocation:
+  world: parkour
+  x: 0.45830628403923485
+  y: 20.0
+  z: 1.3461798597414285
+  yaw: -41.95807
+  pitch: 4.9258623
+logoutlocation:
+  world: LionHUB
+  x: 943.0644037800563
+  y: 38.0
+  z: -414.69615849648756
+  yaw: -33.24504
+  pitch: 15.390118
+money: '600.0'

@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1500894422883
+  login: 1500892260198
+  logout: 1500894420530
+lastlocation:
+  world: MainLobby
+  x: 35.68830578352003
+  y: 57.0
+  z: 0.5433914007106239
+  yaw: 73.517044
+  pitch: 39.447987
+lastAccountName: HelpInHelpOut
+ipAddress: 86.165.211.177
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

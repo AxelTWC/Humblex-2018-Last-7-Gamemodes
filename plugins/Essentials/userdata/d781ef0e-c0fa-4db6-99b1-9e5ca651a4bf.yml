@@ -1,0 +1,21 @@
+lastAccountName: lolDavid1
+timestamps:
+  login: 1502001524592
+  lastteleport: 1502001539040
+  logout: 1502001580183
+ipAddress: 218.252.94.7
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.1210533152942
+  y: 47.0
+  z: -47.78112985993453
+  yaw: -10.259748
+  pitch: -9.65813
+logoutlocation:
+  world: MainLobby
+  x: 38.190108464786164
+  y: 58.5
+  z: -2.6079561842758863
+  yaw: -84.4825
+  pitch: 21.24116

@@ -1,0 +1,29 @@
+lastlocation:
+  world: Factions
+  x: 178.5706650931799
+  y: 24.0
+  z: -522.7401950322214
+  yaw: 71.58597
+  pitch: -49.67898
+lastAccountName: GamerJustin1245
+timestamps:
+  login: 1514056418588
+  lastteleport: 1514056694644
+  logout: 1514056749893
+ipAddress: 91.53.11.253
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 126.98582886635913
+  y: 57.0
+  z: -527.1417675077822
+  yaw: 170.2913
+  pitch: 8.360138
+homes:
+  home:
+    world: Factions
+    x: 128.34731073612272
+    y: 57.0
+    z: -529.6494454063071
+    yaw: 240.71503
+    pitch: 0.2940293

@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1506488920626
+  login: 1506665771216
+  logout: 1506665861129
+lastlocation:
+  world: MainLobby
+  x: 12.225752354842403
+  y: 58.24918707874468
+  z: 4.279076716389118
+  yaw: 56.03666
+  pitch: -66.000015
+socialspy: false
+lastAccountName: BeaconCream
+ipAddress: 180.248.108.42
+logoutlocation:
+  world: LionHUB
+  x: 93.6122281966277
+  y: 45.5
+  z: -61.88313423488222
+  yaw: 179.48682
+  pitch: 14.312159

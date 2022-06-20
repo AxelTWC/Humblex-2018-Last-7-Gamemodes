@@ -1,0 +1,21 @@
+lastAccountName: HalfDollar
+timestamps:
+  login: 1505092628786
+  lastteleport: 1505093249475
+  logout: 1505093778642
+ipAddress: 97.92.66.245
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: -1.2632126
+  pitch: 11.762165
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.4691817266242615
+  yaw: -89.0
+  pitch: 2.0

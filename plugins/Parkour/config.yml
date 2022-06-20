@@ -1,0 +1,117 @@
+# ==== Parkour Config ==== #
+OnJoin:
+  SetGamemode: 0
+  EnforceWorld: false
+  EnforceFinished: true
+  AllowViaCommand: true
+  FillHealth: true
+  Item:
+    LastCheckpoint:
+      Material: ARROW
+    HideAll:
+      Material: BONE
+      Global: true
+    Leave:
+      Material: SAPLING
+OnCourse:
+  UseParkourKit: true
+  DieInLiquid: false
+  DieInVoid: false
+  EnforceParkourCommands:
+    Enabled: true
+    Whitelist:
+    - login
+  EnforceParkourSigns: true
+  DisablePlayerDamage: false
+  MaxFallTicks: 80
+  AllowTrails: false
+  DisableItemDrop: false
+  DisableItemPickup: false
+  PreventPlateStick: true
+  AttemptLessChecks: false
+  DisplayLiveTime: false
+  DisableFly: true
+  SneakToInteractItems: true
+  AdminPlaceBreakBlocks: true
+  PreventOpeningOtherInventories: false
+  PreventAttackingEntities: false
+OnFinish:
+  EnforceCompletion: true
+  TeleportAway: true
+  SetGamemode: 0
+  BroadcastLevel: 3
+  Prize:
+    Enabled: true
+  DefaultPrize:
+    Material: DIAMOND
+    Amount: 1
+    XP: 0
+  TeleportDelay: 0
+  DisplayStats: true
+  UpdatePlayerDatabaseTime: false
+OnLeave:
+  TeleportToLinkedLobby: false
+OnDie:
+  SetXPBarToDeathCount: false
+  ResetTimeWithNoCheckpoint: false
+OnLeaveServer:
+  LeaveCourse: false
+  TeleportToLastCheckpoint: false
+ParkourModes:
+  Challenge:
+    HidePlayers: true
+  Speedy:
+    SetSpeed: 0.8
+    ResetSpeed: 0.2
+  Moon:
+    Strength: 5
+DisplayTitle:
+  FadeIn: 5
+  Stay: 20
+  FadeOut: 5
+  JoinCourse: true
+  Checkpoint: true
+  RewardLevel: true
+  Death: true
+  Leave: true
+  Finish: true
+Other:
+  Economy:
+    Enabled: false
+  BountifulAPI:
+    Enabled: false
+  PlaceholderAPI:
+    Enabled: false
+  CheckForUpdates: true
+  LogToFile: true
+  Parkour:
+    ChatRankPrefix: false
+    SignProtection: true
+    InventoryManagement: true
+    SignPermissions: false
+    CommandPermissions: false
+  Display:
+    JoinWelcomeMessage: true
+    LevelReward: true
+    ShowMilliseconds: false
+  EnforceSafeCheckpoints: true
+SQLite:
+  PathOverride: ''
+MySQL:
+  Use: false
+  Host: Host
+  Port: 3306
+  User: Username
+  Password: Password
+  Database: Database
+  Table: Table
+Version: 4.5
+Lobby:
+  Set: true
+  EnforceWorld: false
+  World: parkour
+  X: 0.39694503024564654
+  Y: 21.158139272551278
+  Z: 0.49857945373514667
+  Pitch: 88.65
+  Yaw: 89.99996

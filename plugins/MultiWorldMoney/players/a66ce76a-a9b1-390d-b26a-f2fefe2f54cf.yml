@@ -1,0 +1,7 @@
+name: 999Zoom_Fan
+uuid: a66ce76a-a9b1-390d-b26a-f2fefe2f54cf
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

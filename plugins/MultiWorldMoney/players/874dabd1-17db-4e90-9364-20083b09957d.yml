@@ -1,0 +1,7 @@
+name: BlaBlaSillySheep
+uuid: 874dabd1-17db-4e90-9364-20083b09957d
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

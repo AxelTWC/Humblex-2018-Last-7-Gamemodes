@@ -1,0 +1,21 @@
+lastAccountName: TrulaBanana
+timestamps:
+  login: 1503222896190
+  lastteleport: 1503222918700
+  logout: 1503223276058
+ipAddress: 93.139.88.195
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.57764931990823
+  y: 46.0
+  z: -56.75121625170182
+  yaw: -1.2632126
+  pitch: 11.762165
+logoutlocation:
+  world: MainLobby
+  x: 11.581608239328974
+  y: 59.0
+  z: 0.5381284177959933
+  yaw: -6.9499907
+  pitch: -72.25001

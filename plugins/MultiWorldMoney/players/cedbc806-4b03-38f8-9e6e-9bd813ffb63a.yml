@@ -1,0 +1,6 @@
+name: xAssassinProx
+uuid: cedbc806-4b03-38f8-9e6e-9bd813ffb63a
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

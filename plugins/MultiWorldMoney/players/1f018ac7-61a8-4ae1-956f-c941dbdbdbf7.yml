@@ -1,0 +1,6 @@
+name: TimeWrecker
+uuid: 1f018ac7-61a8-4ae1-956f-c941dbdbdbf7
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

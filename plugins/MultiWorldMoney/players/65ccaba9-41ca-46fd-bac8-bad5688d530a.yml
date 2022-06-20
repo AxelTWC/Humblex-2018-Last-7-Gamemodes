@@ -1,0 +1,11 @@
+name: CustomBluee
+uuid: 65ccaba9-41ca-46fd-bac8-bad5688d530a
+logoffworld: MainLobby
+balances:
+  MainLobby: 500.0
+  world: 0.0
+  Factions: 1000.0
+  Factions_Nether: 0.0
+  lobby_practice: 0.0
+  LionHUB: 0.0
+  skywars: 0.0

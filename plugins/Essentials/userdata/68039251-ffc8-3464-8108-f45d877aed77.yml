@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1500909725879
+  login: 1500909693248
+  logout: 1500909725776
+lastlocation:
+  world: MainLobby
+  x: 5.8428785093250974
+  y: 59.5
+  z: 0.5482277839910239
+  yaw: -178.18321
+  pitch: 4.3755465
+lastAccountName: ali_iraq
+ipAddress: 176.241.84.214
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

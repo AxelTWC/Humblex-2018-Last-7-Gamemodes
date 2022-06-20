@@ -1,0 +1,36 @@
+timestamps:
+  lastteleport: 1499168806737
+  login: 1501954322791
+  logout: 1501954352093
+lastlocation:
+  world: LionHUB
+  x: 116.8185644269505
+  y: 80.0
+  z: -58.69999998807902
+  yaw: -201.43616
+  pitch: -4.9921546
+socialspy: false
+lastAccountName: AidenDejesus
+ipAddress: 120.29.65.228
+logoutlocation:
+  world: LionHUB
+  x: 95.69999998807907
+  y: 47.5
+  z: -48.176743035139054
+  yaw: -7.2506995
+  pitch: 6.469811
+powertools:
+  '266':
+  - tp chanhuanjian AidenDejesus
+  '261':
+  - heal
+godmode: true
+homes:
+  home:
+    world: MainLobby
+    x: -109.69999998807907
+    y: 3.8650836041839254
+    z: 2.512402831502114
+    yaw: -96.800026
+    pitch: 33.450005
+afk: false

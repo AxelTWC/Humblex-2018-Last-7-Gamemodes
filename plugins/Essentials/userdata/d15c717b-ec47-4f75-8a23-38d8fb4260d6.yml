@@ -1,0 +1,33 @@
+lastAccountName: neilnourigat
+timestamps:
+  login: 1519348282798
+  lastteleport: 1512267811054
+  logout: 1519348289934
+ipAddress: 174.218.12.219
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: 2.2245827
+  pitch: -9.053993
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: 1.7585723
+  pitch: -3.9278805
+nickname: §aXxGreenSlimexX58
+money: '0.0'
+godmode: false
+afk: false
+homes:
+  testworld:
+    world: survival
+    x: 28.144140480908913
+    y: 71.0
+    z: -18.983013135928772
+    yaw: 277.54736
+    pitch: 14.173733

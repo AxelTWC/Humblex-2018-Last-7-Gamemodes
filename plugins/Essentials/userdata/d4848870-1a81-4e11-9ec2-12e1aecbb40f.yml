@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: crazyhorse2005
+timestamps:
+  login: 1503804420767
+  logout: 1503804767006
+ipAddress: 174.218.11.75
+lastlocation:
+  world: MainLobby
+  x: 3.5
+  y: 77.0
+  z: -1.5
+  yaw: 236.8429
+  pitch: 11.627836
+logoutlocation:
+  world: MainLobby
+  x: 0.23432545148753828
+  y: 60.0
+  z: -0.2721633101821134
+  yaw: -134.0
+  pitch: -5.5000005

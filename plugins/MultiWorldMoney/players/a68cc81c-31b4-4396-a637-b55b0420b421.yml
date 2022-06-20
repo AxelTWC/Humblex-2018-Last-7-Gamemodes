@@ -1,0 +1,7 @@
+name: PingsClient
+uuid: a68cc81c-31b4-4396-a637-b55b0420b421
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0
+  map: 0.0

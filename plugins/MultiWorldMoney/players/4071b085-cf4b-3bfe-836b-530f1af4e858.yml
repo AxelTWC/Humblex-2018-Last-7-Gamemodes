@@ -1,0 +1,7 @@
+name: chriswinishacker
+uuid: 4071b085-cf4b-3bfe-836b-530f1af4e858
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

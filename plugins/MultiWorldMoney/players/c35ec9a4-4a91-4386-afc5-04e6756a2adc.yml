@@ -1,0 +1,9 @@
+name: CaloricPvP
+uuid: c35ec9a4-4a91-4386-afc5-04e6756a2adc
+logoffworld: LionHUB
+balances:
+  MainLobby: 500.0
+  Factions: 9560.0
+  lobby_practice: 0.0
+  parkour: 0.0
+  LionHUB: 0.0

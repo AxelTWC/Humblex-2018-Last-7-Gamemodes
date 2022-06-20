@@ -1,0 +1,28 @@
+#Set to true to enable, false to disable.
+#The lower the oreSeedDrop the more likely they will drop
+allNeedsPerms: false
+oreSeedDrop: 90
+clasic_bonemeal: true
+bonemealParticles: true
+particle: HAPPY
+sugarcane: true
+cacti: true
+lilypad: true
+dirt: true
+pumpkin: true
+melon: true
+dead_bush: true
+dead_tree: true
+coal_ore_tree: true
+iron_ore_tree: true
+gold_ore_tree: true
+emerald_ore_tree: true
+redstone_ore_tree: true
+diamond_ore_tree: true
+quartz_ore_tree: true
+lapiz_ore_tree: true
+pumpkin_melon_seeds: true
+mossy_cobble: true
+vines: true
+mushrooms: true
+flowers: true

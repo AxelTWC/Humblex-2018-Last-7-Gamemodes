@@ -1,0 +1,20 @@
+Default:
+  Visibility: true
+  Stacker: false
+  Chat: true
+  Vanish: false
+  Fly: false
+  Speed: false
+  Jump: false
+  DoubleJump: false
+Stacker:
+  launch-force: 1
+Speed:
+  level: 2
+Jump:
+  level: 2
+DoubleJump:
+  sound: ENTITY_BAT_TAKEOFF:0
+  velocity:
+    forward: 1.6
+    up: 1.0

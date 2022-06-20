@@ -1,0 +1,6 @@
+name: whoneedsleep
+uuid: 055b434b-7cc1-4808-b5b5-1bfcec65eac4
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

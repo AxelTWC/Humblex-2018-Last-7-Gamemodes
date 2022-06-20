@@ -1,0 +1,154 @@
+Name: common
+RedeemDelay: -1
+'1':
+  type: GLASS
+  amount: 64
+'2':
+  type: QUARTZ_ORE
+  amount: 5
+'3':
+  type: WOOL
+  amount: 64
+'4':
+  type: WOOD
+  amount: 64
+'5':
+  type: DIRT
+  amount: 64
+  durability: 1
+'6':
+  type: DIRT
+  amount: 64
+  durability: 2
+'7':
+  type: STONE
+  amount: 64
+'8':
+  type: GRASS
+  amount: 64
+'9':
+  type: DIRT
+  amount: 64
+'10':
+  type: INK_SACK
+  amount: 64
+  durability: 7
+'11':
+  type: INK_SACK
+  amount: 64
+  durability: 14
+'12':
+  type: INK_SACK
+  amount: 64
+  durability: 13
+'13':
+  type: INK_SACK
+  amount: 64
+  durability: 12
+'14':
+  type: INK_SACK
+  amount: 64
+  durability: 11
+'15':
+  type: INK_SACK
+  amount: 64
+  durability: 10
+'16':
+  type: INK_SACK
+  amount: 64
+  durability: 8
+'17':
+  type: INK_SACK
+  amount: 64
+  durability: 9
+'18':
+  type: INK_SACK
+  amount: 64
+  durability: 15
+'19':
+  type: CLAY_BRICK
+  amount: 64
+'20':
+  type: INK_SACK
+  amount: 64
+'21':
+  type: INK_SACK
+  amount: 64
+  durability: 1
+'22':
+  type: INK_SACK
+  amount: 64
+  durability: 2
+'23':
+  type: INK_SACK
+  amount: 64
+  durability: 3
+'24':
+  type: INK_SACK
+  amount: 64
+  durability: 4
+'25':
+  type: INK_SACK
+  amount: 64
+  durability: 5
+'26':
+  type: INK_SACK
+  amount: 64
+  durability: 6
+'27':
+  type: INK_SACK
+  amount: 64
+  durability: 7
+'28':
+  type: COAL
+  amount: 64
+  durability: 1
+'29':
+  type: COAL
+  amount: 64
+'30':
+  type: NETHER_BRICK_ITEM
+  amount: 64
+'31':
+  type: MELON_SEEDS
+  amount: 10
+'32':
+  type: PUMPKIN_SEEDS
+  amount: 10
+'33':
+  type: FEATHER
+  amount: 64
+'34':
+  type: STRING
+  amount: 64
+'35':
+  type: STICK
+  amount: 64
+'36':
+  type: SULPHUR
+  amount: 64
+'37':
+  type: RAW_FISH
+  amount: 64
+'38':
+  type: APPLE
+  amount: 64
+'39':
+  type: POTATO_ITEM
+  amount: 64
+'40':
+  type: CARROT_ITEM
+  amount: 64
+'41':
+  type: CHEST
+  amount: 10
+'42':
+  type: FURNACE
+  amount: 10
+'43':
+  type: CACTUS
+  amount: 20
+'44':
+  type: SKULL_ITEM
+  amount: 1
+  durability: 1

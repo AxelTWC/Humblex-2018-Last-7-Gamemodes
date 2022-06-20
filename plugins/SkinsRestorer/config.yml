@@ -1,0 +1,34 @@
+# 
+# Mojang API (Used to get our skin data) has request limit:
+# You can only request skin data of the same player only once in 10 minutes
+# 
+# To bypass this, here are some our default alternative APIs to get the skin data
+# Feel free to change them to your own
+DisableOnJoinSkins: false
+SkinChangeCooldown: 30
+Alternatives:
+  SkinPropertyURL: https://mcapi.ca/name/uuid/
+  NEWUUID: http://mcapi.ca/uuid/player/
+DefaultSkins:
+  Enabled: 'false'
+  Names:
+  - Steve
+DisabledSkins:
+  Enabled: false
+  Names:
+  - Steve
+MultiBungee:
+  Enabled: false
+MySQL:
+  Enabled: false
+  Host: localhost
+  Port: 3306
+  Database: db
+  SkinTable: Skins
+  PlayerTable: Players
+  Username: root
+  Password: pass
+Updater:
+  Enabled: true
+SkinWithoutPerm: false
+SkinExpiresAfter: 1

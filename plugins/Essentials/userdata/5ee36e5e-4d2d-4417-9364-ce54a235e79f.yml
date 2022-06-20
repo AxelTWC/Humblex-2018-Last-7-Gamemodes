@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: MrSavageYT
+timestamps:
+  login: 1507408129424
+  lastteleport: 1504611080994
+  logout: 1507408174087
+ipAddress: 81.108.87.69
+lastlocation:
+  world: LionHUB
+  x: 942.9847941585354
+  y: 38.0
+  z: -414.80756805231493
+  yaw: -359.53693
+  pitch: 4.701889
+logoutlocation:
+  world: LionHUB
+  x: 942.9847941585354
+  y: 38.0
+  z: -414.80756805231493
+  yaw: -359.53693
+  pitch: 4.701889
+godmode: false

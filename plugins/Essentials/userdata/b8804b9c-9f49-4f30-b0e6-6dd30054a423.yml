@@ -1,0 +1,21 @@
+lastlocation:
+  world: lobby_practice
+  x: 60.60321611921629
+  y: 79.0
+  z: -2106.4995578233065
+  yaw: -127.20917
+  pitch: -7.6783295
+lastAccountName: SilentGamerPlayz
+timestamps:
+  login: 1521406646691
+  logout: 1521407606124
+  lastteleport: 1521407065435
+ipAddress: 173.79.160.133
+logoutlocation:
+  world: MainLobby
+  x: 17.11728960454848
+  y: 57.0
+  z: -0.4669924599821357
+  yaw: 60.868286
+  pitch: 12.100439
+money: '0.0'

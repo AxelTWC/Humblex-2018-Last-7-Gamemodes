@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: gggkillpc
+timestamps:
+  login: 1502942726191
+  lastteleport: 1502942740297
+  logout: 1502942771864
+ipAddress: 112.202.40.16
+lastlocation:
+  world: LionHUB
+  x: 93.38277641644527
+  y: 46.0
+  z: -55.43350571739258
+  yaw: 2.4886658
+  pitch: -0.36106285
+logoutlocation:
+  world: MainLobby
+  x: 17.894505997135603
+  y: 57.0
+  z: -2.361538812538913
+  yaw: 183.23645
+  pitch: 7.1763496

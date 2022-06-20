@@ -1,0 +1,7 @@
+name: kittenlazer
+uuid: df19dfdb-f5bc-42d5-852e-7ff07723df96
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

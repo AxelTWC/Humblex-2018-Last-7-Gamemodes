@@ -1,0 +1,6 @@
+airHorizontalMultiplier: 0.8
+airVerticalMultiplier: 0.9
+horizontalMultiplier: 0.85
+verticalMultiplier: 0.95
+permission: smoothknockback.kb
+permissionMessage: Unknown command. Type "/help" for help.

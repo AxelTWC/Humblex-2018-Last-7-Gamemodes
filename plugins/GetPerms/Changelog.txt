@@ -1,0 +1,174 @@
+Changelog:
+
+v1.1.16 (1/21/16)
+Fix incorrect version
+Improved version comparison
+Renamed package to use lowercase names
+
+v1.1.15 (12/10/15)
+Updates are no longer downloaded if it has already been downloaded and matches the checksum
+Update command now displays output to the running player
+Extra plugin-specific permissions now download from the plugin permission "database" when applicable
+Updater retries under specific failure conditions (Curse ServerMods API returns empty JSON array or bad HTTP response code)
+
+v1.1.14 (11/25/15)
+Fixed the updater creating a folder instead of a file for updates
+Refractored and cleaned up the update system
+Added an update command, /getperms update
+Update system now uses the Curse ServerMods API for release files
+Changed update system to verify update files based on MD5 checksum instead of specific HTML elements (release files only)
+
+v1.1.13 (11/24/15)
+Fixed plugins.yml not saving
+Added another file to cleanup
+
+v1.1.12 (11/24/15)
+Cleaned up a lot more code
+Reduced redundant code
+Reduced console output message count
+Fixed always regenerating files when regenerateOnPluginChange was set to true
+Improved command handling
+Changed initial permission list generation delay from 20 seconds to 5 seconds
+Changed configuration option autoGen to autoGenerate
+Changed default configuration to make default behavior generate only when a plugin changes (autoGenerate changed to false)
+pnodes.txt and pnodesfull.txt renamed to permission_nodes.txt and permission_nodes_desc.txt, respectively
+Permission list files are now output to the plugin folder instead of the server directory
+Plugin update jars are now downloaded to the plugin folder instead of update/
+Automatically cleans up old files left from file name changes
+
+v1.1.11 (11/23/15)
+Updated metrics from R6 to R7
+
+v1.1.10 (11/14/15)
+Cleaned up and code and slightly changed coding style/convention
+
+v1.1.9 (5/6/13)
+Added update download validity checker (checks for HTML elements in file, if found, invalid)
+
+v1.1.8 (5/6/13)
+Added check to prevent double file generation at startup
+Re-worded configuration file key descriptions
+Moved redundant code to separate methods (changelog and readme downloaders)
+New shiny command messages (for /getperms and /getperms help)
+Moved redundant code to new class (command usage generator)
+Changed one console message to be a one-time message only (less server message spam!)
+Slightly modified command handling
+Forgot to rename a permission node in plugin.yml (from copy and paste)
+
+v1.1.7 (5/6/13)
+Refractored file generation
+Removed /gpregen and /getpermsregen commands
+Added /getperms reload and /getperms help (you can still use /gp)
+Re-did command help message
+Optimized code
+Official support for Bukkit 1.5.1-R0.2
+ACTUALLY FIXED FileNotFoundException from v0.0.7
+
+v1.1.6 (8/18/12)
+Fixed regeneration on plugin change
+Changed config handling
+Bug: firstRun remains true
+Bug: cfgV does not change
+
+v1.1.5 (8/18/12) --Broken--
+Added option in config to automatically regenerate permission files when a plugin is added/removed/updated
+Slight code formatting
+Slight code cleanup
+Minor changes
+
+v1.1.4 (5/10/12)
+Fixed missing console output messages (Issue 8)
+
+v1.1.3 (5/9/12)
+Fixed NullPointerException (Plugin failed to load) (Issue 7)
+
+v1.1.2 (5/7/12)
+Fixed AccessControlException (Issue 6)
+Attempt to fix the messages not being displayed in the console
+Shortened a few method names
+
+v1.1.1 (4/23/12)
+Added temporary method to download plugin nodes from database
+Shortened log output
+Minor changes
+
+v1.1.0 (4/21/12)
+Minor change in command usage message
+
+v1.0.9 (4/10/12)
+Minor change in console output to make messages shorter
+Added silentMode, control via config
+
+v1.0.8 (3/24/12)
+Fixed NPE in 1.0.7 (for real)
+Minor changes
+
+v1.0.7 (3/12/12) --Broken--
+Fixed NPE in 1.0.6
+
+v1.0.6 (3/8/12) --Broken--
+Minor bugfixes
+Removed unneeded code
+
+v1.0.5 (3/6/12)
+Added usage stat sending
+Start of database retrieval
+Minor changes here and there
+
+v1.0.4 (3/5/12)
+Removed StringBuilders
+Cleaned code
+Preparing to retrieve permission nodes from the database
+
+v1.0.3 (3/1/12)
+Fixed always downloading developmental build regardless of config
+
+v1.0.2 (3/1/12)
+Updated plugin to use new URL's; forgot to update in 1.0.1
+
+v1.0.1 (3/1/12)
+Change to method used to download files
+Now downloads the latest recommended build, not the dev build
+Added devBuilds key to config, to control downloading the latest devbuild or recommended build.
+Actually fixed plugin always downloading ReadMe and Changelog files. The plugin is only supposed to download them when the plugin is updated.
+
+v1.0.0 (2/28/12)
+Major release
+Added command to regenerate the permissions files, or generate it if it doesn't exist.
+Useful if you set autoGen to false.
+PermissionsEx support for the command (also supports whatever PEX supports)
+Fixed plugin always downloading the ReadMe and Changelog files at each startup
+
+v0.0.7 (2/21/12)
+Added disable on finish in config
+Control disable on finish in config
+Added a class to create the popular comments in the config.yml
+Minor logger message changes
+
+v0.0.6 (2/21/12)
+Added debug mode in config
+Added auto-download in config
+Control debug mode via config
+Control auto-download via config
+
+v0.0.5 (2/21/12)
+Config is used
+Control auto-update via config
+Control auto-generate via config
+
+v0.0.4 (2/21/12)
+Major code change
+Split code into multiple class files/methods
+Added auto-update feature
+Added config file (empty now)
+Just wanted to get this out now
+0.0.5 Coming out soon!
+
+v0.0.3 (2/18/12)
+Minor change for unnecessary newlines being generated
+
+v0.0.2 (2/17/12)
+Minor change to console output
+
+v0.0.1 (2/16/11)
+Initial release

@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 746.6129042795093
+  y: 8.419999986886978
+  z: 3547.0631883043025
+  yaw: -172.77498
+  pitch: 8.356731
+money: '0.0'
+lastAccountName: CreeperAsassin
+timestamps:
+  login: 1517699468450
+  lastteleport: 1517699675474
+  kits:
+    starter: 1517699707305
+  logout: 1517699810452
+ipAddress: 72.192.125.204
+logoutlocation:
+  world: Factions
+  x: 113.30895278874969
+  y: 68.0
+  z: -289.23044178477267
+  yaw: 158.20999
+  pitch: 9.721332

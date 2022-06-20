@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: itakealotofls
+timestamps:
+  login: 1501189191035
+  lastteleport: 1501189202383
+  logout: 1501189306160
+ipAddress: 99.43.249.36
+lastlocation:
+  world: LionHUB
+  x: 49.67854974025322
+  y: 4.0
+  z: -91.50966348213015
+  yaw: -95.206696
+  pitch: 7.659998
+logoutlocation:
+  world: MainLobby
+  x: 32.16005070712205
+  y: 57.0
+  z: -11.204596774780295
+  yaw: -2.4069214
+  pitch: 26.724098

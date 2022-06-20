@@ -1,0 +1,36 @@
+lastAccountName: Fondyy
+socialspy: false
+timestamps:
+  login: 1517967876688
+  lastteleport: 1517888966098
+  logout: 1517967960958
+  kits:
+    starter: 1517888969654
+    keys: 1512098506163
+    rouge: 1511920622308
+    bard: 1511920591355
+ipAddress: 47.221.12.83
+lastlocation:
+  world: lobby_practice
+  x: 280.6652934958653
+  y: 75.0
+  z: -2515.8288186679597
+  yaw: 64.07902
+  pitch: 15.976372
+homes:
+  home:
+    world: LionHUB
+    x: 774.045613996378
+    y: 8.0
+    z: -231.26369945949546
+    yaw: 137.65778
+    pitch: 63.300148
+logoutlocation:
+  world: LionHUB
+  x: 784.6988682996259
+  y: 5.5
+  z: 3605.704616161751
+  yaw: -205.2109
+  pitch: -7.1344843
+afk: false
+money: '0.0'

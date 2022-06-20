@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: iWeevee
+timestamps:
+  login: 1505334702945
+  logout: 1505334731369
+  lastteleport: 1505331093622
+ipAddress: 67.71.132.94
+logoutlocation:
+  world: LionHUB
+  x: 93.17560911430871
+  y: 49.0
+  z: -45.30000001192093
+  yaw: 184.34729
+  pitch: 48.455067
+lastlocation:
+  world: LionHUB
+  x: 943.3572382504397
+  y: 38.5
+  z: -365.11727356986484
+  yaw: 177.44377
+  pitch: 50.2122

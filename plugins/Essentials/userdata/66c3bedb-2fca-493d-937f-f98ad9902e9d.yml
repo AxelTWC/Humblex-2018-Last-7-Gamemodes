@@ -1,0 +1,21 @@
+lastAccountName: local__host
+timestamps:
+  login: 1503399176452
+  lastteleport: 1503399195660
+  logout: 1503399552646
+ipAddress: 218.215.31.98
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: -177.08827
+  pitch: 4.2435355
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

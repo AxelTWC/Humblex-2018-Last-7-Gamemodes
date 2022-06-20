@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: marcos1738
+timestamps:
+  login: 1516235753489
+  lastteleport: 1516229456370
+  logout: 1516236657184
+ipAddress: 73.232.160.67
+lastlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -0.47781372
+  pitch: -3.5336792
+logoutlocation:
+  world: LionHUB
+  x: 936.637878156722
+  y: 37.0
+  z: -419.40831519794165
+  yaw: -146.42603
+  pitch: 24.89993
+money: '501.0'

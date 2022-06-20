@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Qertyn
+timestamps:
+  login: 1504351256555
+  lastteleport: 1504114680801
+  logout: 1504351260655
+ipAddress: 95.160.153.163
+lastlocation:
+  world: LionHUB
+  x: 93.63221815356023
+  y: 46.0
+  z: -66.70671588738921
+  yaw: 17.072287
+  pitch: 3.0658684
+logoutlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: -0.7917265
+  pitch: 13.22901

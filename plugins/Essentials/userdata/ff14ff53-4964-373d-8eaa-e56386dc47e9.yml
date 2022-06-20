@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: JANSREK
+timestamps:
+  login: 1503401274618
+  logout: 1503401721927
+  lastteleport: 1503401522132
+ipAddress: 79.182.4.71
+logoutlocation:
+  world: MainLobby
+  x: 19.80845441485623
+  y: 58.0
+  z: 0.5310003469889089
+  yaw: -89.0
+  pitch: 4.050554
+lastlocation:
+  world: LionHUB
+  x: 93.4489335328493
+  y: 48.0
+  z: -46.56736240834281
+  yaw: 1.2709961
+  pitch: 8.451001

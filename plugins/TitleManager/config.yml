@@ -1,0 +1,33 @@
+usingConfig: true
+config-version: 3
+using-bungeecord: false
+legacy-client-support: false
+updater:
+  check-automatically: false
+tabmenu:
+  enabled: false
+  header: '&3Humblex\n&bPVP!\n&fHave Fun!'
+  footer: animation:test1
+welcome_message:
+  enabled: false
+  title: '&7Welcome back &a{PLAYER}&7!'
+  subtitle: '&7To humblex server'
+  fadeIn: 20
+  stay: 40
+  fadeOut: 20
+  first-join:
+    title: '&7Welcome to Humblex &a{PLAYER}'
+    subtitle: '&7Hope you enjoy your stay!'
+actionbar-welcome:
+  enabled: false
+  message: '&a&lWelcome!'
+  first-join:
+    message: '&2&lWelcome It''s your first time!'
+number-format:
+  enabled: false
+  format: '#,###.##'
+date-format:
+  format: EEE, dd MMM yyyy HH:mm:ss z
+disabled-variables:
+- my-disabled-variable
+- also-called-placeholders

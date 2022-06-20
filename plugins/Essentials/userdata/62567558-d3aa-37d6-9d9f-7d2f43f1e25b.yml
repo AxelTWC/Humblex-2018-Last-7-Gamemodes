@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 3.3159490863842978
+  y: 60.0
+  z: 0.3927571913885106
+  yaw: -179.72731
+  pitch: 7.3466277
+lastAccountName: chriswin
+timestamps:
+  login: 1517327427099
+  logout: 1517327546842
+  lastteleport: 1517327454034
+ipAddress: 141.237.239.141
+logoutlocation:
+  world: UhcMeetup
+  x: 143.50669744081338
+  y: 67.0
+  z: 102.8882517449738
+  yaw: -28.729214
+  pitch: 19.518877
+money: '0.0'

@@ -1,0 +1,21 @@
+lastAccountName: FurySlayer
+timestamps:
+  login: 1502300149018
+  lastteleport: 1502300168130
+  logout: 1502300172285
+ipAddress: 90.201.209.224
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.1503060609414
+  y: 47.0
+  z: -48.34850825161922
+  yaw: -7.7511797
+  pitch: -4.3188624
+logoutlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: -89.913536
+  pitch: 2.2263546

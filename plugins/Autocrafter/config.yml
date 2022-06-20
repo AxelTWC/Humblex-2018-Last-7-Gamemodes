@@ -1,0 +1,12 @@
+debug: false
+use-permissions: true
+messages:
+  no-permission: Sorry, you don't have permission to create an Autocrafter of that type.
+world-selection: whitelist
+world-list:
+- test
+- world_the_end
+- world_nether
+recipe-selection: blacklist
+recipe-list: []
+auto-update: 'true'

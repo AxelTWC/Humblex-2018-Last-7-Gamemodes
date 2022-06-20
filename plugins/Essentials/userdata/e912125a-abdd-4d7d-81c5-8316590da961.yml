@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Vince__Games
+timestamps:
+  login: 1505251720019
+  lastteleport: 1505251739928
+  logout: 1505251884735
+ipAddress: 107.185.213.186
+lastlocation:
+  world: LionHUB
+  x: 92.64000409406788
+  y: 46.0
+  z: -56.85829088720819
+  yaw: 186.34688
+  pitch: 28.176529
+logoutlocation:
+  world: MainLobby
+  x: 23.27241144897611
+  y: 57.0
+  z: -13.227425808844679
+  yaw: 48.003662
+  pitch: 13.461004

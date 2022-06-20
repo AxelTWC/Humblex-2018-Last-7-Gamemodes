@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Dolv_YT
+timestamps:
+  login: 1510319988829
+  lastteleport: 1505518846338
+  logout: 1510320114641
+ipAddress: 202.62.17.43
+lastlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: 359.79367
+  pitch: -3.1536071
+godmode: false
+logoutlocation:
+  world: LionHUB
+  x: 942.972146931423
+  y: 37.0
+  z: -461.98441142693775
+  yaw: 359.5222
+  pitch: -3.5336792

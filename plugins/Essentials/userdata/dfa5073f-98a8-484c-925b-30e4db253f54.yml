@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: fishingboy100
+timestamps:
+  login: 1502739191063
+  lastteleport: 1502739219484
+  logout: 1502739229937
+ipAddress: 74.74.128.17
+lastlocation:
+  world: LionHUB
+  x: 93.43425551443747
+  y: 46.0
+  z: -68.08625186601252
+  yaw: -183.90306
+  pitch: 12.191436
+logoutlocation:
+  world: MainLobby
+  x: 34.26287568345751
+  y: 58.170787077218804
+  z: -4.373637077839495
+  yaw: -182.54712
+  pitch: 42.50189

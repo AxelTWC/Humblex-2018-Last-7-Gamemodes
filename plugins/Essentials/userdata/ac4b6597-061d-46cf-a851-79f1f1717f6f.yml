@@ -1,0 +1,62 @@
+lastAccountName: XxMrJGamerzxX
+timestamps:
+  login: 1520839768213
+  lastteleport: 1520840912418
+  logout: 1520841930463
+  kits:
+    starter: 1520840958675
+ipAddress: 84.93.92.203
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 713.1888431153479
+  y: 27.424605827386856
+  z: 3610.3447690984012
+  yaw: -114.55534
+  pitch: 25.890116
+homes:
+  island:
+    world: ASkyBlock
+    x: -205.5517036951889
+    y: 118.0
+    z: 195.2374017616735
+    yaw: 188.84985
+    pitch: 30.749945
+  dragon:
+    world: LionHUB
+    x: 1262.9841603256045
+    y: 77.0
+    z: -692.8940646294444
+    yaw: 246.39848
+    pitch: 56.100384
+  lobby:
+    world: parkour
+    x: 0.4336247048568531
+    y: 19.0
+    z: 0.3965817971577069
+    yaw: 0.3005371
+    pitch: 24.749975
+  survival:
+    world: LionHUB
+    x: 1168.6401201081594
+    y: 20.0
+    z: 543.3712659231019
+    yaw: -43.087585
+    pitch: 27.300035
+logoutlocation:
+  world: HCF
+  x: -17.699999988079078
+  y: 68.0
+  z: 3.6999999880790635
+  yaw: 54.356445
+  pitch: 23.439684
+money: '0.0'
+afk: false
+godmode: false
+powertools:
+  '394':
+  - smite Sloth17
+  '5':
+  - /set 0
+  '12':
+  - fireball

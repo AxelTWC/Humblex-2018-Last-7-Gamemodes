@@ -1,0 +1,6 @@
+name: Asmodak
+uuid: c723a90b-efea-44b5-a11f-59273f5522ec
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

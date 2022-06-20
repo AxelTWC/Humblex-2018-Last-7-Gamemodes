@@ -1,0 +1,21 @@
+lastAccountName: fuzilog
+socialspy: false
+timestamps:
+  login: 1506275302994
+  lastteleport: 1506275313153
+  logout: 1506275293051
+ipAddress: 88.146.158.144
+lastlocation:
+  world: LionHUB
+  x: 93.54085992004548
+  y: 46.0
+  z: -60.15687136715848
+  yaw: -1.4132125
+  pitch: 11.762165
+logoutlocation:
+  world: lobby_practice
+  x: 534.2367103545726
+  y: 4.0
+  z: -3239.135336216024
+  yaw: 305.7895
+  pitch: -15.251613

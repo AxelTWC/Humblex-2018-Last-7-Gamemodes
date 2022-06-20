@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1499479094307
+  login: 1499478985240
+  logout: 1499479092348
+lastlocation:
+  world: MainLobby
+  x: 4.5409382514834205
+  y: 60.670787077218804
+  z: 0.0026808855548601795
+  yaw: 75.43848
+  pitch: 0.72860223
+lastAccountName: Collorz
+ipAddress: 98.167.53.220
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 94.5
+  y: 45.0
+  z: -63.5
+  yaw: -179.4159
+  pitch: 90.0

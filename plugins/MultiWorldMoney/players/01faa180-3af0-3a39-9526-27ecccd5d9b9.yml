@@ -1,0 +1,6 @@
+name: Mmicky
+uuid: 01faa180-3af0-3a39-9526-27ecccd5d9b9
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

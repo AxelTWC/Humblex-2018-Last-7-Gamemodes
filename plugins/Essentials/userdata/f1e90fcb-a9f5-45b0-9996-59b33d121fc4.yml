@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: wolfhunter73
+timestamps:
+  login: 1505523658475
+  lastteleport: 1505523665307
+  logout: 1505523720212
+ipAddress: 162.251.127.107
+lastlocation:
+  world: LionHUB
+  x: 93.48971705966687
+  y: 46.0
+  z: -60.61113806436953
+  yaw: 1.1386657
+  pitch: -1.4110628
+logoutlocation:
+  world: MainLobby
+  x: 26.30000001192093
+  y: 59.0
+  z: 3.1070044010208973
+  yaw: -248.31386
+  pitch: -30.000408

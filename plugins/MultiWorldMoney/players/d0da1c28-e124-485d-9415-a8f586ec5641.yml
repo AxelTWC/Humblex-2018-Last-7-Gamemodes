@@ -1,0 +1,6 @@
+name: DiscoverPat
+uuid: d0da1c28-e124-485d-9415-a8f586ec5641
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

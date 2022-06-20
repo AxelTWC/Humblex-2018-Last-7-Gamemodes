@@ -1,0 +1,35 @@
+socialspy: true
+lastAccountName: WARRIOR_LINKER
+timestamps:
+  login: 1521589667239
+  lastteleport: 1521245197716
+  logout: 1521589662064
+  kits:
+    starter: 1517852368193
+    god: 1517588791109
+ipAddress: 98.5.126.13
+lastlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+afk: false
+godmode: false
+money: '0.0'
+homes:
+  home:
+    world: map
+    x: -945.4797185814971
+    y: 133.0
+    z: 144.49407904409952
+    yaw: 179.79578
+    pitch: -0.8208445

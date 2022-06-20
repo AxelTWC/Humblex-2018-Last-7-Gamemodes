@@ -1,0 +1,23 @@
+timestamps:
+  lastteleport: 1499852226943
+  login: 1499852191626
+  logout: 1499852225891
+lastlocation:
+  world: MainLobby
+  x: 42.77832324286657
+  y: 59.5
+  z: 0.6217172686128133
+  yaw: 42.87143
+  pitch: 44.3865
+lastAccountName: chanhuanjian
+ipAddress: 42.60.157.121
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845
+godmode: false
+afk: false

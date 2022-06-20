@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 14.838858103297657
+  y: 57.0
+  z: -0.6759833499300352
+  yaw: -104.16354
+  pitch: 7.7763543
+lastAccountName: AgentCactiYT
+timestamps:
+  login: 1518026172407
+  lastteleport: 1517973023874
+  logout: 1517973040900
+ipAddress: 75.187.61.230
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901

@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 746.1237927230359
+  y: 7.0
+  z: 3625.7580734117373
+  yaw: -80.505486
+  pitch: 17.490099
+lastAccountName: MaSikStudio
+timestamps:
+  login: 1521163413412
+  lastteleport: 1521100819143
+  logout: 1521163541415
+  kits:
+    starter: 1514547539043
+ipAddress: 112.204.220.189
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+money: '500.0'

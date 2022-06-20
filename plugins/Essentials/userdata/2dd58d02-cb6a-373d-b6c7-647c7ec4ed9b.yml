@@ -1,0 +1,23 @@
+lastlocation:
+  world: Factions
+  x: 284.30000001192093
+  y: 33.39270211661124
+  z: 489.69999998807907
+  yaw: -152.68764
+  pitch: -54.668316
+lastAccountName: dusan76
+timestamps:
+  login: 1516632367663
+  lastteleport: 1516635713204
+  logout: 1516635917927
+  kits:
+    starter: 1516632311035
+ipAddress: 178.149.95.234
+money: '0.0'
+logoutlocation:
+  world: Factions_Nether
+  x: 59.0
+  y: 78.0
+  z: -245.0
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: NovioDeLaMuerte
+timestamps:
+  login: 1502227703254
+  lastteleport: 1502227709606
+  logout: 1502227715554
+ipAddress: 84.78.208.125
+lastlocation:
+  world: LionHUB
+  x: 93.50644995010225
+  y: 47.104080378093045
+  z: -48.5153295428224
+  yaw: 0.15735136
+  pitch: -3.7172031
+logoutlocation:
+  world: MainLobby
+  x: 9.347403956598557
+  y: 60.0
+  z: 0.7106615490680598
+  yaw: -90.04407
+  pitch: 4.097374

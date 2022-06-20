@@ -1,0 +1,11 @@
+# ChestCommands configuration file.
+# Tutorial: http://dev.bukkit.org/bukkit-plugins/chest-commands
+
+default-color:
+  name: '&2'
+  lore: '&6'
+multiple-commands-separator: ;
+use-only-commands-without-args: false
+update-notifications: true
+use-console-colors: true
+anti-click-spam-delay: 5

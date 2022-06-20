@@ -1,0 +1,57 @@
+#_____________________
+# All Message Options | Colors with &
+#_____________________|
+target-stacker-disabled: '&9The target player has &6stacker &4disabled'
+player-stacker-disabled: '&9You have &6stacker &4disabled!'
+no-permissions: '&cYou do not have permissions to do that'
+#______________________
+#   Lobby Preferences  |
+#______________________| 
+#This is the name of the item to activate or disable stacker
+Stacker-Item-Name: '&aPlayer cowboy'
+#This is the name of the item to activate or disable chat
+Chat-Item-Name: '&aRecieve chat'
+#This is the name of the item to activate Player Visibility
+Visibility-Item-Name: '&9Hide all players'
+Visibility2-Item-Name: '&9Show friends'
+Visibility3-Item-Name: '&9Show everybody'
+#This is the lore of the item
+Visibility-lore: '&7Dont show any players.'
+Visibility2-lore: '&7Only show your friends.'
+Visibility3-lore: '&7Show all the players in the lobbies!'
+#Others items lore
+Friends-lore: '&7Choose if you recieve friend requests!'
+Chat-lore: '&7Receive chat in the lobbies!'
+Stacker-lore: '&7Allow or deny players to be a able ride you!'
+#This is the name of the item to activate Friend Request
+Friend-Item-Name: '&aFriend requests'
+#_______________
+#   Menu Items  |
+#_______________|
+#This is the name of the item to go to the lobby preferences
+lobby-options-name: '&6&k::&5&lSettings&6&k::'
+#If this is set to false the glass on the lobby preferences menu will not be shown
+lobby-preferences-glass: false
+#_______________
+#   Menu Names  |
+#_______________|
+#This is the name of the lobby preferences menu
+lobby-preferences-menu-name: '&e&lSETTINGS'
+#_______________
+#   Items Lore  |
+#_______________|
+#This is the lore "click to enable" of the item to enable or disable options 
+click-to-enable-item-lore: '&6Click to &aenable'
+#This is the lore "click to disable" of the item to enable or disable options
+click-to-disable-item-lore: '&6Click to &cdisable'
+#This is the name of the item when an option is "On"
+item-on: '&a&lEnable'
+#This is the name of the item when an option is "Off"
+item-off: '&c&lDisable'
+#_____________________
+#   Per World Options |
+#_____________________|
+#If this is set to false, the plugin will work on all worlds !
+per-world: true
+#Here is the world that you want the plugin to work...
+world-to-work: MainLobby

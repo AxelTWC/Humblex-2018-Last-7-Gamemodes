@@ -1,0 +1,5 @@
+stat:
+  LOGIN: '1'
+  PLAYERS_KILLED: '2'
+  DEATHS: '1'
+  PLAYER_KILLSTREAK: '2'

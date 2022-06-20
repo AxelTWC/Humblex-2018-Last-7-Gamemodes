@@ -1,0 +1,23 @@
+lastAccountName: HeyItzMike_
+timestamps:
+  login: 1501631532680
+  lastteleport: 1501631555626
+  logout: 1501632304332
+  mute: 0
+ipAddress: 24.129.6.231
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 90.93166069455049
+  y: 46.5
+  z: -66.0973687794604
+  yaw: 80.96338
+  pitch: 29.863855
+logoutlocation:
+  world: MainLobby
+  x: 4.230519573188147
+  y: 60.5
+  z: 2.3127153371763933
+  yaw: 7.737488
+  pitch: 15.498831
+muted: true

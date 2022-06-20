@@ -1,0 +1,193 @@
+Achievements:
+  kills:
+    '10':
+      description: Get 10 kills!
+      prize-description: Earn 100 coins!
+      executed-command: ew coins add %player% 100
+    '30':
+      description: Get 30 kills!
+      prize-description: Earn 300 coins!
+      executed-command: ew coins add %player% 300
+    '50':
+      description: Get 50 kills!
+      prize-description: Earn 500 coins!
+      executed-command: ew coins add %player% 500
+    '100':
+      description: Get 100 kills!
+      prize-description: Earn 1000 coins!
+      executed-command: ew coins add %player% 1000
+    '150':
+      description: Get 150 kills!
+      prize-description: Earn 1500 coins!
+      executed-command: ew coins add %player% 1500
+    '200':
+      description: Get 200 kills!
+      prize-description: Earn 2000 coins!
+      executed-command: ew coins add %player% 2000
+    '500':
+      description: Get 500 kills!
+      prize-description: Earn 5000 coins!
+      executed-command: ew coins add %player% 5000
+    '1000':
+      description: Get 1000 kills!
+      prize-description: Earn 10000 coins!
+      executed-command: ew coins add %player% 10000
+  wins:
+    '1':
+      description: Win 1 game(s)!
+      prize-description: Earn 100 coins!
+      executed-command: ew coins add %player% 100
+    '5':
+      description: Win 5 game(s)!
+      prize-description: Earn 500 coins!
+      executed-command: ew coins add %player% 500
+    '10':
+      description: Win 10 game(s)!
+      prize-description: Earn 1000 coins!
+      executed-command: ew coins add %player% 1000
+    '20':
+      description: Win 20 game(s)!
+      prize-description: Earn 2000 coins!
+      executed-command: ew coins add %player% 2000
+    '50':
+      description: Win 50 game(s)!
+      prize-description: Earn 5000 coins!
+      executed-command: ew coins add %player% 5000
+    '100':
+      description: Win 100 game(s)!
+      prize-description: Earn 10000 coins!
+      executed-command: ew coins add %player% 10000
+  projectiles_launched:
+    '50':
+      description: Launch 50 projectile!
+      prize-description: Earn 50 coins!
+      executed-command: ew coins add %player% 50
+    '100':
+      description: Launch 100 projectile!
+      prize-description: Earn 100 coins!
+      executed-command: ew coins add %player% 100
+    '500':
+      description: Launch 500 projectile!
+      prize-description: Earn 500 coins!
+      executed-command: ew coins add %player% 500
+    '1000':
+      description: Launch 1000 projectile!
+      prize-description: Earn 1000 coins!
+      executed-command: ew coins add %player% 1000
+    '3000':
+      description: Launch 3000 projectile!
+      prize-description: Earn 3000 coins!
+      executed-command: ew coins add %player% 3000
+  projectiles_hit:
+    '25':
+      description: Hit 25 projectile!
+      prize-description: Earn 50 coins!
+      executed-command: ew coins add %player% 50
+    '50':
+      description: Hit 50 projectile!
+      prize-description: Earn 100 coins!
+      executed-command: ew coins add %player% 100
+    '100':
+      description: Hit 100 projectile!
+      prize-description: Earn 200 coins!
+      executed-command: ew coins add %player% 200
+    '250':
+      description: Hit 250 projectile!
+      prize-description: Earn 500 coins!
+      executed-command: ew coins add %player% 500
+    '500':
+      description: Hit 500 projectile!
+      prize-description: Earn 1000 coins!
+      executed-command: ew coins add %player% 1000
+    '1000':
+      description: Hit 1000 projectile!
+      prize-description: Earn 2000 coins!
+      executed-command: ew coins add %player% 2000
+  player_rank:
+    '5':
+      description: Reach rank 5!
+      prize-description: Earn 500 coins!
+      executed-command: ew coins add %player% 500
+    '10':
+      description: Reach rank 10!
+      prize-description: Earn 1000 coins!
+      executed-command: ew coins add %player% 1000
+    '15':
+      description: Reach rank 15!
+      prize-description: Earn 1500 coins!
+      executed-command: ew coins add %player% 1500
+    '20':
+      description: Reach rank 20!
+      prize-description: Earn 2000 coins!
+      executed-command: ew coins add %player% 2000
+    '25':
+      description: Reach rank 25!
+      prize-description: Earn 2500 coins!
+      executed-command: ew coins add %player% 2500
+    '30':
+      description: Reach rank 30!
+      prize-description: Earn 3000 coins!
+      executed-command: ew coins add %player% 3000
+  blocks_placed:
+    '50':
+      description: Place 50 block(s)!
+      prize-description: Earn 50 coins!
+      executed-command: ew coins add %player% 50
+    '200':
+      description: Place 200 block(s)!
+      prize-description: Earn 200 coins!
+      executed-command: ew coins add %player% 200
+    '400':
+      description: Place 400 block(s)!
+      prize-description: Earn 400 coins!
+      executed-command: ew coins add %player% 400
+    '1000':
+      description: Place 1000 block(s)!
+      prize-description: Earn 1000 coins!
+      executed-command: ew coins add %player% 1000
+    '2000':
+      description: Place 2000 block(s)!
+      prize-description: Earn 2000 coins!
+      executed-command: ew coins add %player% 2000
+  blocks_broken:
+    '50':
+      description: Break 50 block(s)!
+      prize-description: Earn 50 coins!
+      executed-command: ew coins add %player% 50
+    '200':
+      description: Break 200 block(s)!
+      prize-description: Earn 200 coins!
+      executed-command: ew coins add %player% 200
+    '400':
+      description: Break 400 block(s)!
+      prize-description: Earn 400 coins!
+      executed-command: ew coins add %player% 400
+    '1000':
+      description: Break 1000 block(s)!
+      prize-description: Earn 1000 coins!
+      executed-command: ew coins add %player% 1000
+    '2000':
+      description: Break 2000 block(s)!
+      prize-description: Earn 2000 coins!
+      executed-command: ew coins add %player% 2000
+  eggs_broken:
+    '1':
+      description: Break 1 egg(s)!
+      prize-description: Earn 50 coins!
+      executed-command: ew coins add %player% 50
+    '10':
+      description: Break 10 egg(s)!
+      prize-description: Earn 500 coins!
+      executed-command: ew coins add %player% 500
+    '25':
+      description: Break 25 egg(s)!
+      prize-description: Earn 1250 coins!
+      executed-command: ew coins add %player% 1250
+    '50':
+      description: Break 50 egg(s)!
+      prize-description: Earn 2500 coins!
+      executed-command: ew coins add %player% 2500
+    '100':
+      description: Break 100 egg(s)!
+      prize-description: Earn 5000 coins!
+      executed-command: ew coins add %player% 5000

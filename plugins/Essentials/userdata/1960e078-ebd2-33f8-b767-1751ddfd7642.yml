@@ -1,0 +1,24 @@
+timestamps:
+  lastteleport: 1515352454042
+  login: 1515356142054
+  logout: 1515356147111
+  kits:
+    starter: 1514040089386
+lastlocation:
+  world: Factions
+  x: 1425.839746675619
+  y: 35.0
+  z: 179.82526600489874
+  yaw: -95.875015
+  pitch: 5.249977
+lastAccountName: kolohen3
+socialspy: false
+ipAddress: 89.123.36.134
+logoutlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -6.9278135
+  pitch: 3.0663211
+money: '500.0'

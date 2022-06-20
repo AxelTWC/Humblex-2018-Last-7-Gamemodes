@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: greekcghris
+timestamps:
+  login: 1506181556261
+  lastteleport: 1506181623115
+  logout: 1506181646725
+ipAddress: 94.64.237.205
+lastlocation:
+  world: LionHUB
+  x: 93.12783300050194
+  y: 46.0
+  z: -61.43302582968423
+  yaw: -5.216554
+  pitch: 9.258379
+logoutlocation:
+  world: MainLobby
+  x: 18.861712973864016
+  y: 57.0
+  z: 2.8391341023087393
+  yaw: -121.2768
+  pitch: 7.2339287

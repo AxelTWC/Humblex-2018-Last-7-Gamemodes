@@ -1,0 +1,86 @@
+on load:
+	if folder "plugins/StatsGUI" doesn't exists:
+		create folder "plugins/StatsGUI"
+	if file "plugins/StatsGUI/config.yml" doesn't exists:
+		create file "plugins/StatsGUI/config.yml"
+		wf "GUIName: '&8Stats'" to "plugins/StatsGUI/config.yml"
+		wf "Kills: '&c&lKills'" to "plugins/StatsGUI/config.yml"
+		wf "Deaths: '&4&lDeaths'" to "plugins/StatsGUI/config.yml"
+		wf "BreakBlock: '&e&lBreak Blocks'" to "plugins/StatsGUI/config.yml"
+		wf "PlaceBlock: '&a&lPlace Blocks'" to "plugins/StatsGUI/config.yml"
+	else:
+		set {guiname} to coloured value "GUIName" get of "plugins/StatsGUI/config.yml"
+		set {kills} to coloured value "Kills" get of "plugins/StatsGUI/config.yml"
+		set {deaths} to coloured value "Deaths" get of "plugins/StatsGUI/config.yml"
+		set {break} to coloured value "BreakBlock" get of "plugins/StatsGUI/config.yml"
+		set {place} to coloured value "PlaceBlock" get of "plugins/StatsGUI/config.yml"
+
+variables:
+	{stats.%player%.kills_total} = 0
+	{stats.%player%.death_total} = 0
+	{stats.%player%.break} = 0
+	{stats.%player%.place} = 0
+	{stats.%player%.projectile_hit} = 0
+	
+on death of player:
+	attacker is a player
+	add 1 to {stats.%attacker%.kills_total}
+		
+on death of player:
+	add 1 to {stats.%player%.death_total}
+	
+on break:
+	add 1 to {stats.%player%.break}
+	
+on place:
+	add 1 to {stats.%player%.place}
+	
+command /stats [<text>] [<player>]:
+	description: Show information and commands plugin
+	executable by: players
+	usage: /stats [arg]
+	trigger:
+		if arg 1 is not "info" or "reload" or "other":
+			send "&7[&eStatsGUI&7] &cUnknown command. Use &e/stats info &cfor more information"
+		if arg 1 is not set:
+			if player has permission "stats.use":
+				open chest with 1 row named "%{guiname}%" to player
+				wait 1 tick
+				set {_p} to "%player%" parsed as player
+				format slot 0 of player with skull of {_p} named "&f&l%player%" to close
+				format slot 2 of player with diamond sword named "%{kills}% &f&l%{stats.%player%.kills_total}%" to close
+				format slot 4 of player with bone named "%{deaths}% &f&l%{stats.%player%.death_total}%" to close
+				format slot 6 of player with diamond ore named "%{break}% &f&l%{stats.%player%.break}%" to close
+				format slot 8 of player with brick block named "%{place}% &f&l%{stats.%player%.place}%" to close
+			else:
+				send "&cYou do not have permission for this!"
+		if arg 1 is "info":
+			if player has permission "stats.use":
+				send "&f------------&e&lStatsGUI v.1.3&f-----------------" to player
+				send "&7Use &e/stats &7to view statistics" to player
+				send "&7Use &e/stats other <player> &7to watch another player statistics" to player
+				send "&7Use &e/stats reload &7to reload the plugin"
+				send "&7Plugin create by LuisGerdez" to player
+				send "&f-------------------------------------------" to player
+			else:
+				send "&cYou do not have permission for this!"
+		if arg 1 is "other":
+			if arg 2 is set:
+				if player has permission "stats.other":
+					open chest with 1 row named "%{guiname}%" to player
+					wait 1 tick
+					set {_p.other} to "%player argument%" parsed as player
+					format slot 0 of player with skull of {_p.other} named "&f&l%player argument%" to close
+					format slot 2 of player with diamond sword named "%{kills}% &f&l%{stats.%player argument%.kills_total}%" to close
+					format slot 4 of player with bone named "%{deaths}% &f&l%{stats.%player argument%.death_total}%" to close
+					format slot 6 of player with diamond ore named "%{break}% &f&l%{stats.%player argument%.break}%" to close
+					format slot 8 of player with brick block named "%{place}% &f&l%{stats.%player argument%.place}%" to close
+				else:
+					send "&cYou do not have permission for this!"
+		if arg 1 is "reload":
+			if player has permission "stats.reload":
+				execute console command "/skript reload %script%"
+				wait 2 seconds
+				send "&7[&eStatsGUI&7] &aReload Complete!."
+			else:
+				send "&cYou do not have permission for this!"

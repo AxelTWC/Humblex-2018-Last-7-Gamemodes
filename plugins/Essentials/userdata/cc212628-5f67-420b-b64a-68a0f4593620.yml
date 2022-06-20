@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: DSReese90
+timestamps:
+  login: 1503975248613
+  lastteleport: 1503975545584
+  logout: 1503976290276
+ipAddress: 1.32.29.124
+lastlocation:
+  world: SkyBlock
+  x: 5.959693598724821
+  y: 65.0
+  z: 1.5716673857433434
+  yaw: -101.81759
+  pitch: 18.473156
+logoutlocation:
+  world: SkyBlock
+  x: -0.46968585237054383
+  y: 65.0
+  z: 1.8371909577667975
+  yaw: -303.80313
+  pitch: 36.179176

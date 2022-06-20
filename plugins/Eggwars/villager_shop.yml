@@ -1,0 +1,148 @@
+# The display item can only take a MATERIAL
+# Simple items format: 'Required_Item : Required_Item_Amount :: Item : Amount'
+# Complex items format: 'Required_Item : Required_Item_Amount :: Item:Durability : Amount : name:<name> : lore:<lore> : enchant:<enchantment>:level'
+# The additional sutff in the complex format can not be applied on the Required item
+# Example (1): 'IRON_INGOT : 1 :: SANDSTONE : 2' -> This will give 2 Sandstone blocks for 1 Iron Ingot
+# Example (2): 'IRON_INGOT : 1 :: IRON_SWORD : 1 : name:&aPathWay' -> This will give you an Iron Sword for 1 Iron Ingot, but with a custom name!
+# Example (3): 'IRON_INGOT : 5 :: IRON_SWORD : 1 : name:&6OPSword : enchant:DAMAGE_ALL:1' -> This will give an iron sword named 'OPSword' with a sharpness 1 enchantment for 5 iron ingots
+# For a list of enchantments, visit https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+# You can also use friendly names such as SHARPNESS instead of DAMAGE_ALL but this may not apply to all enchantments
+# For Potions and Splash potions, if the format POTION:ID doesn't work, try this special format -> 'POTION:NAME:DURATION:AMPLIFIER'
+# This is due to the change in potions in 1.9, the special format doesn't guarantee that things will work properly
+# Example (1): 'POTION:REGENERATION:40:1 : 1' this will give a drinkable potion that gives the regeneration 1 effect for 40 seconds
+# For a list of potions names, visit https://hub.spigotmc.org/javadocs/spigot/org/bukkit/potion/PotionEffectType.html
+# You can create new shop types, simply copy the default one, rename it, and modify its content
+# You SHOULD NOT delete or rename the Default type, only change its content
+# There is no lock on the enchantment level!
+# The default shop is setup assuming that you have IRON_INGOT, GOLD_INGOT, DIAMOND, EMERALD spawners, where iron ingots are the most common.
+# And the spawning speeds are as follows:
+# IRON_INGOT - 20 Ticks (Main island)
+# GOLD_INGOT - 100 Ticks (Small islands)
+# DIAMOND - 200 Ticks (Around middle)
+# EMERALD - 400 Ticks (In middle)
+
+Shops:
+  Default:
+    Blocks:
+      name: '&aBlocks'
+      display_item: WOOL
+      lore:
+      - '&7Purchase blocks to build with'
+      items:
+      - 'IRON_INGOT : 4 :: WOOL : 8'
+      - 'IRON_INGOT : 4 :: SANDSTONE : 4'
+      - 'IRON_INGOT : 1 :: GLASS : 1'
+      - 'IRON_INGOT : 1 :: GLOWSTONE : 2'
+      - 'IRON_INGOT : 2 :: HAY_BLOCK : 1'
+      - 'IRON_INGOT : 3 :: LADDER : 1'
+      - 'GOLD_INGOT : 10 :: OBSIDIAN : 1'
+    Weapons:
+      name: '&cWeapons'
+      display_item: IRON_SWORD
+      lore:
+      - '&7Purchase weapons to defend yourself'
+      items:
+      - 'IRON_INGOT : 5 :: WOOD_SWORD : 1'
+      - 'IRON_INGOT : 48 :: STONE_SWORD : 1'
+      - 'GOLD_INGOT : 16 :: IRON_SWORD : 1'
+      - 'DIAMOND : 16 :: DIAMOND_SWORD : 1'
+      - 'DIAMOND : 32 :: DIAMOND_SWORD : 1 : enchant:DAMAGE_ALL:2'
+    Armor:
+      name: '&bArmor'
+      display_item: IRON_CHESTPLATE
+      lore:
+      - '&7Purchase armor to protect yourself'
+      items:
+      - 'IRON_INGOT : 5 :: LEATHER_HELMET : 1'
+      - 'IRON_INGOT : 5 :: LEATHER_CHESTPLATE : 1'
+      - 'IRON_INGOT : 5 :: LEATHER_LEGGINGS : 1'
+      - 'IRON_INGOT : 5 :: LEATHER_BOOTS : 1'
+      - 'GOLD_INGOT : 20 :: CHAINMAIL_HELMET : 1'
+      - 'GOLD_INGOT : 20 :: CHAINMAIL_CHESTPLATE : 1'
+      - 'GOLD_INGOT : 20 :: CHAINMAIL_LEGGINGS : 1'
+      - 'GOLD_INGOT : 20 :: CHAINMAIL_BOOTS : 1'
+      - 'DIAMOND : 10 :: IRON_HELMET : 1'
+      - 'DIAMOND : 10 :: IRON_CHESTPLATE : 1'
+      - 'DIAMOND : 10 :: IRON_LEGGINGS : 1'
+      - 'DIAMOND : 10 :: IRON_BOOTS : 1'
+      - 'DIAMOND : 25 :: DIAMOND_HELMET : 1'
+      - 'DIAMOND : 25 :: DIAMOND_CHESTPLATE : 1'
+      - 'DIAMOND : 25 :: DIAMOND_LEGGINGS : 1'
+      - 'DIAMOND : 25 :: DIAMOND_BOOTS : 1'
+    Food:
+      name: '&6Food'
+      display_item: CAKE
+      lore:
+      - '&7Purchase food to keep your self satisfied'
+      items:
+      - 'IRON_INGOT : 2 :: CARROT_ITEM : 5'
+      - 'IRON_INGOT : 3 :: COOKED_BEEF : 1'
+      - 'IRON_INGOT : 10 :: CAKE : 1'
+      - 'GOLD_INGOT : 5 :: GOLDEN_APPLE : 1'
+      - 'DIAMOND : 48 :: GOLDEN_APPLE:1 : 1'
+    Pickaxes:
+      name: '&3Pickaxes'
+      display_item: DIAMOND_PICKAXE
+      lore:
+      - '&7Purchase pickaxes to break blocks quicker'
+      items:
+      - 'IRON_INGOT : 10 :: WOOD_PICKAXE : 1 : enchant:EFFICIENCY:2'
+      - 'IRON_INGOT : 64 :: STONE_PICKAXE : 1 : enchant:EFFICIENCY:2'
+      - 'GOLD_INGOT : 32 :: IRON_PICKAXE : 1 : enchant:EFFICIENCY:2'
+      - 'DIAMOND : 16 :: DIAMOND_PICKAXE : 1 : enchant:EFFICIENCY:2'
+      - 'DIAMOND : 32 :: DIAMOND_PICKAXE : 1 : enchant:EFFICIENCY:3'
+      - 'DIAMOND : 48 :: DIAMOND_PICKAXE : 1 : enchant:EFFICIENCY:5'
+      - 'DIAMOND : 64 :: DIAMOND_PICKAXE : 1 : enchant:EFFICIENCY:6'
+    Archery:
+      name: '&cArchery'
+      display_item: BOW
+      lore:
+      - '&7Purchase a bow and some arrows to kill the enemies!'
+      items:
+      - 'DIAMOND : 16 :: BOW : 1 : enchant:POWER:1'
+      - 'DIAMOND : 32 :: BOW : 1 : enchant:POWER:3'
+      - 'DIAMOND : 48 :: BOW : 1 : enchant:POWER:4 : enchant:PUNCH:1'
+      - 'GOLD_INGOT : 1 :: ARROW : 1'
+    Chests:
+      name: '&eChests'
+      display_item: CHEST
+      lore:
+      - '&7Purchase chests to store items in'
+      items:
+      - 'GOLD_INGOT : 2 :: CHEST : 1'
+      - 'DIAMOND : 5 :: ENDER_CHEST : 1 : name:&5Team Chest : lore:&7Only team members
+        can see : lore:&7What you put in'
+    Extras:
+      name: '&5Extras'
+      display_item: FISHING_ROD
+      lore:
+      - '&7Purchase some extra useful items'
+      items:
+      - 'GOLD_INGOT : 1 :: SHEARS : 1'
+      - 'GOLD_INGOT : 16 :: MONSTER_EGG:54 : 1 : name:&cZombie'
+      - 'IRON_INGOT : 200 :: MONSTER_EGG:99 : 1 : name:&6Iron_Golem'
+      - 'DIAMOND : 32 :: ENDER_PEARL : 1'
+      - 'GOLD_INGOT : 8 :: SNOW_BALL : 4'
+      - 'IRON_INGOT : 16 :: WEB : 1'
+      - 'DIAMOND : 4 :: TNT : 1'
+      - 'GOLD_INGOT : 32 :: FISHING_ROD : 1'
+    Specials:
+      name: '&4Specials'
+      display_item: NETHER_STAR
+      lore:
+      - '&7Purchase game changing items!'
+      items:
+      - 'EMERALD : 4 :: FIREWORK : 1 : name:&6Special - &cTeleporter : lore:&7Teleports
+        you back to your base instantly'
+      - 'EMERALD : 4 :: POTION : 1 : name:&6Special - &cBoost : lore:&7Gives the player
+        some powerful : lore:&7Potion effects for few seconds'
+      - 'EMERALD : 3 :: BRICK : 1 : name:&6Special - &bBridge Builder : lore:&7Builds
+        a bridge in the way you are looking'
+      - 'EMERALD : 3 :: NETHER_STAR : 1 : name:&6Special - &eRescue Platform : lore:&7This
+        item summons a small lake : lore:&7below you to prevent falling or death'
+      - 'EMERALD : 3 :: TNT : 1 : name:&6Special - &aTNT : lore:&7Launches a tnt in
+        the direction : lore:&7The player is looking'
+      - 'EMERALD : 2 :: BEACON : 1 : name:&6Special - &aShop : lore:&7Summons a shop
+        at your location : lore:&7The shop disappears after 15 seconds'
+      - 'EMERALD : 1 :: COMPASS : 1 : name:&6Special - &aTracker : lore:&7Scans for
+        the nearest enemy'

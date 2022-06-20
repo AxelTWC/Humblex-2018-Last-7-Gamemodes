@@ -1,0 +1,60 @@
+Menu:
+  Options:
+    Name: '&6&lSettings'
+    Size: 54
+  Items:
+    Enabled:
+      Name: '&a&lOn'
+      Lore:
+      - ''
+      - '&7Click to &cdisable'
+      Material: INK_SACK:10
+    Disabled:
+      Name: '&c&lOff'
+      Lore:
+      - ''
+      - '&7Click to &aenable'
+      Material: INK_SACK:8
+    Speed:
+      Name: '&9Speed II'
+      Material: SUGAR
+      Slot: 10
+      Enabled: true
+    Jump:
+      Name: '&aJump II'
+      Material: IRON_BOOTS
+      Slot: 12
+      Enabled: true
+    Fly:
+      Name: '&bFly'
+      Material: FEATHER
+      Slot: 14
+      Enabled: true
+    Vanish:
+      Name: '&eVanish'
+      Material: EXP_BOTTLE
+      Slot: 16
+      Enabled: true
+    DoubleJump:
+      Name: '&3Double Jump'
+      Material: RABBIT_FOOT
+      Slot: 27
+      Enabled: true
+    Stacker:
+      Name: '&cStacker'
+      Material: MAGMA_CREAM
+      Slot: 29
+      Enabled: true
+    Visibility:
+      Name: '&2Visibility'
+      Material: EYE_OF_ENDER
+      Slot: 31
+      Enabled: true
+    Chat:
+      Name: '&7Chat'
+      Material: PAPER
+      Slot: 33
+      Enabled: true
+worlds-allowed:
+- MainLobby
+- LionHUB

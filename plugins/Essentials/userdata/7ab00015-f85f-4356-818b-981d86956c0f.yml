@@ -1,0 +1,21 @@
+lastAccountName: susk0
+timestamps:
+  login: 1502031392459
+  lastteleport: 1502029215977
+  logout: 1502033103882
+ipAddress: 94.67.189.157
+socialspy: false
+lastlocation:
+  world: lobby_practice
+  x: 584.6083195407085
+  y: 28.0
+  z: -451.71779669839674
+  yaw: -215.79993
+  pitch: 0.9500022
+logoutlocation:
+  world: MainLobby
+  x: 1.0
+  y: 60.0
+  z: 0.0
+  yaw: 272.0
+  pitch: 0.0

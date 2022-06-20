@@ -1,0 +1,6 @@
+name: lokasion
+uuid: d981bbc4-23d2-3775-9d45-bc84ab5dd56e
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

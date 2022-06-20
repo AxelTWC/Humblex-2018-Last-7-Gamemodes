@@ -1,0 +1,20 @@
+lastAccountName: ZaPandaMon
+timestamps:
+  login: 1503726112423
+  logout: 1503726559559
+ipAddress: 73.243.39.234
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.4691817266242615
+  yaw: -89.0
+  pitch: 2.0
+logoutlocation:
+  world: MainLobby
+  x: 206.3091387907666
+  y: 4.0
+  z: -110.33170155977336
+  yaw: -304.56134
+  pitch: -20.4104

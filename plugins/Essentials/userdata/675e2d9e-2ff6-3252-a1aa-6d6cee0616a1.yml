@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1499867183521
+  login: 1499867154691
+  logout: 1499867181819
+lastlocation:
+  world: MainLobby
+  x: 22.971613379340443
+  y: 59.170787077218804
+  z: 0.6609321835931041
+  yaw: -91.1125
+  pitch: 16.905285
+lastAccountName: LiquidLockz
+socialspy: false
+ipAddress: 88.132.15.36
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

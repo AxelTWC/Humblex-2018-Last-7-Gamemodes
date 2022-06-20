@@ -1,0 +1,7 @@
+name: testforsubxD
+uuid: 1ec67ada-3ba2-359f-bd3e-471ee0cfb545
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

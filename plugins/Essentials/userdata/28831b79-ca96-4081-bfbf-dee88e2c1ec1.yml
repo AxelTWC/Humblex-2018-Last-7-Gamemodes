@@ -1,0 +1,21 @@
+lastAccountName: Lightwolves
+timestamps:
+  login: 1503586329523
+  logout: 1503586360845
+  lastteleport: 1503586334029
+ipAddress: 94.211.37.166
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 37.787329708623865
+  y: 58.5
+  z: 3.6433777761374997
+  yaw: -87.08004
+  pitch: 20.280968
+lastlocation:
+  world: LionHUB
+  x: 93.51722879239242
+  y: 46.0
+  z: -60.63486597097162
+  yaw: 0.48975658
+  pitch: 16.102854

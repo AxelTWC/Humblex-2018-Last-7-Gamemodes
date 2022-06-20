@@ -1,0 +1,21 @@
+lastlocation:
+  world: lobby_practice
+  x: 612.6999999880791
+  y: 35.0
+  z: -268.30000001192093
+  yaw: -221.0
+  pitch: 2.974755
+money: '0.0'
+lastAccountName: GrappleMC
+timestamps:
+  login: 1517700464442
+  lastteleport: 1517700526572
+  logout: 1517700559190
+ipAddress: 180.150.35.34
+logoutlocation:
+  world: lobby_practice
+  x: 593.8176364735272
+  y: 35.0
+  z: -278.1649848464244
+  yaw: -234.02759
+  pitch: 3.3464518

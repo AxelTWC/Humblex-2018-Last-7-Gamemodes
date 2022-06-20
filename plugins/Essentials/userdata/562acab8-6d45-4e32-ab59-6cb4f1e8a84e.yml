@@ -1,0 +1,32 @@
+lastlocation:
+  world: HCF
+  x: 109.63837543186139
+  y: 62.0
+  z: 829.7014139880702
+  yaw: 139.26819
+  pitch: 21.599974
+lastAccountName: kingdraco12
+timestamps:
+  login: 1518573575066
+  lastteleport: 1518485142124
+  logout: 1518485435232
+  kits:
+    starter: 1518322461897
+ipAddress: 68.8.49.171
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+money: '800.0'
+homes:
+  home:
+    world: HCF
+    x: 111.51286803171563
+    y: 84.0
+    z: 832.2762769658576
+    yaw: 190.86864
+    pitch: 68.25001

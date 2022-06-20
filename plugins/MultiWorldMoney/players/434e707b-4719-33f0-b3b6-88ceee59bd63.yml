@@ -1,0 +1,6 @@
+name: sepoke
+uuid: 434e707b-4719-33f0-b3b6-88ceee59bd63
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

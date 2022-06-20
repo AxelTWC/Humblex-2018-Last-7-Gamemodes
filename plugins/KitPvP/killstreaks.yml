@@ -1,0 +1,106 @@
+KillStreaks:
+  3:
+    Title:
+      Title: '&c&lKill Streak'
+      Subtitle: '&6%player% &7is on a &6%streak% &7kill streak.'
+      Enabled: true
+    Sound:
+      Sound: ENDERDRAGON_GROWL
+      Pitch: 1
+      Enabled: true
+    Message:
+      Message: '%prefix% &b%player% &7is on a killstreak of &b%streak% Kills&7.'
+      Enabled: false
+    Commands:
+      Player:
+        Commands:
+        - 'These commands are run by the player'
+        - 'when a player creates a kill streak.'
+        - 'You can use %player% as the name of the player.'
+        Enabled: false
+      Console:
+        Commands:
+        - 'These commands are run by the console'
+        - 'when a player creates a kill streak.'
+        - 'You can use %player% as the name of the player.'
+        Enabled: false
+    Enabled: true
+  6:
+    Title:
+      Title: '&c&lKill Streak'
+      Subtitle: '&6%player% &7is on a &6%streak% &7kill streak.'
+      Enabled: true
+    Sound:
+      Sound: ENDERDRAGON_GROWL
+      Pitch: 1
+      Enabled: true
+    Message:
+      Message: '%prefix% &b%player% &7is on a killstreak of &b%streak% Kills&7.'
+      Enabled: false
+    Commands:
+      Player:
+        Commands:
+        - 'These commands are run by the player'
+        - 'when a player creates a kill streak.'
+        - 'You can use %player% as the name of the player.'
+        Enabled: false
+      Console:
+        Commands:
+        - 'These commands are run by the console'
+        - 'when a player creates a kill streak.'
+        - 'You can use %player% as the name of the player.'
+        Enabled: false
+    Enabled: true
+EndStreaks:
+  3:
+    Title:
+      Title: '&c&lKill Streak'
+      Subtitle: '&6%player% &7lost their streak of &6%streak%&7.'
+      Enabled: true
+    Sound:
+      Sound: ENDERDRAGON_GROWL
+      Pitch: 1
+      Enabled: true
+    Message:
+      Message: '%prefix% &b%player% &7lost their streak of &b%streak% Kills&7.'
+      Enabled: false
+    Commands:
+      Player:
+        Commands:
+        - 'These commands are run by the player'
+        - 'when a player loses a kill streak.'
+        - 'You can use %player% as the name of the player.'
+        Enabled: false
+      Console:
+        Commands:
+        - 'These commands are run by the console'
+        - 'when a player loses a kill streak.'
+        - 'You can use %player% as the name of the player.'
+        Enabled: false
+    Enabled: true
+  6:
+    Title:
+      Title: '&c&lKill Streak'
+      Subtitle: '&6%player% &7lost their streak of &6%streak%&7.'
+      Enabled: true
+    Sound:
+      Sound: ENDERDRAGON_GROWL
+      Pitch: 1
+      Enabled: true
+    Message:
+      Message: '%prefix% &b%player% &7lost their streak of &b%streak% Kills&7.'
+      Enabled: false
+    Commands:
+      Player:
+        Commands:
+        - 'These commands are run by the player'
+        - 'when a player loses a kill streak.'
+        - 'You can use %player% as the name of the player.'
+        Enabled: false
+      Console:
+        Commands:
+        - 'These commands are run by the console'
+        - 'when a player loses a kill streak.'
+        - 'You can use %player% as the name of the player.'
+        Enabled: false
+    Enabled: true

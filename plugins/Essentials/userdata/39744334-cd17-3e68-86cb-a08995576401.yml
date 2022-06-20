@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1498519714320
+  login: 1498519514115
+  logout: 1498519712067
+lastlocation:
+  world: MainLobby
+  x: 30.529361208101705
+  y: 57.0
+  z: 10.647639713342645
+  yaw: 121.81922
+  pitch: 3.0543377
+lastAccountName: silento_allstar
+ipAddress: 207.243.8.210
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158

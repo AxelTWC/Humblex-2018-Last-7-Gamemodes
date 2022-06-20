@@ -1,0 +1,1 @@
+{"SURVIVAL":{"inventoryContents":{"4":{"==":"org.bukkit.inventory.ItemStack","type":"ENDER_PEARL"}},"enderChestContents":{"22":{"==":"org.bukkit.inventory.ItemStack","type":"LEATHER","amount":5}},"potions":"[]","armorContents":{},"stats":{"ex":"0.64689374","ma":"300","fl":"20","el":"0","hp":"20","xp":"0.0","txp":"0","fd":"0.0","ft":"-20","sa":"4.0","ra":"300"}}}

@@ -1,0 +1,20 @@
+lastlocation:
+  world: MainLobby
+  x: -0.56453313504344
+  y: 60.0
+  z: 1.7230585844336979
+  yaw: 272.59708
+  pitch: 1.0240043
+lastAccountName: xiCasual
+timestamps:
+  login: 1519420393910
+  logout: 1519420400309
+ipAddress: 90.222.83.161
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 746.9133842091026
+  y: 10.0
+  z: 3609.2453984543367
+  yaw: -0.10546875
+  pitch: -4.859901

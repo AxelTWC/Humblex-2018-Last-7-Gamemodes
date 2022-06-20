@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: 324redstone
+timestamps:
+  login: 1502957096690
+  lastteleport: 1502957123345
+  logout: 1502958315112
+ipAddress: 211.27.53.21
+lastlocation:
+  world: UhcMeetup
+  x: 127.86282811968496
+  y: 69.0
+  z: 84.46443319198217
+  yaw: 288.21918
+  pitch: 20.433773
+logoutlocation:
+  world: MainLobby
+  x: 16.20259061376976
+  y: 57.0
+  z: 6.43130291968558
+  yaw: -97.186966
+  pitch: 9.075031

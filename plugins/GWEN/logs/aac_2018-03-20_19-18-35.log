@@ -1,0 +1,11 @@
+[20-03-2018 19:19:19.299] (CheckManager) Enabled check combat.Forcefield
+[20-03-2018 19:19:19.304] (CheckManager) Enabled check combat.Criticals
+[20-03-2018 19:19:19.343] (CheckManager) Enabled check combat.KillauraCombined
+[20-03-2018 19:19:19.345] (CheckManager) Enabled check combat.Regen
+[20-03-2018 19:19:19.347] (CheckManager) Enabled check combat.Reach
+[20-03-2018 19:19:19.352] (CheckManager) Enabled check world.PlayerRadar
+[20-03-2018 19:19:19.360] (CheckManager) Enabled check chat.Spam
+[20-03-2018 19:19:19.365] (CheckManager) Enabled check combat.Knockback
+[20-03-2018 19:19:19.371] (CheckManager) Enabled check world.ImpossibleInteract
+[20-03-2018 19:19:19.374] (CheckManager) Enabled check combat.Fastbow
+[20-03-2018 19:19:19.400] (CheckManager) Enabled check movement.Jesus

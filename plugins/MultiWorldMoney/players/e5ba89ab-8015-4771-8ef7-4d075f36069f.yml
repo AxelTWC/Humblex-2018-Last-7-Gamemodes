@@ -1,0 +1,7 @@
+name: lesserspark
+uuid: e5ba89ab-8015-4771-8ef7-4d075f36069f
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  HCF: 0.0
+  LionHUB: 500.0

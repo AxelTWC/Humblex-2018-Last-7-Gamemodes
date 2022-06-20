@@ -1,0 +1,24 @@
+lastAccountName: Princess_Kitty11
+timestamps:
+  login: 1518458372700
+  lastteleport: 1517851814331
+  logout: 1518023465780
+  kits:
+    starter: 1517851816412
+ipAddress: 98.5.119.162
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.43943068
+  pitch: -4.250055
+logoutlocation:
+  world: LionHUB
+  x: 746.4612969547675
+  y: 10.0
+  z: 3611.8217580512573
+  yaw: 2.2802722
+  pitch: -0.28723076
+money: '500.0'

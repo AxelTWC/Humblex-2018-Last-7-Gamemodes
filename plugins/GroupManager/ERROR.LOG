@@ -1,0 +1,52 @@
+2018-03-10 19-45
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - 2.13-SNAPSHOT =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/worlds/lionhub/users.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:816)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:501)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:703)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:657)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:108)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:98)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:89)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:57)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:169)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:93)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+	at us.Myles.PWP.TransparentListeners.PerWorldPluginLoader.enablePlugin(PerWorldPluginLoader.java:145)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327)
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: while parsing a block mapping
+ in 'reader', line 1, column 1:
+    users:
+    ^
+expected <block end>, but found BlockMappingStart
+ in 'reader', line 6, column 3:
+      Dancetaface1991:
+      ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:570)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:224)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:450)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:393)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:811)
+	... 21 more
+
+============================================================================
+

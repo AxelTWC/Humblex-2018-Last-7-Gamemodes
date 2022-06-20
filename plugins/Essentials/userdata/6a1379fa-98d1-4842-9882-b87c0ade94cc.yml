@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Forgetful_YT
+timestamps:
+  login: 1501612138969
+  lastteleport: 1501612294544
+  logout: 1501612517229
+ipAddress: 71.10.177.98
+lastlocation:
+  world: LionHUB
+  x: 93.55027811409512
+  y: 47.5
+  z: -47.133437259445614
+  yaw: 0.82995605
+  pitch: -1.840265
+logoutlocation:
+  world: MainLobby
+  x: 1.0
+  y: 60.0
+  z: 0.0
+  yaw: 265.46487
+  pitch: -0.30396593

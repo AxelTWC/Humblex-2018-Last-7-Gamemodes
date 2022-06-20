@@ -1,0 +1,24 @@
+lastlocation:
+  world: LionHUB
+  x: 942.0
+  y: 38.0
+  z: -415.0
+  yaw: -28.8768
+  pitch: 9.8304
+lastAccountName: Sarontax
+timestamps:
+  login: 1512200896741
+  lastteleport: 1512200937488
+  kits:
+    starter: 1512201024932
+    keys: 1512201027142
+  logout: 1512201115880
+ipAddress: 212.83.94.147
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 120.76914700238481
+  y: 70.0625
+  z: -313.36379317369614
+  yaw: -201.89758
+  pitch: 28.962938

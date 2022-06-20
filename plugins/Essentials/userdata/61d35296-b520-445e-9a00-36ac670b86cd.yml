@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Leokaywen
+timestamps:
+  login: 1502619271261
+  lastteleport: 1502619319070
+  logout: 1502619560519
+ipAddress: 202.62.16.27
+lastlocation:
+  world: LionHUB
+  x: 93.34962472501502
+  y: 47.0
+  z: -47.89881028953013
+  yaw: -3.2337596
+  pitch: -2.7979403
+logoutlocation:
+  world: MainLobby
+  x: 32.22078616941359
+  y: 57.0
+  z: 5.252146767379887
+  yaw: -301.79517
+  pitch: 25.413445

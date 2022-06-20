@@ -1,0 +1,21 @@
+lastAccountName: Kenny_14
+timestamps:
+  login: 1506192897089
+  logout: 1506192941296
+  lastteleport: 1506192925776
+ipAddress: 93.121.226.215
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 4.438541548783075
+  y: 60.0
+  z: 0.6865988208446652
+  yaw: -87.76059
+  pitch: 6.22469
+lastlocation:
+  world: LionHUB
+  x: 93.41484650537072
+  y: 48.0
+  z: -46.30000001192093
+  yaw: -3.7237086
+  pitch: -21.454784

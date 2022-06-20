@@ -1,0 +1,7 @@
+name: blaves
+uuid: cf1ac8e3-f676-3361-9b34-e7425e61f15b
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  LionHUB: 500.0

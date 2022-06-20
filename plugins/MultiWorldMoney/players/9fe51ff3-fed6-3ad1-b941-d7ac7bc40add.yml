@@ -1,0 +1,6 @@
+name: TSENAPAS
+uuid: 9fe51ff3-fed6-3ad1-b941-d7ac7bc40add
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

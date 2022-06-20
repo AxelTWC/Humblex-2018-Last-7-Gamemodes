@@ -1,0 +1,24 @@
+lastlocation:
+  world: Factions
+  x: 116.035410251133
+  y: 8.0
+  z: -129.30000001192093
+  yaw: 75.31828
+  pitch: 76.27501
+lastAccountName: PazG
+timestamps:
+  login: 1512220968092
+  lastteleport: 1512221003415
+  kits:
+    starter: 1512221025672
+    keys: 1512221015058
+  logout: 1512221383625
+ipAddress: 82.42.75.60
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 113.21682428127829
+  y: 68.0
+  z: -287.45678643072824
+  yaw: -283.82516
+  pitch: 1.0880752

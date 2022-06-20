@@ -1,0 +1,22 @@
+lastAccountName: KrillSlice
+timestamps:
+  login: 1506848128077
+  logout: 1506848132362
+  lastteleport: 1504051566734
+ipAddress: 14.192.212.251
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 942.9847941585354
+  y: 38.0
+  z: -414.80756805231493
+  yaw: 0.46307373
+  pitch: 4.701889
+lastlocation:
+  world: LionHUB
+  x: 943.0644037800563
+  y: 38.0
+  z: -414.69615849648756
+  yaw: 359.29663
+  pitch: 1.7075297
+money: '24'

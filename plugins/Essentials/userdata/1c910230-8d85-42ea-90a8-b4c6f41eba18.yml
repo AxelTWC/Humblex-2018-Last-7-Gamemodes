@@ -1,0 +1,22 @@
+lastAccountName: qafy
+timestamps:
+  login: 1512828938485
+  logout: 1512829092115
+  lastteleport: 1512829005161
+ipAddress: 148.252.19.47
+socialspy: false
+logoutlocation:
+  world: SkyBlock
+  x: 1.039150280858229
+  y: 65.0
+  z: 18.01736722836754
+  yaw: 166.43663
+  pitch: 26.47602
+lastlocation:
+  world: LionHUB
+  x: 891.0071267136831
+  y: 39.170787077218804
+  z: -414.2776526898851
+  yaw: 83.51453
+  pitch: -2.4568658
+money: '0.0'

@@ -1,0 +1,21 @@
+lastAccountName: DerTrumpsta
+timestamps:
+  login: 1507316832622
+  lastteleport: 1507316854543
+  logout: 1507316908590
+ipAddress: 178.38.136.21
+socialspy: false
+lastlocation:
+  world: lobby_practice
+  x: -18.217232502644435
+  y: 57.0
+  z: -5104.037915918999
+  yaw: 175.49466
+  pitch: -2.0645182
+logoutlocation:
+  world: lobby_practice
+  x: -15.810445867108097
+  y: 57.0
+  z: -5131.139468281345
+  yaw: -321.64838
+  pitch: 11.792808

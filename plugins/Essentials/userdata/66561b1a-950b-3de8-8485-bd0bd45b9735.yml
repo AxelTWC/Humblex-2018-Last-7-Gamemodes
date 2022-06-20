@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1498658593333
+  login: 1498658563577
+  logout: 1498658592975
+lastlocation:
+  world: LionHUB
+  x: 6.528447788948162
+  y: 70.0
+  z: -17.019228986947184
+  yaw: 156.96185
+  pitch: 22.810404
+lastAccountName: Git_GudScrub
+ipAddress: 185.95.206.54
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158
+godmode: false

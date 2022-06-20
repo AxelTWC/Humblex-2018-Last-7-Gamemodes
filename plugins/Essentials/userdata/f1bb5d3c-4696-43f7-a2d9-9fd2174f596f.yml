@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Atrixic
+timestamps:
+  login: 1501236770824
+  lastteleport: 1501236840247
+  logout: 1501236865350
+ipAddress: 178.80.38.13
+lastlocation:
+  world: LionHUB
+  x: 93.50633266063191
+  y: 47.0
+  z: -48.32960792148536
+  yaw: -1.2451172
+  pitch: -2.9101214
+logoutlocation:
+  world: MainLobby
+  x: 10.55603427507975
+  y: 57.0
+  z: 5.55218389847085
+  yaw: -328.58582
+  pitch: 20.451601

@@ -1,0 +1,50 @@
+Update-Check: true
+Messages: EN
+Worlds:
+- LionHub
+MYSQLData:
+  enable: false
+  host: localhost
+  port: 3306
+  database: minecraft
+  username: root
+  password: '1234'
+Name: '         &6&lPlayer Options'
+Glass:
+  Color: 3
+Speed:
+  Name: '&3&lSpeed'
+  Id: 353
+  Data: 0
+Jump:
+  Name: '&3&lJump'
+  Id: 313
+  Data: 0
+Fly:
+  Name: '&3&lFly'
+  Id: 288
+  Data: 0
+Stacker:
+  Name: '&3&lStacker'
+  Id: 378
+  Data: 0
+Visibility:
+  Name: '&3&lVisibility'
+  Id: 381
+  Data: 0
+Chat:
+  Name: '&3&lChat'
+  Id: 339
+  Data: 0
+Close:
+  Name: '&3&lClose'
+  Id: 399
+  Data: 0
+ItemOn:
+  Name: '&a&lOn'
+  Id: 351
+  Data: 10
+ItemOff:
+  Name: '&c&lOff'
+  Id: 351
+  Data: 8

@@ -1,0 +1,83 @@
+# 
+# Reward for any site
+# Similar to AnySiteReward
+VoteSites:
+  ExampleVoteSite:
+    Enabled: false
+    Name: ExampleVoteSite
+    Priority: 5
+    ServiceSite: PlanetMinecraft.com
+    VoteURL: link to vote URL here, used in /vote
+    VoteDelay: 24
+    VoteDelayDaily: false
+    GiveOffline: false
+    Item:
+      Material: DIAMOND
+      Amount: 1
+    Rewards:
+    - ExampleReward
+  Minecraft-Tracker_com:
+    Enabled: true
+    ServiceSite: Minecraft-Tracker.com
+    VoteURL: https://minecraft-tracker.com/server/4847/vote/
+    VoteDelay: 24
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  MinecraftForum_net:
+    Enabled: true
+    ServiceSite: MinecraftForum.net
+    VoteURL: http://www.minecraftforum.net/servers/17112-humblex/vote
+    VoteDelay: 24
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  PlanetMinecraft_com:
+    Enabled: true
+    ServiceSite: PlanetMinecraft.com
+    VoteURL: https://www.planetminecraft.com/server/humblex-pvp/vote/
+    VoteDelay: 24
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  TopG_org:
+    Enabled: true
+    ServiceSite: TopG.org
+    VoteURL: http://topg.org/Minecraft/in-434822
+    VoteDelay: 24
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  MinecraftServers_org:
+    Enabled: true
+    ServiceSite: MinecraftServers.org
+    VoteURL: http://minecraftservers.org/vote/360602
+    VoteDelay: 24
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  Minecraft-MP_com:
+    Enabled: true
+    ServiceSite: Minecraft-MP.com
+    VoteURL: http://minecraft-mp.com/server/175411/vote/
+    VoteDelay: 24
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  MCSL:
+    Enabled: true
+    ServiceSite: MCSL
+    VoteURL: http://minecraft-server-list.com/server/354373/vote/
+    VoteDelay: 24
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+  mc-list_org:
+    Enabled: true
+    ServiceSite: mc-list.org
+    VoteURL: VoteURL
+    VoteDelay: 24
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+EverySiteReward: []

@@ -1,0 +1,32 @@
+socialspy: false
+lastAccountName: Armoured_Leaf
+timestamps:
+  login: 1508585662260
+  logout: 1508586196292
+  lastteleport: 1506056807317
+ipAddress: 110.147.228.81
+lastlocation:
+  world: LionHUB
+  x: 905.1650027872377
+  y: 39.611625632403396
+  z: -423.6056645536236
+  yaw: 183.19647
+  pitch: 26.907598
+logoutlocation:
+  world: MainLobby
+  x: 33.257035893044005
+  y: 57.0
+  z: -21.03867884798452
+  yaw: 300.6858
+  pitch: 40.026413
+powertools:
+  '261':
+  - kill AStrofish7
+  '369':
+  - smite XxMr1234GamerzxX
+  '3':
+  - smite
+  '280':
+  - Smite Clinkzforce
+money: '300'
+godmode: false

@@ -1,0 +1,6 @@
+name: hoek076
+uuid: dd203ec7-a025-4c9e-a44e-e6d8eb28f449
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

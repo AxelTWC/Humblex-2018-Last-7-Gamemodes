@@ -1,0 +1,29 @@
+lastAccountName: TheSlimeJunior
+timestamps:
+  login: 1515065378071
+  lastteleport: 1515065367530
+  logout: 1515065702205
+  kits:
+    rouge: 1511769620670
+    god: 1515065397460
+    bard: 1511769936584
+ipAddress: 61.238.188.223
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: -116.90107267869867
+  y: 4.0
+  z: -182.05455303483836
+  yaw: -88.68375
+  pitch: 13.200165
+logoutlocation:
+  world: MainLobby
+  x: -71.90056630378203
+  y: 4.0
+  z: -215.3779392475887
+  yaw: -173.28993
+  pitch: 90.0
+afk: false
+nickname: TheSlimeJunior
+godmode: true
+money: '0.0'

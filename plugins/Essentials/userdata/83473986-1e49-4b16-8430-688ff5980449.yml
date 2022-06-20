@@ -1,0 +1,21 @@
+lastAccountName: Ditter
+timestamps:
+  login: 1509110375736
+  logout: 1509110383805
+  lastteleport: 1506246747657
+ipAddress: 46.52.70.99
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 1378.1278227521846
+  y: 38.0
+  z: -403.7407390203668
+  yaw: 0.49731445
+  pitch: 3.6575637
+logoutlocation:
+  world: LionHUB
+  x: 1378.1278227521846
+  y: 38.0
+  z: -403.7407390203668
+  yaw: -2.2026856
+  pitch: -2.1924362

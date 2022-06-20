@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: SystemsAngel
+timestamps:
+  login: 1506189724252
+  logout: 1506189813701
+  lastteleport: 1506189732271
+ipAddress: 76.116.59.53
+logoutlocation:
+  world: MainLobby
+  x: 13.469576837293294
+  y: 57.231523797587016
+  z: 1.52034861713036
+  yaw: -78.291504
+  pitch: 9.527531
+lastlocation:
+  world: LionHUB
+  x: 94.3540395030436
+  y: 46.0
+  z: -55.711810083452356
+  yaw: 340.9102
+  pitch: 20.045582

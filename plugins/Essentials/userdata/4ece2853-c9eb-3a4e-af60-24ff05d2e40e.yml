@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Racing_Crafts
+timestamps:
+  login: 1505639713895
+  logout: 1505639834996
+  lastteleport: 1505639760270
+ipAddress: 171.235.62.226
+logoutlocation:
+  world: MainLobby
+  x: 9.816267223878096
+  y: 58.0
+  z: 2.496152073300177
+  yaw: -241.11359
+  pitch: 22.176348
+lastlocation:
+  world: LionHUB
+  x: 93.62454398731482
+  y: 46.0
+  z: -75.87303559354474
+  yaw: 179.78867
+  pitch: 36.83893

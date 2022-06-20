@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: TheStarGuardian
+timestamps:
+  login: 1503798425794
+  logout: 1503798492451
+ipAddress: 172.98.85.234
+lastlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: 1.2886657
+  pitch: -1.4110628
+logoutlocation:
+  world: lobby_practice
+  x: 585.31013530504
+  y: 4.7531999805212015
+  z: -624.1229248498959
+  yaw: 98.86648
+  pitch: -13.591342

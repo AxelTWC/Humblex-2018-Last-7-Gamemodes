@@ -1,0 +1,763 @@
+#|==========================================================================|#
+#|                                                                          |#
+#|                           Skript: FFA                              |#
+#|                           Author: @CleusGamer201                         |#
+#|                           Version: 1.6                                   |#
+#|                                                                          |#
+#|==========================================================================|#
+
+# Tested Minecraft Versions:
+# - 1.8.X
+
+Options:
+#========================SIMPLE MESSAGES SOON FILE .yml========================#
+
+	Chat-Suffix: &b%player%&7: &r%message%
+	NoPermission: &cNo Permission!
+	SpawnSet: &aSpawn Successfully Set!
+	LobbySet: &aLobby Successfully Set!
+	DiedMsg: &cYou Have Died By&7: &a%attacker%
+	KilledMsg: &aYou Killed To&7: &c%victim%
+	BowHealth: &b&l%victim% &6&l➸ Is Now A &f%health of victim*2%&c❤
+	CommandBlocked: &cCommand Blocked! To Leave Use &a/FFA Leave
+	SpawnNotSet: &c&4Error&7: &cSpawn Not Found!
+	MsgLeave: &cTo Leave Use&7: &a/FFA Leave
+
+#====================================CODE======================================#
+
+command /FFA [<text>] [<text>] [<text>]:
+	trigger:
+		if arg 1 is not set:
+			play raw sound "random.pop" at player with pitch 1 volume 1
+			send "&8&l&m----------------------------------------------"
+			send " "
+			send "    &c• &a/FFA Join"
+			send "    &c• &a/FFA Leave"
+			send " "
+			send "&8&l&m----------------------------------------------"
+			if player has permission "FFA.Admin":
+				send "&8&l&m-----------------------&aAdmins&8&l&m-----------------------"
+				send " "
+				send "    &c• &a/FFA SetLobby &b&l-> &aUse To Set The FFA Lobby"
+				send "    &c• &a/FFA SetSpawn <Mode> &b&l-> &aUse To Set Spawn!"
+				send "    &c• &a/FFA Reload &b&l-> &aUse To Reload Script."
+				send " "
+				send "   &bModes&7: &8&l(&eNormal&8&l) - &8&l(&cBuildUHC&8&l) - &8&l(&6SG&8&l) "
+				send "                     &8&l(&dCombo&8&l) - &8&l(&9Soup&8&l)"
+				send " "
+				send "&8&l&m-----------------------&aAdmins&8&l&m-----------------------"
+			else:
+				send "%{FFA::Prefix}% {@NoPermission}"
+		if arg 1 is "Help":
+			play raw sound "random.pop" at player with pitch 1 volume 1
+			send "&8&l&m----------------------------------------------"
+			send " "
+			send "    &c• &a/FFA Join"
+			send "    &c• &a/FFA Leave"
+			send " "
+			send "&8&l&m----------------------------------------------"
+			if player has permission "FFA.Admin":
+				send "&8&l&m-----------------------&aAdmins&8&l&m-----------------------"
+				send " "
+				send "    &c• &a/FFA SetLobby &b&l-> &aUse To Set The FFA Lobby"
+				send "    &c• &a/FFA SetSpawn <Mode> &b&l-> &aUse To Set Spawn!"
+				send "    &c• &a/FFA Reload &b&l-> &aUse To Reload Script."
+				send " "
+				send "   &bModes&7: &8&l(&eNormal&8&l) - &8&l(&cBuildUHC&8&l) - &8&l(&6SG&8&l) "
+				send "                     &8&l(&dCombo&8&l) - &8&l(&9Soup&8&l)"
+				send " "
+				send "&8&l&m-----------------------&aAdmins&8&l&m-----------------------"
+			else:
+				send "%{FFA::Prefix}% {@NoPermission}"
+		if arg 1 is "Reload":
+			if player has permission "FFA.Admin":
+				play raw sound "random.pop" at player with pitch 1 volume 1
+				make console execute command "/skript reload %script%"
+				wait 1 tick
+				send "%{FFA::Prefix}% &aSuccessfully Reloaded!"
+			else:
+				send "%{FFA::Prefix}% {@NoPermission}"
+		if arg 1 is "Join":
+			if {FFA.Lobby} is set:
+				set {FFA.%player%.Leave} to location of player
+				if {FFA.%player%.Leave} is set:
+					if {FFA.Join.%player%} is false:
+						set {FFA.Slot0.%player%} to slot 0 of player
+						set {_Slot} to 0
+						set {FFA.Helmet.%player%} to helmet of player
+						set {FFA.Chestplate.%player%} to chestplate of player
+						set {FFA.Leggings.%player%} to leggings of player
+						set {FFA.Boots.%player%} to boots of player
+						loop 36 times:
+							set {FFA.Slot.%{_Slot}%.%player%} to slot {_Slot} of player's inventory
+							add 1 to {_Slot}
+						set {FFA.Join.%player%} to true
+						wait 0.1 second
+						teleport player to {FFA.Lobby}
+						set {FFA.Streak.%player%} to 0
+						clear player's inventory
+						set player's health to 20
+						set player's hunger to 20
+						set player's gamemode to adventure
+						remove invisibility and speed and haste and regeneration and absorption and strength from player
+						wait 0.1 ticks
+						set slot 0 of player's inventory to nether star named "&a&lFFA Mode" with lore "&6Click To Select Mode"
+						set slot 4 of player's inventory to player's skull named "&6&lStats"
+						set slot 8 of player's inventory to redstone named "&c&lLeave"
+						stop
+			else if {FFA::BungeeMode} is "true":
+				if {FFA.Lobby} is set:
+					set {FFA.Join.%player%} to true
+					wait 0.1 second
+					teleport player to {FFA.Lobby}
+					set {FFA.Streak.%player%} to 0
+					clear player's inventory
+					set player's health to 20
+					set player's hunger to 20
+					set player's gamemode to adventure
+					remove invisibility and speed and haste and regeneration and absorption and strength from player
+					wait 0.1 ticks
+					set slot 0 of player's inventory to nether star named "&a&lFFA Mode" with lore "&6Click To Select Mode"
+					set slot 4 of player's inventory to player's skull named "&6&lStats"
+					set slot 8 of player's inventory to redstone named "&c&lLeave"
+					stop
+				else:
+					if player has permission "FFA.Admin":
+						send "%{FFA::Prefix}% &cLobby Not Set Please Type &a/FFA SetLobby"
+					else:
+						send "%{FFA::Prefix}% &cLobby Not Set! &cConnecting To Hub..."
+						bungeecord connect player to "%{FFA::BungeeMode::Hub}%"
+						wait 6 seconds
+						if player is online:
+							kick player due to "%{FFA::Prefix}% &4&lKicked From The Server %nl% %nl% &cInternal Server Connect Error %nl% %nl% &4&lERROR INFORMATION %nl% %nl% &cLobby No Set And Can't Connect To Hub Server! %nl% %nl% &8&l(&aREPORT TO ANY ADMINISTRATOR&8&l)"
+						stop
+			else:
+				send "%{FFA::Prefix}% &cLobby Not Set Please Type &a/FFA SetLobby"
+		if arg 1 is "Leave":
+			if {FFA.Join.%player%} is true:
+				if {FFA::BungeeMode} is not "true":
+					clear player's inventory
+					if {FFA.%player%.Mode.Normal} is true:
+						set {FFA.%player%.Mode.Normal} to false
+						if {Normal.Players} is more than 0:
+							remove 1 from {Normal.Players}
+					if {FFA.%player%.Mode.BuildUHC} is true:
+						set {FFA.%player%.Mode.BuildUHC} to false
+						if {BuildUHC.Players} is more than 0:
+							remove 1 from {BuildUHC.Players}
+					if {FFA.%player%.Mode.SG} is true:
+						set {FFA.%player%.Mode.SG} to false
+						if {SG.Players} is more than 0:
+							remove 1 from {SG.Players}
+					if {FFA.%player%.Mode.Combo} is true:
+						set {FFA.%player%.Mode.Combo} to false
+						if {Combo.Players} is more than 0:
+							remove 1 from {Combo.Players}
+					if {FFA.%player%.Mode.Soup} is true:
+						set {FFA.%player%.Mode.Soup} to false
+						if {Soup.Players} is more than 0:
+							remove 1 from {Soup.Players}
+					set {FFA.Join.%player%} to false
+					wait 0.1 ticks
+					set {_Slot} to 0
+					set the player's helmet to {FFA.Helmet.%player%}
+					set the player's chestplate to {FFA.Chestplate.%player%}
+					set the player's leggings to {FFA.Leggings.%player%}
+					set the player's boots to {FFA.Boots.%player%}
+					loop 36 times:
+						set slot {_Slot} of player to {FFA.Slot.%{_Slot}%.%player%}
+						add 1 to {_Slot}
+					set slot 0 of player to {FFA.Slot0.%player%}
+					remove invisibility and speed and haste and regeneration and absorption and strength from player
+					teleport player to {FFA.%player%.Leave}
+					set {FFA.Streak.%player%} to 0
+					display board named "" to player
+					set maximum damage delay of player to 1 seconds
+					stop
+				else if {FFA::BungeeMode} is "true":
+					send "%{FFA::Prefix}% &cLeaving The FFA! &aConnecting To Hub..."
+					bungeecord connect player to "%{FFA::BungeeMode::Hub}%"
+					wait 6 seconds
+					if player is online:
+						kick player due to "%{FFA::Prefix}% &4&lKicked From The Server %nl% %nl% &cInternal Server Connect Error %nl% %nl% &4&lERROR INFORMATION %nl% %nl% &cCan't Connect To Hub Server! %nl% %nl% &8&l(&aREPORT TO ANY ADMINISTRATOR&8&l)"
+					stop
+		if arg 1 is "SetLobby":
+			if player has permission "FFA.Admin":
+				if arg 2 is not set:
+					set {FFA.Lobby} to location of player
+					play raw sound "random.pop" at player with pitch 1 volume 1
+					send "%{FFA::Prefix}% {@LobbySet}"
+			else:
+				send "%{FFA::Prefix}% {@NoPermission}"
+		if arg 1 is "SetSpawn":
+			if player has permission "FFA.Admin":
+				if arg 2 is "Normal":
+					set {FFA.Spawn.Normal} to location of player
+					play raw sound "random.pop" at player with pitch 1 volume 1
+					send "%{FFA::Prefix}% {@SpawnSet}"
+				if arg 2 is "BuildUHC":
+					set {FFA.Spawn.BuildUHC} to location of player
+					play raw sound "random.pop" at player with pitch 1 volume 1
+					send "%{FFA::Prefix}% {@SpawnSet}"
+				if arg 2 is "SG":
+					set {FFA.Spawn.SG} to location of player
+					play raw sound "random.pop" at player with pitch 1 volume 1
+					send "%{FFA::Prefix}% {@SpawnSet}"
+				if arg 2 is "Combo":
+					set {FFA.Spawn.Combo} to location of player
+					play raw sound "random.pop" at player with pitch 1 volume 1
+					send "%{FFA::Prefix}% {@SpawnSet}"
+				if arg 2 is "Soup":
+					set {FFA.Spawn.Soup} to location of player
+					play raw sound "random.pop" at player with pitch 1 volume 1
+					send "%{FFA::Prefix}% {@SpawnSet}"
+				if arg 2 is not set:
+					send " "
+					send "%{FFA::Prefix}% &cPlease Use&7: &a/FFA SetSpawn <Mode>"
+					send " "
+					send "   &bModes&7: &8&l(&eNormal&8&l) - &8&l(&cBuildUHC&8&l) - &8&l(&6SG&8&l) "
+					send "                         &8&l(&6Combo&8&l) - &8&l(&6Soup&8&l)"
+					send " "
+				if arg 2 is not "Normal" or "BuildUHC" or "SG" or "Combo" or "Soup":
+					send " "
+					send "%{FFA::Prefix}% &cPlease Use&7: &a/FFA SetSpawn <Mode>"
+					send " "
+					send "   &bModes&7: &8&l(&eNormal&8&l) - &8&l(&cBuildUHC&8&l) - &8&l(&6SG&8&l) "
+					send "                         &8&l(&6Combo&8&l) - &8&l(&6Soup&8&l)"
+					send " "
+			else:
+				send "%{FFA::Prefix}% {@NoPermission}"
+		if arg 1 is "Normal":
+			if {FFA.Join.%player%} is true:
+				if {FFA.Spawn.Normal} is set:
+					set {FFA.%player%.Mode.Normal} to true
+					teleport player to {FFA.Spawn.Normal}
+					set player's gamemode to survival
+					add 1 to {Normal.Players}
+					wait 1 ticks
+					clear player's inventory
+					wait 2 ticks
+					set slot 0 of player to iron sword
+					set slot 1 of player to bow
+					set slot 2 of player to fishing rod
+					set slot 3 of player to 64 arrow
+					set helmet of player to iron helmet
+					set chestplate of player to iron chestplate
+					set leggings of player to iron leggings
+					set boots of player to iron boots
+					send "%{FFA::Prefix}% {@MsgLeave}"
+				else:
+					send "%{FFA::Prefix}% {@SpawnNotSet}"
+		if arg 1 is "BuildUHC":
+			if {FFA.Join.%player%} is true:
+				if {FFA.Spawn.BuildUHC} is set:
+					set {FFA.%player%.Mode.BuildUHC} to true
+					teleport player to {FFA.Spawn.BuildUHC}
+					set player's gamemode to survival
+					add 1 to {BuildUHC.Players}
+					wait 1 ticks
+					clear player's inventory
+					wait 2 ticks
+					set slot 0 of player to diamond sword of sharpness 3
+					set slot 1 of player to bow of power 3
+					set slot 2 of player to fishing rod
+					set slot 3 of player to 6 golden apple
+					set slot 4 of player to 3 golden apple named "&6Golden Head"
+					set slot 5 of player to 64 cooked beef
+					set slot 6 of player to 64 cobblestone
+					set slot 7 of player to 64 planks:0
+					set slot 8 of player to 64 arrow
+					set helmet of player to diamond helmet of protection 3
+					set chestplate of player to diamond chestplate of projectile protection 3
+					set leggings of player to diamond leggings of projectile protection 3
+					set boots of player to diamond boots of protection 3
+					send "%{FFA::Prefix}% {@MsgLeave}"
+				else:
+					send "%{FFA::Prefix}% {@SpawnNotSet}"
+		if arg 1 is "SG":
+			if {FFA.Join.%player%} is true:
+				if {FFA.Spawn.SG} is set:
+					set {FFA.%player%.Mode.SG} to true
+					teleport player to {FFA.Spawn.SG}
+					set player's gamemode to survival
+					add 1 to {SG.Players}
+					wait 1 ticks
+					clear player's inventory
+					wait 2 ticks
+					set slot 0 of player to stone sword
+					set slot 1 of player to bow
+					set slot 2 of player to fishing rod
+					set slot 3 of player to 1 flint_and_steel:64
+					set slot 4 of player to 2 golden apple
+					set slot 5 of player to 2 apple
+					set slot 6 of player to 1 bread
+					set slot 7 of player to 2 melon slice
+					set slot 8 of player to 2 pumpkin pie
+					set slot 10 of player to 12 arrow
+					set helmet of player to golden helmet
+					set chestplate of player to iron chestplate
+					set leggings of player to chainmail leggings
+					set boots of player to iron boots
+					send "%{FFA::Prefix}% {@MsgLeave}"
+				else:
+					send "%{FFA::Prefix}% {@SpawnNotSet}"
+		if arg 1 is "Combo":
+			if {FFA.Join.%player%} is true:
+				if {FFA.Spawn.Combo} is set:
+					set {FFA.%player%.Mode.Combo} to true
+					teleport player to {FFA.Spawn.Combo}
+					set player's gamemode to survival
+					add 1 to {Combo.Players}
+					wait 1 ticks
+					clear player's inventory
+					wait 2 ticks
+					set slot 0 of player to diamond sword of sharpness 3
+					set slot 1 of player to 64 enchanted golden apple
+					set slot 2 of player to potion:8258
+					set slot 3 of player to potion:8265
+					set slot 4 of player to potion:8258
+					set slot 5 of player to potion:8265
+					set slot 6 of player to potion:8258
+					set slot 7 of player to potion:8265
+					set slot 8 of player to potion:8258
+					set slot 9 of player to potion:8265
+					set helmet of player to diamond helmet of protection 4
+					set chestplate of player to diamond chestplate of protection 4
+					set leggings of player to diamond leggings of protection 4
+					set boots of player to diamond boots of protection 4
+					set maximum damage delay of player to 0.2 seconds
+					send "%{FFA::Prefix}% {@MsgLeave}"
+				else:
+					send "%{FFA::Prefix}% {@SpawnNotSet}"
+		if arg 1 is "Soup":
+			if {FFA.Join.%player%} is true:
+				if {FFA.Spawn.Soup} is set:
+					set {FFA.%player%.Mode.Soup} to true
+					teleport player to {FFA.Spawn.Soup}
+					set player's gamemode to survival
+					add 1 to {Soup.Players}
+					wait 1 ticks
+					clear player's inventory
+					wait 2 ticks
+					set slot 0 of player to iron sword
+					give 35 mushroom stew to player
+					set helmet of player to iron helmet
+					set chestplate of player to iron chestplate
+					set leggings of player to iron leggings
+					set boots of player to iron boots
+					send "%{FFA::Prefix}% {@MsgLeave}"
+				else:
+					send "%{FFA::Prefix}% {@SpawnNotSet}"
+
+on rightclick:
+	if name of player's tool contains "&a&lFFA Mode":
+		if {FFA.Join.%player%} is true:
+			cancel event
+			open chest with 1 rows named "&6&lSelect Mode" to player
+			play raw sound "note.pling" at player with pitch 1 volume 1
+			wait 2 ticks
+			format slot 0 of player with iron sword named "&eNormal" with lore "&6Players&7: &a%{Normal.Players}%" to run [make player execute command "/FFA Normal" or "/edit"]
+			format slot 1 of player with black glass named "&6" to be unstealable
+			format slot 2 of player with lava bucket named "&eBuildUHC"  with lore "&6Players&7: &a%{BuildUHC.Players}%" to run [make player execute command "/FFA BuildUHC"]
+			format slot 3 of player with black glass named "&6" to be unstealable
+			format slot 4 of player with fishing rod named "&eSG" with lore "&6Players&7: &a%{SG.Players}%" to run [make player execute command "/FFA SG"]
+			format slot 5 of player with black glass named "&6" to be unstealable
+			format slot 6 of player with diamond sword named "&eCombo" with lore "&6Players&7: &a%{Combo.Players}%" to run [make player execute command "/ffa combo"]
+			format slot 7 of player with black glass named "&6" to be unstealable
+			format slot 8 of player with mushroom stew named "&eSoup" with lore "&6Players&7: &a%{Soup.Players}%" to run [make player execute command "/FFA Soup"]
+	else if name of player's tool contains "&6&lStats":
+		if {FFA.Join.%player%} is true:
+			cancel event
+			open chest with 1 rows named "&6&lStats" to player
+			play raw sound "note.pling" at player with pitch 1 volume 1
+			wait 2 ticks
+			format slot 0 of player with iron sword named "&eNormal" with lore "&aKills&7: &6%{FFA.Kills.%player%.Normal}%||&cDeaths&7: &6%{FFA.Deaths.%player%.Normal}%" to be unstealable
+			format slot 1 of player with black glass named "&6" to be unstealable
+			format slot 2 of player with lava bucket named "&eBuildUHC" with lore "&aKills&7: &6%{FFA.Kills.%player%.BuildUHC}%||&cDeaths&7: &6%{FFA.Deaths.%player%.BuildUHC}%" to be unstealable
+			format slot 3 of player with black glass named "&6" to be unstealable
+			format slot 4 of player with fishing rod named "&eSG" with lore "&aKills&7: &6%{FFA.Kills.%player%.SG}%||&cDeaths&7: &6%{FFA.Deaths.%player%.SG}%" to be unstealable
+			format slot 5 of player with black glass named "&6" to be unstealable
+			format slot 6 of player with diamond sword named "&eCombo" with lore "&aKills&7: &6%{FFA.Kills.%player%.Combo}%||&cDeaths&7: &6%{FFA.Deaths.%player%.Combo}%" to be unstealable
+			format slot 7 of player with black glass named "&6" to be unstealable
+			format slot 8 of player with mushroom stew named "&eSoup" with lore "&aKills&7: &a%{FFA.Kills.%player%.Soup}%||&cDeaths&7: &c%{FFA.Deaths.%player%.Soup}%" to be unstealable
+	else if name of player's tool contains "&c&lLeave":
+		if {FFA.Join.%player%} is true:
+			cancel event
+			make player execute command "/FFA Leave"
+
+on weather change to rain or thunder:
+	if {FFA::AntiRain} is "true":
+		cancel event
+
+on quit:
+	if {FFA.Join.%player%} is true:
+		if {FFA::BungeeMode} is not "true":
+			make player execute command "/FFA Leave"
+			teleport player to spawn
+		else if {FFA::BungeeMode} is "true":
+			set {FFA.Join.%player%} to false
+			teleport player to {FFA.Lobby}
+
+on join:
+	set {FFA.Join.%player%} to false
+	set {EnderPearl.%player%} to 0
+	if {FFA.Deaths.%player%} is not set:
+		set {FFA.Deaths.%player%} to 0
+	if {FFA.Kills.%player%} is not set:
+		set {FFA.Kills.%player%} to 0
+	set {FFA.Streak.%player%} to 0
+	if {FFA.%player%.Mode.Normal} is not set:
+		set {FFA.Kills.%player%.Normal} to 0
+		set {FFA.Deaths.%player%.Normal} to 0
+	if {FFA.%player%.Mode.BuildUHC} is not set:
+		set {FFA.Kills.%player%.BuildUHC} to 0
+		set {FFA.Deaths.%player%.BuildUHC} to 0
+	if {FFA.%player%.Mode.SG} is not set:
+		set {FFA.Kills.%player%.SG} to 0
+		set {FFA.Deaths.%player%.SG} to 0
+	if {FFA.%player%.Mode.Combo} is not set:
+		set {FFA.Kills.%player%.Combo} to 0
+		set {FFA.Deaths.%player%.Combo} to 0
+	if {FFA.%player%.Mode.Soup} is not set:
+		set {FFA.Kills.%player%.Soup} to 0
+		set {FFA.Deaths.%player%.Soup} to 0
+	if {FFA.Kills.%player%} is not set:
+		set {FFA.Kills.%player%} to 0
+	if {FFA.Deaths.%player%} is not set:
+		set {FFA.Deaths.%player%} to 0
+
+on hunger meter change:
+	if {FFA.Join.%player%} is true:
+		if {FFA.%player%.Mode.Soup} is true:
+			cancel event
+			stop
+
+on break:
+	if {FFA.Join.%player%} is true:
+		cancel event
+		stop
+
+on place:
+	if {FFA.Join.%player%} is true:
+		if {FFA.%player%.Mode.BuildUHC} is true:
+			wait 5 seconds
+			set event-block to air
+			stop
+		else if player is not holding a flint and steel:
+			cancel event	
+
+on damage of a player:
+	if {FFA.Join.%attacker%} is true:
+		if attacker is a player:
+			if projectile is set:
+				if projectile is arrow:
+					wait 0.10 ticks
+					send "%{FFA::Prefix}% {@BowHealth}" to attacker
+					stop
+
+on projectile hit:
+	if {FFA.Join.%shooter%} is true:
+		wait 5 second
+		clear projectile
+		stop
+
+on drop:
+	if {FFA.Join.%player%} is true:
+		if item is nether star named "&a&lFFA Mode":
+			cancel event
+			stop
+		if item is player head named "&6&lStats":
+			cancel event
+			stop
+		if item is redstone named "&c&lLeave":
+			cancel event
+			stop
+
+on death of a player:
+	if {FFA.Join.%player%} is true:
+		clear drops	
+		set death message to ""
+		strike lightning effect at victim
+		give 1 golden apple named "&6Golden Head" to attacker
+		play raw sound "random.levelup" at attacker with pitch 2 volume 0.3
+		if {FFA::Firework} is "true":
+			launch burst firework colored red at attacker timed 1
+		add 1 to {FFA.Kills.%attacker%}
+		add 1 to {FFA.Deaths.%victim%}
+		add 1 to {FFA.Streak.%attacker%}
+		set {FFA.Streak.%victim%} to 0
+		if {FFA.%attacker%.Mode.Normal} is true:
+			add 1 to {FFA.Kills.%attacker%.Normal}
+			add 1 to {FFA.Deaths.%victim%.Normal}
+		if {FFA.%attacker%.Mode.BuildUHC} is true:
+			add 1 to {FFA.Kills.%attacker%.BuildUHC}
+			add 1 to {FFA.Deaths.%victim%.BuildUHC}
+		if {FFA.%attacker%.Mode.SG} is true:
+			add 1 to {FFA.Kills.%attacker%.SG}
+			add 1 to {FFA.Deaths.%victim%.SG}
+		if {FFA.%attacker%.Mode.Combo} is true:
+			add 1 to {FFA.Kills.%attacker%.Combo}
+			add 1 to {FFA.Deaths.%victim%.Combo}
+		if {FFA%attacker%.Mode.Soup} is true:
+			add 1 to {FFA.Kills.%attacker%.Soup}
+			add 1 to {FFA.Deaths.%victim%.Soup}
+		send "%{FFA::Prefix}% {@DiedMsg}" to victim
+		send "%{FFA::Prefix}% {@KilledMsg}" to attacker
+		force respawn victim
+		stop
+
+on respawn:
+	if {FFA.Join.%player%} is true:
+		if {FFA.%player%.Mode.Normal} is true:
+			teleport player to {FFA.Spawn.Normal}
+			wait 1 ticks
+			clear player's inventory
+			wait 2 ticks
+			set slot 0 of player to iron sword
+			set slot 1 of player to bow
+			set slot 2 of player to fishing rod
+			set slot 3 of player to 64 cooked beef
+			set slot 4 of player to 64 arrow
+			set helmet of player to iron helmet
+			set chestplate of player to iron chestplate
+			set leggings of player to iron leggings
+			set boots of player to iron boots
+		if {FFA.%player%.Mode.BuildUHC} is true:
+			teleport player to {FFA.Spawn.BuildUHC}
+			wait 1 ticks
+			clear player's inventory
+			wait 2 ticks
+			set slot 0 of player to diamond sword of sharpness 3
+			set slot 1 of player to bow of power 3
+			set slot 2 of player to fishing rod
+			set slot 3 of player to 6 golden apple
+			set slot 4 of player to 3 golden apple named "&6Golden Head"
+			set slot 5 of player to 64 cooked beef
+			set slot 6 of player to 64 cobblestone
+			set slot 7 of player to 64 planks:0
+			set slot 8 of player to 64 arrow
+			set helmet of player to diamond helmet of protection 3
+			set chestplate of player to diamond chestplate of projectile protection 3
+			set leggings of player to diamond leggings of projectile protection 3
+			set boots of player to diamond boots of protection 3
+		if {FFA.%player%.Mode.SG} is true:
+			teleport player to {FFA.Spawn.SG}
+			wait 1 ticks
+			clear player's inventory
+			wait 2 ticks
+			set slot 0 of player to stone sword
+			set slot 1 of player to bow
+			set slot 2 of player to fishing rod
+			set slot 3 of player to 1 flint and steel
+			set slot 4 of player to 2 golden apple
+			set slot 5 of player to 2 apple
+			set slot 6 of player to 1 bread
+			set slot 7 of player to 2 melon slice
+			set slot 8 of player to 2 pumpkin pie
+			set slot 10 of player to 12 arrow
+			set helmet of player to golden helmet
+			set chestplate of player to iron chestplate
+			set leggings of player to chainmail leggings
+			set boots of player to iron boots
+		if {FFA.%player%.Mode.Combo} is true:
+			teleport player to {FFA.Spawn.Combo}
+			wait 1 ticks
+			clear player's inventory
+			wait 2 ticks
+			set slot 0 of player to diamond sword of sharpness 3
+			set slot 1 of player to 64 enchanted golden apple
+			set slot 2 of player to potion:8258
+			set slot 3 of player to potion:8265
+			set slot 4 of player to potion:8258
+			set slot 5 of player to potion:8265
+			set slot 6 of player to potion:8258
+			set slot 7 of player to potion:8265
+			set slot 8 of player to potion:8258
+			set slot 9 of player to potion:8265
+			set helmet of player to diamond helmet of protection 5
+			set chestplate of player to diamond chestplate of protection 5
+			set leggings of player to diamond leggings of protection 5
+			set boots of player to diamond boots of protection 5
+			set maximum damage delay of player to 0.2 seconds
+		if {FFA.%player%.Mode.Soup} is true:
+			teleport player to {FFA.Spawn.Soup}
+			wait 1 ticks
+			clear player's inventory
+			wait 2 ticks
+			set slot 0 of player to iron sword
+			give 35 mushroom stew to player
+			set helmet of player to iron helmet
+			set chestplate of player to iron chestplate
+			set leggings of player to iron leggings
+			set boots of player to iron boots
+
+on consume of golden apple:
+    if name of player's tool contains "&6Golden Head":
+        apply regeneration 2 to the player for 8 seconds
+		stop
+
+on damage of a player:
+	if {FFA.Join.%victim%} is true:
+		damage cause is fall:
+			cancel event
+			stop
+
+on damage of a player:
+	loop all players:
+		if {FFA.Join.%loop-player%} is true:
+			if {FFA::PvP-Sounds} is "true":
+				play raw sound "mob.irongolem.hit" at victim with pitch 2 volume 0.1
+			if {FFA::Blood} is "true":
+				show {FFA::Blood::Cuantity} "redstone" particles at location of victim for loop-player offset by 0.5, 1.5, 0.5
+			
+on damage of a player:
+	if {FFA::PvP-Effects} is "true":
+		if {FFA.Join.%attacker%} is true:
+			chance of 1%:
+				apply speed 2 to the attacker for 5 seconds
+			chance of 1%:
+				apply weakness 2 to the attacker for 5 seconds
+			chance of 1%:
+				apply health boost 2 to the attacker for 5 seconds
+				heal the attacker
+			chance of 1%:
+				apply slowness 2 to the attacker for 5 seconds
+			chance of 1%:
+				apply regeneration 2 to the attacker for 5 seconds
+			chance of 1%:
+				apply blindness 2 to the attacker for 5 seconds
+
+on click with mushroom stew:
+	if {FFA.Join.%player%} is true:
+		if {FFA.%player%.Mode.Soup} is true:
+			if health of player is less than 10:
+				play raw sound "random.burp" at player with pitch 2 volume 0.5
+				cancel event
+				heal the player by 3.5 hearts
+				set tool to bowl
+				stop
+
+on heal:
+	if {FFA.%player%.Mode.BuildUHC} is true:
+		if "%regen reason%" is not "MAGIC_REGEN":
+			cancel event
+			stop
+
+on load:
+	set {Normal.Players} to 0
+	set {BuildUHC.Players} to 0
+	set {SG.Players} to 0
+	set {Combo.Players} to 0
+	set {Soup.Players} to 0
+	loop all players:
+		if {FFA.Join.%loop-player%} is true:
+			if {FFA.%loop-player%.Mode.Normal} is true:
+				add 1 to {Normal.Players}
+			if {FFA.%loop-player%.Mode.BuildUHC} is true:
+				add 1 to {BuildUHC.Players}
+			if {FFA.%loop-player%.Mode.SG} is true:
+				add 1 to {SG.Players}
+			if {FFA.%loop-player%.Mode.Combo} is true:
+				add 1 to {Combo.Players}
+			if {FFA.%loop-player%.Mode.Soup} is true:
+				add 1 to {Soup.Players}
+
+on sign change:
+	if line 1 is "[CFFA]" or "[FFA]" or "[FFA]":
+		if line 2 is "Join":
+			if player has permission "FFA.Admin":
+				set line 1 to "&8&l[&9&lFFA&8&l]"
+				set line 2 to ""
+				set line 3 to "&a&lClick To Join"
+				set line 4 to ""
+
+on sign change:
+	if line 1 is "[CFFA]" or "[FFA]" or "[FFA]":
+		if line 2 is "Soup":
+			if player has permission "FFA.Admin":
+				set line 1 to "&8&l[&9&lFFA&8&l]"
+				set line 2 to ""
+				set line 3 to "&6&lGet Soups"
+				set line 4 to ""
+
+on sign change:
+	if line 1 is "[CFFA]" or "[FFA]" or "[FFA]":
+		if line 2 is "Leave":
+			if player has permission "FFA.Admin":
+				set line 1 to "&8&l[&9&lFFA&8&l]"
+				set line 2 to ""
+				set line 3 to "&c&lClick To Leave"
+				set line 4 to ""
+
+on rightclick on sign:
+	if line 1 of clicked block is "&8&l[&9&lFFA&8&l]":
+		if line 2 of clicked block is "":
+			if line 3 of clicked block is "&a&lClick To Join":
+				if line 4 of clicked block is "":
+					make player execute command "/FFA Join"
+
+on rightclick on sign:
+	if line 1 of clicked block is "&8&l[&9&lFFA&8&l]":
+		if line 2 of clicked block is "":
+			if line 3 of clicked block is "&6&lGet Soups":
+				if line 4 of clicked block is "":
+					if {FFA.Join.%player%} is true:
+						give 35 mushroom stew to player
+
+on rightclick on sign:
+	if line 1 of clicked block is "&8&l[&9&lFFA&8&l]":
+		if line 2 of clicked block is "":
+			if line 3 of clicked block is "&c&lClick To Leave":
+				if line 4 of clicked block is "":
+					make player execute command "/FFA Leave"
+
+on join:
+	if {FFA::BungeeMode} is "true":
+		make player execute command "/FFA Join"
+
+
+on load:
+	send "&b&l«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»" to console
+	send "" to console
+	send "               &c-> &aFFA v1.5 Loaded &c<-               " to console
+	send "" to console
+	send "&b&l«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»«=»" to console
+	if folder "plugins/FFA" doesn't exists:
+		create folder "plugins/FFA"
+	if file "plugins/FFA/Config.yml" doesn't exists:
+		create file "plugins/FFA/Config.yml"
+		wf "##-------------------------------------- " to "plugins/FFA/Config.yml"
+		wf "## " to "plugins/FFA/Config.yml"
+		wf "## " to "plugins/FFA/Config.yml"
+		wf "## " to "plugins/FFA/Config.yml"
+		wf "##     ____                             _          _____   _____      _        " to "plugins/FFA/Config.yml"
+		wf "##    / ___|   ___    ___   _ __ ___   (_)   ___  |  ___| |  ___|    / \       " to "plugins/FFA/Config.yml"
+		wf "##   | |      / _ \  / __| | '_ ` _ \  | |  / __| | |_    | |_      / _ \      " to "plugins/FFA/Config.yml"
+		wf "##   | |___  | (_) | \__ \ | | | | | | | | | (__  |  _|   |  _|    / ___ \     " to "plugins/FFA/Config.yml"
+		wf "##    \____|  \___/  |___/ |_| |_| |_| |_|  \___| |_|     |_|     /_/   \_\    " to "plugins/FFA/Config.yml"
+		wf "## " to "plugins/FFA/Config.yml"
+		wf "## " to "plugins/FFA/Config.yml"
+		wf "## Created By CleusGamer201" to "plugins/FFA/Config.yml"
+		wf "## " to "plugins/FFA/Config.yml"
+		wf "##-----------------------------------------" to "plugins/FFA/Config.yml"
+		wf "Prefix: '&8&l[&9&lFFA&8&l]->'" to "plugins/FFA/Config.yml"
+		wf "BungeeMode: 'false' ##Improved Please Report Any Bug!" to "plugins/FFA/Config.yml"
+		wf "BungeeMode-Hub: 'Lobby' ##Improved Please Report Any Bug!" to "plugins/FFA/Config.yml"
+		wf "PvP-Sounds: 'true'" to "plugins/FFA/Config.yml"
+		wf "Blood: 'true'" to "plugins/FFA/Config.yml"
+		wf "Blood-Cuantity: '5'" to "plugins/FFA/Config.yml"
+		wf "AntiRain: 'true'" to "plugins/FFA/Config.yml"
+		wf "PvP-Effects: 'true'" to "plugins/FFA/Config.yml"
+		wf "Death-Firework: 'true'" to "plugins/FFA/Config.yml"						
+
+	wait 10 tick
+	set {FFA::Prefix} to colored value "Prefix" get of "plugins/FFA/Config.yml"
+	set {FFA::BungeeMode} to single value "BungeeMode" get of "plugins/FFA/Config.yml"
+	set {FFA::BungeeMode::Hub} to single value "BungeeMode-Hub" get of "plugins/FFA/Config.yml"
+	set {FFA::PvP-Sounds} to single value "PvP-Sounds" get of "plugins/FFA/Config.yml"
+	set {FFA::Blood} to single value "Blood" get of "plugins/FFA/Config.yml"
+	set {FFA::Blood::Cuantity} to value "Blood-Cuantity" get of "plugins/FFA/Config.yml" parsed as integer
+	set {FFA::AntiRain} to single value "AntiRain" get of "plugins/FFA/Config.yml"
+	set {FFA::PvP-Effects} to single value "PvP-Effects" get of "plugins/FFA/Config.yml"
+	set {FFA::Firework} to single value "Death-Firework" get of "plugins/FFA/Config.yml"
+

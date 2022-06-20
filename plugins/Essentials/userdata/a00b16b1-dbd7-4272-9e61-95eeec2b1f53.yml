@@ -1,0 +1,29 @@
+lastlocation:
+  world: LionHUB
+  x: 746.551457786751
+  y: 8.0
+  z: 3547.0145747789225
+  yaw: -187.9055
+  pitch: 4.4400945
+lastAccountName: DerpfaceXD
+timestamps:
+  login: 1518832942183
+  lastteleport: 1518832958940
+  kits:
+    diamond: 1517618290114
+    starter: 1517607550734
+    archer: 1517789805345
+    rouge: 1517618344411
+    god: 1518832973832
+    miner: 1517607986941
+    bard: 1517789770519
+  logout: 1518833385003
+ipAddress: 173.30.163.79
+money: '0.0'
+logoutlocation:
+  world: HCF
+  x: 264.39453509231214
+  y: 72.37681794244426
+  z: -1588.9319551199274
+  yaw: 206.01892
+  pitch: 2.7396626

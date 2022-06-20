@@ -1,0 +1,7 @@
+name: Javelin_
+uuid: ac1b6322-e67f-420f-8c90-7e0e34cae665
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0
+  KitPvP: 0.0

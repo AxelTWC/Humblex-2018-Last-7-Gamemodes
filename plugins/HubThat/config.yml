@@ -1,0 +1,45 @@
+global:
+  ALREADY-TELEPORTING: '&cYou are already Teleporting!'
+  move-detect: true
+  PREFIX: '&0[&6Humblex&0]'
+  FIRSTRUN: false
+  VERSION: 7.0
+  MOVED: '&cYou moved! Teleportation cancelled.'
+  tp-hub-on-join: true
+  tp-hub-on-respawn: false
+  respawn-handler: true
+hub:
+  delay: 0
+  ONLY_PLAYERS: '&cOnly Players can go to the Hub!'
+  HUB_NOT_SET: '&cThe Hub is not Set.'
+  DELAY_TEXT_WAIT: '&aWait&6 %sec% &aSecond(s).'
+  TELEPORTED: '&aYou have been Teleported to the Hub.'
+  NO_PERMISSIONS: '&cYou do not have Permissions for this Command.'
+sethub:
+  ONLY_PLAYERS: '&cOnly Players can set the Hub!'
+  SET_ERROR: '&cSomething went Wrong when Setting the Hub.'
+  HUB_SUCCESS_1: '&aHub Set Succesful in World &6%world%&a.'
+  NO_PERMISSIONS: '&cYou do not have Permissions for this Command.'
+spawn:
+  delay: 5
+  outdated-spawn: '&cWARNING: This spawn is outdated. Update it by typing /setspawn.'
+  ONLY_PLAYERS: '&cOnly Players can go to the Spawn!'
+  NO_PERMISSIONS: '&cYou do not have Permissions for this Command.'
+  SPAWN_NOT_SET: '&cThe Spawn is not Set.'
+  DELAY_TEXT_WAIT: '&aWait&6 %sec% &aSecond(s).'
+  TELEPORTED: '&aYou Have Been teleported to the Spawn.'
+setspawn:
+  ONLY_PLAYERS: '&cOnly Players can set the Spawn!'
+  SPAWN_SUCCESS_1: '&aSpawn Set Succesful in World&6 %world%&a.'
+  NO_PERMISSIONS: '&cYou do not have Permissions for this Command.'
+  SET_ERROR: '&cSomething went Wrong when Setting the Spawn.'
+worldtp:
+  ONLY_PLAYERS: '&cOnly Players can Teleport!'
+  NO_PERMISSIONS: '&cYou do not have Permissions for this Command.'
+  NEEDED_ARGS: '&cWrite the world''s Name!'
+  UNKNOWN_WORLD: '&cThat world is not existing!'
+  TELEPORTED: '&aYou Have Been teleported to&6 %world%&a!'
+worldlist:
+  NO_PERMISSIONS: '&cNo spawn available here.'
+updates:
+  update-notify: true

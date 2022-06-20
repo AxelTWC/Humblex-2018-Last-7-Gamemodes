@@ -1,0 +1,21 @@
+lastAccountName: TeaOfDoom
+timestamps:
+  login: 1503798132725
+  lastteleport: 1503798153683
+  logout: 1503798264329
+ipAddress: 99.114.89.243
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: 0.9886657
+  pitch: -1.4110628
+logoutlocation:
+  world: lobby_practice
+  x: 591.6916310344504
+  y: 28.0
+  z: -468.28049285785977
+  yaw: -193.86783
+  pitch: -70.94066

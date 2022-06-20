@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: xCondensed
+timestamps:
+  login: 1505768282522
+  lastteleport: 1505768315476
+  logout: 1505696591852
+ipAddress: 154.65.32.56
+lastlocation:
+  world: LionHUB
+  x: 93.11883514674389
+  y: 47.5
+  z: -47.18706364414003
+  yaw: -12.198397
+  pitch: -38.155712
+logoutlocation:
+  world: MainLobby
+  x: 14.770963023712934
+  y: 57.0
+  z: -14.069010237100061
+  yaw: -1.9769211
+  pitch: 3.0581985

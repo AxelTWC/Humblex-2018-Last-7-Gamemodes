@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: NBHedonist
+timestamps:
+  login: 1513475438259
+  logout: 1513475448038
+  lastteleport: 1511921378918
+ipAddress: 70.31.245.213
+lastlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -0.47781372
+  pitch: -3.5336792
+logoutlocation:
+  world: LionHUB
+  x: 946.2423210292744
+  y: 37.5
+  z: -412.0240810701214
+  yaw: -6.613958
+  pitch: -0.9945855
+afk: false
+godmode: false
+nickname: §5NBHedonist
+money: '0.0'
+teleportenabled: true

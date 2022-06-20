@@ -1,0 +1,49 @@
+Broadcast-settings:
+  mod-broadcast:
+    format: '&6&l[&c&lAdmin&6&l] &a[&7&l%username%&a] &8&l--&b&l> &7&o%message%'
+    Sound-on-broadcast: true
+  Broadcast:
+    AlertPrefix: '&4[&aBroadcast&4]&f'
+    Sound-on-broadcast: false
+shout-settings:
+  permission-msg: '%prefix%&cYou don''t have permission to use shout!'
+  delay: 60
+  delay-msg: '%prefix% &cYou still have &b %time_left%  &cseconds left!'
+  prefix: '&f[&cShout&f] '
+  format: '%custom_prefix%&6&o%username% &e%message%'
+  Sound-on-shout: false
+Message-sounds:
+  broadcast-sound: ENTITY_EXPERIENCE_ORB_PICKUP
+  modbroadcast-sound: ENTITY_CHICKEN_EGG
+  shoutbroadcast-sound: ENTITY_FIREWORK_LAUNCH
+  sound-on-Join: ENTITY_LIGHTNING_THUNDER
+  sound-on-Quit: ENTITY_SPLASH_POTION_BREAK
+Events:
+  Join:
+    Enabled: true
+    Message: '&eJoin &l&8[&a&l+&8&l] &a&n%player%'
+    Permission: broadcast.join
+    Staff-Prefix: '&4Staff &l&8[&a&l+&l&8] &a&n%player%'
+    sound-enabled: true
+  Quit:
+    Enabled: true
+    Message: '&cQuit &l&8[&4&l-&8&l] &2&m%player%'
+    Permission: broadcast.quit
+    Staff-Prefix: '&4Staff &l&8[&c&l-&l&8] &2&m%player%'
+    sound-enabled: false
+Report:
+  format: '&7[&4Report&7] &c&l%rule_breaker%&r - &7%reason% &6 - %reporter%'
+  admins-only: false
+  delay: 30
+  delay-msg: '&6You still have &a%time_left%  &6seconds till you can use /report again.'
+  no-perms: '%prefix% &6You don''t have permission for /report...'
+Messages:
+  broadcastCmdMsg: '%prefix%&eYou need the permission, broadcast.use to complete that.'
+  modbroadcastCmdMsg: '%prefix%&cYou need the permission broadcast.staff to use this!'
+  broadcast-reloadMsg: '%prefix%&cYou need the permission broadcast.reload to complete
+    this.'
+  reload-Msg: '%prefix%&cThe configuration has been reloaded...'
+  notifiy-enabled: '%prefix% &aYou are now receiving staff notifications.'
+  notifiy-disabled: '%prefix% &cYou are no longer receiving staff notifications.'
+  warning: '%prefix% &cWarning - &cYou currently have notifications &4off. &cDo /sb
+    -toggle to turn them on.'

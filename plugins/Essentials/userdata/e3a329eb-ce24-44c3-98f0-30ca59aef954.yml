@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: MorrocoHeRo27
+timestamps:
+  login: 1502123306186
+  lastteleport: 1502123341492
+  logout: 1502123382972
+ipAddress: 159.8.125.28
+lastlocation:
+  world: LionHUB
+  x: 96.57105703743416
+  y: 46.0
+  z: -59.69999998807907
+  yaw: 49.690548
+  pitch: 88.68394
+logoutlocation:
+  world: MainLobby
+  x: 38.05000001192093
+  y: 58.0
+  z: -22.69999998807907
+  yaw: 173.13637
+  pitch: 8.989022

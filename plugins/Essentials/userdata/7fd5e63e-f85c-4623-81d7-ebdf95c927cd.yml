@@ -1,0 +1,21 @@
+lastlocation:
+  world: lobby_practice
+  x: 633.5531494044974
+  y: 39.11511073758628
+  z: -2771.4381883946894
+  yaw: -100.314476
+  pitch: 4.778374
+lastAccountName: Schulleiter
+timestamps:
+  login: 1512657145344
+  logout: 1512657520617
+  lastteleport: 1512657272219
+ipAddress: 46.80.197.102
+logoutlocation:
+  world: MainLobby
+  x: 15.564104651926034
+  y: 57.0
+  z: 9.130565906720339
+  yaw: 83.19078
+  pitch: 30.717905
+money: '0.0'

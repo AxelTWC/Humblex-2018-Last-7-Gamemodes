@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 41.69603327754886
+  y: 61.0
+  z: 0.014049066041109115
+  yaw: 268.3456
+  pitch: 20.45448
+lastAccountName: sepoke
+timestamps:
+  login: 1515556499443
+  lastteleport: 1515556754508
+  logout: 1515557020717
+ipAddress: 170.231.140.2
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

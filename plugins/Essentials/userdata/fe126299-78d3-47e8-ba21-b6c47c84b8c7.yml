@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: _iStrafq_PvP
+timestamps:
+  login: 1512278759531
+  lastteleport: 1512279001041
+  logout: 1512279132327
+ipAddress: 70.31.66.168
+lastlocation:
+  world: MainLobby
+  x: 28.037986406549656
+  y: 58.0
+  z: 0.8641615839816245
+  yaw: -99.094666
+  pitch: 9.642354
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+money: '0.0'

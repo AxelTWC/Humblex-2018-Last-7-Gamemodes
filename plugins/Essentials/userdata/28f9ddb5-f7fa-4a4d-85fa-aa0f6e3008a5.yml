@@ -1,0 +1,21 @@
+lastAccountName: Ravu
+timestamps:
+  login: 1503813669930
+  lastteleport: 1503813673982
+  logout: 1503813788145
+ipAddress: 180.131.224.95
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.65066919292937
+  y: 46.0
+  z: -58.87262458642489
+  yaw: 166.44937
+  pitch: 5.899746
+logoutlocation:
+  world: MainLobby
+  x: 14.092198035630934
+  y: 57.0
+  z: 0.7886163753902629
+  yaw: -84.39596
+  pitch: 23.538048

@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1500206866363
+  login: 1500206819435
+  logout: 1500206865411
+lastlocation:
+  world: MainLobby
+  x: 28.275034751069757
+  y: 59.0
+  z: 1.7555708946694666
+  yaw: 174.7691
+  pitch: 38.904316
+lastAccountName: martinmal88
+ipAddress: 188.143.53.109
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

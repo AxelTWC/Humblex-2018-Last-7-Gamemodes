@@ -1,0 +1,45 @@
+lastlocation:
+  world: LionHUB
+  x: 750.4536317570145
+  y: 8.046335085252506
+  z: 3648.6592995475
+  yaw: 284.30292
+  pitch: 14.195109
+lastAccountName: Sto0tS
+timestamps:
+  login: 1521462510306
+  logout: 1521462518697
+  lastteleport: 1519334507202
+  kits:
+    diamond: 1512660916454
+    keys: 1511982274602
+    archer: 1517637569569
+    rouge: 1511794343601
+    god: 1516122883520
+    miner: 1514193832968
+    bard: 1511794279996
+ipAddress: 212.237.121.220
+logoutlocation:
+  world: LionHUB
+  x: 735.4845335273402
+  y: 5.0
+  z: 3650.72843059424
+  yaw: 160.39891
+  pitch: 50.686554
+money: '0.0'
+homes:
+  home:
+    world: Factions
+    x: -226.851632029879
+    y: 3.0
+    z: -1997.942313162314
+    yaw: -351.78644
+    pitch: 23.382294
+godmode: false
+afk: false
+powertools:
+  '2':
+  - npc tphere
+  '369':
+  - summon cow
+nickname: §bSto0tS

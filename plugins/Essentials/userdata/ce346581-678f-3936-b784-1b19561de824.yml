@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1498473969351
+  login: 1498473148841
+  logout: 1498473968845
+lastlocation:
+  world: MainLobby
+  x: 25.63616273452402
+  y: 58.0
+  z: 0.8768855745564765
+  yaw: 276.48547
+  pitch: 19.623905
+lastAccountName: jbenatsky
+ipAddress: 121.220.98.87
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158

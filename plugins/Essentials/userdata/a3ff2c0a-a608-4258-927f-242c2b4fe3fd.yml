@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: martijn_mc
+timestamps:
+  login: 1519658105907
+  lastteleport: 1519658177330
+  logout: 1519658254713
+ipAddress: 217.120.95.241
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 5.050000011920931
+  y: 77.0
+  z: 1.9514714125124883
+  yaw: -28.131502
+  pitch: 79.27697

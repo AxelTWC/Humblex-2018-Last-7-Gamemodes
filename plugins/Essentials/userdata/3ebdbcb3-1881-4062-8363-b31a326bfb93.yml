@@ -1,0 +1,22 @@
+lastAccountName: JojoGamerPCTV
+timestamps:
+  login: 1520614872525
+  logout: 1520615241108
+  lastteleport: 1520614910699
+ipAddress: 81.153.200.119
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 743.9808602392476
+  y: 10.0
+  z: 3598.821197180909
+  yaw: 184.84438
+  pitch: 4.5340123
+lastlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+money: '0.0'

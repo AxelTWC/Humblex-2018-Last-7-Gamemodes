@@ -1,0 +1,22 @@
+lastAccountName: JerryIsBored
+timestamps:
+  login: 1518875048811
+  logout: 1518875207950
+  lastteleport: 1518875085895
+ipAddress: 98.115.246.242
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -1.6054688
+  pitch: 1.4400991
+lastlocation:
+  world: MainLobby
+  x: -2.699999988079071
+  y: 60.0
+  z: -0.046341923622411546
+  yaw: -276.05002
+  pitch: 20.75
+money: '500.0'

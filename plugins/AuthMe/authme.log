@@ -1,0 +1,19 @@
+[03-20 16:21:29]: [INFO] SQLite Setup finished
+[03-20 16:21:30]: [INFO] Hooked into Vault!
+[03-20 16:21:30]: [INFO] Hooked successfully into Essentials
+[03-20 16:21:30]: [INFO] Hooked successfully into Multiverse-Core
+[03-20 16:21:30]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-20 16:21:30]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-20 16:21:30]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-20 16:21:30]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[03-20 17:45:15]: [WARN] Error getting message with key 'accounts_owned_self'. Please update your config file 'messages_en.yml' (or run /authme messages)
+[03-20 19:18:03]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[03-20 19:18:49]: [INFO] SQLite Setup finished
+[03-20 19:18:49]: [INFO] Hooked into Vault!
+[03-20 19:18:49]: [INFO] Hooked successfully into Essentials
+[03-20 19:18:49]: [INFO] Hooked successfully into Multiverse-Core
+[03-20 19:18:49]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-20 19:18:50]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-20 19:18:50]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-20 19:18:50]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[03-20 19:47:47]: [WARN] Error getting message with key 'denied_chat'. Please update your config file 'messages_en.yml' (or run /authme messages)

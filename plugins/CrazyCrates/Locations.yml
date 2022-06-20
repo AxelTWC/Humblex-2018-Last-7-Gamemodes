@@ -1,0 +1,55 @@
+Locations:
+  '1':
+    Crate: voting
+    World: LionHUB
+    X: 980
+    Y: 38
+    Z: -376
+  '2':
+    Crate: case
+    World: SkyBlock
+    X: 0
+    Y: 65
+    Z: -54
+  '3':
+    Crate: Menu
+    World: Factions
+    X: 106
+    Y: 68
+    Z: -290
+  '5':
+    Crate: Crazy
+    World: Factions
+    X: 111
+    Y: 68
+    Z: -287
+  '6':
+    Crate: Crazy
+    World: Factions
+    X: 111
+    Y: 68
+    Z: -289
+  '7':
+    Crate: Crazy
+    World: Factions
+    X: 111
+    Y: 68
+    Z: -291
+  '8':
+    Crate: Crazy
+    World: Factions
+    X: 111
+    Y: 68
+    Z: -293
+  '9':
+    Crate: Crazy
+    World: Factions
+    X: 111
+    Y: 68
+    Z: -295
+  '4':
+    Crate: Bronze
+    World: Factions
+    X: 111
+    Y: 68
+    Z: -285

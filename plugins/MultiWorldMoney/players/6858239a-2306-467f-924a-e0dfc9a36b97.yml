@@ -1,0 +1,9 @@
+name: WESTSIDESHOOTER
+uuid: 6858239a-2306-467f-924a-e0dfc9a36b97
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  Factions: 0.0
+  lobby_practice: 0.0
+  parkour: 0.0
+  LionHUB: 500.0

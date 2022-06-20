@@ -1,0 +1,38 @@
+Messages:
+  General:
+    Prefix: '&7[&b&lKIT-PVP&7]'
+    Permission: '%prefix% &cYou do not have permission.'
+    Player: '%prefix% &cYou must be a player to perform this action.'
+  Commands:
+    Teleport: '%prefix% &7Teleported you to the spawn.'
+    Teleporting: '%prefix% &7Teleporting, do not move.'
+    Time: '%prefix% &7Teleporting you in &b%time% seconds&7.'
+    Spawn: '%prefix% &7Successfully set the spawn.'
+    Reload: '%prefix% &7Successfully reloaded the configurations.'
+  Kits:
+    Fighter: '%prefix% &7You have selected kit &bFighter&7.'
+    Archer: '%prefix% &7You have selected kit &bArcher&7.'
+    Tank: '%prefix% &7You have selected kit &bTank&7.'
+    Soldier: '%prefix% &7You have selected kit &bSoldier&7.'
+    Bomber: '%prefix% &7You have selected kit &bBomber&7.'
+    Kangaroo: '%prefix% &7You have selected kit &bKangaroo&7.'
+    Warper: '%prefix% &7You have selected kit &bWarper&7.'
+    Witch: '%prefix% &7You have selected kit &bWitch&7.'
+    Ninja: '%prefix% &7You have selected kit &bNinja&7.'
+    Thunderbolt: '%prefix% &7You have selected kit &bThunderbolt&7.'
+    Vampire: '%prefix% &7You have selected kit &bVampire&7.'
+    Cleared: '%prefix% &7Your kit has been cleared.'
+  Error:
+    Kit: '%prefix% &cYou must select a kit before hitting players.'
+    Moved: '%prefix% &cYou moved, teleportation cancelled.'
+    Invincible: '%prefix% &cYou cannot hit that player because they have no kit.'
+    Selected: '%prefix% &cYou have already selected a kit.'
+  Stats:
+    Message:
+    - '&7&m                                &r'
+    - ' '
+    - ' &b&lStats for %player%'
+    - ' &aKills: &7%kills%'
+    - ' &aDeaths: &7%deaths%'
+    - ' '
+    - '&7&m                                &r'

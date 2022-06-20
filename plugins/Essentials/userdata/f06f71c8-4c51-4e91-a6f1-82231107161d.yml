@@ -1,0 +1,24 @@
+lastAccountName: InstallingJDK
+timestamps:
+  login: 1518019018931
+  logout: 1518019091025
+  lastteleport: 1518018890063
+ipAddress: 185.220.112.46
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 731.8612381054165
+  y: 5.0
+  z: 3621.644632286776
+  yaw: -0.10546875
+  pitch: -4.859901
+lastlocation:
+  world: LionHUB
+  x: 753.1090150132793
+  y: 27.378631614760337
+  z: 3607.763015509455
+  yaw: 79.42645
+  pitch: 80.947716
+money: '0.0'
+powertools: {}
+afk: false

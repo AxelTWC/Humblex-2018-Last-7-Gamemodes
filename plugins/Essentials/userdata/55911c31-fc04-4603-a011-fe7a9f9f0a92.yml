@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: 248nonny
+timestamps:
+  login: 1507494204988
+  logout: 1507494588416
+  lastteleport: 1507494214114
+ipAddress: 50.68.251.212
+logoutlocation:
+  world: MainLobby
+  x: 12.791981570871046
+  y: 58.0
+  z: 3.1118810050157744
+  yaw: -293.05707
+  pitch: 44.17264
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

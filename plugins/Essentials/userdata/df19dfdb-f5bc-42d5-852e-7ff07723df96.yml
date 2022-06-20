@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: kittenlazer
+timestamps:
+  login: 1516400164080
+  logout: 1516401129085
+  lastteleport: 1516400435572
+ipAddress: 68.58.66.55
+logoutlocation:
+  world: MainLobby
+  x: -2.699999988079071
+  y: 60.0
+  z: 1.699999988079071
+  yaw: -89.64003
+  pitch: 2.3657343
+money: '0.0'

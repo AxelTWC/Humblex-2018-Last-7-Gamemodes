@@ -1,0 +1,10 @@
+Punishments: {}
+PunishmentHistory:
+  '1':
+    name: codsmash
+    uuid: codsmash
+    reason: because i feel like it
+    operator: XxMr1234GamerzxX
+    punishmentType: KICK
+    start: 1502751247358
+    end: -1

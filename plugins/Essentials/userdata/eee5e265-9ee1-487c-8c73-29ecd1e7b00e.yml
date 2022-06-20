@@ -1,0 +1,21 @@
+lastAccountName: Crey
+timestamps:
+  login: 1505686905355
+  lastteleport: 1505686915163
+  logout: 1505687050915
+ipAddress: 82.0.107.148
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.81748069425649
+  y: 47.5
+  z: -47.153791076561355
+  yaw: 5.676605
+  pitch: -17.398369
+logoutlocation:
+  world: MainLobby
+  x: 26.614318898662482
+  y: 57.5
+  z: 32.314397620355074
+  yaw: 154.62483
+  pitch: 14.8787

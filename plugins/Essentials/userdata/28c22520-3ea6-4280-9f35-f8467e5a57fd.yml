@@ -1,0 +1,84 @@
+lastAccountName: PetMeLlama
+socialspy: true
+timestamps:
+  login: 1521420266696
+  lastteleport: 1521420357382
+  logout: 1521420660852
+  kits:
+    starter: 1520645923766
+    keys: 1511921585520
+    god: 1520628276861
+    miner: 1512347812362
+    bard: 1512246824295
+ipAddress: 174.218.6.35
+lastlocation:
+  world: LionHUB
+  x: 745.8026627716233
+  y: 10.0
+  z: 3611.086962588178
+  yaw: -34.362946
+  pitch: -0.38404778
+logoutlocation:
+  world: HCF
+  x: -21.873630392514883
+  y: 87.48203733469889
+  z: 379.69208109307846
+  yaw: -174.46733
+  pitch: 50.578167
+afk: false
+godmode: true
+powertools:
+  '280':
+  - tp xxmr
+money: '0.0'
+homes:
+  home:
+    world: Factions
+    x: 170.52547765508322
+    y: 9.0
+    z: 19.36152288129605
+    yaw: -70.417816
+    pitch: 6.8235765
+  test:
+    world: Factions
+    x: 43.02165446721896
+    y: 83.0
+    z: -433.518284741401
+    yaw: -95.2782
+    pitch: 25.950033
+  bluee:
+    world: Factions
+    x: 153.8909279170443
+    y: 65.0
+    z: 197.46631848131494
+    yaw: 279.07825
+    pitch: 25.546686
+  bluee2:
+    world: Factions
+    x: 155.62991212485534
+    y: 65.0
+    z: 198.18667808527513
+    yaw: 35.77826
+    pitch: 32.746693
+  bluee3:
+    world: Factions
+    x: 155.45670412722214
+    y: 65.0
+    z: 199.8969121268469
+    yaw: 14.628296
+    pitch: 45.64669
+  bluee4:
+    world: Factions
+    x: 153.15683450411032
+    y: 65.0
+    z: 200.26700148670244
+    yaw: 99.22827
+    pitch: 35.296688
+  baseinmaking:
+    world: HCF
+    x: -243.55710616694086
+    y: 73.0
+    z: 1480.5211157543183
+    yaw: 94.29613
+    pitch: 13.135831
+nickname: §a§lXxGreenSlimexX58

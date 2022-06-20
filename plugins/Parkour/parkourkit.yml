@@ -1,0 +1,4 @@
+ParkourKit:
+  default:
+    HUGE_MUSHROOM_2:
+      Action: finish

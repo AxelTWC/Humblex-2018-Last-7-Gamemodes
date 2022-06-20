@@ -1,0 +1,8 @@
+name: SilentGamerPlayz
+uuid: b8804b9c-9f49-4f30-b0e6-6dd30054a423
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0
+  map: 0.0

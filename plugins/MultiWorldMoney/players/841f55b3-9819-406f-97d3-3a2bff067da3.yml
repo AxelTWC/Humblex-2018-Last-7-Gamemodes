@@ -1,0 +1,8 @@
+name: TheSlimeJunior
+uuid: 841f55b3-9819-406f-97d3-3a2bff067da3
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  Factions: 0.0
+  lobby_practice: 0.0
+  LionHUB: 10500.0

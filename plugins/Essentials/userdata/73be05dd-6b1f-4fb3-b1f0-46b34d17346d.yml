@@ -1,0 +1,57 @@
+lastAccountName: Sloth17
+timestamps:
+  login: 1521153581958
+  lastteleport: 1521153664598
+  logout: 1521153667163
+ipAddress: 66.66.16.80
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 748.3794156097738
+  y: 6.0
+  z: 3638.771552586493
+  yaw: -148.48495
+  pitch: 22.10253
+money: '0.0'
+logoutlocation:
+  world: SkyBlock
+  x: 0.48310134240637126
+  y: 65.0
+  z: 21.554560647331456
+  yaw: -0.17415906
+  pitch: 14.352522
+godmode: false
+teleportenabled: true
+nickname: §4SLOTHY
+afk: false
+homes:
+  home:
+    world: ASkyBlock
+    x: -0.7206567589306468
+    y: 117.0
+    z: 199.11577549007973
+    yaw: -6.9057055
+    pitch: 31.381123
+  poop:
+    world: ASkyBlock
+    x: -0.6295772831299522
+    y: 117.0
+    z: 199.94405356952345
+    yaw: -6.790611
+    pitch: 33.683018
+  fluffy:
+    world: ASkyBlock
+    x: 414.7821715169963
+    y: 119.0
+    z: 5.614363233546706
+    yaw: -86.789795
+    pitch: 25.447208
+powertools:
+  '268':
+  - smite
+  '19':
+  - gms fluffy_chicken73
+  '392':
+  - kill fluffy_chicken73
+  '98':
+  - tp 0SABMA Sloth17

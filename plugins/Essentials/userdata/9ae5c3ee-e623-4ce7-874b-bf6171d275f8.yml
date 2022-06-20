@@ -1,0 +1,26 @@
+lastlocation:
+  world: Factions
+  x: 389.40700797167045
+  y: 164.0
+  z: -2346.300000011921
+  yaw: -3.628357
+  pitch: -13.543983
+lastAccountName: Cental
+timestamps:
+  login: 1517656699871
+  lastteleport: 1517656726813
+  logout: 1517657187777
+  kits:
+    diamond: 1517511658702
+    archer: 1517513728852
+    god: 1517515233995
+    bard: 1517515165184
+ipAddress: 86.10.86.127
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 392.1782840320891
+  y: 164.75
+  z: -2357.924252438657
+  yaw: -146.35388
+  pitch: 43.147797

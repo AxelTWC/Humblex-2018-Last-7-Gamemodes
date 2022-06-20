@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1498385118582
+  login: 1498385051410
+  logout: 1498385116979
+lastlocation:
+  world: MainLobby
+  x: 19.69999998807907
+  y: 57.0
+  z: 0.5556016619811999
+  yaw: -89.49389
+  pitch: 8.069155
+socialspy: false
+lastAccountName: molfe
+ipAddress: 58.6.199.239
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158

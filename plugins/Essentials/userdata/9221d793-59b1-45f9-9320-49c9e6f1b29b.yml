@@ -1,0 +1,21 @@
+lastAccountName: Death_Gun666
+timestamps:
+  login: 1503027571521
+  lastteleport: 1503027578772
+  logout: 1503027660502
+ipAddress: 174.218.140.21
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: 1.2886657
+  pitch: -1.4110628
+logoutlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: -90.0
+  pitch: 90.0

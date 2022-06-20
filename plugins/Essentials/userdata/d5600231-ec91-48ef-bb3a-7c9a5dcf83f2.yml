@@ -1,0 +1,21 @@
+lastAccountName: 1rockyroad
+timestamps:
+  login: 1503054672134
+  lastteleport: 1503054685336
+  logout: 1503056195188
+ipAddress: 211.27.53.21
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: -9.712102
+  pitch: 5.4772687
+logoutlocation:
+  world: MainLobby
+  x: 3.603125876203628
+  y: 63.0
+  z: -5.141348206141615
+  yaw: -173.9218
+  pitch: 21.945318

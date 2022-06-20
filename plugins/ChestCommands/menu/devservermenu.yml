@@ -1,0 +1,505 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1Dev Server Menu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'dsm; devservermenu'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 3
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'tell:&0[&6Humblex&0] &6You Have Opened The Dev Server Menu'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: wool:1
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+
+gamemenu:
+  COMMAND: 'gm'
+  NAME: '&7✪&6Game Menu&7✪'
+  LORE:
+    - '&2---------------------------'
+    - '&6Play A Game On Humblex'
+    - '&2---------------------------'
+  ID: compass
+  POSITION-X: 3
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+devmenu:
+  COMMAND: 'dm'
+  NAME: '&7✪&2Dev Menuu&7✪'
+  LORE:
+    - '&2--------------------------'
+    - '&6Customise Things About You'
+    - '&2--------------------------'
+  ID: 264
+  POSITION-X: 5
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+votemenu:
+  COMMAND: 'vote'
+  NAME: '&7✪&6Voting Menu&7✪'
+  LORE:
+    - '&2--------------------------'
+    - '&4Coming Soon'
+    - '&2--------------------------'
+  ID: paper
+  POSITION-X: 7
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+gadgetmenu:
+  COMMAND: 'gadgetsmenu main'
+  NAME: '&7✪&6Gadget Menu&7✪'
+  LORE:
+    - '&2--------------------------'
+    - '&6Look At Some Cool Gadgets'
+    - '&2--------------------------'
+  ID: 399
+  POSITION-X: 7
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+gamebox:
+  COMMAND: 'gb'
+  NAME: '&7✪&6GameBox&7✪'
+  LORE:
+    - '&2--------------------------'
+    - '&6Play Some Inventory Games'
+    - '&2--------------------------'
+  ID: chest
+  POSITION-X: 3
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+close:
+  COMMAND: ''
+  NAME: '&7✪&6Close&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Close This Menu'
+    - '&2----------------------------------'
+  ID: 152
+  POSITION-X: 5
+  POSITION-Y: 5
+  KEEP-OPEN: false
+  
+blank 1:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 1
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 2:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 2
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 3:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 8
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 4:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 9
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 5:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 4
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 6:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 6
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 7:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 3
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 8:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 5
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 9:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 7
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 10:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 1
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 11:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 2
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 12:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 4
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 13:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 5
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 14:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 6
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 15:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 8
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 16:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 9
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 17:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 1
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 18:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 2
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 19:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 3
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 20:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 4
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 22:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 6
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 23:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 7
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 24:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 8
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 25:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 9
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 26:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 1
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 27:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 2
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 28:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 4
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 29:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 5
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 30:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 6
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 31:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 8
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 32:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 9
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 33:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 1
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 34:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 2
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 35:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 3
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 36:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 4
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 38:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 6
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 39:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 7
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 40:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 8
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 41:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stained glass pane:11
+  POSITION-X: 9
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  

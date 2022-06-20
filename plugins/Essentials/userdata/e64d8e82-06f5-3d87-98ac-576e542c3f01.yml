@@ -1,0 +1,21 @@
+lastAccountName: nonfuckGameZ
+timestamps:
+  login: 1502276166135
+  logout: 1502277112840
+  lastteleport: 1502276178493
+ipAddress: 88.247.147.227
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.4691817266242615
+  yaw: -98.90001
+  pitch: 39.2
+lastlocation:
+  world: LionHUB
+  x: 93.61099491636631
+  y: 47.0
+  z: -47.95892365853991
+  yaw: -6.0632105
+  pitch: -18.83784

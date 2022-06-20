@@ -1,0 +1,24 @@
+lastlocation:
+  world: lobby_practice
+  x: 525.0445341186758
+  y: 4.914011452343292
+  z: -3238.218700658656
+  yaw: 66.4317
+  pitch: 11.829657
+lastAccountName: iShadowStrqfes
+timestamps:
+  login: 1513480695639
+  lastteleport: 1513480745059
+  kits:
+    starter: 1512876706315
+  logout: 1513482243963
+ipAddress: 107.11.64.98
+money: '0.0'
+godmode: false
+logoutlocation:
+  world: MainLobby
+  x: 6.949999988079072
+  y: 58.5
+  z: -12.826791636768128
+  yaw: -2.102731
+  pitch: 30.214483

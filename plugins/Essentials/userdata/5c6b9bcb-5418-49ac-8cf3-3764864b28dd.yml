@@ -1,0 +1,27 @@
+lastlocation:
+  world: LionHUB
+  x: 745.8284992147417
+  y: 10.0
+  z: 3610.86882407099
+  yaw: -0.10546875
+  pitch: -4.859901
+lastAccountName: Pasua
+timestamps:
+  login: 1517713574228
+  lastteleport: 1517713647722
+  logout: 1517713666185
+  kits:
+    starter: 1512334672860
+    keys: 1511919720109
+    archer: 1517636610489
+    god: 1517636550115
+    bard: 1511919781859
+ipAddress: 98.162.128.168
+money: '500.0'
+logoutlocation:
+  world: LionHUB
+  x: 746.7681579033272
+  y: 10.0
+  z: 3604.3786506253177
+  yaw: -139.2006
+  pitch: 21.8228

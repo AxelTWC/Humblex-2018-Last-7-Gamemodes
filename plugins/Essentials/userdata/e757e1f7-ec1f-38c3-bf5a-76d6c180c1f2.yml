@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: AdySiCeva
+timestamps:
+  login: 1504091929651
+  lastteleport: 1504091959411
+  logout: 1504091994068
+ipAddress: 94.123.229.213
+lastlocation:
+  world: LionHUB
+  x: 94.31245466687555
+  y: 46.0
+  z: -57.62788091203062
+  yaw: 127.58866
+  pitch: 17.188938
+logoutlocation:
+  world: FFA
+  x: 13.0
+  y: 11.0
+  z: -149.0
+  yaw: 324.13477
+  pitch: 43.609875

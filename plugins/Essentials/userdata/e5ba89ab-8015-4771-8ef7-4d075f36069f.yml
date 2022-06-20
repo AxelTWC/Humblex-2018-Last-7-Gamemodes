@@ -1,0 +1,34 @@
+lastAccountName: lesserspark
+timestamps:
+  login: 1518893316896
+  lastteleport: 1518893986434
+  logout: 1518894912519
+  kits:
+    starter: 1518893572021
+ipAddress: 74.132.135.208
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: 9.5
+  y: 57.0
+  z: 14.5
+  yaw: 118.51919
+  pitch: -3.0956495
+logoutlocation:
+  world: MainLobby
+  x: 9.5
+  y: 60.0
+  z: 0.5
+  yaw: 82.8192
+  pitch: -4.2956443
+money: '0.0'
+nickname: §6Twisted
+afk: false
+homes:
+  new:
+    world: LionHUB
+    x: -921.9556714694694
+    y: 12.0
+    z: 130.37498901714685
+    yaw: -164.65869
+    pitch: 26.250084

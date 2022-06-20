@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: Lizardman24
+timestamps:
+  login: 1510792651711
+  logout: 1510795424934
+  lastteleport: 1510795071319
+ipAddress: 108.88.227.88
+logoutlocation:
+  world: MainLobby
+  x: 35.41204623917758
+  y: 57.5
+  z: 32.30000001192093
+  yaw: 303.70035
+  pitch: 12.349991
+money: '600.0'

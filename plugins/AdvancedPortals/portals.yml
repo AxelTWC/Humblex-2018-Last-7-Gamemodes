@@ -1,0 +1,137 @@
+# 
+#  ExamplePortal:
+#    world: it will be the world name
+#    triggerblock: LAVA # will only be used if the hastriggerblock is true and can be id or text
+#    pos1: # dont mess with the data here, if you do it may stop the portal from working.
+#      X:
+#      Y:
+#      Z:
+#    pos2:
+#      X:
+#      Y:
+#      Z:
+#    destination:
+#      issetpoint: true # if this was false point name would not be used and the coordinates would be saved here, it just adds more customisation.
+#      pointname: examplepoint # if issetpoint is false this wont be here and tppos will be.
+#      tppos:
+#        X:
+#        Y:
+#        Z:
+
+
+
+
+
+
+ArenaPvP:
+  world: LionHUB
+  triggerblock: STATIONARY_WATER
+  pos1:
+    X: 748
+    Y: 13
+    Z: 3670
+  pos2:
+    X: 744
+    Y: 7
+    Z: 3670
+  portalArgs:
+    command:
+      '1': '!warp arenapvp'
+Staff:
+  world: LionHUB
+  triggerblock: STATIONARY_WATER
+  pos1:
+    X: 699
+    Y: 9
+    Z: 3657
+  pos2:
+    X: 696
+    Y: 5
+    Z: 3655
+  portalArgs:
+    command:
+      '1': '!warp staff'
+Sg:
+  world: LionHUB
+  triggerblock: STATIONARY_WATER
+  pos1:
+    X: 699
+    Y: 9
+    Z: 3561
+  pos2:
+    X: 697
+    Y: 5
+    Z: 3558
+  portalArgs:
+    command:
+      '1': '!warp survivalgames'
+Hcf:
+  world: LionHUB
+  triggerblock: STATIONARY_WATER
+  pos1:
+    X: 748
+    Y: 13
+    Z: 3546
+  pos2:
+    X: 744
+    Y: 7
+    Z: 3546
+  portalArgs:
+    command:
+      '1': '!warp hcf'
+FFA:
+  world: LionHUB
+  triggerblock: STATIONARY_WATER
+  pos1:
+    X: 796
+    Y: 9
+    Z: 3561
+  pos2:
+    X: 793
+    Y: 5
+    Z: 3559
+  portalArgs:
+    command:
+      '1': '!ffa join'
+Skyblock:
+  world: LionHUB
+  triggerblock: STATIONARY_WATER
+  pos1:
+    X: 808
+    Y: 13
+    Z: 3610
+  pos2:
+    X: 808
+    Y: 7
+    Z: 3606
+  portalArgs:
+    command:
+      '1': '!warp skyblock'
+Meetup:
+  world: LionHUB
+  triggerblock: STATIONARY_WATER
+  pos1:
+    X: 796
+    Y: 9
+    Z: 3658
+  pos2:
+    X: 793
+    Y: 5
+    Z: 3654
+  portalArgs:
+    command:
+      '1': '!warp meetup'
+Kitpvp:
+  world: LionHUB
+  triggerblock: STATIONARY_WATER
+  pos1:
+    X: 684
+    Y: 13
+    Z: 3610
+  pos2:
+    X: 684
+    Y: 7
+    Z: 3606
+  portalArgs:
+    command:
+      '1': '!warp kitpvp'

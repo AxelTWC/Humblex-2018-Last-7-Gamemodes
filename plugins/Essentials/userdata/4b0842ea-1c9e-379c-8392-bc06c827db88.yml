@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -2.103191617317016
+  y: 60.0
+  z: 1.6036794944607002
+  yaw: -120.21351
+  pitch: 10.026356
+lastAccountName: GamesAway
+timestamps:
+  login: 1517160220274
+  logout: 1517160224340
+  lastteleport: 1514569838786
+ipAddress: 98.14.238.246
+logoutlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -3.627814
+  pitch: 18.21632
+money: '500.0'

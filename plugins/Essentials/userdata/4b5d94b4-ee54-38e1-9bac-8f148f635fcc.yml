@@ -1,0 +1,21 @@
+lastAccountName: Elqa
+timestamps:
+  login: 1501189213067
+  logout: 1501189313666
+  lastteleport: 1501189232991
+ipAddress: 72.71.132.105
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 9.989557220379089
+  y: 60.0
+  z: 0.7984971609083685
+  yaw: 111.910446
+  pitch: -6.1500516
+lastlocation:
+  world: LionHUB
+  x: 92.81287241311244
+  y: 46.0
+  z: -55.98205455862045
+  yaw: -178.41315
+  pitch: -3.537834

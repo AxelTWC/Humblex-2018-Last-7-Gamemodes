@@ -1,0 +1,61 @@
+lastAccountName: fluffy_chicken73
+timestamps:
+  login: 1520719800623
+  lastteleport: 1520719805908
+  logout: 1520720000841
+  kits:
+    diamond: 1513488807832
+    god: 1520628489718
+ipAddress: 108.86.130.104
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+logoutlocation:
+  world: MainLobby
+  x: 21.867397412081747
+  y: 57.0
+  z: 10.605518627832716
+  yaw: -120.91841
+  pitch: 3.4500215
+money: '0.00'
+powertools:
+  '273':
+  - lightning
+  '1':
+  - gamemode 3
+afk: false
+godmode: false
+homes:
+  fac:
+    world: Factions
+    x: 203.96306402888274
+    y: 58.0
+    z: -513.8222874850441
+    yaw: 266.3725
+    pitch: 13.650093
+  lava:
+    world: Factions
+    x: -101.78557960400079
+    y: 24.0
+    z: -484.6999999880791
+    yaw: 74.83001
+    pitch: 71.55012
+  raidthismofo:
+    world: Factions
+    x: 43.30000001192093
+    y: 66.0
+    z: 43.69999998807905
+    yaw: -276.67914
+    pitch: 74.25002
+  cannon:
+    world: Factions
+    x: 60.41047954746383
+    y: 97.0
+    z: 81.85457307659566
+    yaw: 230.77203
+    pitch: 67.64999

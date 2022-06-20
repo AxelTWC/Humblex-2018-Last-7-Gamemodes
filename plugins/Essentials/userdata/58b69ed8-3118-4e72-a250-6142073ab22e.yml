@@ -1,0 +1,21 @@
+lastAccountName: SixTapping
+timestamps:
+  login: 1503091223547
+  lastteleport: 1503091234401
+  logout: 1503091448460
+ipAddress: 99.16.255.55
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 94.66269183165812
+  y: 46.0
+  z: -57.85910982809945
+  yaw: 18.37012
+  pitch: 6.984908
+logoutlocation:
+  world: MainLobby
+  x: 25.768126895377822
+  y: 57.24120769607725
+  z: -13.001526709628664
+  yaw: 9.600113
+  pitch: 18.778992

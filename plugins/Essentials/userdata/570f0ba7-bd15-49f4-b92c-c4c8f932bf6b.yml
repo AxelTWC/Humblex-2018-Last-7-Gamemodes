@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Abfqhrt
+timestamps:
+  login: 1502899492127
+  lastteleport: 1502899518131
+  logout: 1502899967497
+ipAddress: 91.141.0.167
+lastlocation:
+  world: LionHUB
+  x: 93.7138240487062
+  y: 48.05462103785362
+  z: -47.805959711093244
+  yaw: -0.17841594
+  pitch: 3.6261911
+logoutlocation:
+  world: lobby_practice
+  x: 0.0
+  y: 60.0
+  z: 0.0
+  yaw: -228.82703
+  pitch: 6.5158305

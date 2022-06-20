@@ -1,0 +1,21 @@
+lastAccountName: Altraverse
+timestamps:
+  login: 1506569728829
+  logout: 1506569794592
+  lastteleport: 1505592162836
+ipAddress: 199.66.168.99
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 92.30000001192093
+  y: 46.0
+  z: -64.89230387893161
+  yaw: 0.30523682
+  pitch: 24.589153
+lastlocation:
+  world: MainLobby
+  x: 4.585989949859411
+  y: 60.0
+  z: 0.8312453296219949
+  yaw: -87.14721
+  pitch: 2.5700886

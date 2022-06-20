@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1511721038957
+  login: 1511721018081
+  logout: 1511721110178
+lastlocation:
+  world: LionHUB
+  x: 942.0360655431533
+  y: 38.0
+  z: -363.0116426231393
+  yaw: -357.00323
+  pitch: -5.282007
+lastAccountName: JuCieY
+ipAddress: 72.27.219.145
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 26.991435058809042
+  y: 57.0
+  z: 17.641813612230926
+  yaw: 47.446777
+  pitch: 21.494513
+money: '0.0'

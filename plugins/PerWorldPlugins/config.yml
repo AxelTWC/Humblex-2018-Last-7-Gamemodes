@@ -1,0 +1,249 @@
+# This config controls what plugins work on certain worlds.
+# Example
+# limit:
+#   WorldEdit:
+#     - world
+#     - world_nether
+#   Essentials: []
+# This will make it so worldedit will only work in world & world_nether, meaning in the end it is not usable.
+# When there is no worlds in the list it will allow it for any worlds, in this example allowing all worlds.
+# Whenever a plugin is added, this config will automatically add it!
+# exempt-login-events is for excluding login events when true, this means if a plugin uses PlayerLogin it will allow it for any world. We advise this to be enabled!
+# blocked-msg is the string displayed to a client when a command is blocked
+# check-for-updates is the controller for if updates should be alerted to the users with the permissions/op.
+exempt-login-events: true
+check-for-updates: true
+blocked-msg: '&c[Error] This command cannot be performed in this world.'
+limit:
+  MotdManager: []
+  GWENBANS: []
+  JoinCommands: []
+  PlayerSettings: []
+  BetterCrops: []
+  GroupManager: []
+  NamePlates: []
+  SmoothKnockback: []
+  PlugMan: []
+  BanWaves: []
+  OreGenerator: []
+  AutoLapiz: []
+  SkinsRestorer: []
+  EmeraldLauncher2: []
+  TopTenHeads: []
+  AntiFire: []
+  TabHealth: []
+  ViaVersion: []
+  SparklingTools:
+  - ASkyBlock
+  - Skyblock
+  StaffPlus: []
+  FastPot:
+  - lobby_practice
+  RealPing: []
+  SB-GUI: []
+  Skript: []
+  PerWorldChatPlus: []
+  Essentials: []
+  ClearLag: []
+  AdvancedBan: []
+  skDragon: []
+  SurvivalGames: []
+  Broadcast: []
+  SkQuery: []
+  BanAnimations: []
+  Votifier: []
+  ProtocolLib: []
+  EnderPearl:
+  - lobby_practice
+  - HCF
+  ArenaPvP:
+  - lobby_practice
+  - LionHUB
+  - FFA
+  - MainLobby
+  - uhcmeetup
+  FastAsyncWorldEdit: []
+  HubThat: []
+  WildSkript: []
+  EssentialsChat: []
+  TreeAssist: []
+  Tab: []
+  SuperbVote: []
+  SortingHopper: []
+  Vault: []
+  SalvageSmelter: []
+  EnjinMinecraftPlugin: []
+  FastLogin: []
+  TrailGUI: []
+  ASkyBlock:
+  - ASkyBlock
+  - Askyblock_nether
+  - Skyblock
+  MineplexAntiCheat: []
+  GWEN: []
+  RandomSK: []
+  TitleManager: []
+  WorldEdit: []
+  SkStuff: []
+  Multiverse-Core: []
+  Citizens: []
+  DiscordSRV: []
+  WorldEditSelectionVisualizer: []
+  AuthMe: []
+  HolographicDisplays: []
+  WorldGuard: []
+  MobStacker: []
+  Multiverse-Inventories: []
+  CommandNPC: []
+  PvPManager:
+  - HCF
+  Eggwars: []
+  HookSk: []
+  SkyBlockHoloStats: []
+  SilkSpawners: []
+  InfoBoardReborn: []
+  ChestShop: []
+  Skywars:
+  - LionHUB
+  - Skywars
+  - SkywarsMap1
+  - SkywarsMap2
+  - SkywarsMap3
+  - SkywarsTeamMap1
+  - SkywarsTeamMap2
+  - SkywarsTeamMap3
+  KnockBackFixer: []
+  PickupArrows: []
+  VoidWorld: []
+  GadgetsMenu: []
+  ChestCommands: []
+  SensibleToolbox: []
+  CustomJoinItems:
+  - lionhub
+  BlockParticles: []
+  GetPerms: []
+  VoteGUI: []
+  vote_gui: []
+  GAListener: []
+  GameBox: []
+  Battleship: []
+  GemCrush: []
+  Sudoku: []
+  CookieClicker: []
+  Minesweeper: []
+  WhacAMole: []
+  ConnectFour: []
+  '2048': []
+  CS-CoreLib: []
+  Auto_Respawn: []
+  skRayFall: []
+  InstaSpawn: []
+  elyby-skinsystem: []
+  Poll: []
+  VeinMiner: []
+  BlockBreaker: []
+  Youtube: []
+  LWC: []
+  FactionsPlus: []
+  AutoCrafters: []
+  SpawnerShop: []
+  CraftTheUncraftable: []
+  HCTeamsFreeze: []
+  FreshStaff: []
+  VotingPlugin: []
+  AdvancedPortals: []
+  PlayerSkills: []
+  ExpSaver: []
+  XpKill: []
+  MineStats: []
+  PlayerStats: []
+  StatsGUI: []
+  LaggRemover: []
+  KillerRewards: []
+  EnderRide:
+  - LionHUB
+  RainbowChat: []
+  CommandSigns: []
+  Factions:
+  - HCF
+  Notorious:
+  - HCF
+  Parkour: []
+  UHCReloaded: []
+  LibsDisguises: []
+  iControlU: []
+  TrollCommandsPlusPlus: []
+  CratesPlus: []
+  CSGO-CratesPlus: []
+  CommandItems: []
+  ItemCases: []
+  CrazyCrates: []
+  GWENWave: []
+  ConsoleSpamFix: []
+  HumblexAntiCheat: []
+  KIGHTBAN: []
+  KIGHTALERTS: []
+  KIGHT: []
+  PlotSquared: []
+  UHC: []
+  TopLite: []
+  MaintenanceMode: []
+  FairPlayMinecraft: []
+  NoHackedClients: []
+  PlayerOptions: []
+  CoreProtect: []
+  ServerListPlus: []
+  TeleportBowReloaded:
+  - LionHUB
+  Profiles: []
+  FastAsyncVoxelSniper: []
+  VoxelSniper: []
+  MarriageMaster: []
+  CompressedCobblestone: []
+  Autocrafter: []
+  SuperVanish: []
+  FactionScoreboard:
+  - HCF
+  MultiWorldMoney: []
+  Classes:
+  - Faction
+  - Faction_nether
+  - Faction_The_End
+  OrePlus: []
+  OreBroadcast:
+  - HCF
+  DeathBan:
+  - HCF
+  CombatTagPlus:
+  - HCF
+  SpawnShield: []
+  Multiverse-Portals: []
+  Multiverse-NetherPortals: []
+  EssentialsKitManager: []
+  PvPTimer:
+  - HCF
+  Coords: []
+  ItemNamer: []
+  NickNamePlus: []
+  MinecartElevator: []
+  SignElevators: []
+  ElevatorHCF: []
+  HCFClassesSupport4Factions:
+  - HCF
+  PerWorldTabList: []
+  ChangeSkin: []
+  AutoRespawnPlus: []
+  KitPvP:
+  - map
+  - kitpvp
+  NoClean:
+  - UhcMeetup
+  BetterNick: []
+  NametagEdit: []
+  Umbaska: []
+  UHCMeetUP: []
+  HumblexNetwork: []
+  HumblexNetWorkAntiCheat: []
+  DiscardByDropping: []
+  goBrush: []
+  CTSNC: []

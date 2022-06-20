@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: RedYeti
+timestamps:
+  login: 1507316770446
+  lastteleport: 1507316790282
+  logout: 1507316941107
+ipAddress: 95.208.108.81
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 3.300000011920929
+  y: 63.0
+  z: 6.360454222682723
+  yaw: 127.24049
+  pitch: 22.846903

@@ -1,0 +1,8 @@
+name: SteveExplorers
+uuid: 25c3f190-4c51-4d71-971a-12cf5f291132
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  FFA: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

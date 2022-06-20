@@ -1,0 +1,8 @@
+name: luckdrengen
+uuid: 0b7dff01-6ecd-4c75-b900-2312a0b02a18
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,21 @@
+lastAccountName: grabeczbalazs
+timestamps:
+  login: 1503460559880
+  lastteleport: 1503460567181
+  logout: 1503460650705
+ipAddress: 145.236.123.131
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 94.28054409058832
+  y: 46.0
+  z: -58.67409059242761
+  yaw: -9.961433
+  pitch: -1.2423112
+logoutlocation:
+  world: MainLobby
+  x: 22.864742777293706
+  y: 57.0
+  z: 16.433664221768623
+  yaw: -140.60156
+  pitch: 1.7763641

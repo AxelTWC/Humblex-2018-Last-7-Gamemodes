@@ -1,0 +1,31 @@
+lastlocation:
+  world: HCF
+  x: 2.14335510084742
+  y: 67.0
+  z: 211.45454640674276
+  yaw: 138.44998
+  pitch: 30.144205
+lastAccountName: hodiban
+timestamps:
+  login: 1520031435464
+  lastteleport: 1520032041512
+  logout: 1520032084621
+  kits:
+    starter: 1520031478759
+ipAddress: 77.141.95.179
+money: '0.0'
+logoutlocation:
+  world: HCF
+  x: 0.5962093412011392
+  y: 69.0
+  z: 0.9348325441221711
+  yaw: -0.08090066
+  pitch: 2.5897145
+homes:
+  home:
+    world: HCF
+    x: 1.2835097633369292
+    y: 67.0
+    z: 216.8543963841655
+    yaw: 174.05305
+    pitch: 32.472477

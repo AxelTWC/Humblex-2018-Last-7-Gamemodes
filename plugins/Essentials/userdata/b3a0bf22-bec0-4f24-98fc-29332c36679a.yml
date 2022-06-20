@@ -1,0 +1,37 @@
+lastlocation:
+  world: LionHUB
+  x: 740.2912870968653
+  y: 6.5
+  z: 3622.7550637704867
+  yaw: 23.744263
+  pitch: 4.960577
+lastAccountName: 4Realm
+timestamps:
+  login: 1518172645407
+  lastteleport: 1518172664465
+  logout: 1518172808945
+  kits:
+    diamond: 1518096756663
+    starter: 1518097229600
+    rouge: 1517586770754
+    god: 1518169551611
+    miner: 1517576899910
+    bard: 1517601135225
+ipAddress: 46.185.135.27
+money: '71527149.0'
+logoutlocation:
+  world: HCF
+  x: 1.0303728875700398
+  y: 69.0
+  z: 13.339648781473219
+  yaw: 263.26825
+  pitch: 20.82775
+afk: false
+homes:
+  home:
+    world: Factions
+    x: 385.7148323255853
+    y: 64.0
+    z: -2221.319269355896
+    yaw: 358.53955
+    pitch: 29.473795

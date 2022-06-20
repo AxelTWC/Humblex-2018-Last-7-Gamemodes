@@ -1,0 +1,6 @@
+name: Louloudi
+uuid: 6acfad59-ab59-3422-a7bd-c34b58d308da
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Megawarz
+timestamps:
+  login: 1506236393003
+  lastteleport: 1506236557719
+  logout: 1506236880022
+ipAddress: 123.20.186.163
+lastlocation:
+  world: LionHUB
+  x: 93.9221222388204
+  y: 47.0
+  z: -48.24680527629918
+  yaw: 3.6615143
+  pitch: -17.655842
+logoutlocation:
+  world: MainLobby
+  x: 3.993544578019981
+  y: 60.0
+  z: 0.4603891211258051
+  yaw: 236.50266
+  pitch: 32.29925

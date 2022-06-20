@@ -1,0 +1,6 @@
+name: agent9002
+uuid: a799c46d-bdbf-443d-b92e-5f8108219531
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

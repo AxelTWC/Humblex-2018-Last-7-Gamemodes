@@ -1,0 +1,6 @@
+name: GEO_Hunter
+uuid: 2d5b474d-bc7d-34a7-9194-f1ece9a10218
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

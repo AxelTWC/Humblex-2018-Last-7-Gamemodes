@@ -1,0 +1,20 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: NoMyFriend
+timestamps:
+  login: 1508096081023
+  lastteleport: 1508096087589
+  logout: 1508096319533
+ipAddress: 84.84.52.216
+logoutlocation:
+  world: MainLobby
+  x: 31.975449534121637
+  y: 57.0
+  z: 11.99088776707887
+  yaw: 54.1934
+  pitch: -4.136854

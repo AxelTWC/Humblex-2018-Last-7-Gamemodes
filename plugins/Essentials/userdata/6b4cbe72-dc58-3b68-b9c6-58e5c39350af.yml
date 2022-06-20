@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1498684867636
+  login: 1498684753911
+  logout: 1498684866529
+lastlocation:
+  world: MainLobby
+  x: 0.738651801316609
+  y: 60.0
+  z: 0.4765052992511828
+  yaw: 248.8256
+  pitch: 6.8665247
+lastAccountName: peroc
+ipAddress: 92.55.117.248
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158

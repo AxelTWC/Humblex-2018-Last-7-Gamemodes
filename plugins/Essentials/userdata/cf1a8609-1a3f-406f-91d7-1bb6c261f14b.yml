@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: DiamondBudderAxe
+timestamps:
+  login: 1504438819206
+  logout: 1504439777274
+ipAddress: 31.10.169.30
+lastlocation:
+  world: LionHUB
+  x: 94.07001204110193
+  y: 47.0
+  z: -48.50464167575828
+  yaw: 8.468822
+  pitch: 7.564128
+logoutlocation:
+  world: MainLobby
+  x: 11.410372610820145
+  y: 59.0
+  z: 0.49202223138962164
+  yaw: -31.334364
+  pitch: 20.623547

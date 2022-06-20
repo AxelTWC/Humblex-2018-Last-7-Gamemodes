@@ -1,0 +1,6 @@
+stat:
+  LOGIN: '2'
+  PLAYERS_KILLED: '3'
+  DEATHS: '5'
+  PLAYER_KILLSTREAK: '2'
+  BLOCKS_BROKEN: '6'

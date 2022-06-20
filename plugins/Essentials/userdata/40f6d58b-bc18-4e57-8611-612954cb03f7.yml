@@ -1,0 +1,24 @@
+lastAccountName: HoldThatThought
+timestamps:
+  login: 1512342654472
+  lastteleport: 1512343391135
+  logout: 1512344327953
+  kits:
+    starter: 1512343448167
+ipAddress: 104.178.204.137
+socialspy: false
+lastlocation:
+  world: Factions
+  x: 91.7141896047552
+  y: 69.00133597911214
+  z: -252.63184196334223
+  yaw: 102.65735
+  pitch: 3.141152
+logoutlocation:
+  world: Factions
+  x: 109.09872936407928
+  y: 68.0
+  z: -303.3438072542666
+  yaw: -64.95252
+  pitch: 1.9656445
+money: '0.0'

@@ -1,0 +1,23 @@
+lastAccountName: thedge33000
+timestamps:
+  login: 1502029758078
+  lastteleport: 1502029764331
+  logout: 1502032503204
+  mute: 0
+ipAddress: 79.107.250.84
+socialspy: false
+lastlocation:
+  world: FFA
+  x: 53.813414253438935
+  y: 14.0
+  z: 38.00729348221315
+  yaw: 117.359314
+  pitch: 20.945623
+logoutlocation:
+  world: LionHUB
+  x: 93.0
+  y: 45.0
+  z: -63.0
+  yaw: -182.42664
+  pitch: 32.08101
+muted: true

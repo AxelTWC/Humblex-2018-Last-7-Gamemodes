@@ -1,0 +1,21 @@
+lastAccountName: newhampshire
+timestamps:
+  login: 1506101256229
+  lastteleport: 1506102323311
+  logout: 1506102606614
+ipAddress: 197.89.169.245
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 92.45240054035648
+  y: 47.0
+  z: -48.02463353877696
+  yaw: -343.74823
+  pitch: -15.598376
+logoutlocation:
+  world: Sg
+  x: -101.38374258586352
+  y: 5.0
+  z: 44.86487149135738
+  yaw: -186.04726
+  pitch: 0.17166345

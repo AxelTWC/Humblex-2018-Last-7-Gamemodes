@@ -1,0 +1,86 @@
+lastAccountName: AxelTWC
+timestamps:
+  login: 1521408029611
+  lastteleport: 1521234102473
+  logout: 1521408036447
+  kits:
+    diamond: 1518296710024
+    starter: 1518289390825
+    keys: 1512230762126
+    archer: 1518322306881
+    god: 1512241917660
+    miner: 1518289382408
+    bard: 1517598663256
+ipAddress: 24.79.239.176
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -0.10546875
+  pitch: -4.859901
+lastlocation:
+  world: LionHUB
+  x: 746.5651019626879
+  y: 97.00835501737386
+  z: 3608.36835036834
+  yaw: 15.575818
+  pitch: -62.107315
+godmode: false
+afk: false
+money: '0.0'
+teleportenabled: false
+homes:
+  home:
+    world: Factions
+    x: 104.68749116052321
+    y: 75.0
+    z: -273.82029699160216
+    yaw: -68.16077
+    pitch: 31.470284
+  survival:
+    world: SkyBlock
+    x: -477.1058272448413
+    y: 72.0
+    z: -2.2403325517741504
+    yaw: -108.81509
+    pitch: -16.31594
+  lobbytest:
+    world: LionHUB
+    x: 943.1283738863176
+    y: 38.0
+    z: -415.59907081972017
+    yaw: 79.80554
+    pitch: 14.549984
+  oldhub:
+    world: LionHUB
+    x: 93.51977986739075
+    y: 45.0
+    z: -62.63972191454861
+    yaw: -1.2632126
+    pitch: 11.762165
+  record:
+    world: TNT
+    x: 445.33139771453403
+    y: 106.0
+    z: 83.72448668627112
+    yaw: 6.0692787
+    pitch: 22.578987
+  hcf:
+    world: LionHUB
+    x: 319.1326899634251
+    y: 4.0
+    z: -116.81456375892428
+    yaw: 225.19063
+    pitch: 41.854168
+  bot:
+    world: lobby_practice
+    x: 2271.1470034315953
+    y: 115.0
+    z: -6563.74762825683
+    yaw: 81.65444
+    pitch: 72.64835
+powertools: {}
+mail:
+- §6[§rXxChrisProxX§6] §rI might start working here again in a few days so be sure to hop in ;)

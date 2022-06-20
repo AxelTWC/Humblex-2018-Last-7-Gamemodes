@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: sinkoj
+timestamps:
+  login: 1513464960594
+  lastteleport: 1513464985181
+  logout: 1513466569801
+ipAddress: 85.216.234.9
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 4.253338969184263
+  y: 60.0
+  z: 0.07742635640967885
+  yaw: -90.80004
+  pitch: 29.449972

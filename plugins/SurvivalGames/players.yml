@@ -1,0 +1,1183 @@
+# To reset this file you must delete it and do /sg reload or /reload WHILE there are no online players.
+# For mysql users the samething and for deleting the table please only delete it while the server is offline or mysql is turned off
+Players:
+  AxelTWC:
+    Coins: 245
+    Kills: 1
+    Deaths: 0
+    Wins: 1
+    Gamesplayed: 1
+    Modifier: 1
+    Play_Time: 0D-0H-4M-60S
+    Kits: ''
+    Name: AxelTWC
+  Cental:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Cental
+  CphoenixH:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: CphoenixH
+  4Realm:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: 4Realm
+  businka:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: businka
+  69TheWorld4Peace:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: 69TheWorld4Peace
+  MetAtHeUnbeateN:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: MetAtHeUnbeateN
+  DerpfaceXD:
+    Coins: 30
+    Kills: 0
+    Deaths: 2
+    Wins: 0
+    Gamesplayed: 2
+    Modifier: 1
+    Play_Time: 0D-0H-19M-11S
+    Kits: ''
+    Name: DerpfaceXD
+  SteveExplorers:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: SteveExplorers
+  Levitatez:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Levitatez
+  XxMr1234GamerzxX:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: XxMr1234GamerzxX
+  LoLPro1099:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: LoLPro1099
+  Warrior_Linker:
+    Coins: 110
+    Kills: 0
+    Deaths: 1
+    Wins: 0
+    Gamesplayed: 1
+    Modifier: 1
+    Play_Time: 0D-0H-2M-42S
+    Kits: ''
+    Name: Warrior_Linker
+  DadCombo:
+    Coins: 230
+    Kills: 0
+    Deaths: 2
+    Wins: 1
+    Gamesplayed: 3
+    Modifier: 1
+    Play_Time: 32D-11H-26M-47S
+    Kits: ''
+    Name: DadCombo
+  TheCatBeliever:
+    Coins: 110
+    Kills: 0
+    Deaths: 3
+    Wins: 0
+    Gamesplayed: 3
+    Modifier: 1
+    Play_Time: 0D-0H-23M-9S
+    Kits: ''
+    Name: TheCatBeliever
+  firedino23:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: firedino23
+  marcos1739:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: marcos1739
+  MinecraftAddict:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: MinecraftAddict
+  NathanOOF:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: NathanOOF
+  Fondyy:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Fondyy
+  Pasua:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Pasua
+  PizzaRolez:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: PizzaRolez
+  Othrguy:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Othrguy
+  o2OP:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: o2OP
+  TheOfficialFire:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: TheOfficialFire
+  luckdrengen:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: luckdrengen
+  q3J:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: q3J
+  JojoGamerPCTV:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: JojoGamerPCTV
+  IDarkIV:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: IDarkIV
+  mr_spud_nugget:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: mr_spud_nugget
+  XxChrisProxX:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: XxChrisProxX
+  CrazyIngots:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: CrazyIngots
+  xpawesome100:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: xpawesome100
+  Guyx:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Guyx
+  IPundaz:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: IPundaz
+  AnakinFettYT:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: AnakinFettYT
+  BeablyBoyGaming:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: BeablyBoyGaming
+  Sto0tS:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Sto0tS
+  Da_CasualTryhard:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Da_CasualTryhard
+  fluffy_chicken73:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: fluffy_chicken73
+  NicepvperYt:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: NicepvperYt
+  Evenity:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Evenity
+  RP921:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: RP921
+  Dreqmz:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Dreqmz
+  Trace7277:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Trace7277
+  Tylerdon_:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Tylerdon_
+  ilyachoas:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: ilyachoas
+  TheGoodAdmin:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: TheGoodAdmin
+  JustAlfie:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: JustAlfie
+  OceanCraftOfMC:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: OceanCraftOfMC
+  Creater117YTNub:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Creater117YTNub
+  JackPotPlays:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: JackPotPlays
+  Cabesters123:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Cabesters123
+  PyroGuy15:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: PyroGuy15
+  KryptialGaming:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: KryptialGaming
+  Robobliz:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Robobliz
+  LeqitStoneIsh:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: LeqitStoneIsh
+  Princess_Kitty11:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Princess_Kitty11
+  CloudGamer12:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: CloudGamer12
+  yayhazel:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: yayhazel
+  knowi_hi:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: knowi_hi
+  geniushere:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: geniushere
+  fat_bong_ripper:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: fat_bong_ripper
+  InstallingJDK:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: InstallingJDK
+  EzZweifs:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: EzZweifs
+  SonnyKnowsDaWae:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: SonnyKnowsDaWae
+  TrueRespect:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: TrueRespect
+  White_Death02:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: White_Death02
+  CabePVP:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: CabePVP
+  MaSikStudio:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: MaSikStudio
+  kickassbro:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: kickassbro
+  Nikola145:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Nikola145
+  __Dgaming__:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: __Dgaming__
+  Beasty_YT:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Beasty_YT
+  WARRIOR_LICKER:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: WARRIOR_LICKER
+  kingdraco12:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: kingdraco12
+  Bl0odyClown:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Bl0odyClown
+  PingsClient:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: PingsClient
+  WARRIOR_LINKER:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: WARRIOR_LINKER
+  JerryIsBored:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: JerryIsBored
+  Munchycrunch:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Munchycrunch
+  Cjkinyon:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Cjkinyon
+  ALittleDoggo:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: ALittleDoggo
+  LittleDinosaur15:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: LittleDinosaur15
+  MrTia:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: MrTia
+  Kampfzwerg2k16:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Kampfzwerg2k16
+  Yosephh:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Yosephh
+  TibJib7:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: TibJib7
+  KRoberts423:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: KRoberts423
+  lesserspark:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: lesserspark
+  Datting1:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Datting1
+  _StrafingNinja_:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: _StrafingNinja_
+  RagnarVK:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: RagnarVK
+  FIREBOY_RY:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: FIREBOY_RY
+  PurplePvpYT:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: PurplePvpYT
+  CoolFeather:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: CoolFeather
+  Willeyyy:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Willeyyy
+  JustCoyote:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: JustCoyote
+  whoneedsleep:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: whoneedsleep
+  Millbella:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Millbella
+  hodiban:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: hodiban
+  bigshotprince:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: bigshotprince
+  XxMrJGamerzxX:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: XxMrJGamerzxX
+  PetMeLlama:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: PetMeLlama
+  Divermax:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Divermax
+  FASTBOY1:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: FASTBOY1
+  JamesXD_:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: JamesXD_
+  ItzMeMinecraft:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: ItzMeMinecraft
+  SgcCrafting:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: SgcCrafting
+  xXSIL3NTD3ATHXx:
+    Coins: 285
+    Kills: 3
+    Deaths: 5
+    Wins: 1
+    Gamesplayed: 6
+    Modifier: 1
+    Play_Time: 0D-0H-17M-36S
+    Kits: ''
+    Name: xXSIL3NTD3ATHXx
+  KFC_LOVER02:
+    Coins: 300
+    Kills: 2
+    Deaths: 6
+    Wins: 1
+    Gamesplayed: 7
+    Modifier: 1
+    Play_Time: 0D-0H-19M-51S
+    Kits: ''
+    Name: KFC_LOVER02
+  DaddyDarrel:
+    Coins: 475
+    Kills: 13
+    Deaths: 1
+    Wins: 4
+    Gamesplayed: 5
+    Modifier: 1
+    Play_Time: 0D-0H-15M-24S
+    Kits: ''
+    Name: DaddyDarrel
+  Chezburger581:
+    Coins: 140
+    Kills: 0
+    Deaths: 6
+    Wins: 0
+    Gamesplayed: 6
+    Modifier: 1
+    Play_Time: 0D-0H-14M-36S
+    Kits: ''
+    Name: Chezburger581
+  invader45talha:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: invader45talha
+  SilentGamerPlayz:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: SilentGamerPlayz
+  DudunKasep98:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: DudunKasep98
+  ItzMeMonkey:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: ItzMeMonkey
+  Mr_Throne:
+    Coins: 100
+    Kills: 0
+    Deaths: 0
+    Wins: 0
+    Gamesplayed: 0
+    Modifier: 1
+    Play_Time: 0D-0H-0M-0S
+    Kits: ''
+    Name: Mr_Throne

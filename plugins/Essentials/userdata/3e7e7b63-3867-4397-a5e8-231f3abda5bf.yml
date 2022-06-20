@@ -1,0 +1,21 @@
+lastAccountName: MeloGaming
+timestamps:
+  login: 1501768538203
+  lastteleport: 1501768639857
+  logout: 1501768730789
+ipAddress: 125.161.70.177
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.0708943537494
+  y: 47.0
+  z: -51.52494327232638
+  yaw: 122.06075
+  pitch: 19.539356
+logoutlocation:
+  world: MainLobby
+  x: 17.366397730134345
+  y: 57.0
+  z: -2.3902015692693483
+  yaw: 222.55904
+  pitch: 8.471608

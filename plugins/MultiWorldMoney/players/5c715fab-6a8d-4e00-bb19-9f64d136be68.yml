@@ -1,0 +1,6 @@
+name: Leaving
+uuid: 5c715fab-6a8d-4e00-bb19-9f64d136be68
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,21 @@
+lastAccountName: LoiganFoster
+timestamps:
+  login: 1503810642282
+  lastteleport: 1503810656905
+  logout: 1503810778099
+ipAddress: 47.144.205.119
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 92.97174551554961
+  y: 46.0
+  z: -57.65365255315809
+  yaw: -7.0090947
+  pitch: 11.479582
+logoutlocation:
+  world: MainLobby
+  x: 19.314195095035405
+  y: 58.0
+  z: -25.336793937866236
+  yaw: -55.854248
+  pitch: 23.947388

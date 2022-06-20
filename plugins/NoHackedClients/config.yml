@@ -1,0 +1,8 @@
+messages:
+  typeHelp: '&bThis server uses NoHackedClients. Please write .help to chat to verify
+    that you don''t have Nodus, Huzuni or other Hacked Client.'
+  thankYou: '&bThank you. You can play now!'
+  kicked: '&dYou have been kicked, because you don''t verified having Hacked Clients.'
+logger:
+  loaded: Plugin has been loaded!
+maxTime: 15

@@ -1,0 +1,22 @@
+lastAccountName: Newbie_007
+timestamps:
+  login: 1517799540730
+  logout: 1517799704225
+  lastteleport: 1517204661478
+ipAddress: 24.79.239.176
+socialspy: false
+logoutlocation:
+  world: HCF
+  x: 61.57854052259222
+  y: 69.0
+  z: -13.891371541229782
+  yaw: -327.8412
+  pitch: -7.2835655
+lastlocation:
+  world: HCF
+  x: 62.840617505107666
+  y: 69.0
+  z: -1.6042735870700047
+  yaw: -294.66037
+  pitch: 40.625957
+money: '0.0'

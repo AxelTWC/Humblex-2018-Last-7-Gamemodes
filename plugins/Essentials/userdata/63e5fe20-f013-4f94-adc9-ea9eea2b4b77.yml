@@ -1,0 +1,33 @@
+lastlocation:
+  world: LionHUB
+  x: 768.679765859346
+  y: 5.0
+  z: 3634.3130954110384
+  yaw: 321.34454
+  pitch: 15.990095
+lastAccountName: CloudGamer12
+timestamps:
+  login: 1517858773521
+  lastteleport: 1517743023122
+  logout: 1517859087400
+  kits:
+    rouge: 1517665986615
+    god: 1517664843768
+ipAddress: 86.174.219.141
+money: '961520.0'
+godmode: false
+logoutlocation:
+  world: LionHUB
+  x: 748.3070369741755
+  y: 10.0
+  z: 3610.3518657847753
+  yaw: -147.10568
+  pitch: 10.290108
+homes:
+  home:
+    world: Factions
+    x: -247.80013952795431
+    y: 46.0
+    z: -1236.5594716465282
+    yaw: -7.975891
+    pitch: 9.899991

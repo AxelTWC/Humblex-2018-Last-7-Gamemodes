@@ -1,0 +1,7 @@
+name: Mogge_JigSaw
+uuid: 163ecd54-73eb-4234-82f8-2ec6592b3ddc
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

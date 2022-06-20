@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: bmxvinnie
+timestamps:
+  login: 1503707855220
+  logout: 1503708125797
+ipAddress: 37.24.150.10
+lastlocation:
+  world: LionHUB
+  x: 93.50272123531464
+  y: 46.0
+  z: -70.6110769724433
+  yaw: 179.33867
+  pitch: 23.938938
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

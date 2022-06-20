@@ -1,0 +1,8 @@
+name: Swiftely
+uuid: 3d559954-74f8-3b81-bb8c-6ea289c12c40
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  lobby_practice: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,12 @@
+name: iiwinulose
+uuid: 6ad5b380-1fa6-4a17-8d00-274e3f35a460
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  UhcMeetup: 0.0
+  lobby_practice: 0.0
+  SkywarsMap3: 0.0
+  parkour: 0.0
+  SkywarsMap1: 0.0
+  LionHUB: 500.0
+  skywars: 0.0

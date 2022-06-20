@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Fracra
+timestamps:
+  login: 1501145807252
+  lastteleport: 1501145822826
+  logout: 1501148308249
+ipAddress: 36.70.84.188
+lastlocation:
+  world: MainLobby
+  x: 34.363424794598075
+  y: 51.0
+  z: -15.235506987982303
+  yaw: 1.3053284
+  pitch: 24.032505
+logoutlocation:
+  world: MainLobby
+  x: 6.756527476354947
+  y: 59.0
+  z: 1.634029036660602
+  yaw: -103.358765
+  pitch: 42.60851

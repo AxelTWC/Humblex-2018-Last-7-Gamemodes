@@ -1,0 +1,21 @@
+lastAccountName: FrostyTheBot
+timestamps:
+  login: 1501319871930
+  lastteleport: 1501319918532
+  logout: 1501319951412
+ipAddress: 95.159.15.207
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 98.0864425435723
+  y: 46.0
+  z: -62.38060698291895
+  yaw: -116.33093
+  pitch: 2.241783
+logoutlocation:
+  world: MainLobby
+  x: 22.084406996569662
+  y: 58.0
+  z: 0.7099208091084883
+  yaw: 117.9191
+  pitch: 7.704335

@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 752.4886100809929
+  y: 5.0
+  z: 3633.1790127967024
+  yaw: 36.372505
+  pitch: 18.293695
+lastAccountName: fireboi
+timestamps:
+  login: 1521425921827
+  logout: 1521426216522
+  lastteleport: 1521425982029
+  kits:
+    starter: 1521426010685
+ipAddress: 1.121.136.58
+logoutlocation:
+  world: HCF
+  x: 4.244690907986693
+  y: 69.0
+  z: 8.849255789761646
+  yaw: -160.79498
+  pitch: 10.085145
+money: '0.0'

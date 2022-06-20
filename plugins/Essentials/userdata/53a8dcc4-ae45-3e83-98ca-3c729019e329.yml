@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: nhat01658776908
+timestamps:
+  login: 1505008617274
+  lastteleport: 1505008723680
+  logout: 1505009024957
+ipAddress: 113.184.88.179
+lastlocation:
+  world: LionHUB
+  x: 94.59608639606873
+  y: 47.0
+  z: -51.08112661693753
+  yaw: 326.9369
+  pitch: 0.66218275
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0

@@ -1,0 +1,7 @@
+name: mehsengames
+uuid: 7c30b64a-7b24-39c8-8f55-a5d64f068782
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  parkour: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 751.3215225293497
+  y: 5.0
+  z: 3633.112398273496
+  yaw: -55.618946
+  pitch: -9.345252
+lastAccountName: Suply
+timestamps:
+  login: 1518036545547
+  lastteleport: 1518036678883
+  kits:
+    starter: 1518036560211
+  logout: 1518036732238
+ipAddress: 212.3.194.210
+money: '0.0'
+logoutlocation:
+  world: HCF
+  x: -11.74543246267316
+  y: 71.0
+  z: 29.403325243800822
+  yaw: -185.32063
+  pitch: 23.734962

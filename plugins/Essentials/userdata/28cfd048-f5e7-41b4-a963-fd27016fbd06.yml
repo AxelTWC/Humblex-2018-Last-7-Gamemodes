@@ -1,0 +1,23 @@
+lastAccountName: ItzTheMagma
+timestamps:
+  login: 1503810751013
+  lastteleport: 1503810389642
+  logout: 1503810775599
+ipAddress: 107.185.221.246
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 95.96195831231017
+  y: 47.0
+  z: -64.13947569132354
+  yaw: 83.02352
+  pitch: 18.796707
+logoutlocation:
+  world: LionHUB
+  x: 94.59173489680882
+  y: 46.0
+  z: -68.24575220494893
+  yaw: 5.384126
+  pitch: 12.472084
+godmode: false
+nickname: AOE

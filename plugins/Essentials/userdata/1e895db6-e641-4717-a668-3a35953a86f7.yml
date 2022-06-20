@@ -1,0 +1,21 @@
+lastAccountName: GoldenArmoro
+socialspy: false
+timestamps:
+  login: 1504192223117
+  logout: 1504192263886
+  lastteleport: 1504192247095
+ipAddress: 81.226.90.57
+lastlocation:
+  world: LionHUB
+  x: 98.22895251231455
+  y: 46.0
+  z: -59.43718053396972
+  yaw: -128.91321
+  pitch: 6.9621644
+logoutlocation:
+  world: MainLobby
+  x: 24.144285838581435
+  y: 58.0
+  z: 1.1862614657306942
+  yaw: -33.063515
+  pitch: 9.126362

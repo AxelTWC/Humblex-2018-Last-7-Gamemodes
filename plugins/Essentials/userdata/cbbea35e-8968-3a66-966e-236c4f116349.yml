@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: gonelai
+timestamps:
+  login: 1505085006680
+  lastteleport: 1505085044537
+  logout: 1505085073978
+ipAddress: 177.228.91.80
+lastlocation:
+  world: LionHUB
+  x: 97.98867535971573
+  y: 46.0
+  z: -67.96938993171997
+  yaw: -205.65993
+  pitch: 15.897987
+logoutlocation:
+  world: MainLobby
+  x: 34.70643778476921
+  y: 79.0
+  z: 490.2179405967106
+  yaw: 340.96692
+  pitch: 21.864555

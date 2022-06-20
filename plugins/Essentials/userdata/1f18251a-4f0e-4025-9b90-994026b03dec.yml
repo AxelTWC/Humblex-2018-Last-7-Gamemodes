@@ -1,0 +1,21 @@
+lastAccountName: TouchL
+timestamps:
+  login: 1506604191504
+  lastteleport: 1506604218283
+  logout: 1506604380599
+ipAddress: 87.94.118.203
+socialspy: false
+lastlocation:
+  world: UhcMeetup
+  x: 162.3512048870325
+  y: 68.0
+  z: 99.69999998807907
+  yaw: -47.69995
+  pitch: -11.999987
+logoutlocation:
+  world: MainLobby
+  x: 8.427738643837579
+  y: 60.0
+  z: -0.17554706752056806
+  yaw: -117.19996
+  pitch: 39.350006

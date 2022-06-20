@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: YoutuberOrange
+timestamps:
+  login: 1514178936923
+  logout: 1514179056399
+  lastteleport: 1514178949360
+ipAddress: 130.105.99.175
+logoutlocation:
+  world: MainLobby
+  x: 6.556030513818443
+  y: 58.5
+  z: -3.8251792302118677
+  yaw: -9.64993
+  pitch: 15.400014
+money: '0.0'

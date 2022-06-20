@@ -1,0 +1,7 @@
+name: IDarkIV
+uuid: f76a45d4-8370-44b6-b39c-becbe6bf88e9
+logoffworld: MainLobby
+balances:
+  MainLobby: 500.0
+  lobby_practice: 0.0
+  LionHUB: 0.0

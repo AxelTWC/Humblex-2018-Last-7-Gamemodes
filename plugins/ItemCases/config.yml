@@ -1,0 +1,9 @@
+CASE_ITEM_NAME: '&f%NAME% Case'
+CASE_ITEM_TYPE: CHEST
+CASE_ITEM_LIST_ENABLED: true
+CASE_ITEM_LIST_MAX: 12
+CASE_ITEM_LIST_MAX_REACHED: '&7and &b%AMOUNT% &7other items'
+CASE_ITEM_LIST_HEADER: '&7This case contains one of the following:'
+CASE_ITEM_LIST_PRESENTATION: '&b%AMOUNT%&7x &b%ITEMNAME%'
+ConfigVersion:
+  ConfigDataVersion: 7

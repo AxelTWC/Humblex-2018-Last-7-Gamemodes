@@ -1,0 +1,6 @@
+name: BallisticMudkip
+uuid: 74232ccf-93df-40fb-a208-3f3419e7f384
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Yesid_Ferney
+timestamps:
+  login: 1505616196500
+  lastteleport: 1505616219562
+  logout: 1505616236523
+ipAddress: 190.184.148.174
+lastlocation:
+  world: LionHUB
+  x: 94.61578882661225
+  y: 47.0
+  z: -48.24720965730932
+  yaw: -21.20973
+  pitch: -2.508548
+logoutlocation:
+  world: MainLobby
+  x: 27.743649541894875
+  y: 79.0
+  z: 487.245190740978
+  yaw: -260.33188
+  pitch: 16.40494

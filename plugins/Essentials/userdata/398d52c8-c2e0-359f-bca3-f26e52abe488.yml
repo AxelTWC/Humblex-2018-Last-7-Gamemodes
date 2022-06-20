@@ -1,0 +1,21 @@
+lastAccountName: FecoVideos
+timestamps:
+  login: 1502485962636
+  lastteleport: 1502485971788
+  logout: 1502486203229
+ipAddress: 46.40.23.223
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.52838164487912
+  y: 45.0
+  z: -61.50433430082447
+  yaw: -1.2632126
+  pitch: 11.762165
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.4691817266242615
+  yaw: -89.0
+  pitch: 2.0

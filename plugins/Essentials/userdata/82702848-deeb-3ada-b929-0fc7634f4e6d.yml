@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Yevi
+timestamps:
+  login: 1501208029292
+  lastteleport: 1501208033944
+  logout: 1501208065082
+ipAddress: 104.178.204.137
+lastlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 3.8233056
+  pitch: 9.313101
+logoutlocation:
+  world: MainLobby
+  x: 19.69999998807907
+  y: 57.0
+  z: 0.5341797774224665
+  yaw: -92.06023
+  pitch: 13.422524

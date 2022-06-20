@@ -1,0 +1,143 @@
+playerName: fluffy_chicken73
+hasIsland: true
+islandLocation: ASkyBlock:400:115:0:0:0
+hasTeam: true
+teamLeader: 60246edf-5efd-4253-9fe4-846060bdb5db
+islandLevel: 4477
+members:
+- 4aed4d8a-5e5c-4168-baf6-da1138c0984a
+- 60246edf-5efd-4253-9fe4-846060bdb5db
+- a62744da-7617-4838-86e4-0a90df44c618
+- 8dd26cfe-51db-45c1-af15-ce9ff17274be
+resetsLeft: 49
+deaths: 10
+locale: ''
+useControlPanel: false
+teamIslandLocation: ASkyBlock:400:115:0:0:0
+startIslandRating: 50
+banList:
+- 73be05dd-6b1f-4fb3-b1f0-46b34d17346d
+homeLocations:
+  '1': ASkyBlock:415:118:0:0:0
+challenges:
+  status:
+    expert: false
+    advanced: false
+    dj: false
+    craftsman: false
+    beaconator: false
+    stewmaker: false
+    enderpearls: false
+    pioneer: false
+    shepherd: false
+    culinaryartist: false
+    acidduke: false
+    ittakesavillage: false
+    elite: false
+    homestead: false
+    mason: false
+    builder: false
+    dyemaker: false
+    itsamonsterparty: false
+    glassmaker: false
+    novice: false
+    nether: false
+    alchemist: false
+    gemcollector: false
+    grinder: false
+    papermaker: false
+    cobblemaker: false
+    seedbank: false
+    cookiemaker: false
+    slimeballfarmer: false
+    itsaparty: false
+    competent: false
+    baker: false
+    breadmaker: false
+    myprecious: false
+    snowplay: false
+    farmer: false
+    angler: false
+    treecutter: false
+  times:
+    expert: 0
+    advanced: 0
+    dj: 0
+    craftsman: 0
+    beaconator: 0
+    stewmaker: 0
+    enderpearls: 0
+    pioneer: 0
+    shepherd: 0
+    culinaryartist: 0
+    acidduke: 0
+    ittakesavillage: 0
+    elite: 0
+    homestead: 0
+    mason: 0
+    builder: 0
+    dyemaker: 0
+    itsamonsterparty: 0
+    glassmaker: 0
+    novice: 0
+    nether: 0
+    alchemist: 0
+    gemcollector: 0
+    grinder: 0
+    papermaker: 0
+    cobblemaker: 0
+    seedbank: 0
+    cookiemaker: 0
+    slimeballfarmer: 0
+    itsaparty: 0
+    competent: 0
+    baker: 0
+    breadmaker: 0
+    myprecious: 0
+    snowplay: 0
+    farmer: 0
+    angler: 0
+    treecutter: 0
+  timestamp:
+    expert: 0
+    advanced: 0
+    dj: 0
+    craftsman: 0
+    beaconator: 0
+    stewmaker: 0
+    enderpearls: 0
+    pioneer: 0
+    shepherd: 0
+    culinaryartist: 0
+    acidduke: 0
+    ittakesavillage: 0
+    elite: 0
+    homestead: 0
+    mason: 0
+    builder: 0
+    dyemaker: 0
+    itsamonsterparty: 0
+    glassmaker: 0
+    novice: 0
+    nether: 0
+    alchemist: 0
+    gemcollector: 0
+    grinder: 0
+    papermaker: 0
+    cobblemaker: 0
+    seedbank: 0
+    cookiemaker: 0
+    slimeballfarmer: 0
+    itsaparty: 0
+    competent: 0
+    baker: 0
+    breadmaker: 0
+    myprecious: 0
+    snowplay: 0
+    farmer: 0
+    angler: 0
+    treecutter: 0
+invitecooldown:
+  '1504542297018': ASkyBlock:200:115:0:0:0
+  '1504647335749': ASkyBlock:200:115:200:0:0
+islandInfo: 400:115:0:100:200:60246edf-5efd-4253-9fe4-846060bdb5db:false:false:10000000000001101010100010000101111000110000111:FOREST:9

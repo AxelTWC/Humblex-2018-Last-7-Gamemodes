@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: GEO_Hunter
+timestamps:
+  login: 1513176115209
+  lastteleport: 1513176184606
+  logout: 1513176254960
+ipAddress: 37.232.90.183
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 13.05712490676188
+  y: 58.0
+  z: 1.2108004777059713
+  yaw: -76.85
+  pitch: -2.599989

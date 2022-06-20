@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: The_O1909
+timestamps:
+  login: 1503023145168
+  lastteleport: 1503023153319
+  logout: 1503025129625
+ipAddress: 99.16.255.55
+lastlocation:
+  world: LionHUB
+  x: 93.65260646954587
+  y: 45.0
+  z: -62.65144140669027
+  yaw: 3.0795324
+  pitch: -8.793493
+logoutlocation:
+  world: MainLobby
+  x: 8.016679673495068
+  y: 59.0
+  z: -1.0364907049382643
+  yaw: 49.073196
+  pitch: 12.422603

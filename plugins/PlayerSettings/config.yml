@@ -1,0 +1,9 @@
+MySQL:
+  enable: false
+  host: localhost
+  port: 3306
+  database: playersettings
+  name: root
+  password: ''
+Update-Message: true
+Debug: false

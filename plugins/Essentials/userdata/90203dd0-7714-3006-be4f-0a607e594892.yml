@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1499003243807
+  login: 1499000345612
+  logout: 1499003242702
+lastlocation:
+  world: MainLobby
+  x: -0.5476367653447757
+  y: 60.0
+  z: 0.4451022361532141
+  yaw: 270.21106
+  pitch: -0.51113266
+socialspy: false
+lastAccountName: 2Good4You
+ipAddress: 51.7.12.170
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158

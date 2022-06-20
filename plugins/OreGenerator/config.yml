@@ -1,0 +1,14 @@
+# OreGenerator
+# Block material names found here: http://www.minecraftinfo.com/idnamelist.htm
+# All chances are *relative*. eg. COBBLESTONE: 10 and STONE: 1 means Cobblestone
+# is 10 times more likely than Stone to spawn, or it has an 10/11 chance.
+chances:
+  COBBLESTONE: 100
+  STONE: 100
+  COAL_ORE: 90
+  IRON_ORE: 90
+  GOLD_ORE: 50
+  REDSTONE_ORE: 30
+  LAPIS_ORE: 60
+  DIAMOND_ORE: 10
+  EMERALD_ORE: 10

@@ -1,0 +1,21 @@
+lastAccountName: NexusBlitz
+timestamps:
+  login: 1502193635891
+  lastteleport: 1502193704578
+  logout: 1502193801517
+ipAddress: 115.164.88.135
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.65284954221623
+  y: 47.0
+  z: -47.40256762768307
+  yaw: 2.791196
+  pitch: 2.6792011
+logoutlocation:
+  world: MainLobby
+  x: 34.40731405138955
+  y: 57.0
+  z: 0.6375331407273032
+  yaw: -89.08352
+  pitch: 5.7563777

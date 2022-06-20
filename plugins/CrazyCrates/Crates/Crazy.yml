@@ -1,0 +1,330 @@
+Crate:
+  CrateType: Wheel
+  CrateName: '&8Crazy Crate'
+  StartingKeys: 0
+  InGUI: true
+  Slot: 25
+  OpeningBroadCast: true
+  BroadCast: '%Prefix%&6&l%Player% &7is opening a &b&lCrazy Chest&7.'
+  Item: '54'
+  Glowing: false
+  Name: '&b&lCrazy Chest'
+  Lore:
+    - '&7This crate contains Crazy things.'
+    - '&7You have &6%Keys% keys &7to open this crate with.'
+    - '&7&l(&e&l!&7&l) Right click to view rewards.'
+  PhysicalKey:
+    Name: '&b&lCrazy Crate &6&lKey'
+    Lore:
+      - '&7A special Key'
+      - '&7For a special Crate.'
+    Item: '131'
+    Glowing: True
+  Prizes:
+    1:
+      DisplayName: '&3&lRare ChestPlate'
+      DisplayItem: '311'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a very rare chest plate.'
+        - '&6&lChance: &c&l5%'
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:6'
+        - 'DURABILITY:3'
+      MaxRange: 100
+      Chance: 5
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:311, Amount:1, Name:&3Rare ChestPlate, PROTECTION_ENVIRONMENTAL:6, DURABILITY:3'
+    2:
+      DisplayName: '&b&lStupid &4&lSword'
+      DisplayItem: '283'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a stupid sword.'
+        - '&6&lChance: &c&l35%'
+      DisplayEnchantments:
+        - 'DAMAGE_ALL:2'
+        - 'FIRE_ASPECT:1'
+      MaxRange: 100
+      Chance: 35
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:283, Amount:1, Name:&b&lStupid &4&lSword, DAMAGE_ALL:2, FIRE_ASPECT:1'
+      Messages:
+        - '&7You just won a &b&lStupid &4&lSword&7.'
+    3:
+      DisplayName: '&e&l$1,000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - '&7Make it rain a butt load of Money.'
+        - '&6&lChance: &c&l4%'
+      MaxRange: 100
+      Chance: 4
+      Firework: true
+      Glowing: false
+      Commands:
+        - 'Eco give %Player% 1000'
+      Messages:
+        - '&7You just won &a$1,000&7.'
+    4:
+      DisplayName: '&3&lDiamond Chestplate'
+      DisplayItem: '311'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a normal chestplatexD.'
+        - '&6&lChance: &c&l40%'
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:2'
+        - 'DURABILITY:3'
+      MaxRange: 100
+      Chance: 40
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:311, Amount:1, Name:&3Humblex ChestPlate, PROTECTION_ENVIRONMENTAL:2, DURABILITY:3'
+    5:
+      DisplayName: '&3&lDiamond Helmet'
+      DisplayItem: '310'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a normal helmet.'
+        - '&6&lChance: &c&l40%'
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:2'
+        - 'DURABILITY:3'
+      MaxRange: 100
+      Chance: 40
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:310, Amount:1, Name:&3Humblex Helmet, PROTECTION_ENVIRONMENTAL:2, DURABILITY:3'
+    6:
+      DisplayName: '&3&lDiamond Leggings'
+      DisplayItem: '312'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a normal diamond leggings.'
+        - '&6&lChance: &c&l40%'
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:2'
+        - 'DURABILITY:3'
+      MaxRange: 100
+      Chance: 40
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:312, Amount:1, Name:&3Humblex Leggings, PROTECTION_ENVIRONMENTAL:2, DURABILITY:3'
+    7:
+      DisplayName: '&3&lDiamond Boots'
+      DisplayItem: '313'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a normal diamond boots.'
+        - '&6&lChance: &c&l40%'
+      DisplayEnchantments:
+        - 'PROTECTION_ENVIRONMENTAL:2'
+        - 'DURABILITY:3'
+      MaxRange: 100
+      Chance: 40
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:313, Amount:1, Name:&3Humblex Boots, PROTECTION_ENVIRONMENTAL:2, DURABILITY:3'
+    8:
+      DisplayName: '&b&lCrazy &4&lSword'
+      DisplayItem: '276'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a crazy cool sword.'
+        - '&6&lChance: &c&lImpossible%'
+      DisplayEnchantments:
+        - 'DAMAGE_ALL:5'
+        - 'FIRE_ASPECT:1'
+      MaxRange: 100
+      Chance: 2
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:276, Amount:1, Name:&b&lCrazy &4&lSword, DAMAGE_ALL:5, FIRE_ASPECT:1'
+      Messages:
+        - '&7You just won a &b&lCrazy &4&lSword&7.'
+    9:
+      DisplayName: '&e&l$1000'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - '&7Make it rain Money.'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: false
+      Player: ''
+      Commands:
+        - 'eco give %Player% 1000'
+      Messages:
+        - '&7You just won &a$1000.'
+    10:
+      DisplayName: '&e&l$200'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - '&7Make it rain Money.'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: false
+      Player: ''
+      Commands:
+        - 'eco give %Player% 200'
+      Messages:
+        - '&7You just won &a$200.'
+    11:
+      DisplayName: '&e&l$300'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - '&7Make it rain Money.'
+      MaxRange: 100
+      Chance: 5
+      Firework: true
+      Glowing: false
+      Player: ''
+      Commands:
+        - 'eco give %Player% 300'
+      Messages:
+        - '&7You just won &a$300.'
+    12:
+      DisplayName: '&3&lDiamonds'
+      DisplayItem: '57'
+      DisplayAmount: 9
+      Lore:
+        - '&7Win some diamonds.'
+        - '&6&lChance: &c&l20%'
+      MaxRange: 100
+      Chance: 20
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:57, Amount:9'
+    13:
+      DisplayName: '&3&lEmeralds'
+      DisplayItem: '133'
+      DisplayAmount: 9
+      Lore:
+        - '&7Win some emeralds.'
+        - '&6&lChance: &c&l20%'
+      MaxRange: 100
+      Chance: 20
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:133, Amount:9'
+    14:
+      DisplayName: '&3&lIron'
+      DisplayItem: '42'
+      DisplayAmount: 9
+      Lore:
+        - '&7Win some Iron xD.'
+        - '&6&lChance: &c&l20%'
+      MaxRange: 100
+      Chance: 20
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:42, Amount:9'
+    15:
+      DisplayName: '&3&lDiamond Pickaxe'
+      DisplayItem: '278'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a Pickaxe.'
+        - '&6&lChance: &c&l40%'
+      DisplayEnchantments:
+        - 'DIG_SPEED:2'
+        - 'DURABILITY:3'
+      MaxRange: 100
+      Chance: 40
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:278, Amount:1, Name:&3Diamond Pickaxe, DIG_SPEED:2, DURABILITY:3'
+    16:
+      DisplayName: '&b&lCrazy &4&lPickaxe&7'
+      DisplayItem: '278'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a Crazy Pickaxe.'
+        - '&6&lChance: &c&l5%'
+      DisplayEnchantments:
+        - 'DIG_SPEED:2'
+        - 'LOOT_BONUS_BLOCKS:3'
+      MaxRange: 100
+      Chance: 5
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:278, Amount:1, Name:&3Humblex Pickaxe, DIG_SPEED:2, LOOT_BONUS_BLOCKS:3'
+    17:
+      DisplayName: '&3&lChop Chop'
+      DisplayItem: '17'
+      DisplayAmount: 64
+      Lore:
+        - '&7Win some Wood xD.'
+        - '&6&lChance: &c&l60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:17, Amount:64'
+    18:
+      DisplayName: '&3&lCobblestone'
+      DisplayItem: '4'
+      DisplayAmount: 128
+      Lore:
+        - '&7Win some Cobblestone xD.'
+        - '&6&lChance: &c&l60%'
+      MaxRange: 100
+      Chance: 60
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:4, Amount:128'
+    19:
+      DisplayName: '&6&l$Jackpot'
+      DisplayItem: '175'
+      DisplayAmount: 1
+      Lore:
+        - '&6Jackpot.'
+        - '&6$500000'
+        - '&6&lChance: &c&lImpossible%'
+      MaxRange: 100
+      Chance: 1
+      Firework: true
+      Glowing: false
+      Player: ''
+      Commands:
+        - 'eco give %Player% 500000'
+      Messages:
+        - '&7You just won &a$3500000 &6A JACKPOT.'
+    20:
+      DisplayName: '&b&lHumblex&4&lPickaxe&7'
+      DisplayItem: '278'
+      DisplayAmount: 1
+      Lore:
+        - '&7Win a Humblex Pickaxe,MLG.'
+        - '&6&lChance: &c&lImpossible%'
+      DisplayEnchantments:
+        - 'DIG_SPEED:2'
+        - 'LOOT_BONUS_BLOCKS:3'
+        - "DURABILITY:3"
+      MaxRange: 100
+      Chance: 1
+      Firework: false
+      Glowing: false
+      Items:
+        - 'Item:278, Amount:1, Name:&3Humblex Pickaxe, DIG_SPEED:5, LOOT_BONUS_BLOCKS:3, DURABILITY:3'

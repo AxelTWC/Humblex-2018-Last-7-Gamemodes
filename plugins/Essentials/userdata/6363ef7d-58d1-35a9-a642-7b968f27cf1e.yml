@@ -1,0 +1,23 @@
+lastlocation:
+  world: LionHUB
+  x: 943.9544799115234
+  y: 37.5
+  z: -407.0239955657517
+  yaw: 15.496585
+  pitch: -17.664873
+lastAccountName: WalidMCV2
+timestamps:
+  login: 1514662110845
+  logout: 1514662133355
+  lastteleport: 1514662130185
+  kits:
+    starter: 1514651499479
+ipAddress: 160.176.184.151
+logoutlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: -115.71834
+  pitch: 28.645555
+money: '500.0'

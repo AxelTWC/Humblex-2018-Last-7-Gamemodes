@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: aliasim
+timestamps:
+  login: 1505216672030
+  logout: 1505216963497
+  lastteleport: 1505216695631
+ipAddress: 77.30.224.158
+logoutlocation:
+  world: MainLobby
+  x: -3.699999988079071
+  y: 60.0
+  z: 0.699999988079072
+  yaw: 89.430176
+  pitch: 28.89178
+lastlocation:
+  world: LionHUB
+  x: 94.80685033454081
+  y: 48.0
+  z: -46.743190616034376
+  yaw: 37.63974
+  pitch: -9.257443
+money: '650'

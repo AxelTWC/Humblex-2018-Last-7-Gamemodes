@@ -1,0 +1,23 @@
+lastlocation:
+  world: Factions
+  x: 124.43588408280365
+  y: 70.0625
+  z: -316.5011116165893
+  yaw: -118.67665
+  pitch: 23.650536
+lastAccountName: _brockmills
+timestamps:
+  login: 1512772768262
+  lastteleport: 1512772787961
+  kits:
+    starter: 1512772886305
+  logout: 1512773516492
+ipAddress: 68.58.66.55
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 122.0
+  y: 71.0
+  z: -312.0
+  yaw: 0.0
+  pitch: 0.0

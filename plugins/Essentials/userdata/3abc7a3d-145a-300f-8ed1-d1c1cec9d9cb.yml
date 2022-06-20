@@ -1,0 +1,23 @@
+timestamps:
+  lastteleport: 1498815469702
+  login: 1498814500777
+  logout: 1498815469549
+  mute: 0
+lastlocation:
+  world: MainLobby
+  x: 15.155943154996427
+  y: 57.0
+  z: 0.5318446941118625
+  yaw: 85.099915
+  pitch: 29.549997
+lastAccountName: Wolf0Mc12
+ipAddress: 109.64.133.254
+socialspy: false
+logoutlocation:
+  world: LionHUB
+  x: 30.5
+  y: 67.0
+  z: 15.5
+  yaw: 90.11987
+  pitch: -0.34908158
+muted: false

@@ -1,0 +1,36 @@
+# ###############
+# 
+# Profiles by iAmGio
+# 
+# Commands configuration
+# 
+# Don't use '/'
+# 
+# Use 'null' for no command
+# 
+# You can use <player>
+# 
+# ###############
+personal-1:
+- 'null'
+- 'null'
+personal-2:
+- 'null'
+personal-3:
+- 'null'
+socials-1:
+- 'null'
+socials-2:
+- 'null'
+socials-3:
+- 'null'
+socials-4:
+- 'null'
+socials-5:
+- 'null'
+socials-6:
+- 'null'
+socials-7:
+- 'null'
+socials-8:
+- 'null'

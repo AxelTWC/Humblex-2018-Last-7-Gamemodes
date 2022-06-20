@@ -1,0 +1,10 @@
+name: WalidMCV2
+uuid: 6363ef7d-58d1-35a9-a642-7b968f27cf1e
+logoffworld: MainLobby
+balances:
+  MainLobby: 500.0
+  FFA: 0.0
+  Factions: 0.0
+  ASkyBlock: 0.0
+  SkyBlock: 0.0
+  LionHUB: 0.0

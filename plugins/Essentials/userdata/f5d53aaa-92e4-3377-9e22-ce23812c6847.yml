@@ -1,0 +1,24 @@
+timestamps:
+  lastteleport: 1501083060168
+  login: 1501083140199
+  logout: 1501083291067
+  mute: 0
+lastlocation:
+  world: LionHUB
+  x: 93.08397384987516
+  y: 47.0
+  z: -48.96916804437326
+  yaw: -9.108803
+  pitch: 24.06897
+lastAccountName: TheSlimeJunior
+ipAddress: 42.2.64.88
+logoutlocation:
+  world: FFA
+  x: 2.0
+  y: 4.0
+  z: 1.0
+  yaw: 174.44122
+  pitch: 34.157932
+socialspy: false
+muted: false
+afk: false

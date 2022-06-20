@@ -1,0 +1,22 @@
+lastAccountName: Munchycrunch
+timestamps:
+  login: 1520301805023
+  lastteleport: 1518499027166
+  logout: 1520302326121
+ipAddress: 98.5.126.13
+socialspy: false
+lastlocation:
+  world: map
+  x: -990.5
+  y: 87.0
+  z: 275.5
+  yaw: 0.0
+  pitch: -1.0
+logoutlocation:
+  world: LionHUB
+  x: 746.4303535436197
+  y: 10.0
+  z: 3615.170518208245
+  yaw: 1.3983389
+  pitch: -4.567491
+money: '0.0'

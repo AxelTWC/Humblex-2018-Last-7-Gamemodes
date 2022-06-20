@@ -1,0 +1,21 @@
+lastAccountName: EdFearlessGaming
+timestamps:
+  login: 1505599059565
+  logout: 1505599687149
+  lastteleport: 1505599073226
+ipAddress: 24.141.20.121
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastlocation:
+  world: LionHUB
+  x: 93.5180786553683
+  y: 46.0
+  z: -59.09512571454546
+  yaw: 0.56899047
+  pitch: 1.5704536

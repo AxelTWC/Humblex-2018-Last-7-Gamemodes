@@ -1,0 +1,174 @@
+memebrmenu:
+  name: '&2Humblex Menu'
+  id: 347
+  slot: 5
+  data-value: 0
+  lore:
+    - '&6ArenaPVP - &2Online'
+    - '&6Skyblock - &2Online'
+    - '&6FFA      - &2Online'
+    - '&6SG       - &2Online'
+    - '&6factions - &4Offline'
+    - '&6Skywars  - &2Online'
+  command: 'sm'
+  permission: 'customjoinitems.humblexmenu'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false
+optins:
+  name: '&2Options Menu'
+  id: 76
+  slot: 9
+  data-value: 0
+  lore:
+  command: 'options'
+  permission: 'customjoinitems.options'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false
+buildermenu:
+  name: '&6Builder Humblex Menu'
+  id: 347
+  slot: 5
+  data-value: 0
+  lore:
+    - '&6ArenaPVP - &2Online'
+    - '&6Skyblock - &2Online'
+    - '&6FFA      - &2Online'
+    - '&6SG       - &2Online'
+    - '&6factions - &4Offline'
+    - '&6Skywars  - &2Online'
+  command: 'bsm'
+  permission: 'customjoinitems.builderhumblexmenu'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false
+modmenu:
+  name: '&5Mod Humblex Menu'
+  id: 347
+  slot: 5
+  data-value: 0
+  lore:
+    - '&6ArenaPVP - &2Online'
+    - '&6Skyblock - &2Online'
+    - '&6FFA      - &2Online'
+    - '&6SG       - &2Online'
+    - '&6factions - &4Offline'
+    - '&6Skywars  - &2Online'
+  command: 'msm'
+  permission: 'customjoinitems.modhumblexmenu'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false
+adminmenu:
+  name: '&5Admin Humblex Menu'
+  id: 347
+  slot: 5
+  data-value: 0
+  lore:
+    - '&6ArenaPVP - &2Online'
+    - '&6Skyblock - &2Online'
+    - '&6FFA      - &2Online'
+    - '&6SG       - &2Online'
+    - '&6factions - &4Offline'
+    - '&6Skywars  - &2Online'
+  command: 'asm'
+  permission: 'customjoinitems.adminhumblexmenu'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false
+devmenu:
+  name: '&1Dev Humblex Menu'
+  id: 347
+  slot: 5
+  data-value: 0
+  lore:
+    - '&6ArenaPVP - &2Online'
+    - '&6Skyblock - &2Online'
+    - '&6FFA      - &2Online'
+    - '&6SG       - &2Online'
+    - '&6factions - &4Offline'
+    - '&6Skywars  - &2Online'
+  command: 'dsm'
+  permission: 'customjoinitems.devhumblexmenu'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false
+ownermenu:
+  name: '&cOwner Humblex Menu'
+  id: 347
+  slot: 5
+  data-value: 0
+  lore:
+    - '&6ArenaPVP - &2Online'
+    - '&6Skyblock - &2Online'
+    - '&6FFA      - &2Online'
+    - '&6SG       - &2Online'
+    - '&6factions - &4Offline'
+    - '&6Skywars  - &2Online'
+  command: 'osm'
+  permission: 'customjoinitems.ownerhumblexmenu'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false
+stats:
+  name: '&6Stats'
+  id: 403
+  slot: 1
+  data-value: 0
+  lore:
+    - 'See Your Kills And Deaths'
+  command: 'stats'
+  permission: 'customjoinitems.stats'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false
+profile:
+  name: '&6Profile'
+  id: 340
+  slot: 7
+  data-value: 0
+  lore:
+    - 'Change Your Info'
+    - 'Use /profile {name} to see other peoples profile'
+  command: 'profile'
+  permission: 'customjoinitems.stats'
+  cooldown-seconds: 5
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: world_nether, world_the_end, askyblock
+  give-on-world-change: false

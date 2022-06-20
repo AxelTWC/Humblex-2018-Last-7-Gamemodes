@@ -1,0 +1,21 @@
+lastAccountName: RafiGantengID
+timestamps:
+  login: 1504676745247
+  lastteleport: 1504676788480
+  logout: 1504676809152
+ipAddress: 36.81.209.107
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.47442335832139
+  y: 47.0
+  z: -47.918971509260196
+  yaw: 355.2306
+  pitch: 1.1519953
+logoutlocation:
+  world: MainLobby
+  x: 8.099820382881486
+  y: 59.0
+  z: -1.7466515276781998
+  yaw: -111.233505
+  pitch: 52.438965

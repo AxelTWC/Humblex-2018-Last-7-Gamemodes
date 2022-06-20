@@ -1,0 +1,94 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: MentalEm
+timestamps:
+  login: 1517689265369
+  lastteleport: 1517689708810
+  logout: 1517689928342
+  kits:
+    starter: 1512251538294
+    keys: 1511928532057
+    rouge: 1511987774533
+    god: 1512251060957
+    bard: 1512350885256
+ipAddress: 67.175.56.95
+socialspy: false
+logoutlocation:
+  world: MainLobby
+  x: 17.460276535776604
+  y: 57.0
+  z: 2.97840621530483
+  yaw: 55.582256
+  pitch: 34.649998
+money: '0.0'
+afk: false
+homes:
+  home:
+    world: LionHUB
+    x: 1570.630515438043
+    y: 46.0
+    z: 27.88274778934856
+    yaw: 112.54718
+    pitch: 6.7500076
+  winter:
+    world: LionHUB
+    x: 1570.8770624024196
+    y: 46.0
+    z: 27.271963931033266
+    yaw: 112.54718
+    pitch: 6.7500076
+  halloween:
+    world: LionHUB
+    x: 1378.552682006869
+    y: 38.0
+    z: -403.63360682605486
+    yaw: 270.04718
+    pitch: 59.75754
+  castle:
+    world: LionHUB
+    x: 2233.1495469690362
+    y: 4.0
+    z: 426.7796927939454
+    yaw: 181.84656
+    pitch: 19.199764
+  hub1:
+    world: LionHUB
+    x: 2240.1966658954357
+    y: 4.0
+    z: 191.61178321075386
+    yaw: 151.24695
+    pitch: 28.199745
+  hub:
+    world: LionHUB
+    x: 2238.5874258008025
+    y: 185.5
+    z: 189.5518805446487
+    yaw: 340.84595
+    pitch: 55.800068
+  survival:
+    world: LionHUB
+    x: 2235.2832711045553
+    y: 5.738913720371335
+    z: -90.22494550258473
+    yaw: 174.7959
+    pitch: 20.699991
+  mainhub:
+    world: LionHUB
+    x: 943.1668000810615
+    y: 38.0
+    z: -414.8468014054047
+    yaw: -4.6033483
+    pitch: 53.907528
+  skyhub:
+    world: LionHUB
+    x: 2239.265115002368
+    y: 173.0
+    z: 190.54669488464896
+    yaw: 245.7469
+    pitch: 63.45001
+godmode: false

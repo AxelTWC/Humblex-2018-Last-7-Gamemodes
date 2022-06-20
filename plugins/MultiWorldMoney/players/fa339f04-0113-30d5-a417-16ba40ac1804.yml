@@ -1,0 +1,6 @@
+name: popgamere
+uuid: fa339f04-0113-30d5-a417-16ba40ac1804
+logoffworld: MainLobby
+balances:
+  MainLobby: 0.0
+  LionHUB: 500.0

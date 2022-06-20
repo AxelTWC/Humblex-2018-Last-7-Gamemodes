@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 33.098437152103116
+  y: 57.0
+  z: 7.882025899334209
+  yaw: -80.90131
+  pitch: 8.449135
+lastAccountName: Panzermire
+timestamps:
+  login: 1512277286767
+  lastteleport: 1512277337634
+  logout: 1512277368834
+ipAddress: 96.39.254.41
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 119.74891915899502
+  y: 70.0625
+  z: -315.805568215039
+  yaw: -209.1679
+  pitch: 15.935619

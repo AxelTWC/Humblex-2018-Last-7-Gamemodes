@@ -1,0 +1,21 @@
+lastAccountName: EasyScore
+timestamps:
+  login: 1503707428467
+  lastteleport: 1503707435163
+  logout: 1503708875467
+ipAddress: 95.149.219.198
+socialspy: false
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.4691817266242615
+  yaw: -89.913536
+  pitch: 2.2263546
+logoutlocation:
+  world: MainLobby
+  x: 26.305696093128063
+  y: 59.0
+  z: -2.9358544889823452
+  yaw: 5.562626
+  pitch: 7.3930883

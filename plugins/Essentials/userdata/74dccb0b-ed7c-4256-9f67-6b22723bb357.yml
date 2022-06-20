@@ -1,0 +1,22 @@
+lastAccountName: ghurdhyll
+timestamps:
+  login: 1505579505137
+  lastteleport: 1505579515763
+  logout: 1505581437198
+ipAddress: 62.201.226.20
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.72363855538727
+  y: 47.0
+  z: -47.788948631291866
+  yaw: 231.3869
+  pitch: 16.712162
+logoutlocation:
+  world: UhcMeetup
+  x: 154.03053210594808
+  y: 67.0
+  z: 109.38585892544812
+  yaw: 118.54529
+  pitch: 20.699986
+money: '501.0'

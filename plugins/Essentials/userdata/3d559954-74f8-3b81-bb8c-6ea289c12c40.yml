@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: -0.5335005639400162
+  y: 60.0
+  z: 0.46918172662426155
+  yaw: -89.0
+  pitch: 2.0
+lastAccountName: Swiftely
+timestamps:
+  login: 1517147114049
+  lastteleport: 1517147257902
+  logout: 1517148081677
+ipAddress: 79.183.47.99
+money: '0.0'
+logoutlocation:
+  world: MainLobby
+  x: 2.629442628283381
+  y: 60.0
+  z: 0.4285810652030668
+  yaw: -91.616516
+  pitch: 15.830187

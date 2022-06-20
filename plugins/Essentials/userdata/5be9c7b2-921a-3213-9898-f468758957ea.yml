@@ -1,0 +1,39 @@
+lastlocation:
+  world: MainLobby
+  x: 39.77977913296741
+  y: 66.7237284476815
+  z: 26.00082775925965
+  yaw: -27.360544
+  pitch: 14.970211
+lastAccountName: Dancetaface1991
+timestamps:
+  login: 1516446113622
+  logout: 1516446298407
+  lastteleport: 1516446242207
+  kits:
+    starter: 1513331723459
+    keys: 1512200497640
+    rouge: 1512007765875
+    god: 1513999644038
+    bard: 1511929479641
+ipAddress: 112.198.72.105
+logoutlocation:
+  world: LionHUB
+  x: 943.0195191088159
+  y: 38.0
+  z: -414.25812266697704
+  yaw: -0.47781372
+  pitch: -3.5336792
+money: '0.0'
+afk: false
+godmode: true
+nickname: §bDancetaface1991
+homes:
+  home:
+    world: Factions
+    x: -54.5
+    y: 25.0
+    z: -1740.5
+    yaw: -293.4454
+    pitch: 26.974663
+socialspy: true

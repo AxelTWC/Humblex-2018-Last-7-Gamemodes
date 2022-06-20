@@ -1,0 +1,30 @@
+lastAccountName: MTNLSS
+timestamps:
+  login: 1519581371771
+  lastteleport: 1507302129593
+  logout: 1519581403628
+ipAddress: 174.218.139.109
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 947.3299662428014
+  y: 37.0
+  z: -401.26554129799865
+  yaw: -67.94847
+  pitch: 3.9763136
+logoutlocation:
+  world: LionHUB
+  x: 746.4592455243042
+  y: 10.0
+  z: 3608.7898504515924
+  yaw: -180.0
+  pitch: 0.0
+homes:
+  gamerlobby:
+    world: LionHUB
+    x: 943.4517212319265
+    y: 38.0
+    z: -415.2047368096527
+    yaw: 32.808838
+    pitch: 52.800163
+nickname: §bCustomBluee

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Goyani453
+timestamps:
+  login: 1503794011665
+  lastteleport: 1503794133222
+  logout: 1503794773201
+ipAddress: 104.12.54.52
+lastlocation:
+  world: MainLobby
+  x: 2.621929806655603
+  y: 60.0
+  z: 0.1376904921387044
+  yaw: -109.26355
+  pitch: 14.976353
+logoutlocation:
+  world: MainLobby
+  x: -0.27682651380508333
+  y: 60.0
+  z: 3.504514649088248
+  yaw: -89.0
+  pitch: 1.85

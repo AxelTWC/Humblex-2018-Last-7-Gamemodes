@@ -1,0 +1,21 @@
+lastAccountName: GivenL
+timestamps:
+  login: 1510794816833
+  lastteleport: 1510795062882
+  logout: 1510795294604
+ipAddress: 67.2.189.83
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 943.358111938412
+  y: 38.0
+  z: -363.10873162319916
+  yaw: -305.36548
+  pitch: -15.945254
+logoutlocation:
+  world: MainLobby
+  x: 3.028419941745897
+  y: 60.0
+  z: 0.9530355626968243
+  yaw: -65.16443
+  pitch: 13.837188

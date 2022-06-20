@@ -1,0 +1,21 @@
+lastAccountName: RetoEM
+timestamps:
+  login: 1503810763496
+  lastteleport: 1503810778247
+  logout: 1503810780598
+ipAddress: 184.250.213.191
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 87.85663993630014
+  y: 46.0
+  z: -64.82804604326381
+  yaw: 161.7824
+  pitch: 25.21526
+logoutlocation:
+  world: MainLobby
+  x: -0.5
+  y: 60.0
+  z: 0.5
+  yaw: -108.63088
+  pitch: -2.74544

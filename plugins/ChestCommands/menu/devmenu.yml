@@ -1,0 +1,537 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1Dev Menu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'dm; devmenu'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'tell:&0[&6Humblex&0] &6You Have Opened The Dev Menu'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: wool:1
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+staffmode:
+  COMMAND: 'staff'
+  NAME: '&7✪&6Staff Mode&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - 'Toggle Staff Mode'
+    - '&2----------------------------------'
+  ID: 276
+  POSITION-X: 3
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+vanish:
+  COMMAND: 'ev'
+  NAME: '&7✪&6Vanish&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - 'Toggle Vanish'
+    - '&2----------------------------------'
+  ID: potion:16398
+  POSITION-X: 3
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+stafftickets:
+  COMMAND: 'ticket list'
+  NAME: '&7✪&6Tickets&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6See if players need assistance'
+    - '&2----------------------------------'
+  ID: 386
+  POSITION-X: 7
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+server menu:
+  COMMAND: 'dsm'
+  NAME: '&7✪&1Dev Server Menu&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - 'Go Back To The Server Menu'
+    - '&2----------------------------------'
+  ID: watch
+  POSITION-X: 5
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+Creative Mode:
+  COMMAND: 'gmc'
+  NAME: '&7✪&6Creative Mode&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Change Your GameMode to Creative'
+    - '&2----------------------------------'
+  ID: 327
+  POSITION-X: 2
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+Survival Mode:
+  COMMAND: 'gms'
+  NAME: '&7✪&6Survival Mode&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Change Your GameMode to Survival'
+    - '&2----------------------------------'
+  ID: 274
+  POSITION-X: 2
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+adventure Mode:
+  COMMAND: 'gma'
+  NAME: '&7✪&6Adventure Mode&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Change Your GameMode to Adventure'
+    - '&2----------------------------------'
+  ID: 270
+  POSITION-X: 2
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+Spectator Mode:
+  COMMAND: 'gmsp'
+  NAME: '&7✪&6Spectator Mode&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Change Your GameMode to Spectator'
+    - '&2----------------------------------'
+  ID: compass
+  POSITION-X: 2
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+aaccontrolmenu:
+  COMMAND: 'aacadmin'
+  NAME: '&7✪&6AAC Control Menu&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Change Settings On AAC'
+    - '&2----------------------------------'
+  ID: 166
+  POSITION-X: 7
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+time day:
+  COMMAND: 'console: time set day'
+  NAME: '&7✪&6Set Day&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Change the time to day'
+    - '&2----------------------------------'
+  ID: 89
+  POSITION-X: 8
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+night day:
+  COMMAND: 'console: time set night'
+  NAME: '&7✪&6Set Night&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Change the time to night'
+    - '&2----------------------------------'
+  ID: 88
+  POSITION-X: 8
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+toggle downfall:
+  COMMAND: 'console: toggledownfall'
+  NAME: '&7✪&6Toggle Downfall&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Turn the rain on or off'
+    - '&2----------------------------------'
+  ID: 326
+  POSITION-X: 8
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+fly:
+  COMMAND: 'fly'
+  NAME: '&7✪&6Toggle Fly&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Enables And Disables Fly'
+    - '&2----------------------------------'
+  ID: feather
+  POSITION-X: 3
+  POSITION-Y: 2  
+  KEEP-OPEN: true
+  
+god:
+  COMMAND: 'god'
+  NAME: '&7✪&6Toggle God&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Enables And Disables God Mode'
+    - '&2----------------------------------'
+  ID: 268
+  POSITION-X: 3
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+worldedit:
+  COMMAND: 'wem'
+  NAME: '&7✪&6World Edit&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6To The World Edit Menu'
+    - '&2----------------------------------'
+  ID: 271
+  POSITION-X: 8
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+sentinelcontrol:
+  COMMAND: 'sentinalcontrolmenu'
+  NAME: '&7✪&6NCP Control Menu&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Change Settings On NCP'
+    - '&2----------------------------------'
+  ID: 166
+  POSITION-X: 7
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+banlist:
+  COMMAND: 'op:banlist'
+  NAME: '&7✪&6Ban List&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Check The Ban List'
+    - '&2----------------------------------'
+  ID: 166
+  POSITION-X: 7
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+tps:
+  COMMAND: 'op:tps'
+  NAME: '&7✪&6TPS&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Check The TPS Of The Server'
+    - '&2----------------------------------'
+  ID: 137
+  POSITION-X: 7
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+serverinfo:
+  COMMAND: 'op:gc'
+  NAME: '&7✪&6Server Info&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Look At Some Useful Info On The Server'
+    - '&2----------------------------------'
+  ID: 137
+  POSITION-X: 8
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+op:
+  COMMAND: 'console:op {player}'
+  NAME: '&7✪&6OP&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6OP Your Self'
+    - '&2----------------------------------'
+  ID: 137
+  POSITION-X: 2
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+save:
+  COMMAND: 'console:save-all'
+  NAME: '&7✪&6Save&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Save The Server'
+    - '&2----------------------------------'
+  ID: 2260
+  POSITION-X: 9
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+close:
+  COMMAND: ''
+  NAME: '&7✪&6Close&7✪'
+  LORE:
+    - '&2----------------------------------'
+    - '&6Close This Menu'
+    - '&2----------------------------------'
+  ID: 152
+  POSITION-X: 5
+  POSITION-Y: 5
+  
+blank 1:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 1
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 2:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 4
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 3:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 5
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 4:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 6
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 5:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 9
+  POSITION-Y: 1
+  KEEP-OPEN: true
+  
+blank 6:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 1
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 7:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 4
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 8:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 5
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+  
+blank 9:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 6
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 10:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 9
+  POSITION-Y: 2
+  KEEP-OPEN: true
+  
+blank 11:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 1
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 12:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 4
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 13:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 6
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 14:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 9
+  POSITION-Y: 3
+  KEEP-OPEN: true
+  
+blank 15:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 1
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 16:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 4
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 17:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 5
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+  
+blank 18:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 6
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 19:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 9
+  POSITION-Y: 4
+  KEEP-OPEN: true
+  
+blank 20:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 1
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 22:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 3
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 23:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 4
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  
+blank 24:
+  COMMAND: ''
+  NAME: ''
+  LORE:
+    - ''
+  ID: stainedglasspane:11
+  POSITION-X: 6
+  POSITION-Y: 5
+  KEEP-OPEN: true
+  

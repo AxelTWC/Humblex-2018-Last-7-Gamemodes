@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: spikedude54
+timestamps:
+  login: 1504547621587
+  lastteleport: 1504547645482
+  logout: 1504547665673
+ipAddress: 109.145.181.116
+lastlocation:
+  world: LionHUB
+  x: 93.50848809898889
+  y: 45.0
+  z: -62.54658081977909
+  yaw: 4.588663
+  pitch: -2.761062
+logoutlocation:
+  world: SkyBlock
+  x: 0.5
+  y: 65.0
+  z: 0.5
+  yaw: 7.4493294
+  pitch: 6.2008677

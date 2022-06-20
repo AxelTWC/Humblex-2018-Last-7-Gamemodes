@@ -1,0 +1,21 @@
+lastAccountName: DuckTrip
+timestamps:
+  login: 1505916900282
+  lastteleport: 1505916909216
+  logout: 1505917146633
+ipAddress: 155.4.117.217
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.08697495759317
+  y: 47.0
+  z: -48.290697124564915
+  yaw: -4.6448445
+  pitch: -21.776773
+logoutlocation:
+  world: MainLobby
+  x: 11.796155628959811
+  y: 59.4807108763317
+  z: -0.29749886423815075
+  yaw: -86.82233
+  pitch: 23.864344

@@ -1,0 +1,14 @@
+name: Bro_Brother
+uuid: 459b1323-7e92-30b5-be68-935f4a1e9132
+logoffworld: Factions
+balances:
+  MainLobby: 0.0
+  FFA: 0.0
+  Factions: 0.0
+  lobby_practice: 0.0
+  SkywarsMap2: 0.0
+  SkywarsMap3: 0.0
+  SkywarsMap1: 0.0
+  LionHUB: 500.0
+  FFAnormal: 0.0
+  skywars: 0.0

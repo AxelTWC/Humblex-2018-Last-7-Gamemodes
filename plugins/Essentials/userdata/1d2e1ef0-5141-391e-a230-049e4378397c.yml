@@ -1,0 +1,31 @@
+lastlocation:
+  world: Factions
+  x: 284.69999998807907
+  y: 33.0
+  z: 489.30000001192093
+  yaw: 73.44232
+  pitch: -40.63022
+lastAccountName: ninoxnxx
+timestamps:
+  login: 1516634257824
+  lastteleport: 1516635705655
+  kits:
+    starter: 1516632557745
+  logout: 1516636000602
+ipAddress: 87.116.177.229
+money: '0.0'
+logoutlocation:
+  world: Factions
+  x: 122.0
+  y: 71.0
+  z: -312.0
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: Factions
+    x: 286.7682658187643
+    y: 37.0
+    z: 485.90342557968415
+    yaw: -102.74114
+    pitch: 10.434569

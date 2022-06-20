@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: RiceAkuma
+timestamps:
+  login: 1504383184811
+  lastteleport: 1504383223145
+  logout: 1504383328612
+ipAddress: 158.181.73.218
+lastlocation:
+  world: LionHUB
+  x: 94.39371711142122
+  y: 47.0
+  z: -50.608814929909805
+  yaw: -17.011333
+  pitch: 44.788937
+logoutlocation:
+  world: MainLobby
+  x: 3.5241474407829863
+  y: 60.0
+  z: -0.5625025808426983
+  yaw: -202.11319
+  pitch: 23.07637

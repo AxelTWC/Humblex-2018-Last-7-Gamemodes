@@ -1,0 +1,21 @@
+lastAccountName: Bam_the_Jam
+timestamps:
+  login: 1504200254500
+  lastteleport: 1504200289271
+  logout: 1504200400118
+ipAddress: 45.24.51.219
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.72855372868071
+  y: 47.0
+  z: -50.204938494642754
+  yaw: 1.097168
+  pitch: -1.5417013
+logoutlocation:
+  world: MainLobby
+  x: 19.896799794421653
+  y: 57.5
+  z: -2.9592085545005906
+  yaw: 191.8279
+  pitch: 90.0

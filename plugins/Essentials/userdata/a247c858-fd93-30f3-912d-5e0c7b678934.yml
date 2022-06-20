@@ -1,0 +1,21 @@
+lastlocation:
+  world: MainLobby
+  x: 7.262848762532753
+  y: 59.0
+  z: -0.4015516110619866
+  yaw: -93.600105
+  pitch: 12.147286
+lastAccountName: AvangeR1TN
+timestamps:
+  login: 1514916056759
+  logout: 1514916285536
+  lastteleport: 1514916106055
+ipAddress: 197.0.98.17
+logoutlocation:
+  world: MainLobby
+  x: 8.865813979115945
+  y: 60.0
+  z: 0.4163867074079888
+  yaw: -88.15779
+  pitch: 11.167048
+money: '0.0'

@@ -1,0 +1,21 @@
+lastAccountName: Hegegye
+timestamps:
+  login: 1503039724249
+  lastteleport: 1503039778630
+  logout: 1503039800587
+ipAddress: 121.52.159.130
+socialspy: false
+lastlocation:
+  world: LionHUB
+  x: 93.33535600324868
+  y: 47.0
+  z: -48.29216290685261
+  yaw: -6.0457973
+  pitch: -10.147197
+logoutlocation:
+  world: MainLobby
+  x: 23.18727305700687
+  y: 58.0
+  z: 0.5869407290443236
+  yaw: 83.96167
+  pitch: -16.205645

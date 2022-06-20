@@ -1,0 +1,23 @@
+timestamps:
+  lastteleport: 1499761504599
+  login: 1499761252634
+  mute: 0
+  logout: 1499761503646
+lastlocation:
+  world: MainLobby
+  x: 12.76660967335739
+  y: 58.0
+  z: 1.106075899918644
+  yaw: 163.36908
+  pitch: 9.954343
+lastAccountName: Boars
+ipAddress: 113.181.176.26
+socialspy: false
+muted: false
+logoutlocation:
+  world: LionHUB
+  x: 93.5
+  y: 45.0
+  z: -62.5
+  yaw: -359.88382
+  pitch: -20.032845

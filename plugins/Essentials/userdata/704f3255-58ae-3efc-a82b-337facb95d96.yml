@@ -1,0 +1,33 @@
+timestamps:
+  lastteleport: 1513883214084
+  login: 1513883146686
+  logout: 1513883505295
+  kits:
+    starter: 1512218239703
+    keys: 1512218244054
+lastlocation:
+  world: Factions
+  x: 126.07387558512292
+  y: 70.0625
+  z: -307.97186019746346
+  yaw: -218.90555
+  pitch: 11.208143
+socialspy: false
+lastAccountName: PyroGuy15
+ipAddress: 213.127.37.19
+logoutlocation:
+  world: Factions
+  x: 886.844098609053
+  y: 69.0
+  z: 1301.8787707001911
+  yaw: 48.256237
+  pitch: 16.94736
+money: '4256.0'
+homes:
+  home:
+    world: Factions
+    x: 537.426721671733
+    y: 64.0
+    z: 1089.5205145797938
+    yaw: -16.531403
+    pitch: 28.705881

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: datunabatkuna
+timestamps:
+  login: 1504787594992
+  logout: 1504787599901
+  lastteleport: 1504680521092
+ipAddress: 149.3.71.69
+logoutlocation:
+  world: LionHUB
+  x: 93.51999108110613
+  y: 45.0
+  z: -62.30000001192093
+  yaw: 6.086787
+  pitch: 20.012163
+lastlocation:
+  world: LionHUB
+  x: 92.22859706216772
+  y: 47.5
+  z: -48.25705160138368
+  yaw: -5.1632247
+  pitch: 23.012165

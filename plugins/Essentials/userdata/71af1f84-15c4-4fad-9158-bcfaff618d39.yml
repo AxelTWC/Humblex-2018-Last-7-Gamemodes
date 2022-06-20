@@ -1,0 +1,32 @@
+socialspy: false
+lastAccountName: IPundaz
+timestamps:
+  login: 1517719372218
+  logout: 1517723029489
+  lastteleport: 1517719381485
+  mute: 0
+  kits:
+    starter: 1517653715951
+    keys: 1511834291980
+    rouge: 1511835508736
+    god: 1517707867282
+    bard: 1517713103772
+ipAddress: 42.61.224.175
+logoutlocation:
+  world: LionHUB
+  x: 751.5
+  y: 10.0
+  z: 3605.5
+  yaw: 54.082794
+  pitch: 12.1350155
+lastlocation:
+  world: LionHUB
+  x: 746.5
+  y: 10.0
+  z: 3608.5
+  yaw: -0.10546875
+  pitch: -4.859901
+godmode: false
+muted: false
+afk: false
+money: '0.0'
